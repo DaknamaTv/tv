@@ -979,16 +979,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Brusque",
-        "id": "TVBrusque.br",
-        "logo": "https://i.imgur.com/J2EAZPS.png",
-        "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Padre Cicero",
         "id": "TVPadreCicero.br",
         "logo": "https://i.imgur.com/Y7b29VG.png",
@@ -1072,6 +1062,16 @@
         "url": "http://200.189.113.201/hls/tve.m3u8",
         "categories": [
             "travel"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "SBT Interior",
+        "id": "SBTInterior.br",
+        "logo": "https://i.imgur.com/IkZfa4j.png",
+        "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "BR"
     }
