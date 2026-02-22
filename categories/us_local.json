@@ -140,16 +140,6 @@
         "country": ""
     },
     {
-        "name": "St. Pete TV (SPTV) (St Petersburg FL) (360p)",
-        "id": "stpetetvsptvstpetersburgfl360p",
-        "logo": "",
-        "url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
         "name": "Ontario Public Access Channel (360p)",
         "id": "ontariopublicaccesschannel360p",
         "logo": "",
@@ -2004,6 +1994,16 @@
         "id": "tempechannel11",
         "logo": "",
         "url": "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8",
+        "categories": [
+            "us_local"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Geb Tv (KBPX LD5) (1080p)",
+        "id": "gebtvkbpxld51080p",
+        "logo": "",
+        "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8",
         "categories": [
             "us_local"
         ],

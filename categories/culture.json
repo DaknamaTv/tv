@@ -32,6 +32,17 @@
         "country": "BR"
     },
     {
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "categories": [
+            "culture",
+            "education"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "zenith",
         "id": "zenith.fr",
         "logo": "https://znth.tv/static/site_app/thy%20logo.svg",
@@ -173,6 +184,19 @@
             "culture"
         ],
         "country": "DO"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
     },
     {
         "name": "Garshom TV",
@@ -701,26 +725,6 @@
             "education"
         ],
         "country": "BO"
-    },
-    {
-        "name": "2STV",
-        "id": "2STV.sn",
-        "logo": "https://i.imgur.com/WByVBZf.png",
-        "url": "http://69.64.57.208/2stv/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "SN"
-    },
-    {
-        "name": "JOS TV HD",
-        "id": "JOSTVHD.cg",
-        "logo": "https://i.imgur.com/Ai9kpuu.jpeg",
-        "url": "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CG"
     },
     {
         "name": "GTV",

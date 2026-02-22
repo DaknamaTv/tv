@@ -658,6 +658,19 @@
         "country": "VN"
     },
     {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "TV Vitoria",
         "id": "TVVitoria.mz",
         "logo": "https://i.imgur.com/HlWzzfj.png",
@@ -666,16 +679,6 @@
             "entertainment"
         ],
         "country": "MZ"
-    },
-    {
-        "name": "Belarus-2",
-        "id": "Belarus2.by",
-        "logo": "https://i.imgur.com/BpEHpPS.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BY"
     },
     {
         "name": "OTV",
@@ -1711,16 +1714,6 @@
         "id": "KeralaVision.in",
         "logo": "https://i.imgur.com/SWNjyyp.png",
         "url": "https://mumt03.tangotv.in/KERALAVISION/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Subin TV",
-        "id": "SubinTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png",
-        "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3137,6 +3130,16 @@
             "entertainment"
         ],
         "country": "CW"
+    },
+    {
+        "name": "DNTV",
+        "id": "DNTV.ci",
+        "logo": "https://i.imgur.com/Pw1ifln.png",
+        "url": "https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CI"
     },
     {
         "name": "ITV Deportes",

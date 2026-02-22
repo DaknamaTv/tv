@@ -762,6 +762,30 @@
         "country": "VN"
     },
     {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "Kohavision",
         "id": "Kohavision.xk",
         "logo": "https://i.imgur.com/LOi9yma.png",
@@ -3904,6 +3928,16 @@
         "country": "PE"
     },
     {
+        "name": "RCR",
+        "id": "RCR.pe",
+        "logo": "https://i.imgur.com/A8TRPrF.png",
+        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
         "name": "LRT Radijas",
         "id": "LRTRadijas.lt",
         "logo": "https://i.imgur.com/gYoaqju.png",
@@ -4245,6 +4279,16 @@
             "news"
         ],
         "country": "JP"
+    },
+    {
+        "name": "Monaco Info",
+        "id": "MonacoInfo.mc",
+        "logo": "https://i.imgur.com/FPyPaL1.png",
+        "url": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "MC"
     },
     {
         "name": "Realitatea TV",
