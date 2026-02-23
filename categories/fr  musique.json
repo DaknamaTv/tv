@@ -1,9 +1,19 @@
 [
     {
-        "name": "FR: Melody Tv",
-        "id": "frmelodytv",
-        "logo": "http://135.125.239.110/icon/555232.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/864008.ts",
+        "name": "FR: MEZZO LIVE",
+        "id": "frmezzolive",
+        "logo": "http://135.125.239.110/icon/159507.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/merolbekir/a.26082023s/864013.ts",
+        "categories": [
+            "fr ➤ musique"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: NRJ HITS",
+        "id": "frnrjhits",
+        "logo": "http://135.125.239.110/icon/817404.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/merolbekir/a.26082023s/864017.ts",
         "categories": [
             "fr ➤ musique"
         ],

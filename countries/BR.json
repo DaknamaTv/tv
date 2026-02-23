@@ -365,16 +365,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Grao Para",
-        "id": "TVGraoPara.br",
-        "logo": "https://i.imgur.com/1drg0E9.png",
-        "url": "https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Marajoara",
         "id": "TVMarajoara.br",
         "logo": "https://i.imgur.com/9d9vBN7.png",
@@ -531,30 +521,10 @@
         "country": "BR"
     },
     {
-        "name": "BDC TV",
-        "id": "BDCTV.br",
-        "logo": "https://i.imgur.com/6ckHV6k.jpeg",
-        "url": "https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Cultura Para",
         "id": "CulturaPara.br",
         "logo": "https://i.imgur.com/5jPEI5c.png",
         "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Sandegi",
-        "id": "TVSandegi.br",
-        "logo": "https://i.imgur.com/vJ6ZQSG.png",
-        "url": "https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -630,16 +600,6 @@
         "country": "BR"
     },
     {
-        "name": "VV8 TV",
-        "id": "VV8TV.br",
-        "logo": "https://i.imgur.com/TxHWAeD.png",
-        "url": "https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Arapuan",
         "id": "TVArapuan.br",
         "logo": "https://i.imgur.com/3395A2h.png",
@@ -676,16 +636,6 @@
         "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TCM 10 HD",
-        "id": "TCM10HD.br",
-        "logo": "https://i.imgur.com/aMuMVvB.png",
-        "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "BR"
     },
@@ -794,16 +744,6 @@
         "url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
         "categories": [
             "legislative"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TVC-Rio",
-        "id": "TVCRio.br",
-        "logo": "https://i.imgur.com/WDiikWv.png",
-        "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "BR"
     },
@@ -969,14 +909,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Cidade de Petropolis",
-        "id": "TVCidadedePetropolis.br",
-        "logo": "https://i.imgur.com/xUs8gHV.png",
-        "url": "https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "Plena TV",
         "id": "PlenaTV.br",
         "logo": "https://i.imgur.com/lH4RT7b.png",
@@ -1065,16 +997,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Sim Cachoeiro",
-        "id": "TVSimCachoeiro.br",
-        "logo": "https://i.imgur.com/t5oUK3C.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "KpopTV Play",
         "id": "KpopTVPlay.br",
         "logo": "https://i.imgur.com/Tf0vweF.png",
@@ -1090,6 +1012,37 @@
         "logo": "https://i.imgur.com/qM6nMWm.png",
         "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
         "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "Adesso TV",
+        "id": "AdessoTV.br",
+        "logo": "https://i.imgur.com/KgetM8j.png",
+        "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "categories": [
+            "culture",
+            "education"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Sim Sao Mateus",
+        "id": "TVSimSaoMateus.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
         "country": "BR"
     }
 ]

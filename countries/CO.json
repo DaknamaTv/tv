@@ -513,16 +513,6 @@
         "country": "CO"
     },
     {
-        "name": "MasMusica FM",
-        "id": "MasMusicaFM.co",
-        "logo": "https://i.imgur.com/tCg7owd.png",
-        "url": "https://video.ejeserver.com/live/masmusica.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Luna Estereo 106.4 FM",
         "id": "LunaEstereo1064FM.co",
         "logo": "https://i.imgur.com/cESeD6R.png",
@@ -547,6 +537,16 @@
         "id": "CanalMundoVision.co",
         "logo": "https://i.imgur.com/zRqfJuj.png",
         "url": "https://video.ejeserver.com/live/mundovisiontv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Telepacifico",
+        "id": "Telepacifico.co",
+        "logo": "https://i.imgur.com/39hy97J.png",
+        "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8",
         "categories": [
             "general"
         ],

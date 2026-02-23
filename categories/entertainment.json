@@ -71,16 +71,6 @@
         "country": "BR"
     },
     {
-        "name": "BDC TV",
-        "id": "BDCTV.br",
-        "logo": "https://i.imgur.com/6ckHV6k.jpeg",
-        "url": "https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "ElyTV",
         "id": "ElyTV.br",
         "logo": "https://i.imgur.com/1eHNe91.png",
@@ -166,6 +156,16 @@
         "country": "CM"
     },
     {
+        "name": "TR24 Television",
+        "id": "TR24Television.cm",
+        "logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
+        "url": "https://stream.it-innov.com/tr24/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CM"
+    },
+    {
         "name": "MBC Persia",
         "id": "MBCPersia.ae",
         "logo": "https://i.imgur.com/4FXiyjn.png",
@@ -230,16 +230,6 @@
         "id": "ApnaPunjabTV.ca",
         "logo": "https://i.imgur.com/IM4D8Wz.png",
         "url": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "Prime Canada TV",
-        "id": "PrimeCanadaTV.ca",
-        "logo": "https://i.imgur.com/Vji81jB.png",
-        "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -412,16 +402,6 @@
         "country": "DO"
     },
     {
-        "name": "TVS",
-        "id": "TVS.do",
-        "logo": "https://i.imgur.com/a2YX1oj.jpg",
-        "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Bellavision",
         "id": "Bellavision.do",
         "logo": "https://i.imgur.com/XqQ3kCs.png",
@@ -482,26 +462,6 @@
         "country": "DO"
     },
     {
-        "name": "Cibaena TV",
-        "id": "CibaenaTV.do",
-        "logo": "https://i.imgur.com/iHjdckl.png",
-        "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Nitida TV",
-        "id": "NitidaTV.do",
-        "logo": "https://i.imgur.com/z9JkxcM.png",
-        "url": "https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Antena 21",
         "id": "Antena21.do",
         "logo": "https://i.imgur.com/QE0XWLh.png",
@@ -542,10 +502,10 @@
         "country": "DO"
     },
     {
-        "name": "Alegre TV RD",
-        "id": "AlegreTVRD.do",
-        "logo": "https://i.imgur.com/O6USO8r.png",
-        "url": "https://streamunoapp.com:3149/live/alegretvlive.m3u8",
+        "name": "Super7FM",
+        "id": "Super7FM.do",
+        "logo": "https://i.imgur.com/TJEqwZo.png",
+        "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -596,6 +556,26 @@
         "id": "EDNTV.hn",
         "logo": "https://i.imgur.com/5fPsYTz.png",
         "url": "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "HN"
+    },
+    {
+        "name": "Radio Omega TV",
+        "id": "RadioOmegaTV.hn",
+        "logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
+        "url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "HN"
+    },
+    {
+        "name": "TV Centro 27.2 HD",
+        "id": "TVCentro272HD.hn",
+        "logo": "https://i.imgur.com/Wo2scQf.jpg",
+        "url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -654,26 +634,6 @@
             "entertainment"
         ],
         "country": "MZ"
-    },
-    {
-        "name": "Belarus-2",
-        "id": "Belarus2.by",
-        "logo": "https://i.imgur.com/BpEHpPS.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BY"
-    },
-    {
-        "name": "OTV",
-        "id": "OTV.gh",
-        "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg",
-        "url": "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "GH"
     },
     {
         "name": "Top Gear",
@@ -2268,16 +2228,6 @@
         "country": "IN"
     },
     {
-        "name": "Swantham",
-        "id": "Swantham.in",
-        "logo": "https://i.imgur.com/ye6v4GP.png",
-        "url": "http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Manas TV",
         "id": "ManasTV.kg",
         "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
@@ -2991,16 +2941,6 @@
         "id": "FORTTV.ug",
         "logo": "https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png",
         "url": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "UG"
-    },
-    {
-        "name": "Bukedde TV 2",
-        "id": "BukeddeTV2.ug",
-        "logo": "https://i.imgur.com/ukwPZeY.png",
-        "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3775,6 +3715,16 @@
             "entertainment"
         ],
         "country": "ES"
+    },
+    {
+        "name": "Hispania TV",
+        "id": "HispaniaTV.pa",
+        "logo": "https://i.imgur.com/647WCF8.png",
+        "url": "https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PA"
     },
     {
         "name": "Indonesiana.TV",

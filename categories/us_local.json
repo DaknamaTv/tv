@@ -2000,20 +2000,40 @@
         "country": ""
     },
     {
-        "name": "NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]",
-        "id": "nbc8limaohwliodt1720pnot247",
+        "name": "St. Pete TV (SPTV) (St Petersburg FL) (360p)",
+        "id": "stpetetvsptvstpetersburgfl360p",
         "logo": "",
-        "url": "https://live.field59.com/wlio/wlio1/playlist.m3u8",
+        "url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8",
         "categories": [
             "us_local"
         ],
         "country": ""
     },
     {
-        "name": "St. Pete TV (SPTV) (St Petersburg FL) (360p)",
-        "id": "stpetetvsptvstpetersburgfl360p",
+        "name": "Escambia County TV ECTV (Escambia County FL) (720p)",
+        "id": "escambiacountytvectvescambiacountyfl720p",
         "logo": "",
-        "url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8",
+        "url": "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8",
+        "categories": [
+            "us_local"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Geb Tv (KBPX LD5) (1080p)",
+        "id": "gebtvkbpxld51080p",
+        "logo": "",
+        "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8",
+        "categories": [
+            "us_local"
+        ],
+        "country": ""
+    },
+    {
+        "name": "The Ohio Channel (WVIZ DT-2)",
+        "id": "theohiochannelwvizdt2",
+        "logo": "",
+        "url": "https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8",
         "categories": [
             "us_local"
         ],

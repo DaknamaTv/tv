@@ -3190,16 +3190,6 @@
         "country": ""
     },
     {
-        "name": "Me-",
-        "id": "me",
-        "logo": "",
-        "url": "https://iptvbd.live/metv1080/1080.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "hum tv",
         "id": "humtv",
         "logo": "http://tvassets.roarzone.info/images/humtv.png",
@@ -3294,6 +3284,26 @@
         "id": "lemaragf",
         "logo": "",
         "url": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Shol Sports",
+        "id": "sholsports",
+        "logo": "",
+        "url": "https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-3",
+        "id": "tnssports3",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts3",
         "categories": [
             "bd"
         ],

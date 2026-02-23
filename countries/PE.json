@@ -166,14 +166,6 @@
         "country": "PE"
     },
     {
-        "name": "Uranio TV",
-        "id": "UranioTV.pe",
-        "logo": "https://i.imgur.com/EeNpfIr.png",
-        "url": "https://live.obslivestream.com/uraniotv/index.m3u8",
-        "categories": [],
-        "country": "PE"
-    },
-    {
         "name": "ECO Television",
         "id": "ECOTelevision.pe",
         "logo": "https://i.imgur.com/ly1KU6w.png",
@@ -520,6 +512,26 @@
         "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Exitosa TV",
+        "id": "ExitosaTV.pe",
+        "logo": "https://i.imgur.com/pu0BSB7.png",
+        "url": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "JN 19",
+        "id": "JN19.pe",
+        "logo": "https://i.imgur.com/dudxyqk.png",
+        "url": "https://servilive.com:3028/live/jntv19live.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "PE"
     }
