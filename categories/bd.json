@@ -3160,16 +3160,6 @@
         "country": ""
     },
     {
-        "name": "DBC",
-        "id": "dbc",
-        "logo": "",
-        "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "ZB Cinema",
         "id": "zbcinema",
         "logo": "",
@@ -3220,20 +3210,40 @@
         "country": ""
     },
     {
-        "name": "Gazi TV",
-        "id": "gazitv",
+        "name": "ETV TV",
+        "id": "etvtv",
         "logo": "",
-        "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
+        "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8",
         "categories": [
             "bd"
         ],
         "country": ""
     },
     {
-        "name": "ETV TV",
-        "id": "etvtv",
+        "name": "Awaaz India",
+        "id": "awaazindia",
+        "logo": "https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10",
+        "url": "http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "movie bangla tv",
+        "id": "moviebanglatv",
+        "logo": "http://tvassets.roarzone.info/images/86.png",
+        "url": "https://edge2.roarzone.info:8445/roarzone/edge3/movie-bangla/index.m3u8?token=3eea9f49fa42df8f98ca961021b38063a277d297-bd5c049a8f0c9df2a527966544f23b92-1771806822-1771803222",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SKY-SPORTS",
+        "id": "skysports",
         "logo": "",
-        "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8",
+        "url": "http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/147059.ts",
         "categories": [
             "bd"
         ],

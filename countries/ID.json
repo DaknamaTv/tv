@@ -393,16 +393,6 @@
         "country": "ID"
     },
     {
-        "name": "Huma Betang TV",
-        "id": "HumaBetangTV.id",
-        "logo": "https://i.imgur.com/xBTqOEu.png",
-        "url": "https://v3.siar.us/humabetangtv/live/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Madu TV",
         "id": "MaduTV.id",
         "logo": "https://i.imgur.com/cKpgbgW.png",
@@ -779,6 +769,72 @@
         "id": "SurabayaTV.id",
         "logo": "https://i.imgur.com/jlss2ll.png",
         "url": "https://e.siar.us/live/surabayatv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Al-Iman TV",
+        "id": "AlImanTV.id",
+        "logo": "https://i.imgur.com/Qj1EFf1.png",
+        "url": "https://tv.aliman.id/aliman/live.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Batam TV",
+        "id": "BatamTV.id",
+        "logo": "https://i.imgur.com/lo7YXnW.png",
+        "url": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Dhoho TV",
+        "id": "DhohoTV.id",
+        "logo": "https://i.imgur.com/4Khyyfh.png",
+        "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "I Am Channel",
+        "id": "IAmChannel.id",
+        "logo": "https://i.imgur.com/Gg6OcGT.png",
+        "url": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Jogja TV",
+        "id": "JogjaTV.id",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
+        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Semarang TV",
+        "id": "SemarangTV.id",
+        "logo": "https://i.imgur.com/KFC2WSB.png",
+        "url": "http://116.254.112.74/hls/cakralive.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "TV Tabalong",
+        "id": "TVTabalong.id",
+        "logo": "https://i.imgur.com/2YhDH98.png",
+        "url": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8",
         "categories": [],
         "country": "ID"
     }

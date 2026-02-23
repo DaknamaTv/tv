@@ -190,16 +190,6 @@
         "country": "DO"
     },
     {
-        "name": "Belarus-3",
-        "id": "Belarus3.by",
-        "logo": "https://i.imgur.com/JkcDycn.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "BY"
-    },
-    {
         "name": "Garshom TV",
         "id": "GarshomTV.uk",
         "logo": "https://i.imgur.com/KnbwUyb.png",
@@ -461,20 +451,20 @@
         "country": "CL"
     },
     {
-        "name": "Chiloe Red 25",
-        "id": "ChiloeRed25.cl",
-        "logo": "https://i.imgur.com/3tqrImm.png",
-        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "AsiriTV",
         "id": "AsiriTV.pe",
         "logo": "https://i.imgur.com/7bGVFBa.png",
         "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "USMPTV",
+        "id": "USMPTV.pe",
+        "logo": "https://i.imgur.com/9cmIv3q.png",
+        "url": "https://streamusmptv.ddns.net/live/stream.m3u8",
         "categories": [
             "culture"
         ],
@@ -520,6 +510,16 @@
             "culture"
         ],
         "country": "RU"
+    },
+    {
+        "name": "RTB 3",
+        "id": "RTB3.bf",
+        "logo": "https://i.imgur.com/OFZm8ic.png",
+        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "BF"
     },
     {
         "name": "NHK World-Japan",
@@ -729,6 +729,16 @@
         "country": "BO"
     },
     {
+        "name": "2STV",
+        "id": "2STV.sn",
+        "logo": "https://i.imgur.com/WByVBZf.png",
+        "url": "http://69.64.57.208/2stv/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "SN"
+    },
+    {
         "name": "JOS TV HD",
         "id": "JOSTVHD.cg",
         "logo": "https://i.imgur.com/Ai9kpuu.jpeg",
@@ -758,17 +768,6 @@
             "travel"
         ],
         "country": "CR"
-    },
-    {
-        "name": "ETV 2",
-        "id": "ETV2.ee",
-        "logo": "https://i.imgur.com/fUjGHDa.png",
-        "url": "https://sb.err.ee/live/etv2.m3u8",
-        "categories": [
-            "kids",
-            "culture"
-        ],
-        "country": "EE"
     },
     {
         "name": "Trishul Broadcasting Network",

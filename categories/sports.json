@@ -705,6 +705,16 @@
         "country": "IN"
     },
     {
+        "name": "Sony Sports Ten 5",
+        "id": "SonySportsTen5.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Realitatea Sportiva",
         "id": "RealitateaSportiva.ro",
         "logo": "https://i.imgur.com/BaEyZto.png",
@@ -1128,6 +1138,16 @@
         "country": "MX"
     },
     {
+        "name": "M-Net Sport",
+        "id": "MNetSport.mk",
+        "logo": "https://i.imgur.com/7k8ar1Z.png",
+        "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "MK"
+    },
+    {
         "name": "TDM Sports",
         "id": "TDMSports.mo",
         "logo": "https://i.imgur.com/AsWLf8S.png",
@@ -1196,16 +1216,6 @@
             "sports"
         ],
         "country": "BO"
-    },
-    {
-        "name": "Tigo Sports",
-        "id": "TigoSports.sv",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
-        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "SV"
     },
     {
         "name": "Alkass Five",
@@ -1286,16 +1296,6 @@
             "sports"
         ],
         "country": "QA"
-    },
-    {
-        "name": "Radio Turrialba TV Sports",
-        "id": "RadioTurrialbaTVSports.cr",
-        "logo": "https://i.imgur.com/2ZcUXbE.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "CR"
     },
     {
         "name": "TJK TV",

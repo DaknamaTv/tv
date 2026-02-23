@@ -371,16 +371,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 13 Jujuy",
-        "id": "Canal13Jujuy.ar",
-        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
-        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Die Neue Zeit TV",
         "id": "DieNeueZeitTV.ch",
         "logo": "https://i.imgur.com/K3lvrog.png",
@@ -1673,6 +1663,16 @@
         "id": "ShalomAmerica.us",
         "logo": "https://i.imgur.com/qUjsV79.png",
         "url": "https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "JBS",
+        "id": "JBS.us",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
+        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
         "categories": [
             "religious"
         ],
@@ -3215,6 +3215,16 @@
         "country": "KE"
     },
     {
+        "name": "Sayare TV",
+        "id": "SayareTV.ke",
+        "logo": "https://i.imgur.com/M2Fnxj7.png",
+        "url": "https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "KE"
+    },
+    {
         "name": "LifeStyleTV",
         "id": "LifeStyleTV.se",
         "logo": "https://i.imgur.com/0mreWrM.jpg",
@@ -3329,6 +3339,16 @@
         "id": "ElRoiTV.gt",
         "logo": "https://i.imgur.com/h8S0eA4.png",
         "url": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "GT"
+    },
+    {
+        "name": "Espiritu Santo Y Fuego TV",
+        "id": "EspirituSantoYFuegoTV.gt",
+        "logo": "https://i.imgur.com/8mdSWO4.jpg",
+        "url": "https://inliveserver.com:1936/8392/8392/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -3489,16 +3509,6 @@
         "id": "Canal26TVIAP.sv",
         "logo": "https://i.imgur.com/JE7FsnN.png",
         "url": "https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "SV"
-    },
-    {
-        "name": "JFV TV",
-        "id": "JFVTV.sv",
-        "logo": "https://i.imgur.com/SrmI6nU.jpeg",
-        "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -4079,36 +4089,6 @@
         "country": "TR"
     },
     {
-        "name": "Himlen TV7",
-        "id": "HimlenTV7.fi",
-        "logo": "https://i.imgur.com/k8a7KNn.png",
-        "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "FI"
-    },
-    {
-        "name": "Taevas TV7",
-        "id": "TaevasTV7.fi",
-        "logo": "https://i.imgur.com/usXedIj.png",
-        "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "FI"
-    },
-    {
-        "name": "Taivas TV7",
-        "id": "TaivasTV7.fi",
-        "logo": "https://i.imgur.com/JyJNiXy.png",
-        "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "FI"
-    },
-    {
         "name": "TV Famille",
         "id": "TVFamille.mq",
         "logo": "https://i.imgur.com/Kbfihk5.png",
@@ -4519,6 +4499,26 @@
         "id": "FajarTV.id",
         "logo": "https://i.imgur.com/mkuXxRK.png",
         "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Al-Iman TV",
+        "id": "AlImanTV.id",
+        "logo": "https://i.imgur.com/Qj1EFf1.png",
+        "url": "https://tv.aliman.id/aliman/live.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "I Am Channel",
+        "id": "IAmChannel.id",
+        "logo": "https://i.imgur.com/Gg6OcGT.png",
+        "url": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
         "categories": [
             "religious"
         ],

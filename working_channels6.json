@@ -1,5 +1,195 @@
 [
     {
+        "name": "DE: LooLoo Kids TV",
+        "id": "deloolookidstv",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: MyTime Movie Network Germany",
+        "id": "demytimemovienetworkgermany",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Naruto Germany",
+        "id": "denarutogermany",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Rakuten TV Action Movies",
+        "id": "derakutentvactionmovies",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Rakuten TV Comedy Movies",
+        "id": "derakutentvcomedymovies",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Rakuten TV Crime Series Germany",
+        "id": "derakutentvcrimeseriesgermany",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Rakuten TV Drama Movies",
+        "id": "derakutentvdramamovies",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Rakuten TV Family Movies",
+        "id": "derakutentvfamilymovies",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Rakuten TV German Cinema",
+        "id": "derakutentvgermancinema",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Rakuten TV Romance Movies Germany",
+        "id": "derakutentvromancemoviesgermany",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Rakuten TV Thrillers Germany",
+        "id": "derakutentvthrillersgermany",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Rakuten TV Top Movies",
+        "id": "derakutentvtopmovies",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Royalworld Germany",
+        "id": "deroyalworldgermany",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://amogonetworx-royalworld-2-de.rakuten.wurl.tv/playlist.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Strongman Champions League",
+        "id": "destrongmanchampionsleague",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Tastemade",
+        "id": "detastemade",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Tennis Channel Germany",
+        "id": "detennischannelgermany",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Top Sci-Fi",
+        "id": "detopscifi",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Top Serien",
+        "id": "detopserien",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Travelxp Germany",
+        "id": "detravelxpgermany",
+        "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
+        "url": "https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8",
+        "categories": [
+            "de ⚡️ rakuten tv"
+        ],
+        "country": ""
+    },
+    {
         "name": "DE: Vevo Schlager Pop",
         "id": "devevoschlagerpop",
         "logo": "https://i.ibb.co/gMXG8GgR/Rakuten2.png",
@@ -130,6 +320,236 @@
         "country": ""
     },
     {
+        "name": "Dizi Premium HD",
+        "id": "dizipremiumhd",
+        "logo": "https://i.ibb.co/xSyBGjxs/DIZI-SMART-PREMIUM.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Goerkemp/k5xzsLY9GQ/865299.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Cine 1 HD",
+        "id": "cine1hd",
+        "logo": "https://i.ibb.co/PzVDQGXB/cine-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Goerkemp/k5xzsLY9GQ/865303.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: beIN Series 4",
+        "id": "trbeinseries4",
+        "logo": "https://i.ibb.co/Nnp6BMkR/BEIN-SERIES-SCI-FI.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Goerkemp/k5xzsLY9GQ/860713.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Bein Movies Stars FHD",
+        "id": "beinmoviesstarsfhd",
+        "logo": "https://i.ibb.co/S71HkwNK/BEIN-MOVIES-STARS.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/1308Resat2022/1308son2023/865284.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Movie smart Classic HD",
+        "id": "moviesmartclassichd",
+        "logo": "https://i.ibb.co/fdYyQm9P/Movie-Smart-Classic-eno.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/1308Resat2022/1308son2023/865286.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sinema Aksiyon 2 HD",
+        "id": "sinemaaksiyon2hd",
+        "logo": "https://i.ibb.co/5hFD9Zdj/SINEMA-TV-AKSIYON-2.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/865288.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sinema Yerli 2 HD",
+        "id": "sinemayerli2hd",
+        "logo": "https://i.ibb.co/r27hkmnQ/SINEMA-TV-YERLI-2.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/865292.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sinema 1001 HD",
+        "id": "sinema1001hd",
+        "logo": "https://i.ibb.co/hQw9QkP/SINEMA-TV-1001.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/865295.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sinema Aile 2 HD",
+        "id": "sinemaaile2hd",
+        "logo": "https://i.ibb.co/7d42KGF7/SINEMA-TV-AILE-2.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/865298.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILM SCREEN HD",
+        "id": "filmscreenhd",
+        "logo": "https://i.ibb.co/BVXy41gs/FILMBOX.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/865304.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: beIN Series 1",
+        "id": "trbeinseries1",
+        "logo": "https://i.ibb.co/yn25bF0M/BEIN-SERIES-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/860710.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: beIN Series 2",
+        "id": "trbeinseries2",
+        "logo": "https://i.ibb.co/yn25bF0M/BEIN-SERIES-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/860711.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: beIN Movies Premiere",
+        "id": "trbeinmoviespremiere",
+        "logo": "https://i.ibb.co/ymrdqgfH/BEIN-MOVIES-PREMIERE.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/860714.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: beIN BOX OFFICE 1",
+        "id": "trbeinboxoffice1",
+        "logo": "https://i.ibb.co/7JvGKxMS/BEIN-BOX-OFFICE-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/860734.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: FX",
+        "id": "trfx",
+        "logo": "https://i.ibb.co/MDcx0t1R/FX.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/860738.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Tivi 6",
+        "id": "trtivi6",
+        "logo": "https://i.ibb.co/JRXBNT3Y/tivi6.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/860739.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Bein Movies Premiere FHD",
+        "id": "beinmoviespremierefhd",
+        "logo": "https://i.ibb.co/hF19dgyC/Bein-Movies-Premiere-Eno.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/865283.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sinema 1002 HD",
+        "id": "sinema1002hd",
+        "logo": "https://i.ibb.co/6JpKQm02/SINEMA-TV-1002.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/865296.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: beIN Movies Turk",
+        "id": "trbeinmoviesturk",
+        "logo": "https://i.ibb.co/sJ9sJ1km/BEIN-MOVIES-TURK.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/860717.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: MovieSmart Classic",
+        "id": "trmoviesmartclassic",
+        "logo": "https://i.ibb.co/hJCH1Lwm/MOVIE-SMART-CLASSIC.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/sc/MQHJRKBmqK/860720.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sinema TV 2 HD",
+        "id": "sinematv2hd",
+        "logo": "https://i.ibb.co/7Jdz6svc/SINEMA-TV-2.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/msahmet51/akacmaz0101/865290.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sinema Yerli HD",
+        "id": "sinemayerlihd",
+        "logo": "https://i.ibb.co/39QZkjSq/SINEMA-TV-YERLI.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/msahmet51/akacmaz0101/865291.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sinema Komedi 2 HD",
+        "id": "sinemakomedi2hd",
+        "logo": "https://i.ibb.co/twHwXy1j/SINEMA-TV-KOMEDI-2.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/msahmet51/akacmaz0101/865294.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
         "name": "Pardesi TV (720p) [Not 24/7]",
         "id": "pardesitv720pnot247",
         "logo": "https://i.imgur.com/CwAdPpZ.jpg",
@@ -144,6 +564,26 @@
         "id": "bihbht1",
         "logo": "https://docdog.top/logo/countries/BIH/BHT_1.png",
         "url": "http://vipneeene.top:8080/VIP0139176242349027/uvfjq5ey7szy/144173",
+        "categories": [
+            "exyu | bih vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BIH: ELTA 2 HD",
+        "id": "bihelta2hd",
+        "logo": "https://docdog.top/logo/countries/BIH/ELTA_2_HD.png",
+        "url": "http://vipneeene.top:8080/SVIP0187173740351071/61746451219116/144177",
+        "categories": [
+            "exyu | bih vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BIH: MTV IGMAN HD",
+        "id": "bihmtvigmanhd",
+        "logo": "https://docdog.top/logo/countries/BIH/MTV_IGMAN_HD.png",
+        "url": "http://vipneeene.top:8080/SVIP0187173740351071/61746451219116/144189",
         "categories": [
             "exyu | bih vip"
         ],
@@ -370,210 +810,50 @@
         "country": ""
     },
     {
-        "name": "ARG - TNT Sports (L)(720)",
-        "id": "argtntsportsl720",
-        "logo": "https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157585",
+        "name": "ARG: EL NUEVE HD",
+        "id": "argelnuevehd",
+        "logo": "",
+        "url": "http://xxip25.top:8080/46028598/62533224/164869",
         "categories": [
             "argentina"
         ],
         "country": ""
     },
     {
-        "name": "ARG - TNT Sports (TV)(720)",
-        "id": "argtntsportstv720",
-        "logo": "https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157584",
+        "name": "ARG: TN NOTICIAS",
+        "id": "argtnnoticias",
+        "logo": "",
+        "url": "http://xxip25.top:8080/hVvwU8/670199/164873",
         "categories": [
             "argentina"
         ],
         "country": ""
     },
     {
-        "name": "ARG - DEPORTV (L)(720)",
-        "id": "argdeportvl720",
-        "logo": "https://i.postimg.cc/hv9dS3w0/Proyecto-X-Argentina-(11).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157596",
+        "name": "ARG: C5N HD",
+        "id": "argc5nhd",
+        "logo": "",
+        "url": "http://xxip25.top:8080/hVvwU8/670199/164876",
         "categories": [
             "argentina"
         ],
         "country": ""
     },
     {
-        "name": "ARG - ESPN 3 (M)(720)",
-        "id": "argespn3m720",
-        "logo": "https://i.postimg.cc/jqNNQL5z/Proyecto-X-Argentina-(14).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157560",
+        "name": "ARG: INFORMACION PERIODISTICA HD",
+        "id": "arginformacionperiodisticahd",
+        "logo": "",
+        "url": "http://xxip25.top:8080/hVvwU8/670199/164879",
         "categories": [
             "argentina"
         ],
         "country": ""
     },
     {
-        "name": "ARG - ESPN 4 (M)(720)",
-        "id": "argespn4m720",
-        "logo": "https://i.postimg.cc/v899LcBL/Proyecto-X-Argentina-(15).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157561",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - TV Publica (L)(720)",
-        "id": "argtvpublical720",
-        "logo": "https://i.postimg.cc/4NQ9qqpb/Proyecto-X-Argentina-(26).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157586",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - TV Publica (Z)(720)",
-        "id": "argtvpublicaz720",
-        "logo": "https://i.postimg.cc/4NQ9qqpb/Proyecto-X-Argentina-(26).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157587",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - TyC Sports (L)(720)",
-        "id": "argtycsportsl720",
-        "logo": "https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157583",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - A24 (Z)(720)",
-        "id": "arga24z720",
-        "logo": "https://i.postimg.cc/9fMZGbRp/Proyecto-X-Argentina.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157613",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - Argentinisima (i)(720)",
-        "id": "argargentinisimai720",
-        "logo": "https://i.postimg.cc/xdCMK5Js/Proyecto-X-Argentina-(2).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157608",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - C5N (L)(720)",
-        "id": "argc5nl720",
-        "logo": "https://i.postimg.cc/nLzBv2jT/Proyecto-X-Argentina-(3).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157607",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - C5N (M)(720)",
-        "id": "argc5nm720",
-        "logo": "https://i.postimg.cc/nLzBv2jT/Proyecto-X-Argentina-(3).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157566",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - Canal 26 (L)(720)",
-        "id": "argcanal26l720",
-        "logo": "https://i.postimg.cc/zfcWphT5/Proyecto-X-Argentina-(5).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157594",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - Cinear (Z)(720)",
-        "id": "argcinearz720",
-        "logo": "https://i.postimg.cc/PJGDnk63/Proyecto-X-Argentina-(8).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157601",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - DeporTV (M)(720)",
-        "id": "argdeportvm720",
-        "logo": "https://i.postimg.cc/hv9dS3w0/Proyecto-X-Argentina-(11).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157573",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - El Nueve (L)(720)",
-        "id": "argelnuevel720",
-        "logo": "https://i.postimg.cc/3R0GqwZT/Proyecto-X-Argentina-(6).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157621",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - El trece (L)(720)",
-        "id": "argeltrecel720",
-        "logo": "https://i.postimg.cc/zBHhQfF4/Proyecto-X-Argentina-(4).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157591",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - Metro (i)(720)",
-        "id": "argmetroi720",
-        "logo": "https://i.postimg.cc/m2s9dB1f/Proyecto-X-Argentina-(18).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157606",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - Multivision",
-        "id": "argmultivision",
-        "logo": "https://i.postimg.cc/T2mmqp1v/Proyecto-X-Argentina-(19).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157618",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - Telefe (i)(720)",
-        "id": "argtelefei720",
-        "logo": "https://i.postimg.cc/5NVzPbQ6/Proyecto-X-Argentina-(21).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157590",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG - Telefe Noticias (i)(720)",
-        "id": "argtelefenoticiasi720",
-        "logo": "https://i.postimg.cc/gkHZQQ30/Proyecto-X-Argentina-(22).png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157617",
+        "name": "ARG: AMERICA TV HD",
+        "id": "argamericatvhd",
+        "logo": "",
+        "url": "http://xxip25.top:8080/hVvwU8/670199/164881",
         "categories": [
             "argentina"
         ],
@@ -1100,6 +1380,86 @@
         "country": ""
     },
     {
+        "name": "PT: ELEVEN SPORT 1",
+        "id": "ptelevensport1",
+        "logo": "https://docdog.top/logo/countries/portugal/elevensport1.png",
+        "url": "http://vipneeene.top:8080/vip511767980879/p5kxyy9p4bnz/99475",
+        "categories": [
+            "pt | esportes vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: ELEVEN SPORT 2",
+        "id": "ptelevensport2",
+        "logo": "https://docdog.top/logo/countries/portugal/elevensport2.png",
+        "url": "http://vipneeene.top:8080/vip511767980879/p5kxyy9p4bnz/99476",
+        "categories": [
+            "pt | esportes vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: ELEVEN SPORT 5",
+        "id": "ptelevensport5",
+        "logo": "https://docdog.top/logo/countries/portugal/Eleven_Sports_5.png",
+        "url": "http://vipneeene.top:8080/vip511767980879/p5kxyy9p4bnz/99479",
+        "categories": [
+            "pt | esportes vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: ELEVEN SPORT 6",
+        "id": "ptelevensport6",
+        "logo": "https://docdog.top/logo/countries/portugal/elevensports6vip.png",
+        "url": "http://vipneeene.top:8080/vip511767980879/p5kxyy9p4bnz/99480",
+        "categories": [
+            "pt | esportes vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: EUROSPORT 2",
+        "id": "pteurosport2",
+        "logo": "https://docdog.top/logo/countries/portugal/eurosport-2.png",
+        "url": "http://vipneeene.top:8080/vip511767980879/p5kxyy9p4bnz/99482",
+        "categories": [
+            "pt | esportes vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: SPORT TV +",
+        "id": "ptsporttv",
+        "logo": "https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png",
+        "url": "http://vipneeene.top:8080/vip511767980879/p5kxyy9p4bnz/99483",
+        "categories": [
+            "pt | esportes vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: SPORT TV 3",
+        "id": "ptsporttv3",
+        "logo": "https://docdog.top/logo/countries/portugal/sporttv3.png",
+        "url": "http://vipneeene.top:8080/vip511767980879/p5kxyy9p4bnz/99486",
+        "categories": [
+            "pt | esportes vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: NBA TV",
+        "id": "ptnbatv",
+        "logo": "https://docdog.top/logo/countries/portugal/nba.png",
+        "url": "http://vipneeene.top:8080/vip511767980879/p5kxyy9p4bnz/99494",
+        "categories": [
+            "pt | esportes vip"
+        ],
+        "country": ""
+    },
+    {
         "name": "The Twilight Zone",
         "id": "thetwilightzone",
         "logo": "https://i.imgur.com/FiIRQAR.png",
@@ -1310,6 +1670,56 @@
         "country": ""
     },
     {
+        "name": "UK-H2",
+        "id": "ukh2",
+        "logo": "",
+        "url": "http://xxip25.top:8080/46028598/62533224/53692",
+        "categories": [
+            "uk united kingdom"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK History  Channel",
+        "id": "ukhistorychannel",
+        "logo": "",
+        "url": "http://xxip25.top:8080/46028598/62533224/53686",
+        "categories": [
+            "uk united kingdom"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK-Investigation Discovery",
+        "id": "ukinvestigationdiscovery",
+        "logo": "",
+        "url": "http://xxip25.top:8080/46028598/62533224/53687",
+        "categories": [
+            "uk united kingdom"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK-Quest",
+        "id": "ukquest",
+        "logo": "",
+        "url": "http://xxip25.top:8080/hVvwU8/670199/53682",
+        "categories": [
+            "uk united kingdom"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK Sky Sports F1 FHD (D)",
+        "id": "ukskysportsf1fhdd",
+        "logo": "",
+        "url": "http://xxip25.top:8080/hVvwU8/670199/53704",
+        "categories": [
+            "uk united kingdom"
+        ],
+        "country": ""
+    },
+    {
         "name": "IT: FOCUS",
         "id": "itfocus",
         "logo": "",
@@ -1360,82 +1770,112 @@
         "country": ""
     },
     {
-        "name": "CR-FUTV (L)(1080)",
-        "id": "crfutvl1080",
+        "name": "IT: RETE 4",
+        "id": "itrete4",
         "logo": "",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/8113",
+        "url": "http://xxip25.top:8080/r31BP4/588433/212920",
         "categories": [
-            "costarica"
+            "italy"
         ],
         "country": ""
     },
     {
-        "name": "CR-FUTV (M)(SD)",
-        "id": "crfutvmsd",
+        "name": "IT: RAI YOYO",
+        "id": "itraiyoyo",
         "logo": "",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/8114",
+        "url": "http://xxip25.top:8080/r31BP4/588433/212926",
         "categories": [
-            "costarica"
+            "italy"
         ],
         "country": ""
     },
     {
-        "name": "CR-FUTV (TV)(720)",
-        "id": "crfutvtv720",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThA6HkKqYo0jMnPwMXsu5Uyt88GNrmExQ8QQ&usqp=CAU",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/8115",
-        "categories": [
-            "costarica"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CR-Repretel 11 (M)",
-        "id": "crrepretel11m",
+        "name": "IT: RAI 4",
+        "id": "itrai4",
         "logo": "",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/8116",
+        "url": "http://xxip25.top:8080/46028598/62533224/212898",
         "categories": [
-            "costarica"
+            "italy"
         ],
         "country": ""
     },
     {
-        "name": "CR-Repretel 11 (TV)(720)",
-        "id": "crrepretel11tv720",
-        "logo": "http://tv.dominiotv.xyz:25461/images/0bc75b556f89ef4e9bfb7eb45eb61b56.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/8117",
+        "name": "IT: RAI 1",
+        "id": "itrai1",
+        "logo": "",
+        "url": "http://xxip25.top:8080/hVvwU8/670199/212895",
         "categories": [
-            "costarica"
+            "italy"
         ],
         "country": ""
     },
     {
-        "name": "CR-Tele Uno (L)(720)",
-        "id": "crteleunol720",
-        "logo": "http://tv.dominiotv.xyz:25461/images/0ad00ac33dd421c509da1a7cd5826441.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/8126",
+        "name": "IT: RAI ITALIA",
+        "id": "itraiitalia",
+        "logo": "",
+        "url": "http://xxip25.top:8080/hVvwU8/670199/212900",
         "categories": [
-            "costarica"
+            "italy"
         ],
         "country": ""
     },
     {
-        "name": "CR-Teletica (TV)(720)",
-        "id": "crteleticatv720",
-        "logo": "http://l3d.us:8080/images/a595b6beed22d68dbd6dfff91bc6b34f.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/8128",
+        "name": "IT: RAI MOVIE",
+        "id": "itraimovie",
+        "logo": "",
+        "url": "http://xxip25.top:8080/hVvwU8/670199/212902",
         "categories": [
-            "costarica"
+            "italy"
         ],
         "country": ""
     },
     {
-        "name": "CR-Tigo Sports (TV)(720)",
-        "id": "crtigosportstv720",
-        "logo": "http://l3d.us:8080/images/1e07aa6fbec1107166ed2353f2db8230.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/8130",
+        "name": "ES: M+ COMEDIA",
+        "id": "esmcomedia",
+        "logo": "https://docdog.top/logo/countries/spain/movistar/M_Comedia.png",
+        "url": "http://norqhwkyfzw.top:8080/Timoteo66666/1234/5636",
         "categories": [
-            "costarica"
+            "es | cine & series"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES: M+ CINE ESPAÑOL",
+        "id": "esmcineespaol",
+        "logo": "https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png",
+        "url": "http://norqhwkyfzw.top:8080/Timoteo66666/1234/5633",
+        "categories": [
+            "es | cine & series"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES: M+ CLÁSICOS",
+        "id": "esmclsicos",
+        "logo": "https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png",
+        "url": "http://norqhwkyfzw.top:8080/Timoteo66666/1234/5634",
+        "categories": [
+            "es | cine & series"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES: SOMOS",
+        "id": "essomos",
+        "logo": "https://docdog.top/logo/countries/spain/movistar/Somos.png",
+        "url": "http://norqhwkyfzw.top:8080/Timoteo66666/1234/5730",
+        "categories": [
+            "es | cine & series"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES: TCM",
+        "id": "estcm",
+        "logo": "https://docdog.top/logo/countries/spain/movistar/TCM.png",
+        "url": "http://norqhwkyfzw.top:8080/Timoteo66666/1234/5733",
+        "categories": [
+            "es | cine & series"
         ],
         "country": ""
     },
@@ -1544,6 +1984,46 @@
         "id": "depremiumactionadventure32",
         "logo": "https://i.ibb.co/wFBPfS2N/action.png",
         "url": "http://europe.siriusfiber.xyz:80/live/Suheutkan/2rsjDY3a6Y/862571.ts",
+        "categories": [
+            "de ➤ action&thriller&horror"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Premium Thriller 1",
+        "id": "depremiumthriller1",
+        "logo": "https://i.ibb.co/Lhct9P2z/thriller.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Mustafabozkurt1982/fwaaVFMwbP/862327.ts",
+        "categories": [
+            "de ➤ action&thriller&horror"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Premium Thriller 20",
+        "id": "depremiumthriller20",
+        "logo": "https://i.ibb.co/Lhct9P2z/thriller.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Mustafabozkurt1982/fwaaVFMwbP/862346.ts",
+        "categories": [
+            "de ➤ action&thriller&horror"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Premium Action-Adventure 22",
+        "id": "depremiumactionadventure22",
+        "logo": "https://i.ibb.co/wFBPfS2N/action.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Mustafabozkurt1982/fwaaVFMwbP/862561.ts",
+        "categories": [
+            "de ➤ action&thriller&horror"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Premium Action-Adventure 30",
+        "id": "depremiumactionadventure30",
+        "logo": "https://i.ibb.co/wFBPfS2N/action.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Mustafabozkurt1982/fwaaVFMwbP/862569.ts",
         "categories": [
             "de ➤ action&thriller&horror"
         ],
@@ -2156,196 +2636,6 @@
         "url": "http://185.177.126.241:8880//live/ashan24/ashan24/789804.ts",
         "categories": [
             "ca - canada ohl - events"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Alsacias Televisión (ATV | Canal 28) (W)(720)",
-        "id": "honalsaciastelevisinatvcanal28w720",
-        "logo": "https://i.imgur.com/SbuD1UW.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159358",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-CANAL 11 (M)(SD)",
-        "id": "honcanal11msd",
-        "logo": "",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/10262",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Canal 11 (W)(1080)",
-        "id": "honcanal11w1080",
-        "logo": "https://i.imgur.com/Sht2Rd4.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159366",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Canal 5 (M)(SD)",
-        "id": "honcanal5msd",
-        "logo": "",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/10260",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Choluteca TV (W)(1080)",
-        "id": "honcholutecatvw1080",
-        "logo": "https://i.imgur.com/mpc4Isd.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159373",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Kerusso TV (W)(720)",
-        "id": "honkerussotvw720",
-        "logo": "https://i.imgur.com/S79uof0.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159392",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-La Top 102.9 (W)(720)",
-        "id": "honlatop1029w720",
-        "logo": "https://i.imgur.com/ZqwLPag.jpg",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159394",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Lenca Television Canal 40 (W)(720)",
-        "id": "honlencatelevisioncanal40w720",
-        "logo": "https://i.imgur.com/fc5IHSy.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159396",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Metro TV (W)(720)",
-        "id": "honmetrotvw720",
-        "logo": "https://i.imgur.com/BqS8BHi.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159401",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Radio Ideal 104.7 FM (La Esperanza) (W)(720)",
-        "id": "honradioideal1047fmlaesperanzaw720",
-        "logo": "https://i.imgur.com/chPfoOs.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159407",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Radio Imagen 105.1 FM (W)(720)",
-        "id": "honradioimagen1051fmw720",
-        "logo": "https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159408",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Sula TV (W)(720)",
-        "id": "honsulatvw720",
-        "logo": "https://i.imgur.com/v90r5jS.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159414",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Suyapa (M)(SD)",
-        "id": "honsuyapamsd",
-        "logo": "",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/10263",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Teleceiba (Z)(720)",
-        "id": "honteleceibaz720",
-        "logo": "",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/10271",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Television Olanchana (W)(720)",
-        "id": "hontelevisionolanchanaw720",
-        "logo": "https://i.imgur.com/8LnLEQz.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159427",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-Televisión Metrópolis 19.2 (W)(1080)",
-        "id": "hontelevisinmetrpolis192w1080",
-        "logo": "https://i.imgur.com/QaocW5x.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159426",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-TV Centro 27.2 HD (W)(720)",
-        "id": "hontvcentro272hdw720",
-        "logo": "https://i.imgur.com/Wo2scQf.jpg",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159430",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-TV Copán (W)(720)",
-        "id": "hontvcopnw720",
-        "logo": "https://i.imgur.com/JiPmRFr.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/159432",
-        "categories": [
-            "honduras"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HON-VTV (M)(SD)",
-        "id": "honvtvmsd",
-        "logo": "",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/10265",
-        "categories": [
-            "honduras"
         ],
         "country": ""
     },
@@ -3670,16 +3960,6 @@
         "country": ""
     },
     {
-        "name": "Vevo Pop (1080p)",
-        "id": "vevopop1080p",
-        "logo": "https://i.imgur.com/dZHktKR.png",
-        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/160081",
-        "categories": [
-            "usa-musicals"
-        ],
-        "country": ""
-    },
-    {
         "name": "Vevo Latino (1080p)",
         "id": "vevolatino1080p",
         "logo": "https://i.imgur.com/D7SwmuB.png",
@@ -4110,10 +4390,70 @@
         "country": ""
     },
     {
-        "name": "The Gaming Central : League of Legends",
-        "id": "thegamingcentralleagueoflegends",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/c92e70a4e0599a4907ad900c43ffbaed/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758346933759_ROKU_logo_THEGAMINGCENTRALLOL_efefef_center_260x147.png",
-        "url": "https://jmp2.uk/rok-c92e70a4e0599a4907ad900c43ffbaed.m3u8",
+        "name": "DraftKings",
+        "id": "draftkings",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5976983fa00953dab911a0ebea932943/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694201368177_Roku_DKN_HUD_Logo_Centered.png",
+        "url": "https://jmp2.uk/rok-5976983fa00953dab911a0ebea932943.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MGM Presents",
+        "id": "mgmpresents",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5263332f746c6b1bed25aa6c105a79d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061592882_MGMPresents_HUDLogo_Centered_260x147.png",
+        "url": "https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Love Nature Spanish",
+        "id": "lovenaturespanish",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/03a419fc4dff59b39b176d9f76b09e38/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563412501_LoveNature_260x147_HUDenEspanol.png",
+        "url": "https://jmp2.uk/rok-03a419fc4dff59b39b176d9f76b09e38.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FilmRise Series Gratis",
+        "id": "filmriseseriesgratis",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/4010582bb66b58a69151a4f552de0823/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158322228_RokuChannel_FilmRiseSeriesGratis_HUD_Logo_260x147.png",
+        "url": "https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Cinépolis Channel",
+        "id": "cinpolischannel",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/acf637e8292736265712e3be566c0e5a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1752626860506_HUD-Logo-260x147.png",
+        "url": "https://jmp2.uk/rok-acf637e8292736265712e3be566c0e5a.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Canela.TV Hollywood y Más",
+        "id": "canelatvhollywoodyms",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/02cdd68d6244543b83ff35d990891463/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562662522_ROKU-CanelaTV-InfoHUD-1.png",
+        "url": "https://jmp2.uk/rok-02cdd68d6244543b83ff35d990891463.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "COPS en Español",
+        "id": "copsenespaol",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png",
+        "url": "https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8",
         "categories": [
             "roku-all"
         ],
