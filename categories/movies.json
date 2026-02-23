@@ -91,6 +91,21 @@
         "country": "AR"
     },
     {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://alternatv.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "Boreal",
         "id": "Boreal.do",
         "logo": "https://i.imgur.com/KSquHTG.png",
@@ -1195,6 +1210,46 @@
         "country": "IN"
     },
     {
+        "name": "&pictures",
+        "id": "Andpictures.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png",
+        "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "&prive HD",
+        "id": "AndpriveHD.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png",
+        "url": "http://103.229.254.25:7001/play/a03f/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Pix",
+        "id": "SonyPix.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a0ed/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Gold Select",
+        "id": "StarGoldSelect.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Memorias TV Film",
         "id": "MemoriasTVFilm.co",
         "logo": "https://i.imgur.com/vNfjW6Y.png",
@@ -1514,16 +1569,6 @@
         "country": "RU"
     },
     {
-        "name": "Cinema Hausa",
-        "id": "CinemaHausa.za",
-        "logo": "https://i.imgur.com/uV5cHDW.png",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/video.m3u8?ads.vf=v-YPzZubeoG",
-        "categories": [
-            "movies"
-        ],
-        "country": "ZA"
-    },
-    {
         "name": "Afriwood Blockbuster",
         "id": "AfriwoodBlockbuster.za",
         "logo": "https://i.imgur.com/aESdqiB.png",
@@ -1582,16 +1627,6 @@
             "movies"
         ],
         "country": "EG"
-    },
-    {
-        "name": "Rai Movie",
-        "id": "RaiMovie.it",
-        "logo": "https://i.imgur.com/0FjxXU9.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
-        "categories": [
-            "movies"
-        ],
-        "country": "IT"
     },
     {
         "name": "MovieBox",
@@ -1905,16 +1940,6 @@
             "entertainment"
         ],
         "country": "SG"
-    },
-    {
-        "name": "Itage TV",
-        "id": "ItageTV.ng",
-        "logo": "https://i.imgur.com/FP1aUPw.jpg",
-        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "NG"
     },
     {
         "name": "BET Cinema",

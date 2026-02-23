@@ -2277,5 +2277,25 @@
             "general"
         ],
         "country": "RU"
+    },
+    {
+        "name": "RTR-Planeta",
+        "id": "RTRPlaneta.ru",
+        "logo": "https://i.imgur.com/T42cuYx.png",
+        "url": "https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a",
+        "categories": [
+            "general"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Shanson TV",
+        "id": "ShansonTV.ru",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
     }
 ]

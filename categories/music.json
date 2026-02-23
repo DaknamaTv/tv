@@ -402,6 +402,21 @@
         "country": "AR"
     },
     {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://alternatv.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "Couleur 3",
         "id": "Couleur3.ch",
         "logo": "https://i.imgur.com/VOIwYYd.png",
@@ -579,16 +594,6 @@
         "id": "LAMIATV.do",
         "logo": "https://i.imgur.com/XIwTM1h.png",
         "url": "https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Telerumba TV",
-        "id": "TelerumbaTV.do",
-        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3649-294x165-FFFFFF.jpg",
-        "url": "https://inliveserver.com:1936/18506/18506/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -2374,6 +2379,16 @@
         "country": "RU"
     },
     {
+        "name": "Shanson TV",
+        "id": "ShansonTV.ru",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "M2",
         "id": "M2.ua",
         "logo": "https://i.imgur.com/AfcBWCg.png",
@@ -2628,6 +2643,16 @@
         "id": "ElRadio9090FM.eg",
         "logo": "https://www.9090.fm/images/logo.png",
         "url": "https://9090video.mobtada.com/hls/stream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "NogoumFMTV",
+        "id": "NogoumFMTV.eg",
+        "logo": "https://i.imgur.com/krp3kgv.png",
+        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
         "categories": [
             "music"
         ],
@@ -2963,6 +2988,16 @@
             "music"
         ],
         "country": "MX"
+    },
+    {
+        "name": "D3 TV",
+        "id": "D3TV.ml",
+        "logo": "https://i.imgur.com/uFEIBtB.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "ML"
     },
     {
         "name": "Live99FM",
@@ -3455,36 +3490,6 @@
         "id": "Canal3KMKTV.cr",
         "logo": "https://i.imgur.com/sgRDRBK.jpg",
         "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CR"
-    },
-    {
-        "name": "VM Latino",
-        "id": "VMLatino.cr",
-        "logo": "https://i.imgur.com/Dvo1b82.png",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CR"
-    },
-    {
-        "name": "SOY Plancha TV",
-        "id": "SOYPlanchaTV.cr",
-        "logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CR"
-    },
-    {
-        "name": "Vintage Music",
-        "id": "VintageMusic.cr",
-        "logo": "https://i.imgur.com/KImqYnN.jpeg",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
         "categories": [
             "music"
         ],

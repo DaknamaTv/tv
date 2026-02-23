@@ -88,5 +88,315 @@
             "argentina"
         ],
         "country": ""
+    },
+    {
+        "name": "NET TV HD",
+        "id": "nettvhd",
+        "logo": "https://www.canalnet.tv/_templates/desktop/includes/img/lfooter.png",
+        "url": "https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemax HD",
+        "id": "telemaxhd",
+        "logo": "https://i.postimg.cc/t44v6WW9/Telemax.png",
+        "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTN Neuquén",
+        "id": "rtnneuqun",
+        "logo": "http://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png",
+        "url": "http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Power HD - Pinamar",
+        "id": "powerhdpinamar",
+        "logo": "http://www.radiopower.com.ar/img/logoPwrHD_small.png",
+        "url": "https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Canal 2 Telpin - Pinamar",
+        "id": "canal2telpinpinamar",
+        "logo": "https://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png",
+        "url": "https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Canal 4 - Esquel",
+        "id": "canal4esquel",
+        "logo": "http://www.canal4tv.net/assets/images/canal4-233x128.jpg",
+        "url": "http://streaming.arcast.com.ar:1935/canal4esquel/canal4esquel/playlist.m3u8",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Canal 4 - Jujuy",
+        "id": "canal4jujuy",
+        "logo": "https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg",
+        "url": "https://5cd577a3dd8ec.streamlock.net/CAMARAS/live6/playlist.m3u8",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Canal 4 BVC - Bahía Blanca",
+        "id": "canal4bvcbahablanca",
+        "logo": "http://cablenoticias.com.ar/wp-content/themes/news-mix-lite/images/logoC4.png",
+        "url": "https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.m3u8?dvr_window_length=60",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Canal 4 - Posadas",
+        "id": "canal4posadas",
+        "logo": "https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png",
+        "url": "https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Canal 9 Litoral - Entre Ríos",
+        "id": "canal9litoralentreros",
+        "logo": "http://fatpren.org.ar/wp-content/uploads/2017/04/canal9-240417.jpg",
+        "url": "https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - TNT Sports (L)(720)",
+        "id": "argtntsportsl720",
+        "logo": "https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157585",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - TNT Sports (TV)(720)",
+        "id": "argtntsportstv720",
+        "logo": "https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157584",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - DEPORTV (L)(720)",
+        "id": "argdeportvl720",
+        "logo": "https://i.postimg.cc/hv9dS3w0/Proyecto-X-Argentina-(11).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157596",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - ESPN 3 (M)(720)",
+        "id": "argespn3m720",
+        "logo": "https://i.postimg.cc/jqNNQL5z/Proyecto-X-Argentina-(14).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157560",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - ESPN 4 (M)(720)",
+        "id": "argespn4m720",
+        "logo": "https://i.postimg.cc/v899LcBL/Proyecto-X-Argentina-(15).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157561",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - TV Publica (L)(720)",
+        "id": "argtvpublical720",
+        "logo": "https://i.postimg.cc/4NQ9qqpb/Proyecto-X-Argentina-(26).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157586",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - TV Publica (Z)(720)",
+        "id": "argtvpublicaz720",
+        "logo": "https://i.postimg.cc/4NQ9qqpb/Proyecto-X-Argentina-(26).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157587",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - TyC Sports (L)(720)",
+        "id": "argtycsportsl720",
+        "logo": "https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157583",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - A24 (Z)(720)",
+        "id": "arga24z720",
+        "logo": "https://i.postimg.cc/9fMZGbRp/Proyecto-X-Argentina.png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157613",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - Argentinisima (i)(720)",
+        "id": "argargentinisimai720",
+        "logo": "https://i.postimg.cc/xdCMK5Js/Proyecto-X-Argentina-(2).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157608",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - C5N (L)(720)",
+        "id": "argc5nl720",
+        "logo": "https://i.postimg.cc/nLzBv2jT/Proyecto-X-Argentina-(3).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157607",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - C5N (M)(720)",
+        "id": "argc5nm720",
+        "logo": "https://i.postimg.cc/nLzBv2jT/Proyecto-X-Argentina-(3).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157566",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - Canal 26 (L)(720)",
+        "id": "argcanal26l720",
+        "logo": "https://i.postimg.cc/zfcWphT5/Proyecto-X-Argentina-(5).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157594",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - Cinear (Z)(720)",
+        "id": "argcinearz720",
+        "logo": "https://i.postimg.cc/PJGDnk63/Proyecto-X-Argentina-(8).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157601",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - DeporTV (M)(720)",
+        "id": "argdeportvm720",
+        "logo": "https://i.postimg.cc/hv9dS3w0/Proyecto-X-Argentina-(11).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157573",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - El Nueve (L)(720)",
+        "id": "argelnuevel720",
+        "logo": "https://i.postimg.cc/3R0GqwZT/Proyecto-X-Argentina-(6).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157621",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - El trece (L)(720)",
+        "id": "argeltrecel720",
+        "logo": "https://i.postimg.cc/zBHhQfF4/Proyecto-X-Argentina-(4).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157591",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - Metro (i)(720)",
+        "id": "argmetroi720",
+        "logo": "https://i.postimg.cc/m2s9dB1f/Proyecto-X-Argentina-(18).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157606",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - Multivision",
+        "id": "argmultivision",
+        "logo": "https://i.postimg.cc/T2mmqp1v/Proyecto-X-Argentina-(19).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157618",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - Telefe (i)(720)",
+        "id": "argtelefei720",
+        "logo": "https://i.postimg.cc/5NVzPbQ6/Proyecto-X-Argentina-(21).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157590",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG - Telefe Noticias (i)(720)",
+        "id": "argtelefenoticiasi720",
+        "logo": "https://i.postimg.cc/gkHZQQ30/Proyecto-X-Argentina-(22).png",
+        "url": "http://tv.diablotv.net:8080/carolibethmancilla/6qqBHE4TWM/157617",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
     }
 ]

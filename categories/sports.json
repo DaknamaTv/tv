@@ -144,6 +144,16 @@
         "country": "VN"
     },
     {
+        "name": "Belarus-5",
+        "id": "Belarus5.by",
+        "logo": "https://i.imgur.com/NJsRFud.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BY"
+    },
+    {
         "name": "DAZN Combat",
         "id": "DAZNCombat.uk",
         "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
@@ -625,16 +635,6 @@
         "country": "US"
     },
     {
-        "name": "W14DK-D5",
-        "id": "W14DKD5.us",
-        "logo": "https://i.imgur.com/D4mZ8ll.png",
-        "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Lacrosse TV",
         "id": "LacrosseTV.us",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj",
@@ -689,6 +689,16 @@
         "id": "StarSports2Hindi.in",
         "logo": "https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png",
         "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 2",
+        "id": "SonySportsTen2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -946,6 +956,16 @@
         "country": "DE"
     },
     {
+        "name": "Sportdigital FUSSBALL",
+        "id": "SportdigitalFUSSBALL.de",
+        "logo": "https://i.imgur.com/NDbWxqF.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DE"
+    },
+    {
         "name": "Bahrain Sports 2",
         "id": "BahrainSports2.bh",
         "logo": "https://i.imgur.com/ZkuZmIo.png",
@@ -1076,6 +1096,16 @@
         "country": "MN"
     },
     {
+        "name": "MNB Sport",
+        "id": "MNBSport.mn",
+        "logo": "https://i.imgur.com/z854PC3.png",
+        "url": "https://live.mnb.mn/hls/mnb_sport.stream.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "MN"
+    },
+    {
         "name": "RTI La 3",
         "id": "RTILa3.ci",
         "logo": "https://i.imgur.com/HdNshgF.png",
@@ -1096,16 +1126,6 @@
             "sports"
         ],
         "country": "MX"
-    },
-    {
-        "name": "M-Net Sport",
-        "id": "MNetSport.mk",
-        "logo": "https://i.imgur.com/7k8ar1Z.png",
-        "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "MK"
     },
     {
         "name": "TDM Sports",
@@ -1132,6 +1152,16 @@
         "id": "RACERInternational.pl",
         "logo": "",
         "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "TVP Sport",
+        "id": "TVPSport.pl",
+        "logo": "https://i.imgur.com/JUZDOCO.png",
+        "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
         "categories": [
             "sports"
         ],
@@ -1166,6 +1196,16 @@
             "sports"
         ],
         "country": "BO"
+    },
+    {
+        "name": "Tigo Sports",
+        "id": "TigoSports.sv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
+        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "SV"
     },
     {
         "name": "Alkass Five",
@@ -1246,6 +1286,16 @@
             "sports"
         ],
         "country": "QA"
+    },
+    {
+        "name": "Radio Turrialba TV Sports",
+        "id": "RadioTurrialbaTVSports.cr",
+        "logo": "https://i.imgur.com/2ZcUXbE.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "CR"
     },
     {
         "name": "TJK TV",

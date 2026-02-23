@@ -585,16 +585,6 @@
         "country": "US"
     },
     {
-        "name": "W14DK-D2",
-        "id": "W14DKD2.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
-        "url": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Kartoon Channel!",
         "id": "KartoonChannel.us",
         "logo": "https://i.imgur.com/1luzP3T.png",
@@ -3809,16 +3799,6 @@
         "url": "https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "theDove TV",
-        "id": "theDoveTV.us",
-        "logo": "https://i.imgur.com/ULtuRsj.png",
-        "url": "https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8",
-        "categories": [
-            "religious"
         ],
         "country": "US"
     },
@@ -9433,16 +9413,6 @@
         "country": "US"
     },
     {
-        "name": "W14DK-D5",
-        "id": "W14DKD5.us",
-        "logo": "https://i.imgur.com/D4mZ8ll.png",
-        "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Duck Hunting TV",
         "id": "DuckHuntingTV.us",
         "logo": "https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png",
@@ -9517,16 +9487,6 @@
         "country": "US"
     },
     {
-        "name": "JBS",
-        "id": "JBS.us",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
-        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Turma da Monica",
         "id": "TurmadaMonica.us",
         "logo": "https://i.imgur.com/nrvPPrW.png",
@@ -9534,6 +9494,40 @@
         "categories": [
             "kids"
         ],
+        "country": "US"
+    },
+    {
+        "name": "KUVN-DT1",
+        "id": "KUVNDT1.us",
+        "logo": "https://i.imgur.com/PGJOFD4.png",
+        "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "WTTW-DT1",
+        "id": "WTTWDT1.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
+        "url": "http://68.251.105.81:5004/auto/v11.1",
+        "categories": [],
+        "country": "US"
+    },
+    {
+        "name": "WTTW-DT2",
+        "id": "WTTWDT2.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
+        "url": "http://68.251.105.81:5004/auto/v11.2",
+        "categories": [],
+        "country": "US"
+    },
+    {
+        "name": "WTTW-DT3",
+        "id": "WTTWDT3.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png",
+        "url": "http://68.251.105.81:5004/auto/v11.3",
+        "categories": [],
         "country": "US"
     }
 ]

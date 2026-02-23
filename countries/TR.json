@@ -410,16 +410,6 @@
         "country": "TR"
     },
     {
-        "name": "Kanal Hayat",
-        "id": "KanalHayat.tr",
-        "logo": "https://i.imgur.com/eikZj19.png",
-        "url": "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "TV 264",
         "id": "TV264.tr",
         "logo": "https://i.imgur.com/tudXdOZ.png",
@@ -628,16 +618,6 @@
         "url": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Fortuna TV",
-        "id": "FortunaTV.tr",
-        "logo": "https://i.imgur.com/ZbUSlOC.png",
-        "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
-        "categories": [
-            "lifestyle"
         ],
         "country": "TR"
     },

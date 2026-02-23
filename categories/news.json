@@ -167,6 +167,16 @@
         "country": "BR"
     },
     {
+        "name": "TV Sim Cachoeiro",
+        "id": "TVSimCachoeiro.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "First Channel News",
         "id": "FirstChannelNews.am",
         "logo": "https://i.imgur.com/RlYJUH4.png",
@@ -412,16 +422,6 @@
         "id": "ChannelY.ca",
         "logo": "https://i.imgur.com/OqSl2Qf.png",
         "url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "Probashi TV News",
-        "id": "ProbashiTVNews.ca",
-        "logo": "https://i.imgur.com/7oTsfQ4.png",
-        "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
         "categories": [
             "news"
         ],
@@ -886,16 +886,6 @@
         "id": "PayvandTV.us",
         "logo": "https://i.imgur.com/A4gqEmG.png",
         "url": "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "W14DK-D2",
-        "id": "W14DKD2.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
-        "url": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -3643,20 +3633,40 @@
         "country": "IN"
     },
     {
-        "name": "Awaaz India TV",
-        "id": "AwaazIndiaTV.in",
-        "logo": "https://i.imgur.com/eKQs51V.png",
-        "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+        "name": "Malabar News",
+        "id": "MalabarNews.in",
+        "logo": "https://i.imgur.com/Un2gxt4.png",
+        "url": "http://cloud.logichost.in:1935/live/malabarnews/index.m3u8",
         "categories": [
             "news"
         ],
         "country": "IN"
     },
     {
-        "name": "Malabar News",
-        "id": "MalabarNews.in",
-        "logo": "https://i.imgur.com/Un2gxt4.png",
-        "url": "http://cloud.logichost.in:1935/live/malabarnews/index.m3u8",
+        "name": "Gulistan News",
+        "id": "GulistanNews.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png",
+        "url": "https://live.gulistannews.in/hls/gul.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "JK 24x7 News",
+        "id": "JK24x7News.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png",
+        "url": "https://live.gulistannews.in/hls/jk.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "RDX Goa",
+        "id": "RDXGoa.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
+        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -3737,6 +3747,16 @@
         "id": "TeleMoldovaPlus.ro",
         "logo": "https://i.imgur.com/8z0zLjw.jpeg",
         "url": "https://vdo.ssl-stream.com:3247/stream/play.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Euronews Romania",
+        "id": "EuronewsRomania.ro",
+        "logo": "https://i.imgur.com/jUOVUXt.png",
+        "url": "https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8",
         "categories": [
             "news"
         ],
@@ -4341,6 +4361,16 @@
         "id": "AlSharqiyaNews.iq",
         "logo": "https://i.imgur.com/PeAcXB9.png",
         "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Dijlah TV",
+        "id": "DijlahTV.iq",
+        "logo": "https://i.imgur.com/kyzH3G5.png",
+        "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
         "categories": [
             "news"
         ],
@@ -5160,6 +5190,16 @@
         "country": "LB"
     },
     {
+        "name": "Palestine Al Yawm",
+        "id": "PalestineAlYawm.lb",
+        "logo": "https://i.imgur.com/n8dSgx4.png",
+        "url": "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "LB"
+    },
+    {
         "name": "Norte Informativo TV",
         "id": "NorteInformativoTV.cr",
         "logo": "https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg",
@@ -5334,6 +5374,16 @@
         "id": "SucesoTV.py",
         "logo": "https://i.imgur.com/BwRNes1.png",
         "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "C9N",
+        "id": "C9N.py",
+        "logo": "https://i.imgur.com/Cp4zJ7O.png",
+        "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
         "categories": [
             "news"
         ],

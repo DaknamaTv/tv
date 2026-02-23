@@ -32,6 +32,17 @@
         "country": "BR"
     },
     {
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "categories": [
+            "culture",
+            "education"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "zenith",
         "id": "zenith.fr",
         "logo": "https://znth.tv/static/site_app/thy%20logo.svg",
@@ -114,6 +125,21 @@
         "country": "CA"
     },
     {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://alternatv.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "Salto 2",
         "id": "Salto2.nl",
         "logo": "https://i.imgur.com/6H3ycdL.png",
@@ -162,6 +188,16 @@
             "culture"
         ],
         "country": "DO"
+    },
+    {
+        "name": "Belarus-3",
+        "id": "Belarus3.by",
+        "logo": "https://i.imgur.com/JkcDycn.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "BY"
     },
     {
         "name": "Garshom TV",
@@ -362,6 +398,17 @@
         "country": "IN"
     },
     {
+        "name": "Jaya Plus",
+        "id": "JayaPlus.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png",
+        "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
+        "categories": [
+            "culture",
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Manas TV",
         "id": "ManasTV.kg",
         "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
@@ -428,16 +475,6 @@
         "id": "AsiriTV.pe",
         "logo": "https://i.imgur.com/7bGVFBa.png",
         "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "USMPTV",
-        "id": "USMPTV.pe",
-        "logo": "https://i.imgur.com/9cmIv3q.png",
-        "url": "https://streamusmptv.ddns.net/live/stream.m3u8",
         "categories": [
             "culture"
         ],
@@ -692,16 +729,6 @@
         "country": "BO"
     },
     {
-        "name": "2STV",
-        "id": "2STV.sn",
-        "logo": "https://i.imgur.com/WByVBZf.png",
-        "url": "http://69.64.57.208/2stv/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "SN"
-    },
-    {
         "name": "JOS TV HD",
         "id": "JOSTVHD.cg",
         "logo": "https://i.imgur.com/Ai9kpuu.jpeg",
@@ -731,6 +758,17 @@
             "travel"
         ],
         "country": "CR"
+    },
+    {
+        "name": "ETV 2",
+        "id": "ETV2.ee",
+        "logo": "https://i.imgur.com/fUjGHDa.png",
+        "url": "https://sb.err.ee/live/etv2.m3u8",
+        "categories": [
+            "kids",
+            "culture"
+        ],
+        "country": "EE"
     },
     {
         "name": "Trishul Broadcasting Network",

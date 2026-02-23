@@ -1,15 +1,5 @@
 [
     {
-        "name": "Disney Channel East",
-        "id": "disneychanneleast",
-        "logo": "",
-        "url": "http://fl12.moveonjoy.com/DISNEY/index.m3u8",
-        "categories": [
-            "moveonjoy"
-        ],
-        "country": ""
-    },
-    {
         "name": "QVC (720p)",
         "id": "qvc720p",
         "logo": "",
@@ -24,26 +14,6 @@
         "id": "sportsnetnewyork540p",
         "logo": "",
         "url": "http://212.102.60.231/SNY/index.m3u8",
-        "categories": [
-            "moveonjoy"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ION TV East",
-        "id": "iontveast",
-        "logo": "",
-        "url": "http://fl12.moveonjoy.com/ION_TV/index.m3u8",
-        "categories": [
-            "moveonjoy"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MTV East",
-        "id": "mtveast",
-        "logo": "",
-        "url": "http://fl12.moveonjoy.com/MTV/index.m3u8",
         "categories": [
             "moveonjoy"
         ],
@@ -74,16 +44,6 @@
         "id": "starzwest",
         "logo": "",
         "url": "http://212.102.60.231/STARZ_WEST/index.m3u8",
-        "categories": [
-            "moveonjoy"
-        ],
-        "country": ""
-    },
-    {
-        "name": "We TV East",
-        "id": "wetveast",
-        "logo": "",
-        "url": "http://fl12.moveonjoy.com/WE_TV/index.m3u8",
         "categories": [
             "moveonjoy"
         ],

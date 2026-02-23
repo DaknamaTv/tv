@@ -4848,16 +4848,6 @@
         "country": "IN"
     },
     {
-        "name": "Awaaz India TV",
-        "id": "AwaazIndiaTV.in",
-        "logo": "https://i.imgur.com/eKQs51V.png",
-        "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Dabangg",
         "id": "Dabangg.in",
         "logo": "https://i.imgur.com/6ChpxLy.png",
@@ -4965,6 +4955,107 @@
         "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "&pictures",
+        "id": "Andpictures.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png",
+        "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "&prive HD",
+        "id": "AndpriveHD.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png",
+        "url": "http://103.229.254.25:7001/play/a03f/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Gulistan News",
+        "id": "GulistanNews.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png",
+        "url": "https://live.gulistannews.in/hls/gul.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Jaya Plus",
+        "id": "JayaPlus.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png",
+        "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
+        "categories": [
+            "culture",
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "JK 24x7 News",
+        "id": "JK24x7News.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png",
+        "url": "https://live.gulistannews.in/hls/jk.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "RDX Goa",
+        "id": "RDXGoa.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
+        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Pix",
+        "id": "SonyPix.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a0ed/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 2",
+        "id": "SonySportsTen2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Gold Select",
+        "id": "StarGoldSelect.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Swantham",
+        "id": "Swantham.in",
+        "logo": "https://i.imgur.com/ye6v4GP.png",
+        "url": "http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "IN"
     }

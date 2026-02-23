@@ -1011,16 +1011,6 @@
         "country": "IT"
     },
     {
-        "name": "Rai Yoyo",
-        "id": "RaiYoyo.it",
-        "logo": "https://i.imgur.com/9gCxiDy.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899",
-        "categories": [
-            "kids"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "ARB Gunes",
         "id": "ARBGunes.az",
         "logo": "https://i.imgur.com/dSg7KUK.png",
@@ -1167,6 +1157,17 @@
             "kids"
         ],
         "country": "CR"
+    },
+    {
+        "name": "ETV 2",
+        "id": "ETV2.ee",
+        "logo": "https://i.imgur.com/fUjGHDa.png",
+        "url": "https://sb.err.ee/live/etv2.m3u8",
+        "categories": [
+            "kids",
+            "culture"
+        ],
+        "country": "EE"
     },
     {
         "name": "TRT Cocuk",
