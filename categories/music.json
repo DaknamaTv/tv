@@ -720,6 +720,16 @@
         "country": "HN"
     },
     {
+        "name": "La Top 107.7",
+        "id": "LaTop1077.hn",
+        "logo": "https://i.imgur.com/vgHhh1W.jpg",
+        "url": "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "HN"
+    },
+    {
         "name": "Tra Vinh TV",
         "id": "TraVinhTV.vn",
         "logo": "https://i.imgur.com/F12VdKO.png",
@@ -2552,16 +2562,6 @@
         "country": "DE"
     },
     {
-        "name": "Deluxe Lounge",
-        "id": "DeluxeLounge.de",
-        "logo": "https://i.imgur.com/pgCA35z.png",
-        "url": "https://jmp2.uk/stvp-CHAJ0500413A",
-        "categories": [
-            "music"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "Radio Bonita 106.7",
         "id": "RadioBonita1067.ec",
         "logo": "https://i.imgur.com/IvZtqyz.png",
@@ -3183,26 +3183,6 @@
         "country": "HR"
     },
     {
-        "name": "Folk Klub TV",
-        "id": "FolkKlubTV.au",
-        "logo": "https://i.imgur.com/Seq7Od7.png",
-        "url": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "AU"
-    },
-    {
-        "name": "INTV Australia",
-        "id": "INTVAustralia.au",
-        "logo": "https://i.imgur.com/1nJl0Pv.png",
-        "url": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "AU"
-    },
-    {
         "name": "DSTV",
         "id": "DSTV.bg",
         "logo": "https://i.imgur.com/YMgzzkf.png",
@@ -3533,6 +3513,26 @@
         "id": "Canal3KMKTV.cr",
         "logo": "https://i.imgur.com/sgRDRBK.jpg",
         "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "SOY Plancha TV",
+        "id": "SOYPlanchaTV.cr",
+        "logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "Vintage Music",
+        "id": "VintageMusic.cr",
+        "logo": "https://i.imgur.com/KImqYnN.jpeg",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -3890,14 +3890,15 @@
         "country": "PY"
     },
     {
-        "name": "AFN TV",
-        "id": "AFNTV.ir",
-        "logo": "https://i.imgur.com/LctanF8.png",
-        "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
+        "name": "GO TV",
+        "id": "GOTV.py",
+        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "categories": [
+            "entertainment",
             "music"
         ],
-        "country": "IR"
+        "country": "PY"
     },
     {
         "name": "Radio Carnaval TV",
@@ -4047,6 +4048,16 @@
         "id": "SuperQPanama.pa",
         "logo": "https://i.imgur.com/ocTnqi7.png",
         "url": "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PA"
+    },
+    {
+        "name": "Tropi Q 99.7 FM",
+        "id": "TropiQ997FM.pa",
+        "logo": "https://i.imgur.com/5rPdHhb.png",
+        "url": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
         "categories": [
             "music"
         ],

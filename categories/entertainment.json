@@ -166,6 +166,16 @@
         "country": "CM"
     },
     {
+        "name": "TR24 Television",
+        "id": "TR24Television.cm",
+        "logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
+        "url": "https://stream.it-innov.com/tr24/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CM"
+    },
+    {
         "name": "MBC Persia",
         "id": "MBCPersia.ae",
         "logo": "https://i.imgur.com/4FXiyjn.png",
@@ -532,6 +542,26 @@
         "country": "DO"
     },
     {
+        "name": "Pronems TV",
+        "id": "PronemsTV.do",
+        "logo": "https://i.imgur.com/a9ORO1G.png",
+        "url": "https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "TVS",
+        "id": "TVS.do",
+        "logo": "https://i.imgur.com/a2YX1oj.jpg",
+        "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Kapamilya Channel",
         "id": "KapamilyaChannel.ph",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/512px-Kapamilya_Channel_Logo_2020.svg.png",
@@ -592,6 +622,16 @@
         "country": "HN"
     },
     {
+        "name": "Radio Omega TV",
+        "id": "RadioOmegaTV.hn",
+        "logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
+        "url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "HN"
+    },
+    {
         "name": "Dong Nai TV 2",
         "id": "DongNaiTV2.vn",
         "logo": "https://i.imgur.com/tNKPSkO.png",
@@ -644,16 +684,6 @@
             "entertainment"
         ],
         "country": "MZ"
-    },
-    {
-        "name": "Belarus-2",
-        "id": "Belarus2.by",
-        "logo": "https://i.imgur.com/BpEHpPS.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BY"
     },
     {
         "name": "OTV",
@@ -3209,17 +3239,6 @@
         "country": "MX"
     },
     {
-        "name": "PSN",
-        "id": "PSN.mx",
-        "logo": "https://i.imgur.com/7i7GkSL.png",
-        "url": "https://srspsn.live/live/livestream.m3u8",
-        "categories": [
-            "entertainment",
-            "news"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "VB Media TV",
         "id": "VBMediaTV.mx",
         "logo": "https://i.imgur.com/5qlVblr.png",
@@ -3300,16 +3319,6 @@
         "country": "GT"
     },
     {
-        "name": "SAS TV",
-        "id": "SASTV.gt",
-        "logo": "https://i.imgur.com/VShjB3o.png",
-        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "GT"
-    },
-    {
         "name": "TV Nova",
         "id": "TVNova.hr",
         "logo": "https://i.imgur.com/gFjJ7YB.png",
@@ -3358,6 +3367,16 @@
             "entertainment"
         ],
         "country": "HU"
+    },
+    {
+        "name": "Jiangsu Variety Channel",
+        "id": "JiangsuVarietyChannel.cn",
+        "logo": "https://www.tvchinese.net/uploads/tv/jszy.jpg",
+        "url": "http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CN"
     },
     {
         "name": "This is Bulgaria HD",
@@ -3693,6 +3712,17 @@
             "entertainment"
         ],
         "country": "VE"
+    },
+    {
+        "name": "GO TV",
+        "id": "GOTV.py",
+        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+        "categories": [
+            "entertainment",
+            "music"
+        ],
+        "country": "PY"
     },
     {
         "name": "247 Box TV",

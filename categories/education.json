@@ -21,21 +21,22 @@
         "country": "BR"
     },
     {
-        "name": "TV UFG",
-        "id": "TVUFG.br",
-        "logo": "https://i.imgur.com/Yp3dbJo.png",
-        "url": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8",
+        "name": "ISTV",
+        "id": "ISTV.br",
+        "logo": "https://i.imgur.com/RUKVrOH.png",
+        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
         "categories": [
             "education"
         ],
         "country": "BR"
     },
     {
-        "name": "ISTV",
-        "id": "ISTV.br",
-        "logo": "https://i.imgur.com/RUKVrOH.png",
-        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
         "categories": [
+            "culture",
             "education"
         ],
         "country": "BR"
@@ -676,6 +677,16 @@
         "country": "MX"
     },
     {
+        "name": "Tele UV",
+        "id": "TeleUV.mx",
+        "logo": "https://i.imgur.com/8MdUH69.jpeg",
+        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
         "name": "DLTV 6",
         "id": "DLTV6.th",
         "logo": "https://i.imgur.com/qeIHWC0.png",
@@ -1014,16 +1025,6 @@
             "education"
         ],
         "country": "ES"
-    },
-    {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "ID"
     },
     {
         "name": "Yaslyk",

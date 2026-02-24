@@ -8008,16 +8008,6 @@
         "country": "US"
     },
     {
-        "name": "Nick Jr. Latin America",
-        "id": "NickJrLatinAmerica.us",
-        "logo": "https://i.imgur.com/KT4tdQs.png",
-        "url": "http://38.199.6.1:17001/play/a0pb/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Al-Mahdi TV",
         "id": "AlMahdiTV.us",
         "logo": "https://i.imgur.com/S1YM83i.png",
@@ -9493,14 +9483,6 @@
         "country": "US"
     },
     {
-        "name": "Real America's Voice",
-        "id": "RealAmericasVoice.us",
-        "logo": "https://i.imgur.com/l7tmTjX.png",
-        "url": "https://jmp2.uk/stvp-USBB1900002KF",
-        "categories": [],
-        "country": "US"
-    },
-    {
         "name": "theDove TV",
         "id": "theDoveTV.us",
         "logo": "https://i.imgur.com/ULtuRsj.png",
@@ -9721,6 +9703,36 @@
         "id": "KTVKDT1.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/512px-KTVK_logo.svg.png",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Albdreams TV",
+        "id": "AlbdreamsTV.us",
+        "logo": "https://i.imgur.com/3VWF3sj.png",
+        "url": "http://live.albavision.net:1123/live/albdreams.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "NFL RedZone",
+        "id": "NFLRedZone.us",
+        "logo": "https://i.imgur.com/5lPqQj5.png",
+        "url": "https://tvpass.org/live/NFLRedZone/sd",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TV Quisqueya",
+        "id": "TVQuisqueya.us",
+        "logo": "https://i.imgur.com/G7X4LQI.png",
+        "url": "https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8",
         "categories": [
             "general"
         ],

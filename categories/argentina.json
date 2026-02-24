@@ -170,16 +170,6 @@
         "country": ""
     },
     {
-        "name": "ARG: TN NOTICIAS",
-        "id": "argtnnoticias",
-        "logo": "",
-        "url": "http://xxip25.top:8080/hVvwU8/670199/164873",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
         "name": "Canal 7 - Catamarca",
         "id": "canal7catamarca",
         "logo": "http://catamarcartv.com/wp-content/uploads/2013/11/Logo-canal-Nosotros.png",
@@ -204,6 +194,36 @@
         "id": "rtnneuqun",
         "logo": "http://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png",
         "url": "http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Canal 4 Telecondor",
+        "id": "canal4telecondor",
+        "logo": "https://i.postimg.cc/tTY6Cgy5/condor.jpg",
+        "url": "https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG: ENCUENTRO HD",
+        "id": "argencuentrohd",
+        "logo": "",
+        "url": "http://xxip25.top:8080/pf2kGs/310637/164878",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG: INFORMACION PERIODISTICA HD",
+        "id": "arginformacionperiodisticahd",
+        "logo": "",
+        "url": "http://xxip25.top:8080/pf2kGs/310637/164879",
         "categories": [
             "argentina"
         ],

@@ -1,5 +1,15 @@
 [
     {
+        "name": "Canal do Inter",
+        "id": "CanaldoInter.br",
+        "logo": "https://i.imgur.com/TQFWEIS.png",
+        "url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "Equidia",
         "id": "Equidia.fr",
         "logo": "https://i.imgur.com/QPpbRcZ.png",
@@ -705,6 +715,16 @@
         "country": "US"
     },
     {
+        "name": "NFL RedZone",
+        "id": "NFLRedZone.us",
+        "logo": "https://i.imgur.com/5lPqQj5.png",
+        "url": "https://tvpass.org/live/NFLRedZone/sd",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
         "name": "DD Sports",
         "id": "DDSports.in",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
@@ -1208,16 +1228,6 @@
         "country": "MX"
     },
     {
-        "name": "M-Net Sport",
-        "id": "MNetSport.mk",
-        "logo": "https://i.imgur.com/7k8ar1Z.png",
-        "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "MK"
-    },
-    {
         "name": "ATG Live",
         "id": "ATGLive.se",
         "logo": "https://i.imgur.com/bPWFXkL.png",
@@ -1246,6 +1256,16 @@
             "sports"
         ],
         "country": "PL"
+    },
+    {
+        "name": "Multivision Sports",
+        "id": "MultivisionSports.gt",
+        "logo": "https://i.imgur.com/wLjSSo2.jpg",
+        "url": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "GT"
     },
     {
         "name": "M4 Sport",

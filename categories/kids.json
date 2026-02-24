@@ -104,16 +104,6 @@
         "country": "DO"
     },
     {
-        "name": "Chinola TV",
-        "id": "ChinolaTV.do",
-        "logo": "https://i.imgur.com/ybud4dI.png",
-        "url": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Mr Bean Live Action",
         "id": "MrBeanLiveAction.uk",
         "logo": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png",
@@ -620,16 +610,6 @@
         "id": "TotallyTurtles.us",
         "logo": "https://i.imgur.com/1gIpagY.png",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3441abd1-12dc-4351-b79d-3b4eb58dc339",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Nick Jr. Latin America",
-        "id": "NickJrLatinAmerica.us",
-        "logo": "https://i.imgur.com/KT4tdQs.png",
-        "url": "http://38.199.6.1:17001/play/a0pb/index.m3u8",
         "categories": [
             "kids"
         ],
@@ -1210,6 +1190,16 @@
             "culture"
         ],
         "country": "EE"
+    },
+    {
+        "name": "TRT Cocuk",
+        "id": "TRTCocuk.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "TR"
     },
     {
         "name": "Lenz Animation",

@@ -50,16 +50,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Aparecida",
-        "id": "TVAparecida.br",
-        "logo": "https://i.imgur.com/kxrja0X.png",
-        "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Despertar TV",
         "id": "DespertarTV.br",
         "logo": "https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png",
@@ -2270,26 +2260,6 @@
         "country": "IN"
     },
     {
-        "name": "Dheeran TV",
-        "id": "DheeranTV.in",
-        "logo": "https://i.imgur.com/jSedjXf.png",
-        "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Namdhari TV",
-        "id": "NamdhariTV.in",
-        "logo": "https://i.imgur.com/NalsXTo.png",
-        "url": "https://namdhari.tv/live/sbs1.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "ZB Bhakti",
         "id": "ZBBhakti.in",
         "logo": "https://i.imgur.com/MBaKNPC.jpeg",
@@ -2474,6 +2444,16 @@
         "id": "FrecuenciaFTV.co",
         "logo": "https://i.imgur.com/Cw5k96N.png",
         "url": "https://tv.frecuenciaf.com/live/envivo.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Tu Universo TV",
+        "id": "TuUniversoTV.co",
+        "logo": "https://i.imgur.com/e6esjLZ.jpg",
+        "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -3274,6 +3254,16 @@
         "country": "TH"
     },
     {
+        "name": "TV Muslim Thailand",
+        "id": "TVMuslimThailand.th",
+        "logo": "https://i.imgur.com/aCFpuzW.png",
+        "url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "TH"
+    },
+    {
         "name": "Canal 30 TV Bethel",
         "id": "Canal30TVBethel.gt",
         "logo": "https://i.imgur.com/PP4U1JL.png",
@@ -3338,16 +3328,6 @@
         "id": "ElRoiTV.gt",
         "logo": "https://i.imgur.com/h8S0eA4.png",
         "url": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "GT"
-    },
-    {
-        "name": "Espiritu Santo Y Fuego TV",
-        "id": "EspirituSantoYFuegoTV.gt",
-        "logo": "https://i.imgur.com/8mdSWO4.jpg",
-        "url": "https://inliveserver.com:1936/8392/8392/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -3554,6 +3534,16 @@
         "country": "SV"
     },
     {
+        "name": "Josue TV",
+        "id": "JosueTV.sv",
+        "logo": "https://i.imgur.com/LNWGe1D.jpg",
+        "url": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
         "name": "Madani Channel Bangla",
         "id": "MadaniChannelBangla.bd",
         "logo": "https://i.imgur.com/vIJTVia.png",
@@ -3659,26 +3649,6 @@
         "id": "Triunfo969FM.pr",
         "logo": "https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png",
         "url": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PR"
-    },
-    {
-        "name": "DNJ TV",
-        "id": "DNJTV.pr",
-        "logo": "https://i.imgur.com/YqTcGJZ.png",
-        "url": "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PR"
-    },
-    {
-        "name": "WWXY-DT3",
-        "id": "WWXYDT3.pr",
-        "logo": "https://i.imgur.com/lAhIGsI.png",
-        "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
         "categories": [
             "religious"
         ],
@@ -4269,6 +4239,16 @@
         "country": "VE"
     },
     {
+        "name": "Reforma TV",
+        "id": "ReformaTV.ve",
+        "logo": "https://i.imgur.com/iZMDddR.png",
+        "url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "VE"
+    },
+    {
         "name": "Caritas TV",
         "id": "CaritasTV.py",
         "logo": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
@@ -4506,6 +4486,16 @@
         "id": "CetelmonTV.es",
         "logo": "https://i.imgur.com/GGn7itj.png",
         "url": "http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Trece",
+        "id": "Trece.es",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png",
+        "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
         "categories": [
             "religious"
         ],
