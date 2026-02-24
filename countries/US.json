@@ -9353,16 +9353,6 @@
         "country": "US"
     },
     {
-        "name": "KTVK-DT1",
-        "id": "KTVKDT1.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/512px-KTVK_logo.svg.png",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Didgah TV",
         "id": "DidgahTV.us",
         "logo": "https://i.imgur.com/3SeAyBS.png",
@@ -9638,6 +9628,102 @@
         "categories": [
             "sports"
         ],
+        "country": "US"
+    },
+    {
+        "name": "Cars.TV",
+        "id": "CarsTV.us",
+        "logo": "https://i.imgur.com/JLSHiTp.png",
+        "url": "https://dvrfl04.tulix.tv/teleup-carstv/mpegts",
+        "categories": [
+            "auto"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Comedy TV",
+        "id": "ComedyTV.us",
+        "logo": "https://i.imgur.com/KLfXnba.png",
+        "url": "https://dvrfl04.tulix.tv/teleup-comedytv/mpegts",
+        "categories": [
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "DraftKings Network",
+        "id": "DraftKingsNetwork.us",
+        "logo": "",
+        "url": "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Golf Channel Latin America",
+        "id": "GolfChannelLatinAmerica.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/512px-Golf_Channel_Logo_2018.png",
+        "url": "http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Justice Central TV",
+        "id": "JusticeCentralTV.us",
+        "logo": "https://i.imgur.com/peuHszg.png",
+        "url": "https://dvrfl04.tulix.tv/teleup-justice/mpegts",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Little Guyana TV",
+        "id": "LittleGuyanaTV.us",
+        "logo": "https://i.imgur.com/b475xOT.jpg",
+        "url": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pasiones",
+        "id": "Pasiones.us",
+        "logo": "https://i.imgur.com/BCWbGf9.png",
+        "url": "https://dvrfl04.tulix.tv/teleup-pasiones/mpegts",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Telemundo Internacional",
+        "id": "TelemundoInternacional.us",
+        "logo": "https://i.imgur.com/j2O4ndp.png",
+        "url": "http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "WSCV-DT1",
+        "id": "WSCVDT1.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+        "url": "http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8",
+        "categories": [],
+        "country": "US"
+    },
+    {
+        "name": "WXXA-DT3",
+        "id": "WXXADT3.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png",
+        "url": "https://dvrfl04.tulix.tv/teleup-laff/mpegts",
+        "categories": [],
         "country": "US"
     }
 ]

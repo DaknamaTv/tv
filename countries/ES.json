@@ -1269,16 +1269,6 @@
         "country": "ES"
     },
     {
-        "name": "M95 Television Marbella",
-        "id": "M95TelevisionMarbella.es",
-        "logo": "https://i.imgur.com/RzAkP1V.png",
-        "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "LiraTV",
         "id": "LiraTV.es",
         "logo": "https://i.imgur.com/hBswXYZ.png",
@@ -1316,6 +1306,26 @@
         "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/88487",
         "categories": [
             "es : sport"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Antena 3 Internacional",
+        "id": "Antena3Internacional.es",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
+        "url": "http://177.10.184.193:8000/play/a06a/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Atrescine",
+        "id": "Atrescine.es",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png",
+        "url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8",
+        "categories": [
+            "movies"
         ],
         "country": "ES"
     }

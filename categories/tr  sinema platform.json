@@ -250,36 +250,6 @@
         "country": ""
     },
     {
-        "name": "Bein Movies Premiere FHD",
-        "id": "beinmoviespremierefhd",
-        "logo": "https://i.ibb.co/hF19dgyC/Bein-Movies-Premiere-Eno.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/865283.ts",
-        "categories": [
-            "tr ➤ sinema platform"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sinema 1002 HD",
-        "id": "sinema1002hd",
-        "logo": "https://i.ibb.co/6JpKQm02/SINEMA-TV-1002.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/865296.ts",
-        "categories": [
-            "tr ➤ sinema platform"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: beIN Movies Turk",
-        "id": "trbeinmoviesturk",
-        "logo": "https://i.ibb.co/sJ9sJ1km/BEIN-MOVIES-TURK.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/860717.ts",
-        "categories": [
-            "tr ➤ sinema platform"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: MovieSmart Classic",
         "id": "trmoviesmartclassic",
         "logo": "https://i.ibb.co/hJCH1Lwm/MOVIE-SMART-CLASSIC.png",
@@ -374,6 +344,76 @@
         "id": "trmoviesmarttrk",
         "logo": "https://i.ibb.co/G39L06jN/MOVIE-SMART-TURK.png",
         "url": "http://europe.siriusfiber.xyz:80/live/merolbekir/a.26082023s/860721.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sinema Aile HD",
+        "id": "sinemaailehd",
+        "logo": "https://i.ibb.co/wh2L1jq3/SINEMA-TV-AILE.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865297.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: beIN Series 3",
+        "id": "trbeinseries3",
+        "logo": "https://i.ibb.co/N2j3MnRt/BEIN-SERIES-3.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/860712.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Sinema TV 1001",
+        "id": "trsinematv1001",
+        "logo": "https://i.ibb.co/vvj28fcT/SINEMA-TV-1001.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/860722.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Sinema TV Aksiyon",
+        "id": "trsinematvaksiyon",
+        "logo": "https://i.ibb.co/LsrHhJX/SINEMA-TV-AKSIYON.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/860728.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Sinema Tv Yerli 2",
+        "id": "trsinematvyerli2",
+        "logo": "https://i.ibb.co/35yYGkFP/sinema-Yerli2.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/860732.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Epic Drama",
+        "id": "trepicdrama",
+        "logo": "https://i.ibb.co/6cMZS6p8/EPIC-DRAMA.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/860737.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: DiziSmart Max",
+        "id": "trdizismartmax",
+        "logo": "https://i.ibb.co/C3hwdwjw/DIZI-SMART-MAX.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/huseyinasu/x68UwNjFio/860718.ts",
         "categories": [
             "tr ➤ sinema platform"
         ],

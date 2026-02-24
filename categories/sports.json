@@ -144,16 +144,6 @@
         "country": "VN"
     },
     {
-        "name": "Belarus-5",
-        "id": "Belarus5.by",
-        "logo": "https://i.imgur.com/NJsRFud.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "BY"
-    },
-    {
         "name": "DAZN Combat",
         "id": "DAZNCombat.uk",
         "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
@@ -655,6 +645,26 @@
         "country": "US"
     },
     {
+        "name": "DraftKings Network",
+        "id": "DraftKingsNetwork.us",
+        "logo": "",
+        "url": "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Golf Channel Latin America",
+        "id": "GolfChannelLatinAmerica.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/512px-Golf_Channel_Logo_2018.png",
+        "url": "http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
         "name": "DD Sports",
         "id": "DDSports.in",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
@@ -709,6 +719,16 @@
         "id": "SonySportsTen5.in",
         "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png",
         "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 2",
+        "id": "SonySportsTen2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1158,16 +1178,6 @@
         "country": "MK"
     },
     {
-        "name": "TDM Sports",
-        "id": "TDMSports.mo",
-        "logo": "https://i.imgur.com/AsWLf8S.png",
-        "url": "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "MO"
-    },
-    {
         "name": "ATG Live",
         "id": "ATGLive.se",
         "logo": "https://i.imgur.com/bPWFXkL.png",
@@ -1216,16 +1226,6 @@
             "sports"
         ],
         "country": "BO"
-    },
-    {
-        "name": "Tigo Sports",
-        "id": "TigoSports.sv",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
-        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "SV"
     },
     {
         "name": "Alkass Five",
@@ -1306,16 +1306,6 @@
             "sports"
         ],
         "country": "QA"
-    },
-    {
-        "name": "Radio Turrialba TV Sports",
-        "id": "RadioTurrialbaTVSports.cr",
-        "logo": "https://i.imgur.com/2ZcUXbE.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "CR"
     },
     {
         "name": "TJK TV",

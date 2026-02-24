@@ -10,6 +10,26 @@
         "country": "BR"
     },
     {
+        "name": "TV Camara",
+        "id": "TVCamara.br",
+        "logo": "https://i.imgur.com/Sdou1Ab.png",
+        "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+        "categories": [
+            "legislative"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Camara 2",
+        "id": "TVCamara2.br",
+        "logo": "https://i.imgur.com/dHrUG1R.png",
+        "url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
+        "categories": [
+            "legislative"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "MOI TV",
         "id": "MOITV.kh",
         "logo": "https://i.imgur.com/fbI2ybo.png",
@@ -438,26 +458,6 @@
             "legislative"
         ],
         "country": "DK"
-    },
-    {
-        "name": "RTM Parlimen Dewan Negara",
-        "id": "RTMParlimenDewanNegara.my",
-        "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "MY"
-    },
-    {
-        "name": "RTM Parlimen Dewan Rakyat",
-        "id": "RTMParlimenDewanRakyat.my",
-        "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
-        "categories": [
-            "legislative"
-        ],
-        "country": "MY"
     },
     {
         "name": "Thai Parliament Television",

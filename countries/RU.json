@@ -2179,27 +2179,6 @@
         "country": "RU"
     },
     {
-        "name": "City Eden TeleNovella",
-        "id": "CityEdenTeleNovella.ru",
-        "logo": "https://i.imgur.com/mT5liTh.png",
-        "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "City Eden TV",
-        "id": "CityEdenTV.ru",
-        "logo": "https://i.imgur.com/X9kACKi.png",
-        "url": "https://cityeden.catcast.tv/content/34246/index.m3u8",
-        "categories": [
-            "general",
-            "religious"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Peretz International",
         "id": "PeretzInternational.ru",
         "logo": "https://i.imgur.com/On6ggLe.png",
@@ -2269,16 +2248,6 @@
         "country": "RU"
     },
     {
-        "name": "RTR-Planeta",
-        "id": "RTRPlaneta.ru",
-        "logo": "https://i.imgur.com/T42cuYx.png",
-        "url": "https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a",
-        "categories": [
-            "general"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Match! Planeta",
         "id": "MatchPlaneta.ru",
         "logo": "https://i.imgur.com/vhyMb9D.png",
@@ -2293,6 +2262,24 @@
         "id": "TVCentrInternational.ru",
         "logo": "https://i.imgur.com/tsCOnBW.png",
         "url": "https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8",
+        "categories": [],
+        "country": "RU"
+    },
+    {
+        "name": "Novyi Russkii",
+        "id": "NovyiRusskii.ru",
+        "logo": "https://i.imgur.com/iuRSScH.png",
+        "url": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "TKR",
+        "id": "TKR.ru",
+        "logo": "https://i.imgur.com/VqtPB7L.png",
+        "url": "http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8",
         "categories": [],
         "country": "RU"
     }

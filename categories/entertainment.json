@@ -246,6 +246,16 @@
         "country": "CA"
     },
     {
+        "name": "Sooriyan TV",
+        "id": "SooriyanTV.ca",
+        "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+        "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CA"
+    },
+    {
         "name": "Shamshad TV",
         "id": "ShamshadTV.af",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Shamshad_tv_logo.jpg",
@@ -346,16 +356,6 @@
         "id": "MaLive.nl",
         "logo": "https://i.imgur.com/0Vzg2OR.png",
         "url": "https://live.salto.nl/hls/malive_high.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "SBS6 Classics",
-        "id": "SBS6Classics.nl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
-        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -482,16 +482,6 @@
         "country": "DO"
     },
     {
-        "name": "TVS",
-        "id": "TVS.do",
-        "logo": "https://i.imgur.com/a2YX1oj.jpg",
-        "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Alegre TV RD",
         "id": "AlegreTVRD.do",
         "logo": "https://i.imgur.com/O6USO8r.png",
@@ -516,6 +506,36 @@
         "id": "VisionNDV.do",
         "logo": "https://i.imgur.com/4gj5NMa.png",
         "url": "https://soportedvb.click:3891/live/visionndvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Cibaena TV",
+        "id": "CibaenaTV.do",
+        "logo": "https://i.imgur.com/iHjdckl.png",
+        "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "R&E TV",
+        "id": "RETV.do",
+        "logo": "https://i.imgur.com/HpKQYp3.png",
+        "url": "https://live.ryetv.net/livelan/stream.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Telemax",
+        "id": "Telemax.do",
+        "logo": "https://i.imgur.com/QvKmjvV.png",
+        "url": "https://mlb.essastream.com:8081/telemax/tracks-v1a1/mono.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -566,16 +586,6 @@
         "id": "EDNTV.hn",
         "logo": "https://i.imgur.com/5fPsYTz.png",
         "url": "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "HN"
-    },
-    {
-        "name": "Radio Omega TV",
-        "id": "RadioOmegaTV.hn",
-        "logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
-        "url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1532,6 +1542,26 @@
         "country": "US"
     },
     {
+        "name": "Justice Central TV",
+        "id": "JusticeCentralTV.us",
+        "logo": "https://i.imgur.com/peuHszg.png",
+        "url": "https://dvrfl04.tulix.tv/teleup-justice/mpegts",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pasiones",
+        "id": "Pasiones.us",
+        "logo": "https://i.imgur.com/BCWbGf9.png",
+        "url": "https://dvrfl04.tulix.tv/teleup-pasiones/mpegts",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
         "name": "Jaihind TV",
         "id": "JaihindTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s143217_ld_h15_aa.png",
@@ -2168,16 +2198,6 @@
         "id": "SunNeo.in",
         "logo": "https://dtil.tmsimg.com/assets/s160751_ld_h15_aa.png",
         "url": "http://163.61.227.29:8000/play/a04t/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "KCL TV",
-        "id": "KCLTV.in",
-        "logo": "https://i.imgur.com/bkp9dIm.png",
-        "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3105,6 +3125,16 @@
         "country": "CW"
     },
     {
+        "name": "DNTV",
+        "id": "DNTV.ci",
+        "logo": "https://i.imgur.com/Pw1ifln.png",
+        "url": "https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CI"
+    },
+    {
         "name": "ITV Deportes",
         "id": "ITVDeportes.mx",
         "logo": "https://iili.io/J1kV1Bn.png",
@@ -3185,16 +3215,6 @@
             "entertainment"
         ],
         "country": "BS"
-    },
-    {
-        "name": "TDM Entertainment",
-        "id": "TDMEntertainment.mo",
-        "logo": "https://i.imgur.com/7ml2bfx.png",
-        "url": "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "MO"
     },
     {
         "name": "NBC 3",
@@ -3500,6 +3520,16 @@
             "entertainment"
         ],
         "country": "CR"
+    },
+    {
+        "name": "ETV+",
+        "id": "ETVPlus.ee",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",
+        "url": "https://sb.err.ee/live/etvpluss.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "EE"
     },
     {
         "name": "Nos Isla TV",

@@ -1,15 +1,5 @@
 [
     {
-        "name": "IND: Berita RTM FHD",
-        "id": "indberitartmfhd",
-        "logo": "https://www.muftiwp.gov.my/images/photo/keratan-akhbar/BeritaRTM/logobes.png",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5",
-        "categories": [
-            "india"
-        ],
-        "country": ""
-    },
-    {
         "name": "US Asian Kairali News (Malayalam) (S)",
         "id": "usasiankairalinewsmalayalams",
         "logo": "",
@@ -84,6 +74,16 @@
         "id": "usasianhindicolorsrishteys",
         "logo": "",
         "url": "http://tv2watch.icu:8080/cn7R0q/489385/125806",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Asian (Hindi) Times Now (S)",
+        "id": "usasianhinditimesnows",
+        "logo": "",
+        "url": "http://fortv.cc:8080/D76rh4/197436/125817",
         "categories": [
             "india"
         ],

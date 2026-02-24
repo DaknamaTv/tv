@@ -329,16 +329,6 @@
         "country": "CA"
     },
     {
-        "name": "GurSikh Sabha TV",
-        "id": "GurSikhSabhaTV.ca",
-        "logo": "https://i.imgur.com/2EKCtQm.png",
-        "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Sikh Spiritual Centre Rexdale",
         "id": "SikhSpiritualCentreRexdale.ca",
         "logo": "https://i.imgur.com/YKXoIsr.png",
@@ -752,6 +742,16 @@
         "id": "PrimeCanadaTV.ca",
         "logo": "https://i.imgur.com/Vji81jB.png",
         "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "Sooriyan TV",
+        "id": "SooriyanTV.ca",
+        "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+        "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
