@@ -2280,16 +2280,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Bhakti",
-        "id": "ZBBhakti.in",
-        "logo": "https://i.imgur.com/MBaKNPC.jpeg",
-        "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "LifeTv",
         "id": "LifeTv.sk",
         "logo": "https://i.imgur.com/jO8kAY2.png",
@@ -3555,6 +3545,16 @@
         "country": "SV"
     },
     {
+        "name": "Canal 65",
+        "id": "Canal65.sv",
+        "logo": "https://i.imgur.com/P15QovY.png",
+        "url": "https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
         "name": "Madani Channel Bangla",
         "id": "MadaniChannelBangla.bd",
         "logo": "https://i.imgur.com/vIJTVia.png",
@@ -4189,36 +4189,6 @@
         "country": "TR"
     },
     {
-        "name": "Himlen TV7",
-        "id": "HimlenTV7.fi",
-        "logo": "https://i.imgur.com/k8a7KNn.png",
-        "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "FI"
-    },
-    {
-        "name": "Taevas TV7",
-        "id": "TaevasTV7.fi",
-        "logo": "https://i.imgur.com/usXedIj.png",
-        "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "FI"
-    },
-    {
-        "name": "Taivas TV7",
-        "id": "TaivasTV7.fi",
-        "logo": "https://i.imgur.com/JyJNiXy.png",
-        "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "FI"
-    },
-    {
         "name": "TV Famille",
         "id": "TVFamille.mq",
         "logo": "https://i.imgur.com/Kbfihk5.png",
@@ -4416,16 +4386,6 @@
         "id": "MadaniChannelEnglish.pk",
         "logo": "https://i.imgur.com/Abi9j0A.png",
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PK"
-    },
-    {
-        "name": "God Stands TV",
-        "id": "GodStandsTV.pk",
-        "logo": "https://i.imgur.com/EO6cYUI.png",
-        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
         "categories": [
             "religious"
         ],
@@ -4675,6 +4635,16 @@
         "country": "ID"
     },
     {
+        "name": "Fajar TV",
+        "id": "FajarTV.id",
+        "logo": "https://i.imgur.com/mkuXxRK.png",
+        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "Tele Louange",
         "id": "TeleLouange.ht",
         "logo": "https://i.imgur.com/DjnMUuL.png",
@@ -4703,6 +4673,16 @@
             "religious"
         ],
         "country": "HT"
+    },
+    {
+        "name": "CNA",
+        "id": "CNA.dz",
+        "logo": "https://i.imgur.com/Ki3ySUE.png",
+        "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "DZ"
     },
     {
         "name": "RT JVA",

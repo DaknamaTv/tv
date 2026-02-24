@@ -607,14 +607,6 @@
         "country": "RO"
     },
     {
-        "name": "Bucovina TV",
-        "id": "BucovinaTV.ro",
-        "logo": "https://i.imgur.com/6klhXxp.png",
-        "url": "https://www.bucovinatv.ro/proxy/video/playlist.m3u8",
-        "categories": [],
-        "country": "RO"
-    },
-    {
         "name": "Angelus TV",
         "id": "AngelusTV.ro",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/1/12/Angelus_TV.svg/revision/latest/scale-to-width-down/512",
@@ -639,6 +631,16 @@
         "id": "IasiTVLife.ro",
         "logo": "https://i.imgur.com/HY7EL5e.png",
         "url": "https://tv.streambox.ro/hls/itv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "TVR International",
+        "id": "TVRInternational.ro",
+        "logo": "https://i.imgur.com/w28wcHs.png",
+        "url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8",
         "categories": [
             "general"
         ],

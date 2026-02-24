@@ -2150,16 +2150,6 @@
         "country": ""
     },
     {
-        "name": "ZB Kartun",
-        "id": "zbkartun",
-        "logo": "",
-        "url": "https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Premium Sports",
         "id": "premiumsports",
         "logo": "",
@@ -3050,16 +3040,6 @@
         "country": ""
     },
     {
-        "name": "Ekushey TV",
-        "id": "ekusheytv",
-        "logo": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
-        "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Azan TV",
         "id": "azantv",
         "logo": "",
@@ -3120,16 +3100,6 @@
         "country": ""
     },
     {
-        "name": "ZB Cinema",
-        "id": "zbcinema",
-        "logo": "",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Animal Planet HD",
         "id": "animalplanethd",
         "logo": "",
@@ -3154,16 +3124,6 @@
         "id": "humtv",
         "logo": "http://tvassets.roarzone.info/images/humtv.png",
         "url": "https://edge2.roarzone.info:8445/roarzone/edge3/hum/index.m3u8?token=7b70c607c56ed790f1a53ee0700e8ae44c8bdbc6-f9ed371f0e0e21515828364db3e49149-1771789656-1771786056",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ETV TV",
-        "id": "etvtv",
-        "logo": "",
-        "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8",
         "categories": [
             "bd"
         ],
@@ -3244,6 +3204,26 @@
         "id": "sholsports",
         "logo": "",
         "url": "https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PTV-SPORTS",
+        "id": "ptvsports",
+        "logo": "",
+        "url": "https://mysouq1.com/live/76631957/10205687/676664.ts",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Star Gold 2",
+        "id": "stargold2",
+        "logo": "",
+        "url": "http://103.182.170.32:8888/play/a01z",
         "categories": [
             "bd"
         ],

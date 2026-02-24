@@ -1,85 +1,5 @@
 [
     {
-        "name": "5-Minute Crafts",
-        "id": "5minutecrafts",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png",
-        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-63894c1965b848bf2c8a7800.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Beyond Belief",
-        "id": "beyondbelief",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1837808e-79a1-439e-9ae2-ff9c4b200b81/FilmRise_BeyondBelief_Logo_Whiterdx.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64f101b1c4b308f2fe3e7c0c.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Flashback 70s",
-        "id": "flashback70s",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/32c9c7ca-8544-4434-92c5-9a5dd9577746/flashback_70srdx.png",
-        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-62f15810a3ffe928ef806c75.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "GET",
-        "id": "get",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c99cdab5-8847-427e-9a14-251a5229f7ba/Plex_GET_Logo_LIGHT_1500x1000.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6933441e4b745570462f3d34.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "K-Baseball TV",
-        "id": "kbaseballtv",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-682dff1fdfc9c452b8f9842a.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Oro TV",
-        "id": "orotv",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ecf0c463-9ff8-4d9d-b756-0e9913c8ed60/Oro_TV_1500x1000-_For_dark_backgrounds.png",
-        "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-64f0db77c2bc9b9001d46eaa.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PickleTV",
-        "id": "pickletv",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pink Panther",
-        "id": "pinkpanther",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3c31975b-e818-4f3b-bbe2-7e433a07d5f0/PinkPanther_logo_dark_-_Carl_HoffeldercolorwhittexteREX.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6876f76054325376973fd314.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Popstar! TV",
         "id": "popstartv",
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/POPSTAR TV_logo_dark_v4.png",
@@ -90,40 +10,90 @@
         "country": ""
     },
     {
-        "name": "SLOPES",
-        "id": "slopes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png",
-        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-616df1be2cf008a748c8cb53.m3u8",
+        "name": "Autopista al Cielo",
+        "id": "autopistaalcielo",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/68950c80-d981-457f-89f9-d51fc2bcab02/Plex_FilmRise_AutopistaAlCielo_Color_Logo.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5811.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Unidentified",
-        "id": "unidentified",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8e929c59-4a28-4375-8ff1-2c92314bfc6a/unidentified.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6227d1d2c9f485cc7afe8c44.m3u8",
+        "name": "Beyond Paranormal",
+        "id": "beyondparanormal",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/896a3833-8bc3-4d75-8562-756070f8c4f0/beyond_paranormal_WHITE_Bryan_Mcdaid.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64d2c6acb18b113e0c61012a.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Watch it SCREAM",
-        "id": "watchitscream",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/945765a1-a848-4105-bf4d-5c27192e79ed/WatchitScream_logo_dark.png",
-        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-621671d05abdd3d5556a1baf.m3u8",
+        "name": "Cesar's Pack Leader TV",
+        "id": "cesarspackleadertv",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e24d3a4c-4948-4155-82c5-b7eec0fa50b8/Cesar_Logo_Transparent_WHTRDX.png",
+        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-693cbba358076a970420f597.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Y2K",
-        "id": "y2k",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ca8ce15a-6f58-4602-9d8c-d66bb894d7a2/Y2K.png",
-        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-62ee72cc271f393d2d9f7098.m3u8",
+        "name": "Hong Kong Fight Club",
+        "id": "hongkongfightclub",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/83976408-3f6b-4f5b-9359-9c1e140a7cec/HKFC_Logo_Dark_-_Paige_Sherman.png",
+        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-687e47c33f6f86f29359b2c7.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Lawless",
+        "id": "lawless",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d175e798-302f-41f4-bde4-9ca04015f085/Lawless_Plex_Logo_Light_1500x1000.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-654a6d313713a28d9f0b917f.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "More U",
+        "id": "moreu",
+        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6112a9139894c8002c6cb87f.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Music Legends",
+        "id": "musiclegends",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
+        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-6196c8c01d310bf925e02615.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Ryan and Friends",
+        "id": "ryanandfriends",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png",
+        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-5f91c4ea96a391002df9a664.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sonic TV",
+        "id": "sonictv",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png",
+        "url": "https://jmp2.uk/plex-6430aa45fc3be5947780904e-62ba4aaff663580a7238f327.m3u8",
         "categories": [
             "plex-all"
         ],

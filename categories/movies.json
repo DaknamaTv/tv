@@ -106,6 +106,16 @@
         "country": "AR"
     },
     {
+        "name": "Boreal",
+        "id": "Boreal.do",
+        "logo": "https://i.imgur.com/KSquHTG.png",
+        "url": "https://mlb.essastream.com:8081/borealtelevision/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Cinema One",
         "id": "CinemaOne.ph",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png",
@@ -1189,12 +1199,11 @@
         "country": "IN"
     },
     {
-        "name": "ZB Cinema",
-        "id": "ZBCinema.in",
-        "logo": "https://i.imgur.com/kUg6WSk.jpeg",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+        "name": "Star Gold Select",
+        "id": "StarGoldSelect.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
         "categories": [
-            "classic",
             "movies"
         ],
         "country": "IN"
@@ -1509,16 +1518,6 @@
         "country": "RU"
     },
     {
-        "name": "Novyi Russkii",
-        "id": "NovyiRusskii.ru",
-        "logo": "https://i.imgur.com/iuRSScH.png",
-        "url": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Afriwood Blockbuster",
         "id": "AfriwoodBlockbuster.za",
         "logo": "https://i.imgur.com/aESdqiB.png",
@@ -1657,6 +1656,16 @@
             "movies"
         ],
         "country": "MY"
+    },
+    {
+        "name": "Aurora Media Films",
+        "id": "AuroraMediaFilms.gt",
+        "logo": "https://i.imgur.com/DVC5w6H.png",
+        "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "GT"
     },
     {
         "name": "CTB Perth Movies Channel",

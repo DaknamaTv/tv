@@ -250,16 +250,6 @@
         "country": "KR"
     },
     {
-        "name": "HLAM-DTV",
-        "id": "HLAMDTV.kr",
-        "logo": "https://i.imgur.com/5oraHc0.png",
-        "url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "KR"
-    },
-    {
         "name": "Lotte Home Shopping",
         "id": "LotteHomeShopping.kr",
         "logo": "https://i.imgur.com/dJeNehc.png",
@@ -420,16 +410,6 @@
         "country": "KR"
     },
     {
-        "name": "HLCG-DTV",
-        "id": "HLCGDTV.kr",
-        "logo": "https://i.imgur.com/ABdmZMc.png",
-        "url": "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "KR"
-    },
-    {
         "name": "Hyundai Home Shopping",
         "id": "HyundaiHomeShopping.kr",
         "logo": "https://i.imgur.com/NJpECmq.png",
@@ -444,16 +424,6 @@
         "id": "HLDRDTV.kr",
         "logo": "https://i.imgur.com/zVunmpQ.png",
         "url": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "KR"
-    },
-    {
-        "name": "HLDP-DTV",
-        "id": "HLDPDTV.kr",
-        "logo": "https://i.imgur.com/BBCoqIf.png",
-        "url": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8",
         "categories": [
             "general"
         ],
@@ -496,6 +466,26 @@
         "url": "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "Gugbang TV",
+        "id": "GugbangTV.kr",
+        "logo": "https://i.imgur.com/f1tz5fg.png",
+        "url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "Jobplus TV",
+        "id": "JobplusTV.kr",
+        "logo": "https://i.imgur.com/Y5Zg5SR.png",
+        "url": "https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8",
+        "categories": [
+            "business"
         ],
         "country": "KR"
     }

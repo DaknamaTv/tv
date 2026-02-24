@@ -2231,16 +2231,6 @@
         "country": "RU"
     },
     {
-        "name": "Novyi Russkii",
-        "id": "NovyiRusskii.ru",
-        "logo": "https://i.imgur.com/iuRSScH.png",
-        "url": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Univer TV",
         "id": "UniverTV.ru",
         "logo": "https://i.imgur.com/r3u0mxr.png",
@@ -2286,6 +2276,24 @@
         "categories": [
             "general"
         ],
+        "country": "RU"
+    },
+    {
+        "name": "Match! Planeta",
+        "id": "MatchPlaneta.ru",
+        "logo": "https://i.imgur.com/vhyMb9D.png",
+        "url": "https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "TV Centr International",
+        "id": "TVCentrInternational.ru",
+        "logo": "https://i.imgur.com/tsCOnBW.png",
+        "url": "https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8",
+        "categories": [],
         "country": "RU"
     }
 ]

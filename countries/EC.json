@@ -422,16 +422,6 @@
         "country": "EC"
     },
     {
-        "name": "TV Cisne",
-        "id": "TVCisne.ec",
-        "logo": "https://i.imgur.com/xIuFSnx.png",
-        "url": "https://video2.lhdserver.es/tvcisne/live.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Nortvision",
         "id": "Nortvision.ec",
         "logo": "https://i.imgur.com/MLzcPgT.jpg",
@@ -536,16 +526,6 @@
         "id": "Ecuavisa.ec",
         "logo": "https://i.imgur.com/Hl5wowk.png",
         "url": "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "Hechos Ecuador",
-        "id": "HechosEcuador.ec",
-        "logo": "https://i.imgur.com/koMQZNX.png",
-        "url": "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8",
         "categories": [
             "general"
         ],

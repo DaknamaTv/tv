@@ -557,5 +557,25 @@
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12",
         "categories": [],
         "country": "JP"
+    },
+    {
+        "name": "Green Channel",
+        "id": "GreenChannel.jp",
+        "logo": "https://i.imgur.com/sD3z8j7.png",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14",
+        "categories": [
+            "outdoor"
+        ],
+        "country": "JP"
+    },
+    {
+        "name": "NHK World Premium",
+        "id": "NHKWorldPremium.jp",
+        "logo": "https://i.imgur.com/4ESi2La.png",
+        "url": "https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "JP"
     }
 ]

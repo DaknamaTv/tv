@@ -1118,16 +1118,6 @@
         "country": "DE"
     },
     {
-        "name": "Deluxe Lounge",
-        "id": "DeluxeLounge.de",
-        "logo": "https://i.imgur.com/pgCA35z.png",
-        "url": "https://jmp2.uk/stvp-CHAJ0500413A",
-        "categories": [
-            "music"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "ems TV Lingen",
         "id": "emsTVLingen.de",
         "logo": "https://i.imgur.com/Yo1GMku.png",
@@ -1509,6 +1499,33 @@
         "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/638",
         "categories": [
             "de : doku"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "labor14",
+        "id": "labor14.de",
+        "logo": "https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg",
+        "url": "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8",
+        "categories": [],
+        "country": "DE"
+    },
+    {
+        "name": "rbb Fernsehen",
+        "id": "rbbFernsehen.de",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/512px-Rbb_Fernsehen_Logo_2017.08.svg.png",
+        "url": "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8",
+        "categories": [],
+        "country": "DE"
+    },
+    {
+        "name": "RiC",
+        "id": "RiC.de",
+        "logo": "https://i.imgur.com/4wMZ8Em.png",
+        "url": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
+        "categories": [
+            "kids",
+            "family"
         ],
         "country": "DE"
     }

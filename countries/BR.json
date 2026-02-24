@@ -700,34 +700,6 @@
         "country": "BR"
     },
     {
-        "name": "SIC TV",
-        "id": "SICTV.br",
-        "logo": "https://i.imgur.com/mHxQyB2.png",
-        "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
-        "name": "TV Camara",
-        "id": "TVCamara.br",
-        "logo": "https://i.imgur.com/Sdou1Ab.png",
-        "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Camara 2",
-        "id": "TVCamara2.br",
-        "logo": "https://i.imgur.com/dHrUG1R.png",
-        "url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Vila Real",
         "id": "TVVilaReal.br",
         "logo": "https://i.imgur.com/Z1uWe7g.png",
@@ -881,14 +853,6 @@
         "country": "BR"
     },
     {
-        "name": "Boas Novas",
-        "id": "BoasNovas.br",
-        "logo": "https://i.imgur.com/ZqhizdP.png",
-        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "Plena TV",
         "id": "PlenaTV.br",
         "logo": "https://i.imgur.com/lH4RT7b.png",
@@ -969,14 +933,6 @@
         "country": "BR"
     },
     {
-        "name": "TVE Bahia",
-        "id": "TVEBahia.br",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png",
-        "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "KpopTV Play",
         "id": "KpopTVPlay.br",
         "logo": "https://i.imgur.com/Tf0vweF.png",
@@ -1001,17 +957,6 @@
         "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
-            "education"
         ],
         "country": "BR"
     },
@@ -1063,6 +1008,16 @@
         "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "ISTV",
+        "id": "ISTV.br",
+        "logo": "https://i.imgur.com/RUKVrOH.png",
+        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+        "categories": [
+            "education"
         ],
         "country": "BR"
     }

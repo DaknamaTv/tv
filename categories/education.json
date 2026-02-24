@@ -31,12 +31,11 @@
         "country": "BR"
     },
     {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "name": "ISTV",
+        "id": "ISTV.br",
+        "logo": "https://i.imgur.com/RUKVrOH.png",
+        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
         "categories": [
-            "culture",
             "education"
         ],
         "country": "BR"
@@ -666,17 +665,6 @@
         "country": "MX"
     },
     {
-        "name": "Jalisco TV",
-        "id": "JaliscoTV.mx",
-        "logo": "https://i.imgur.com/N4meE8I.png",
-        "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
-        "categories": [
-            "culture",
-            "education"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "DLTV 6",
         "id": "DLTV6.th",
         "logo": "https://i.imgur.com/qeIHWC0.png",
@@ -821,6 +809,16 @@
         "id": "DLTV12.th",
         "logo": "https://i.imgur.com/ITt6lY7.png",
         "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "TH"
+    },
+    {
+        "name": "ETV",
+        "id": "ETV.th",
+        "logo": "https://i.imgur.com/HTnQGcs.png",
+        "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8",
         "categories": [
             "education"
         ],
@@ -1005,16 +1003,6 @@
             "education"
         ],
         "country": "ES"
-    },
-    {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "ID"
     },
     {
         "name": "Yaslyk",

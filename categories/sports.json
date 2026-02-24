@@ -144,6 +144,16 @@
         "country": "VN"
     },
     {
+        "name": "Belarus-5",
+        "id": "Belarus5.by",
+        "logo": "https://i.imgur.com/NJsRFud.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BY"
+    },
+    {
         "name": "DAZN Combat",
         "id": "DAZNCombat.uk",
         "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
@@ -635,10 +645,10 @@
         "country": "US"
     },
     {
-        "name": "NFL RedZone",
-        "id": "NFLRedZone.us",
-        "logo": "https://i.imgur.com/5lPqQj5.png",
-        "url": "https://tvpass.org/live/NFLRedZone/sd",
+        "name": "ESPN8: The Ocho",
+        "id": "ESPN8TheOcho.us",
+        "logo": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png",
+        "url": "https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8",
         "categories": [
             "sports"
         ],
@@ -850,6 +860,16 @@
         "id": "MMATVcom.ru",
         "logo": "https://i.imgur.com/QhdxNsB.png",
         "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Match! Planeta",
+        "id": "MatchPlaneta.ru",
+        "logo": "https://i.imgur.com/vhyMb9D.png",
+        "url": "https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8",
         "categories": [
             "sports"
         ],
@@ -1128,6 +1148,16 @@
         "country": "MX"
     },
     {
+        "name": "M-Net Sport",
+        "id": "MNetSport.mk",
+        "logo": "https://i.imgur.com/7k8ar1Z.png",
+        "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "MK"
+    },
+    {
         "name": "TDM Sports",
         "id": "TDMSports.mo",
         "logo": "https://i.imgur.com/AsWLf8S.png",
@@ -1168,16 +1198,6 @@
         "country": "PL"
     },
     {
-        "name": "Multivision Sports",
-        "id": "MultivisionSports.gt",
-        "logo": "https://i.imgur.com/wLjSSo2.jpg",
-        "url": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "GT"
-    },
-    {
         "name": "M4 Sport",
         "id": "M4Sport.hu",
         "logo": "https://i.imgur.com/TQ4uJZk.png",
@@ -1196,6 +1216,16 @@
             "sports"
         ],
         "country": "BO"
+    },
+    {
+        "name": "Tigo Sports",
+        "id": "TigoSports.sv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
+        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "SV"
     },
     {
         "name": "Alkass Five",
