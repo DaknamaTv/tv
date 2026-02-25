@@ -72,17 +72,6 @@
         "country": "AR"
     },
     {
-        "name": "Disney Channel Latin America",
-        "id": "DisneyChannelLatinAmerica.ar",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-        "url": "http://201.230.121.186:8000/play/a0fb/index.m3u8",
-        "categories": [
-            "animation",
-            "kids"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Tom And Jerry",
         "id": "TomAndJerry.do",
         "logo": "https://gia.tv/streams/pptv/208314.jpg?1750373428",
@@ -1069,16 +1058,6 @@
         "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
         "categories": [
             "animation",
-            "kids"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "4 Fun Kids",
-        "id": "4FunKids.pl",
-        "logo": "https://i.imgur.com/2JO5Y8c.png",
-        "url": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
-        "categories": [
             "kids"
         ],
         "country": "PL"

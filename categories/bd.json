@@ -1510,16 +1510,6 @@
         "country": ""
     },
     {
-        "name": "ESPN 7",
-        "id": "espn7",
-        "logo": "",
-        "url": "http://201.230.121.186:8000/play/a0dz/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Discovery HD (Bangla)",
         "id": "discoveryhdbangla",
         "logo": "https://s3.aynaott.com/storage/99526d9269f86250d6bb6cb625cd8275",
@@ -3554,6 +3544,36 @@
         "id": "e24",
         "logo": "",
         "url": "http://103.175.73.12:8080/live/159/159_0.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "cartoon network",
+        "id": "cartoonnetwork",
+        "logo": "https://tvassets.roarzone.info/images/cartoon-network.webp",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/cartoon-network/index.m3u8?token=5f7def4871ee07b2e14f72a9a27ee311810fc72c-e8e80a6592107faf1d66be599f9f7dbf-1771970350-1771966750",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Disney Channel",
+        "id": "disneychannel",
+        "logo": "",
+        "url": "http://103.175.73.12:8080/live/321/321_0.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-2",
+        "id": "tnssports2",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts2",
         "categories": [
             "bd"
         ],

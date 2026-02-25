@@ -2117,6 +2117,16 @@
         "country": "CO"
     },
     {
+        "name": "MasMusica FM",
+        "id": "MasMusicaFM.co",
+        "logo": "https://i.imgur.com/tCg7owd.png",
+        "url": "https://video.ejeserver.com/live/masmusica.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CO"
+    },
+    {
         "name": "Antenne Kaernten",
         "id": "AntenneKaernten.at",
         "logo": "https://i.imgur.com/nUKFDsb.jpeg",
@@ -2413,6 +2423,16 @@
         "id": "CityEdenClassicMusic.ru",
         "logo": "https://i.imgur.com/l7BE8l6.png",
         "url": "https://cityeden.catcast.tv/content/47400/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "DTR Music 1",
+        "id": "DTRMusic1.ru",
+        "logo": "https://i.imgur.com/3picWDA.png",
+        "url": "https://kino-stream.online/hls/DTRMUSIC1.m3u8",
         "categories": [
             "music"
         ],
@@ -3080,16 +3100,6 @@
         "country": "MK"
     },
     {
-        "name": "4 Fun TV",
-        "id": "4FunTV.pl",
-        "logo": "https://i.imgur.com/rI1wo2l.png",
-        "url": "https://stream.4fun.tv:8888/hls/4f.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "BTB Music",
         "id": "BTBMusic.pl",
         "logo": "https://btb.j00r.us/images/logo_BTBMusic.webp",
@@ -3128,6 +3138,26 @@
             "music"
         ],
         "country": "HR"
+    },
+    {
+        "name": "Folk Klub TV",
+        "id": "FolkKlubTV.au",
+        "logo": "https://i.imgur.com/Seq7Od7.png",
+        "url": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AU"
+    },
+    {
+        "name": "INTV Australia",
+        "id": "INTVAustralia.au",
+        "logo": "https://i.imgur.com/1nJl0Pv.png",
+        "url": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AU"
     },
     {
         "name": "DSTV",
@@ -3334,16 +3364,6 @@
         "country": "SN"
     },
     {
-        "name": "TeleMusik Senegal",
-        "id": "TeleMusikSenegal.sn",
-        "logo": "https://i.imgur.com/dPAPLsd.png",
-        "url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "SN"
-    },
-    {
         "name": "FTV",
         "id": "FTV.uz",
         "logo": "https://i.imgur.com/7lpISyN.jpg",
@@ -3470,6 +3490,16 @@
         "id": "SOYPlanchaTV.cr",
         "logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
         "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "VM Latino",
+        "id": "VMLatino.cr",
+        "logo": "https://i.imgur.com/Dvo1b82.png",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -3786,6 +3816,16 @@
         "country": "VE"
     },
     {
+        "name": "KandelaTV",
+        "id": "KandelaTV.ve",
+        "logo": "https://i.imgur.com/cCFxyIp.jpg",
+        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "VE"
+    },
+    {
         "name": "Farra Play",
         "id": "FarraPlay.py",
         "logo": "https://i.imgur.com/bXWzstH.png",
@@ -4007,6 +4047,18 @@
         "url": "https://mic.siar.us/mic/live/mic.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Lingkar TV",
+        "id": "LingkarTV.id",
+        "logo": "https://lingkartv.com/assets/img/logo-square.png",
+        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
+        "categories": [
+            "news",
+            "music",
+            "religious"
         ],
         "country": "ID"
     },

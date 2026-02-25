@@ -961,16 +961,6 @@
         "country": "ES"
     },
     {
-        "name": "BCN Gospel TV",
-        "id": "BCNGospelTV.es",
-        "logo": "https://i.imgur.com/ZKAnehs.png",
-        "url": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Radio Television Marbella",
         "id": "RadioTelevisionMarbella.es",
         "logo": "https://i.imgur.com/o9Ro8TR.png",
@@ -1309,14 +1299,6 @@
         "country": "ES"
     },
     {
-        "name": "Canal Donana",
-        "id": "CanalDonana.es",
-        "logo": "https://i.imgur.com/0WrKIxm.png",
-        "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
-        "categories": [],
-        "country": "ES"
-    },
-    {
         "name": "M95 Television Marbella",
         "id": "M95TelevisionMarbella.es",
         "logo": "https://i.imgur.com/RzAkP1V.png",
@@ -1347,30 +1329,12 @@
         "country": "ES"
     },
     {
-        "name": "Telemotril",
-        "id": "Telemotril.es",
-        "logo": "https://i.imgur.com/4nspLHb.png",
-        "url": "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8",
-        "categories": [],
-        "country": "ES"
-    },
-    {
         "name": "Trece",
         "id": "Trece.es",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png",
         "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
         "categories": [
             "religious"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "TVR",
-        "id": "TVR.es",
-        "logo": "https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png",
-        "url": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "ES"
     }

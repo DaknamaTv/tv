@@ -852,16 +852,6 @@
         "country": "IT"
     },
     {
-        "name": "Lira TV",
-        "id": "LiraTV.it",
-        "logo": "https://i.imgur.com/sC9ELuY.jpg",
-        "url": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "m2o TV",
         "id": "m2oTV.it",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png",
@@ -1184,16 +1174,6 @@
         "country": "IT"
     },
     {
-        "name": "Onda TV",
-        "id": "OndaTV.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg",
-        "url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "RTP",
         "id": "RTP.it",
         "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png",
@@ -1321,14 +1301,6 @@
         "country": "IT"
     },
     {
-        "name": "Italia 7",
-        "id": "Italia7.it",
-        "logo": "https://i.imgur.com/xc0kUHk.png",
-        "url": "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8",
-        "categories": [],
-        "country": "IT"
-    },
-    {
         "name": "Taurianova TV",
         "id": "TaurianovaTV.it",
         "logo": "https://www.taurianovatv.it/wp-content/uploads/2024/04/cropped-FotoJet-2-HD15.jpg",
@@ -1367,32 +1339,12 @@
         "country": "IT"
     },
     {
-        "name": "Donna TV",
-        "id": "DonnaTV.it",
-        "logo": "https://i.imgur.com/39cSNHs.png",
-        "url": "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Gold TV Sat",
         "id": "GoldTVSat.it",
         "logo": "https://i.imgur.com/gQzNIg5.png",
         "url": "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Lazio TV",
-        "id": "LazioTV.it",
-        "logo": "https://i.imgur.com/TNLD9yD.png",
-        "url": "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "IT"
     },
@@ -1522,6 +1474,48 @@
         "logo": "https://i.imgur.com/3CDxatu.png",
         "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8",
         "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Rai 2",
+        "id": "Rai2.it",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Rai 3",
+        "id": "Rai3.it",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Rai 4",
+        "id": "Rai4.it",
+        "logo": "https://i.imgur.com/sEY21rg.png",
+        "url": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Rai 5",
+        "id": "Rai5.it",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png",
+        "url": "http://78.130.250.2:8023/play/a04o/index.m3u8",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Rai News 24",
+        "id": "RaiNews24.it",
+        "logo": "https://i.imgur.com/n2u57y3.png",
+        "url": "http://78.130.250.2:8023/play/a04l/index.m3u8",
+        "categories": [
+            "news"
+        ],
         "country": "IT"
     }
 ]

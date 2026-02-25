@@ -103,26 +103,6 @@
         "country": "DO"
     },
     {
-        "name": "Colimdo TV",
-        "id": "ColimdoTV.do",
-        "logo": "https://i.imgur.com/ZeUgLCa.png",
-        "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "CDN Deportes",
-        "id": "CDNDeportes.do",
-        "logo": "https://i.imgur.com/yU5LqTL.png",
-        "url": "http://200.125.170.122:8000/play/a03j/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Premier Sports",
         "id": "PremierSports.ph",
         "logo": "https://i.imgur.com/BURPHzI.png",
@@ -695,6 +675,26 @@
         "country": "US"
     },
     {
+        "name": "NBC Sports Boston",
+        "id": "NBCSportsBoston.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png",
+        "url": "https://tvpass.org/live/nbc-sports-boston/sd",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "W14DK-D5",
+        "id": "W14DKD5.us",
+        "logo": "https://i.imgur.com/D4mZ8ll.png",
+        "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
         "name": "DD Sports",
         "id": "DDSports.in",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
@@ -759,6 +759,16 @@
         "id": "SonySportsTen2.in",
         "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png",
         "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports Select 1",
+        "id": "StarSportsSelect1.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143849_ld_h15_aa.png",
+        "url": "http://103.113.103.202:8001/play/a02e/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -860,6 +870,16 @@
         "id": "RedBullTV.at",
         "logo": "https://i.postimg.cc/8c78JM28/image.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e7cb84a172a0f0007da69e4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=edf28b05-3832-482c-9599-bb50005eee85&serverSideAds=false",
+        "categories": [
+            "sports"
+        ],
+        "country": "AT"
+    },
+    {
+        "name": "ORF Sport+",
+        "id": "ORFSportPlus.at",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/512px-ORF_Sport%2B.svg.png",
+        "url": "http://87.106.2.165:8443/orfsporthd/index.m3u8",
         "categories": [
             "sports"
         ],

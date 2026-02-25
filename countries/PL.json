@@ -93,26 +93,6 @@
         "country": "PL"
     },
     {
-        "name": "4 Fun Kids",
-        "id": "4FunKids.pl",
-        "logo": "https://i.imgur.com/2JO5Y8c.png",
-        "url": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "4 Fun TV",
-        "id": "4FunTV.pl",
-        "logo": "https://i.imgur.com/rI1wo2l.png",
-        "url": "https://stream.4fun.tv:8888/hls/4f.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "TV ASTA",
         "id": "TVASTA.pl",
         "logo": "https://i.imgur.com/5g7lq9N.png",
@@ -535,6 +515,24 @@
         "categories": [
             "sports"
         ],
+        "country": "PL"
+    },
+    {
+        "name": "Crime + Investigation Polsat",
+        "id": "CrimePlusInvestigationPolsat.pl",
+        "logo": "https://i.imgur.com/kSZCvah.png",
+        "url": "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc107/polsatcihdraw/polsatcihdraw.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "TVP HD",
+        "id": "TVPHD.pl",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/512px-TVP_HD_logo.svg.png",
+        "url": "http://78.130.250.2:8023/play/a03a/index.m3u8",
+        "categories": [],
         "country": "PL"
     }
 ]

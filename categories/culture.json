@@ -32,15 +32,15 @@
         "country": "BR"
     },
     {
-        "name": "zenith",
-        "id": "zenith.fr",
-        "logo": "https://znth.tv/static/site_app/thy%20logo.svg",
-        "url": "https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8",
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
         "categories": [
-            "general",
-            "culture"
+            "culture",
+            "education"
         ],
-        "country": "FR"
+        "country": "BR"
     },
     {
         "name": "EET TV",
@@ -399,6 +399,16 @@
         "country": "IN"
     },
     {
+        "name": "Odisha TV",
+        "id": "OdishaTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png",
+        "url": "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Manas TV",
         "id": "ManasTV.kg",
         "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
@@ -490,6 +500,16 @@
             "culture"
         ],
         "country": "CO"
+    },
+    {
+        "name": "ORF III",
+        "id": "ORFIII.at",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/512px-ORF_III_Logo_Monochrom.svg.png",
+        "url": "http://87.106.2.165:8443/orf3hd/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "AT"
     },
     {
         "name": "Teatr",
@@ -671,6 +691,16 @@
         "categories": [
             "culture",
             "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "El Sonorense",
+        "id": "ElSonorense.mx",
+        "logo": "https://i.imgur.com/aKvPd4g.jpg",
+        "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
+        "categories": [
+            "culture"
         ],
         "country": "MX"
     },
