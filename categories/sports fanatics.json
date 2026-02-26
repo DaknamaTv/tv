@@ -200,16 +200,6 @@
         "country": ""
     },
     {
-        "name": "US: WWE NETWORK",
-        "id": "uswwenetwork",
-        "logo": "https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/11645",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
         "name": "US Sportsnet New York (SNY) (A)",
         "id": "ussportsnetnewyorksnya",
         "logo": "https://png.pngitem.com/pimgs/s/244-2442993_sny-logo-png-transparent-png.png",
@@ -270,16 +260,6 @@
         "country": ""
     },
     {
-        "name": "CA Sportsnet One (E)",
-        "id": "casportsnetonee",
-        "logo": "https://juicetv.app/channellogo/sportsnet.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/10247",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
         "name": "UK-Sky Sports Main Event",
         "id": "ukskysportsmainevent",
         "logo": "",
@@ -290,60 +270,10 @@
         "country": ""
     },
     {
-        "name": "UK-Sky Sports News",
-        "id": "ukskysportsnews",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/35241",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Tennis Channel",
-        "id": "ustennischannel",
-        "logo": "https://allvectorlogo.com/img/2016/03/tennis-channel-logo.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/20184",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US ESPN 2",
-        "id": "usespn2",
-        "logo": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/2210",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
         "name": "US Latin TUDN",
         "id": "uslatintudn",
         "logo": "https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png",
         "url": "http://tv2watch.icu:8080/7vGX9F/030546/11885",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA One Soccer",
-        "id": "caonesoccer",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/135810",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK: SKY SPORTS MAIN EVENT HD",
-        "id": "ukskysportsmaineventhd",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/137720",
         "categories": [
             "sports fanatic's"
         ],
@@ -474,6 +404,76 @@
         "id": "usattsportsnetpittsburgh",
         "logo": "",
         "url": "http://cord-cutter.net:8080/0UcuSy/682882/108178",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FanDuel Sports Ohio",
+        "id": "usfanduelsportsohio",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/17752",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MSG2 (F)",
+        "id": "usmsg2f",
+        "logo": "https://billboardmats-m63qtmyjwd.stackpathdns.com/wp-content/uploads/2017/01/MSG-madisonsquaregarden-saftmat-billboardmats.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/21089",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC Sports Chicago",
+        "id": "usnbcsportschicago",
+        "logo": "https://img2.pngio.com/chicago-sports-transparent-png-clipart-free-download-ywd-nbc-sports-png-800_625.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/20941",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Bally Sports North (A)",
+        "id": "usballysportsnortha",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/20928",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Bally Sports Southeast",
+        "id": "usballysportssoutheast",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/2213",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MASN (A)",
+        "id": "usmasna",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/65697",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FanDuel Sports Socal",
+        "id": "usfanduelsportssocal",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/221151",
         "categories": [
             "sports fanatic's"
         ],

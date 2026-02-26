@@ -10,16 +10,6 @@
         "country": "SX"
     },
     {
-        "name": "CTB Perth Movies Channel",
-        "id": "CTBPerthMoviesChannel.au",
-        "logo": "https://i.imgur.com/VB8gtCy.jpeg",
-        "url": "https://movies.ctbperth.net.au/hls/stream.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "AU"
-    },
-    {
         "name": "GEM Pixel",
         "id": "GEMPixel.tr",
         "logo": "https://i.ibb.co/Q3tkbPrn/icon-27.png",
@@ -651,66 +641,6 @@
         "id": "SuriyanTV.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png",
         "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "J Movie",
-        "id": "JMovie.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143215_ld_h15_aa.png",
-        "url": "http://161.248.38.40:8000/play/a09p/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "MNX",
-        "id": "MNX.in",
-        "logo": "https://dtil.tmsimg.com/assets/s147570_ld_h15_aa.png",
-        "url": "http://161.248.38.40:8000/play/a07f/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Romedy Now",
-        "id": "RomedyNow.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143729_ld_h15_aa.png",
-        "url": "http://161.248.38.40:8000/play/a07r/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Gold 2",
-        "id": "StarGold2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png",
-        "url": "http://161.248.38.40:8000/play/a06z/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Gold Thrills",
-        "id": "StarGoldThrills.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158822_ld_h15_aa.png",
-        "url": "http://161.248.38.40:8000/play/a06v/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Zee Bollywood",
-        "id": "ZeeBollywood.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png",
-        "url": "http://161.248.38.40:8000/play/a075/index.m3u8",
         "categories": [
             "movies"
         ],

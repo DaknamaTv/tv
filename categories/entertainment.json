@@ -1150,16 +1150,6 @@
         "country": "IN"
     },
     {
-        "name": "Zee TV",
-        "id": "ZeeTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png",
-        "url": "http://161.248.38.40:8000/play/a08v/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Anmol TV",
         "id": "AnmolTV.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png",
@@ -1255,16 +1245,6 @@
         "id": "NTCTV.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png",
         "url": "https://galaxyott.live/hls/ntv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Zee Punjabi",
-        "id": "ZeePunjabi.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022JG14.png",
-        "url": "http://161.248.38.40:8000/play/a0at/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1676,16 +1656,6 @@
         "country": "DO"
     },
     {
-        "name": "Cibaena TV",
-        "id": "CibaenaTV.do",
-        "logo": "https://i.imgur.com/iHjdckl.png",
-        "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "R&E TV",
         "id": "RETV.do",
         "logo": "https://i.imgur.com/HpKQYp3.png",
@@ -1736,16 +1706,6 @@
         "country": "DO"
     },
     {
-        "name": "Pronems TV",
-        "id": "PronemsTV.do",
-        "logo": "https://i.imgur.com/a9ORO1G.png",
-        "url": "https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Antena 21",
         "id": "Antena21.do",
         "logo": "https://i.imgur.com/QE0XWLh.png",
@@ -1760,6 +1720,16 @@
         "id": "TVS.do",
         "logo": "https://i.imgur.com/a2YX1oj.jpg",
         "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Super7FM",
+        "id": "Super7FM.do",
+        "logo": "https://i.imgur.com/TJEqwZo.png",
+        "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2153,10 +2123,10 @@
         "country": "PE"
     },
     {
-        "name": "Panc TV Peru",
-        "id": "PancTVPeru.pe",
-        "logo": "https://play-lh.googleusercontent.com/-FVhaeUjvONL49NYdVMchoLXU421387791mp8zZ15JFic_kPyb3vULf86ffIr-NeOg",
-        "url": "https://panel.host-live.com:19360/20000/20000.m3u8",
+        "name": "Antares Television",
+        "id": "AntaresTelevision.pe",
+        "logo": "https://i.imgur.com/05gwtk2.png",
+        "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2252,18 +2222,6 @@
             "entertainment"
         ],
         "country": "UY"
-    },
-    {
-        "name": "Asia TV",
-        "id": "AsiaTV.lk",
-        "logo": "https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",
-        "url": "https://stream.asiatvnet.com/1/live/master.m3u8",
-        "categories": [
-            "entertainment",
-            "family",
-            "general"
-        ],
-        "country": "LK"
     },
     {
         "name": "TV 1",

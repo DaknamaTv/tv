@@ -1,15 +1,5 @@
 [
     {
-        "name": "Motor Trend",
-        "id": "MotorTrend.us",
-        "logo": "https://i.imgur.com/hKDccCL.png",
-        "url": "http://104.255.88.155/motortrend/index.m3u8",
-        "categories": [
-            "auto"
-        ],
-        "country": "US"
-    },
-    {
         "name": "WHSV-DT4",
         "id": "WHSVDT4.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png",
@@ -9226,16 +9216,6 @@
         "country": "US"
     },
     {
-        "name": "Golf Channel Latin America",
-        "id": "GolfChannelLatinAmerica.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/512px-Golf_Channel_Logo_2018.png",
-        "url": "http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Justice Central TV",
         "id": "JusticeCentralTV.us",
         "logo": "https://i.imgur.com/peuHszg.png",
@@ -9519,16 +9499,6 @@
         "country": "US"
     },
     {
-        "name": "TVS Television Network",
-        "id": "TVSTelevisionNetwork.us",
-        "logo": "",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "WHPS-CD2",
         "id": "WHPSCD2.us",
         "logo": "https://i.imgur.com/KW1iQ5W.png",
@@ -9543,16 +9513,6 @@
         "id": "ABC.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
         "url": "http://41.205.93.154/ABC/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "KTVK-DT1",
-        "id": "KTVKDT1.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/512px-KTVK_logo.svg.png",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -9583,6 +9543,56 @@
         "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
         "categories": [
             "religious"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "AMGA TV",
+        "id": "AMGATV.us",
+        "logo": "https://i.imgur.com/NTlC6e7.png",
+        "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Fox News Channel",
+        "id": "FoxNewsChannel.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
+        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Lego Channel",
+        "id": "LegoChannel.us",
+        "logo": "https://i.imgur.com/xePwW13.png",
+        "url": "https://jmp2.uk/stvp-GBBC4300005AL",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Teve Vida Network",
+        "id": "TeveVidaNetwork.us",
+        "logo": "https://i.imgur.com/lCpf5P1.png",
+        "url": "https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Women Sports",
+        "id": "TVSWomenSports.us",
+        "logo": "https://i.imgur.com/8hC4PfF.png",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "US"
     }

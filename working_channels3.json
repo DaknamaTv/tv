@@ -1,1025 +1,5 @@
 [
     {
-        "name": "MX | LAW & CRIME",
-        "id": "mxlawcrime",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/lawandcrime_samsung.png",
-        "url": "https://0e6490ecfe9b4c7696b00aa6767caa75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LawAndCrime/playlist.m3u8?ads.wurl_channel=226&ads.wurl_name=LawAndCrime&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5eea605674085f0040ddc79d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | MAVERICK BLACK CINEMA",
-        "id": "mxmaverickblackcinema",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png",
-        "url": "https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=527&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5ef4e1b40d9ad000423c4430&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | MORE U",
-        "id": "mxmoreu",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png",
-        "url": "https://133a0f79750743b7bd41950eaec76dc1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MoreU/playlist.m3u8?ads.wurl_channel=881&ads.wurl_name=MoreU&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=SYmqRsd_3zFsz7JJX_qb&ads.plex_id=6112a9139894c8002c6cb87f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | MOTORVISION TV",
-        "id": "mxmotorvisiontv",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=tzFRBf5UEBHD_vbznsUx&content_series=603fb593a99efc002dbf90e4&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=603fb593a99efc002dbf90e4",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | MOTORVISION TV EN ESPAÑOL",
-        "id": "mxmotorvisiontvenespaol",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=757&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=SYmqRsd_3zFsz7JJX_qb&custom_7=60da3a5c0d1cc1002c38370e",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | NEWSMAX TV",
-        "id": "mxnewsmaxtv",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/newsmax_logo_dark.png",
-        "url": "https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5fb81660b7ad2d002dcb7335",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | NEWSY",
-        "id": "mxnewsy",
-        "logo": "https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f8f2bda29a289d5ef1af37b9e8af7667.png",
-        "url": "https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8?ad=plex&ad.rdid=62274240-07e7-5d94-8dc8-ef68cf19e175&ad.is_lat=0&ad.msid=com.plexapp.android&ad.an=plex&ad.idtype=&expand=plex&ad.cust_params=bidders%3Dpublica%26ip%3D%5BInsert_IP%5D%26ua%3D%5BInsert_UA%5D%26plex_token%3DSYmqRsd_3zFsz7JJX_qb%26plex_id%3D5fc705dda2236e002d69f211",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | NHRA TV",
-        "id": "mxnhratv",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=732&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=tzFRBf5UEBHD_vbznsUx&content_series=60aeb5cd87f9b1002ce12323&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=60aeb5cd87f9b1002ce12323",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | QWESTTV JAZZ & BEYOND",
-        "id": "mxqwesttvjazzbeyond",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png",
-        "url": "https://qwest-jazz-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=60b0f65c0c8ffb002c821a75",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | QWESTTV MIX",
-        "id": "mxqwesttvmix",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png",
-        "url": "https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=SYmqRsd_3zFsz7JJX_qb&channelId=60b0f65c0c8ffb002c821a77",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | SKWAD",
-        "id": "mxskwad",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=SYmqRsd_3zFsz7JJX_qb&content_series=5f12332eeca6a20040b328e5&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=SYmqRsd_3zFsz7JJX_qb&custom_7=5f12332eeca6a20040b328e5",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | SPORTSGRID",
-        "id": "mxsportsgrid",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/sportsgrid.png",
-        "url": "https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=SYmqRsd_3zFsz7JJX_qb&channelId=5ef11485d33ab9004048a1ca",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | TG JUNIOR",
-        "id": "mxtgjunior",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=tzFRBf5UEBHD_vbznsUx&content_series=5f123330eca6a20040b328e8&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=5f123330eca6a20040b328e8",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | THE BOAT SHOW",
-        "id": "mxtheboatshow",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "url": "https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8?ads.wurl_channel=529&ads.wurl_name=TheBoatShow&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5efe1de6e0b3f5003f5d9f82&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | THE CAROL BURNETT SHOW",
-        "id": "mxthecarolburnettshow",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnettshow-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=SYmqRsd_3zFsz7JJX_qb&channelId=60d4edd6b2fdec002c141125",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | TOON GOGGLES",
-        "id": "mxtoongoggles",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/toon_goggles_samsung.png",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=tzFRBf5UEBHD_vbznsUx&content_series=5eea605574085f0040ddc794&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=5eea605574085f0040ddc794",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | TOON GOGGLES EN ESPAÑOL",
-        "id": "mxtoongogglesenespaol",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=tzFRBf5UEBHD_vbznsUx&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=6041643175c115002dc51259",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | USA TODAY",
-        "id": "mxusatoday",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=SYmqRsd_3zFsz7JJX_qb&channelId=60df3e18541143002f3b8607",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | WILDEARTH",
-        "id": "mxwildearth",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png",
-        "url": "https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=SYmqRsd_3zFsz7JJX_qb&channelId=60d4edddb2fdec002c141135",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | WIRED2FISH",
-        "id": "mxwired2fish",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/wired2fish_logo_dark_v2.png",
-        "url": "https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8?ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=608a2c722957c9002c6a617b&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | YAHOO FINANCE",
-        "id": "mxyahoofinance",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png",
-        "url": "https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5f170f01b898490041b49dd1",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK | SKWAD",
-        "id": "ukskwad",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=SYmqRsd_3zFsz7JJX_qb&content_series=5f12332eeca6a20040b328e5&custom4=plex&gdpr=1&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=SYmqRsd_3zFsz7JJX_qb&custom_7=5f12332eeca6a20040b328e5",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK | TG JUNIOR",
-        "id": "uktgjunior",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=SYmqRsd_3zFsz7JJX_qb&content_series=5f123330eca6a20040b328e8&custom4=plex&gdpr=1&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=SYmqRsd_3zFsz7JJX_qb&custom_7=5f123330eca6a20040b328e8",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK | TOON GOGGLES",
-        "id": "uktoongoggles",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/toon_goggles_samsung.png",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=SYmqRsd_3zFsz7JJX_qb&content_series=5eea605574085f0040ddc794&custom4=plex&gdpr=1&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=SYmqRsd_3zFsz7JJX_qb&custom_7=5eea605574085f0040ddc794",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | AFROLANDTV",
-        "id": "usaafrolandtv",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=811&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=60e737a4ebef9d002c4d0a0c",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | ALL REALITY WE TV",
-        "id": "usaallrealitywetv",
-        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/866933c26f860166068b42cb3ab9b396.png",
-        "url": "https://2753b02d55774ab6866ce10aba8ad6fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AbsoluteReality/playlist.m3u8?ads.wurl_channel=475&ads.wurl_name=AbsoluteReality&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5fc705ff2f220e002d5e6bec&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | ALL WEDDINGS WE TV",
-        "id": "usaallweddingswetv",
-        "logo": "https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9491a201b186d68ec3f95342f41b1983.png",
-        "url": "https://222369813f3845d48548df2608cff33d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AllWeddingsbyWEtv/playlist.m3u8?ads.wurl_channel=695&ads.wurl_name=AllWeddingsbyWEtv&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=60de0520281b17002cd1d4c4&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | BABY SHARK TV",
-        "id": "usababysharktv",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/BABY SHARK TV_logo_dark.png",
-        "url": "https://b804413309624ef1b04591c47e82e14c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_BabySharkTV/playlist.m3u8?ads.wurl_channel=696&ads.wurl_name=BabySharkTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=60d4eddeb2fdec002c141137&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | COMEDY DYNAMICS",
-        "id": "usacomedydynamics",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_comedydynamics_1.png",
-        "url": "https://comedydynamics-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-comedydynamics-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5efe1de5e0b3f5003f5d9f76",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | DOCURAMA",
-        "id": "usadocurama",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/docurama.png",
-        "url": "https://docurama-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-docurama-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5efe1de4e0b3f5003f5d9f73",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | DOVE CHANNEL",
-        "id": "usadovechannel",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/dove_channel.png",
-        "url": "https://dovenow-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-dovenow-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5efe1de8e0b3f5003f5d9f91",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | HI-YAH!",
-        "id": "usahiyah",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/hi-yah!_logo.png",
-        "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8?ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5f64c4ef35f612003f6ffe30&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | IFC FILMS PICKS",
-        "id": "usaifcfilmspicks",
-        "logo": "https://provider-static.plex.tv/2/epg/channels/logos/gracenote/25f89d26b0e9c3de0d4b05c59d096ba1.png",
-        "url": "https://423a4f21fb8d45a4a7e4bd304a14e2f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_IFCFilmsPicks/playlist.m3u8?ads.wurl_channel=563&ads.wurl_name=IFCFilmsPicks&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5fc705eb052f6f002ef46057&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | INFO WARS",
-        "id": "usainfowars",
-        "logo": "https://m.media-amazon.com/images/I/41tQHvV07ZL._AC_SX466_.jpg",
-        "url": "https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | JOHNNY CARSON TV",
-        "id": "usajohnnycarsontv",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-johnnycarson-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=60d4edd6b2fdec002c141123",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | KIDSFLIX",
-        "id": "usakidsflix",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=tzFRBf5UEBHD_vbznsUx&content_series=5eea605574085f0040ddc797&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=5eea605574085f0040ddc797",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | MORE U",
-        "id": "usamoreu",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png",
-        "url": "https://133a0f79750743b7bd41950eaec76dc1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MoreU/playlist.m3u8?ads.wurl_channel=881&ads.wurl_name=MoreU&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=6112a9139894c8002c6cb87f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | MOTORVISION TV EN ESPAÑOL",
-        "id": "usamotorvisiontvenespaol",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=757&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=60da3a5c0d1cc1002c38370e",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | MST3K",
-        "id": "usamst3k",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/mst3k_logo_dark.png",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-mst3k-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=60d4eddbb2fdec002c141133",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | NEW KMOVIES",
-        "id": "usanewkmovies",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark_v2.png",
-        "url": "https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | NEWSY",
-        "id": "usanewsy",
-        "logo": "https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f8f2bda29a289d5ef1af37b9e8af7667.png",
-        "url": "https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8?ad=plex&ad.rdid=62274240-07e7-5d94-8dc8-ef68cf19e175&ad.is_lat=0&ad.msid=com.plexapp.android&ad.an=plex&ad.idtype=&expand=plex&ad.cust_params=bidders%3Dpublica%26ip%3D%5BInsert_IP%5D%26ua%3D%5BInsert_UA%5D%26plex_token%3DtzFRBf5UEBHD_vbznsUx%26plex_id%3D5fc705dda2236e002d69f211",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | QELLO CONCERTS BY STINGRAY",
-        "id": "usaqelloconcertsbystingray",
-        "logo": "https://provider-static.plex.tv/c/epg/channels/logos/gracenote/c0a22a7f86f094ddc903af4121c4a7dc.png",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=tzFRBf5UEBHD_vbznsUx&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=5fe27da28c198b002d179199",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | QWESTTV MIX",
-        "id": "usaqwesttvmix",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png",
-        "url": "https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=60b0f65c0c8ffb002c821a77",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | RAKUTEN VIKI",
-        "id": "usarakutenviki",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png",
-        "url": "https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=60d4edd8b2fdec002c14112f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | REAL NOSEY",
-        "id": "usarealnosey",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_realnosey_1.png",
-        "url": "https://1022d09cb9f743d0b7bd7fc0fd7eab26.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RealNosey/playlist.m3u8?ads.wurl_channel=349&ads.wurl_name=RealNosey&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5f0ff262d71dcb00449ec018&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | SHOUT! FACTORY TV",
-        "id": "usashoutfactorytv",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/sftv_logo_dark.png",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-shoutfactory-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=60d4edd6b2fdec002c141127",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | SKWAD",
-        "id": "usaskwad",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=tzFRBf5UEBHD_vbznsUx&content_series=5f170d62b898490041b49374&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=5f170d62b898490041b49374",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | SLIGHTLY OFF IFC",
-        "id": "usaslightlyoffifc",
-        "logo": "https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e9b65c2ab08876fbaa3c7ec8650d174d.png",
-        "url": "https://69c5398a50774cad9a6adceb3f65f2cd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCSlightlyOff/playlist.m3u8?ads.wurl_channel=564&ads.wurl_name=AMCSlightlyOff&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=SYmqRsd_3zFsz7JJX_qb&ads.plex_id=5fc705eea2236e002d69f5ae&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | SO YUMMY",
-        "id": "usasoyummy",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/SoYummy_logo_Dark.png",
-        "url": "https://firstmedia-soyummy-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-so-yummy-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=6041643175c115002dc5125d",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | SO...REAL",
-        "id": "usasoreal",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_so_real_1.png",
-        "url": "https://soreal-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-soreal-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5f0ff262d71dcb00449ec012",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | STINGRAY NATURESCAPE",
-        "id": "usastingraynaturescape",
-        "logo": "https://provider-static.plex.tv/1/epg/channels/logos/gracenote/14bbc17effbf6d9426b99d8d82fe5813.png",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=570&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=tzFRBf5UEBHD_vbznsUx&content_series=60d324f59adce5002c41dbc5&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=60d324f59adce5002c41dbc5",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | STORIES BY AMC",
-        "id": "usastoriesbyamc",
-        "logo": "https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1fce14bdd045640e5a7cfd10f7a30de7.png",
-        "url": "https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8?ads.wurl_channel=474&ads.wurl_name=AMCPresents&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5fc705e2a2236e002d69f3ba&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | TG JUNIOR",
-        "id": "usatgjunior",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-us.png",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=tzFRBf5UEBHD_vbznsUx&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=5f170d64b898490041b4938f",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | THE BOB ROSS CHANNEL",
-        "id": "usathebobrosschannel",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png",
-        "url": "https://bobross-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5efe1de6e0b3f5003f5d9f88",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | THE CAROL BURNETT SHOW",
-        "id": "usathecarolburnettshow",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnettshow-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=60d4edd6b2fdec002c141125",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | THE WALKING DEAD UNIVERSE",
-        "id": "usathewalkingdeaduniverse",
-        "logo": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e18c2d89be7d6e9417b6658fc28ddfa.png",
-        "url": "https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=SYmqRsd_3zFsz7JJX_qb&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | TIMELINE",
-        "id": "usatimeline",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/timeline-logo.png",
-        "url": "https://lds-timeline-plex.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-timeline-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5f74cf83ffbe690040689f50",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | TOON GOGGLES",
-        "id": "usatoongoggles",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-toon-goggles-us.png",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=59&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=tzFRBf5UEBHD_vbznsUx&content_series=5f170d60b898490041b49359&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=tzFRBf5UEBHD_vbznsUx&custom_7=5f170d60b898490041b49359",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | WILDEARTH",
-        "id": "usawildearth",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png",
-        "url": "https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=60d4edddb2fdec002c141135",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | WONDER",
-        "id": "usawonder",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/wonder-logo.png",
-        "url": "https://lds-wonder-plex.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-wonder-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=tzFRBf5UEBHD_vbznsUx&channelId=5f74cf83ffbe690040689f4d",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX | POPSTAR! TV",
-        "id": "mxpopstartv",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/POPSTAR TV_logo_dark_v4.png",
-        "url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8?ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5ef11487d33ab9004048a1d6&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA | AMC THRILLERS",
-        "id": "usaamcthrillers",
-        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8662623e2b182f7ac9e511bd75425ae4.png",
-        "url": "https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=SYmqRsd_3zFsz7JJX_qb&ads.plex_id=5fc705e2a2236e002d69f36d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=",
-        "categories": [
-            "plex"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RO: HBO 2  HD",
-        "id": "rohbo2hd",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/958bff60256f7cc6018a76f2679ecaf1.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/134062.ts",
-        "categories": [
-            "ro - romania - live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RO: MTV HITS HD",
-        "id": "romtvhitshd",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon/36714641681.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/49485.ts",
-        "categories": [
-            "ro - romania - live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BH FM",
-        "id": "bhfm",
-        "logo": "http://i.imgur.com/cntzzTI.png",
-        "url": "http://p.plexiptv.co:8880/RIBAMAR001/yv19mjwg/982",
-        "categories": [
-            "rádios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CBN RJ",
-        "id": "cbnrj",
-        "logo": "https://i.imgur.com/uGdj3zb.png",
-        "url": "http://p.plexiptv.co:8880/kgXR6zXPjk8/7Uv8Vc7hJnl/8560",
-        "categories": [
-            "rádios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "JOVEM PAN FM",
-        "id": "jovempanfm",
-        "logo": "https://i.imgur.com/f8OrZzN.png",
-        "url": "http://p.plexiptv.co:8880/monikehln/Br951753x/980",
-        "categories": [
-            "rádios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RÁDIO ITATIAIA",
-        "id": "rdioitatiaia",
-        "logo": "https://i.imgur.com/g5zF4bo.png",
-        "url": "http://p.plexiptv.co:8880/83444658/03045961/973",
-        "categories": [
-            "rádios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MELODIA",
-        "id": "melodia",
-        "logo": "",
-        "url": "http://p.plexiptv.co:8880/Tp87Eg/71NgjS/141933",
-        "categories": [
-            "rádios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: BlueTV   S.W.A.T  24/7",
-        "id": "debluetvswat247",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/849240.ts",
-        "categories": [
-            "de - 24x7 germany - exclusive"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: BlueTV  AMERICAN HORROR STORY 24/7",
-        "id": "debluetvamericanhorrorstory247",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/849259.ts",
-        "categories": [
-            "de - 24x7 germany - exclusive"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: BlueTV  BOSCH 24/7",
-        "id": "debluetvbosch247",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/849255.ts",
-        "categories": [
-            "de - 24x7 germany - exclusive"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: BlueTV  BREAKING BAD  24/7",
-        "id": "debluetvbreakingbad247",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/849256.ts",
-        "categories": [
-            "de - 24x7 germany - exclusive"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: BlueTV  DIE  RACCONS ʜᴅ",
-        "id": "debluetvdieraccons",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/849291.ts",
-        "categories": [
-            "de - 24x7 germany - exclusive"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: BlueTV  DORORO ʜᴅ",
-        "id": "debluetvdororo",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/849289.ts",
-        "categories": [
-            "de - 24x7 germany - exclusive"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: BlueTV  KINDER  3 ʜᴅ",
-        "id": "debluetvkinder3",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/849299.ts",
-        "categories": [
-            "de - 24x7 germany - exclusive"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: BlueTV 4K FANTASY",
-        "id": "debluetv4kfantasy",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/849174.ts",
-        "categories": [
-            "de - 24x7 germany - exclusive"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: BlueTV 4K KOMÖDIE",
-        "id": "debluetv4kkomdie",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/849170.ts",
-        "categories": [
-            "de - 24x7 germany - exclusive"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: BlueTV 4K KRIEGSFILM",
-        "id": "debluetv4kkriegsfilm",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/849182.ts",
-        "categories": [
-            "de - 24x7 germany - exclusive"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: BlueTV KARATE 1 HD",
-        "id": "debluetvkarate1hd",
-        "logo": "http://img-cdn.curl.pk:8880/channels_icon_api/977c98659a18f70a273f95e54262d13a.png",
-        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/849216.ts",
-        "categories": [
-            "de - 24x7 germany - exclusive"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Jazz Радио Україна",
-        "id": "rujazz",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.radiojazz.ua/RadioJazz_HD",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Kiss FM_Live",
-        "id": "rukissfmlive",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.kissfm.ua/KissFM_HD",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Kiss FM_Digital",
-        "id": "rukissfmdigital",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.kissfm.ua/KissFM_Digital_HD",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Kiss FM_Deep",
-        "id": "rukissfmdeep",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.kissfm.ua/KissFM_Deep",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Hit FM",
-        "id": "ruhitfm",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.hitfm.ua/HitFM_HD",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Radio Relax",
-        "id": "ruradiorelax",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.radiorelax.ua/RadioRelax_HD",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Radio ROKS",
-        "id": "ruradioroks",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.radioroks.ua/RadioROKS_HD",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Flash Radio",
-        "id": "ruflashradio",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.radioplayer.ua/FlashRadio_HD",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Наше Радио",
-        "id": "ru",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.nasheradio.ua/NasheRadio_HD",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Мелодия FM",
-        "id": "rufm",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.melodiafm.ua/MelodiaFM_HD",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Мелодія FM - Disco",
-        "id": "rufmdisco",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.melodiafm.ua/MelodiaFM_Disco_HD",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Мелодія FM - Romantic HD",
-        "id": "rufmromantichd",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.melodiafm.ua/MelodiaFM_Romantic_HD",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Radio Paradise",
-        "id": "ruradioparadise",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "http://stream.radioparadise.com/flac",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Radio Mast",
-        "id": "ruradiomast",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "http://streams.radiomast.io/radioblues-flac",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Free Music Radio",
-        "id": "rufreemusicradio",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "http://stream.freemusicradio.nl:8100/stream.oga",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Radio Sputnik Underground!",
-        "id": "ruradiosputnikunderground",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "http://radiosputnik.nl:8002/flac",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Magic Radio",
-        "id": "rumagicradio",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "http://mp3.magic-radio.net/flac",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Relaxing Jazz Radio",
-        "id": "rurelaxingjazzradio",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "http://stream-02-eu.relaxingjazz.com/stream/1/",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: 101 Smooth Jazz Mellow",
-        "id": "ru101smoothjazzmellow",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "http://ais-sa5.cdnstream1.com/b48071_128mp3",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Bay Smooth Jazz",
-        "id": "rubaysmoothjazz",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "http://54.38.43.201:8039/stream-192kmp3-BaySmoothJazz",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Motion Fm",
-        "id": "rumotionfm",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://vm.motionfm.com/motiontwo_free",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Radio Jazz",
-        "id": "ruradiojazz",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://online.radiojazz.ua/RadioJazz_Light_HD",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "RU: McQsJazz.com",
         "id": "rumcqsjazzcom",
         "logo": "https://i.imgur.com/PKPva1e.png",
@@ -4040,6 +3020,246 @@
         "country": ""
     },
     {
+        "name": "Trt Nagme",
+        "id": "trtnagme",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118501",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Trt 1 Radyo",
+        "id": "trt1radyo",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118502",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Show Radyo",
+        "id": "showradyo",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118508",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Tgrt Fm",
+        "id": "tgrtfm",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118509",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kral Pop Turkey",
+        "id": "kralpopturkey",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118515",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Semerkand Radyo Turkey",
+        "id": "semerkandradyoturkey",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118522",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Vav Radyo Turkey",
+        "id": "vavradyoturkey",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118523",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radyo Turkuvaz Turkey",
+        "id": "radyoturkuvazturkey",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118528",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Diyanet Risalet Radyo Turkey",
+        "id": "diyanetrisaletradyoturkey",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118533",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radyo 45lik Turkey",
+        "id": "radyo45likturkey",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118536",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Avrasya Türk",
+        "id": "avrasyatrk",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118555",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Dost FM",
+        "id": "dostfm",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118558",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radyo Slowtime",
+        "id": "radyoslowtime",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118568",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radyo Ses - Eskisehir",
+        "id": "radyoseseskisehir",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118572",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radyovizyon",
+        "id": "radyovizyon",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118573",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Lider FM - Izmir",
+        "id": "liderfmizmir",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118574",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radyo Deva - Adana",
+        "id": "radyodevaadana",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118575",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radyo Hayat - Adana",
+        "id": "radyohayatadana",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118589",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radyo Üniversite FM - Adana",
+        "id": "radyoniversitefmadana",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118593",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radyo Net - Ordu",
+        "id": "radyonetordu",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118594",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radyo Flash - Giresun",
+        "id": "radyoflashgiresun",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118597",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AdyÜ - Adiyaman FM",
+        "id": "adyadiyamanfm",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118604",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Akdag - Akdagmadeni FM",
+        "id": "akdagakdagmadenifm",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118605",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Arkadas - Isparta FM",
+        "id": "arkadasispartafm",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/118607",
+        "categories": [
+            "tr ♦【turk radyo】"
+        ],
+        "country": ""
+    },
+    {
         "name": "XXX | MYCAMTV #00001",
         "id": "xxxmycamtv00001",
         "logo": "https://jrichardsauthor.files.wordpress.com/2015/03/adult-warning.png",
@@ -6713,6 +5933,36 @@
         "country": ""
     },
     {
+        "name": "TR | DIZI SMART MAX HD",
+        "id": "trdizismartmaxhd",
+        "logo": "http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/DIZI.SMART.MAX.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/92390",
+        "categories": [
+            "tr | bein & d-smart"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR | SiNEMA TV AiLE HD",
+        "id": "trsinematvailehd",
+        "logo": "http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.AILE.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/92395",
+        "categories": [
+            "tr | bein & d-smart"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR | SINEMA TV KOMEDI HD",
+        "id": "trsinematvkomedihd",
+        "logo": "http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.KOMEDI.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/92400",
+        "categories": [
+            "tr | bein & d-smart"
+        ],
+        "country": ""
+    },
+    {
         "name": "DE: Schlager Deluxe HD",
         "id": "deschlagerdeluxehd",
         "logo": "http://img-cdn.curl.pk:8880/channels_icon/3495544725.png",
@@ -6983,36 +6233,6 @@
         "country": ""
     },
     {
-        "name": "STARS EXCLUSIVE: ABELLA DANGER",
-        "id": "starsexclusiveabelladanger",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160049",
-        "categories": [
-            "xxx channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "X4 | Emily Willis",
-        "id": "x4emilywillis",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215542",
-        "categories": [
-            "xxx channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "X4 | Sweet Sinner",
-        "id": "x4sweetsinner",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215760",
-        "categories": [
-            "xxx channels"
-        ],
-        "country": ""
-    },
-    {
         "name": "X4 | Crystal Lust",
         "id": "x4crystallust",
         "logo": "",
@@ -7177,6 +6397,1236 @@
         "id": "pornboxfamilystrokes",
         "logo": "",
         "url": "http://cord-cutter.net:8080/0UcuSy/682882/159981",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX TRANS: TRANS EROTICA",
+        "id": "pornboxtranstranserotica",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159952",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: ALL BLACK X",
+        "id": "pornboxallblackx",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159955",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: ALL GROUP SEX",
+        "id": "pornboxallgroupsex",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159956",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: BLACKED",
+        "id": "pornboxblacked",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159962",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: BOX OF PORN",
+        "id": "pornboxboxofporn",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159964",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: BRAZZERS",
+        "id": "pornboxbrazzers",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159966",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: CUM 4K",
+        "id": "pornboxcum4k",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159969",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: DIABOLIC",
+        "id": "pornboxdiabolic",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159972",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: EROTIKVONBENAN",
+        "id": "pornboxerotikvonbenan",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159977",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: FAKE HOSTEL",
+        "id": "pornboxfakehostel",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159979",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: FAMILY SWAP XXX",
+        "id": "pornboxfamilyswapxxx",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159982",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: FILTHY POV",
+        "id": "pornboxfilthypov",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159984",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: FIRST ANAL QUEST",
+        "id": "pornboxfirstanalquest",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/159985",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: LIFE SELECTOR",
+        "id": "pornboxlifeselector",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160004",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: LUBED",
+        "id": "pornboxlubed",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160007",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: MODEL MEDIA ASIA",
+        "id": "pornboxmodelmediaasia",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160011",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: MY FAMILY PIES",
+        "id": "pornboxmyfamilypies",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160018",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: MYLF",
+        "id": "pornboxmylf",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160022",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: PASSION",
+        "id": "pornboxpassion",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160027",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORNBOX: THROATED",
+        "id": "pornboxthroated",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160046",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "STARS EXCLUSIVE: DANI DANIELS",
+        "id": "starsexclusivedanidaniels",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160057",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "STARS EXCLUSIVE: GINA VALENTINA",
+        "id": "starsexclusiveginavalentina",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160062",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "STARS EXCLUSIVE: MADISON IVY",
+        "id": "starsexclusivemadisonivy",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160068",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "VERIFIED AMATEURS: TESSA WINTERS",
+        "id": "verifiedamateurstessawinters",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160096",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Abella Danger",
+        "id": "x4abelladanger",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215436",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Allinika",
+        "id": "x4allinika",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215449",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Anal",
+        "id": "x4anal",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215455",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Anal Mom",
+        "id": "x4analmom",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215456",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Anastangel",
+        "id": "x4anastangel",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215459",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Anny Walker",
+        "id": "x4annywalker",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215462",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | BigTittyGothEgg",
+        "id": "x4bigtittygothegg",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215480",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Bob Big Tula",
+        "id": "x4bobbigtula",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215489",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Brandi Love",
+        "id": "x4brandilove",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215492",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Bratty Milf",
+        "id": "x4brattymilf",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215493",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Bromo",
+        "id": "x4bromo",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215496",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Carla Cute",
+        "id": "x4carlacute",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215501",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Close Up",
+        "id": "x4closeup",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215508",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Davcina",
+        "id": "x4davcina",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215524",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Digital Climaxxx",
+        "id": "x4digitalclimaxxx",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215530",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Elly Clutch",
+        "id": "x4ellyclutch",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215538",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Emma Fiore",
+        "id": "x4emmafiore",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215543",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Emma Hix",
+        "id": "x4emmahix",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215544",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Exotic4K",
+        "id": "x4exotic4k",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215548",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Family Strokes",
+        "id": "x4familystrokes",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215551",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Feet",
+        "id": "x4feet",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215553",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Fetish",
+        "id": "x4fetish",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215554",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Fisting",
+        "id": "x4fisting",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215556",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Gangbang",
+        "id": "x4gangbang",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215560",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | GentlyPerv",
+        "id": "x4gentlyperv",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215561",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Horny Hostel",
+        "id": "x4hornyhostel",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215579",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Japan Uncensored",
+        "id": "x4japanuncensored",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215583",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Jewelz Blu",
+        "id": "x4jewelzblu",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215587",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Kate Koss",
+        "id": "x4katekoss",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215595",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Kendra Lust",
+        "id": "x4kendralust",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215598",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Kenzie Reeves",
+        "id": "x4kenziereeves",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215601",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Kourtney Love",
+        "id": "x4kourtneylove",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215605",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Latin Leche",
+        "id": "x4latinleche",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215612",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Leah Gotti",
+        "id": "x4leahgotti",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215616",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Lela Star",
+        "id": "x4lelastar",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215618",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Lesbian",
+        "id": "x4lesbian",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215621",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Lexi Lore",
+        "id": "x4lexilore",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215624",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Lily Lou",
+        "id": "x4lilylou",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215626",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Little Tina",
+        "id": "x4littletina",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215628",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Lulu Chu",
+        "id": "x4luluchu",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215633",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Masturbation",
+        "id": "x4masturbation",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215644",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | MihaNika69",
+        "id": "x4mihanika69",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215653",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Mira David",
+        "id": "x4miradavid",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215659",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Miss Ary",
+        "id": "x4missary",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215661",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Missionary Boys",
+        "id": "x4missionaryboys",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215664",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Mom Lover",
+        "id": "x4momlover",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215670",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Mom Tight",
+        "id": "x4momtight",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215671",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Mom Wants Creampie",
+        "id": "x4momwantscreampie",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215672",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Moms Teach Sex",
+        "id": "x4momsteachsex",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215674",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | My BF Doesnt Know",
+        "id": "x4mybfdoesntknow",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215676",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | My Friends Hot Mom",
+        "id": "x4myfriendshotmom",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215677",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | New Sensations",
+        "id": "x4newsensations",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215684",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Next Door Buddies",
+        "id": "x4nextdoorbuddies",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215685",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Next Door Twink",
+        "id": "x4nextdoortwink",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215689",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | NF Busty",
+        "id": "x4nfbusty",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215690",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | NoFaceGirl",
+        "id": "x4nofacegirl",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215692",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Nubile Films",
+        "id": "x4nubilefilms",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215693",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Pamsnusnu",
+        "id": "x4pamsnusnu",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215697",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Pantyhose",
+        "id": "x4pantyhose",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215698",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Passion",
+        "id": "x4passion",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215700",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Pissing",
+        "id": "x4pissing",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215709",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Princess Cum",
+        "id": "x4princesscum",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215713",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Proberty Sex",
+        "id": "x4probertysex",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215714",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Puffy Pink",
+        "id": "x4puffypink",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215716",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Pure Mature",
+        "id": "x4puremature",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215717",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Pussy Eating",
+        "id": "x4pussyeating",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215720",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Pussy Licking",
+        "id": "x4pussylicking",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215721",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | QesasTop",
+        "id": "x4qesastop",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215722",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Raw White Meat",
+        "id": "x4rawwhitemeat",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215724",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Reagan Foxx",
+        "id": "x4reaganfoxx",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215725",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Reality Junkies",
+        "id": "x4realityjunkies",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215728",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Reality Kings",
+        "id": "x4realitykings",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215729",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | RealTelariLove",
+        "id": "x4realtelarilove",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215730",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Reislin",
+        "id": "x4reislin",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215732",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Rosie Rider",
+        "id": "x4rosierider",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215735",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Sammm Next Door",
+        "id": "x4sammmnextdoor",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215736",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Sara Blonde",
+        "id": "x4sarablonde",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215737",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Sara Jay",
+        "id": "x4sarajay",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215738",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Say Uncle",
+        "id": "x4sayuncle",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215740",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | SecretsFilmed",
+        "id": "x4secretsfilmed",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215741",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | See Him Fuck",
+        "id": "x4seehimfuck",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215742",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Sheena Ryder",
+        "id": "x4sheenaryder",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215745",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Small Tits",
+        "id": "x4smalltits",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215752",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Sofia Rizof",
+        "id": "x4sofiarizof",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215753",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Sophia Leone",
+        "id": "x4sophialeone",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215755",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Squirt",
+        "id": "x4squirt",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215757",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Syndicete",
+        "id": "x4syndicete",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215763",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | The White Boxxx",
+        "id": "x4thewhiteboxxx",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215766",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Thundercock",
+        "id": "x4thundercock",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215769",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Tiktok",
+        "id": "x4tiktok",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215770",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Twistys",
+        "id": "x4twistys",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215776",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Up Close",
+        "id": "x4upclose",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215777",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Valentina Nappi",
+        "id": "x4valentinanappi",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215778",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Veronica Leal",
+        "id": "x4veronicaleal",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215780",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | VibeWithMommy",
+        "id": "x4vibewithmommy",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215781",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Violet Moreau",
+        "id": "x4violetmoreau",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215785",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Violet Myers",
+        "id": "x4violetmyers",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215786",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Youthlu#EXTVLCOPT:network-caching=1000",
+        "id": "x4youthluextvlcoptnetworkcaching1000",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215792",
+        "categories": [
+            "xxx channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "X4 | Elle Lee",
+        "id": "x4ellelee",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215793",
         "categories": [
             "xxx channels"
         ],
@@ -7393,16 +7843,6 @@
         "country": ""
     },
     {
-        "name": "TR: Cuneyt Arkin 4",
-        "id": "trcuneytarkin4",
-        "logo": "https://i.ibb.co/21pPcnYJ/UZLAS36.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/860510.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: Hulya Kocyigit 1",
         "id": "trhulyakocyigit1",
         "logo": "https://i.ibb.co/HLqNB1QQ/Ioj9jWf.png",
@@ -7417,16 +7857,6 @@
         "id": "trkadirinanir3",
         "logo": "https://i.ibb.co/1fLCFrW2/gfVJTDg.png",
         "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/860520.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Keloglan 2",
-        "id": "trkeloglan2",
-        "logo": "https://i.ibb.co/HTZrCNt5/SZ6bfk3.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/860522.ts",
         "categories": [
             "tr ➤ yeşilçam filmleri"
         ],
@@ -7609,6 +8039,36 @@
         "url": "http://nordsohzace.top:8080/65174146581921/6py54k9y9j3v/51719",
         "categories": [
             "euro | ex-yu"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BN TV",
+        "id": "bntv",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/455717",
+        "categories": [
+            "bih | bosnia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BN 2",
+        "id": "bn2",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/455718",
+        "categories": [
+            "bih | bosnia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "OBN HD",
+        "id": "obnhd",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/455744",
+        "categories": [
+            "bih | bosnia"
         ],
         "country": ""
     },
@@ -8237,16 +8697,6 @@
         "id": "au10shakeperthd",
         "logo": "",
         "url": "http://xxip25.top:8080/hVvwU8/670199/121002",
-        "categories": [
-            "australia"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AU 10 Shake Sydney (D)",
-        "id": "au10shakesydneyd",
-        "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/121003",
         "categories": [
             "australia"
         ],
@@ -9074,20 +9524,20 @@
         "country": ""
     },
     {
-        "name": "TR: MaximTV Terapi TV 5 HD",
-        "id": "trmaximtvterapitv5hd",
+        "name": "TR: MaximTV Terapi TV 1 HD",
+        "id": "trmaximtvterapitv1hd",
         "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/192720",
+        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/192716",
         "categories": [
             "maximtv terapi"
         ],
         "country": ""
     },
     {
-        "name": "TR: MaximTV Terapi TV 7 HD",
-        "id": "trmaximtvterapitv7hd",
+        "name": "TR: MaximTV Terapi TV 4 HD",
+        "id": "trmaximtvterapitv4hd",
         "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxterapitv.png",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/192722",
+        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/192719",
         "categories": [
             "maximtv terapi"
         ],
@@ -9494,46 +9944,6 @@
         "country": ""
     },
     {
-        "name": "XXX: BlueTV Cuckold HD",
-        "id": "xxxbluetvcuckoldhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550946",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: BlueTV Teen HD",
-        "id": "xxxbluetvteenhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550953",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: FuxTV Dtf Sluts HD",
-        "id": "xxxfuxtvdtfslutshd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551013",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: FuxTV Deeper HD",
-        "id": "xxxfuxtvdeeperhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551015",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
         "name": "XXX: BlueTV Yeşilçam Erotik 1 HD",
         "id": "xxxbluetvyeilamerotik1hd",
         "logo": "",
@@ -9664,130 +10074,10 @@
         "country": ""
     },
     {
-        "name": "XXX: BlueTV Türkçe Alt Yazılı 1 HD",
-        "id": "xxxbluetvtrkealtyazl1hd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550942",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
         "name": "XXX: BlueTV Türkçe Alt Yazılı 2 HD",
         "id": "xxxbluetvtrkealtyazl2hd",
         "logo": "",
         "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550943",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: BlueTV Anal HD",
-        "id": "xxxbluetvanalhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550949",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: BlueTV 18 Years Old HD",
-        "id": "xxxbluetv18yearsoldhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550958",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: BlueTV Fake Taxi HD",
-        "id": "xxxbluetvfaketaxihd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550960",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: BlueTV Family HD",
-        "id": "xxxbluetvfamilyhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550961",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: BlueTV Erotica 2 HD",
-        "id": "xxxbluetverotica2hd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550963",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: BlueTV Big Cock  HD",
-        "id": "xxxbluetvbigcockhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550965",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: EroxTV Hardcore  HD",
-        "id": "xxxeroxtvhardcorehd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550969",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: EroxTV Interracıal  HD",
-        "id": "xxxeroxtvinterracalhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550970",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: NovaTV Braty Sis  HD",
-        "id": "xxxnovatvbratysishd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550977",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: NovaTV Girl Show  HD",
-        "id": "xxxnovatvgirlshowhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550979",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: NovaTV Schooll  HD",
-        "id": "xxxnovatvschoollhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550984",
         "categories": [
             "for adults+18"
         ],
@@ -9804,40 +10094,10 @@
         "country": ""
     },
     {
-        "name": "XXX: SugarTV  Anal HD",
-        "id": "xxxsugartvanalhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550989",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: SugarTV  babes HD",
-        "id": "xxxsugartvbabeshd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550990",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
         "name": "XXX: SutraTV Anal HD",
         "id": "xxxsutratvanalhd",
         "logo": "",
         "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550997",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: SutraTV Javhub HD",
-        "id": "xxxsutratvjavhubhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550999",
         "categories": [
             "for adults+18"
         ],
@@ -9864,30 +10124,10 @@
         "country": ""
     },
     {
-        "name": "XXX: FuxTV Devils Film HD",
-        "id": "xxxfuxtvdevilsfilmhd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551014",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
         "name": "XXX: Türkhub Alt Yazılı 5 HD",
         "id": "xxxtrkhubaltyazl5hd",
         "logo": "",
         "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551031",
-        "categories": [
-            "for adults+18"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: RedlightTV Excogi HD",
-        "id": "xxxredlighttvexcogihd",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551040",
         "categories": [
             "for adults+18"
         ],
@@ -9904,12 +10144,162 @@
         "country": ""
     },
     {
-        "name": "USA Real NBA 01: OKC Thunder VS DET Pistons ( ESPN Feed ) @ 7:30 PM",
-        "id": "usarealnba01okcthundervsdetpistonsespnfeed730pm",
+        "name": "XXX: BlueTV Big Tits HD",
+        "id": "xxxbluetvbigtitshd",
         "logo": "",
-        "url": "http://fortv.cc:8080/D76rh4/197436/262663",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550956",
         "categories": [
-            "nba"
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: BlueTV Public HD",
+        "id": "xxxbluetvpublichd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550964",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: EroxTV Story  HD",
+        "id": "xxxeroxtvstoryhd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550975",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: SugarTV  Mofos HD",
+        "id": "xxxsugartvmofoshd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/550994",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: SutraTV Ultra Films HD",
+        "id": "xxxsutratvultrafilmshd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551004",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: PixelTV Throated HD",
+        "id": "xxxpixeltvthroatedhd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551018",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: PixelTV Spizoo HD",
+        "id": "xxxpixeltvspizoohd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551019",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: PixelTV Bang Bros HD",
+        "id": "xxxpixeltvbangbroshd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551025",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: Türkhub Alt Yazılı 2 HD",
+        "id": "xxxtrkhubaltyazl2hd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551028",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: Türkhub Alt Yazılı 3 HD",
+        "id": "xxxtrkhubaltyazl3hd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551029",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: Türkhub Alt Yazılı 4 HD",
+        "id": "xxxtrkhubaltyazl4hd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551030",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: RedlightTV Sweet Sinner HD",
+        "id": "xxxredlighttvsweetsinnerhd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551034",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: RedlightTV Kinky Family HD",
+        "id": "xxxredlighttvkinkyfamilyhd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551038",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: RedlightTV Erotique HD",
+        "id": "xxxredlighttverotiquehd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551041",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: 4K PORN 3 UHD",
+        "id": "xxx4kporn3uhd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551044",
+        "categories": [
+            "for adults+18"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XXX: 4K PORN 4 UHD",
+        "id": "xxx4kporn4uhd",
+        "logo": "",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/551045",
+        "categories": [
+            "for adults+18"
         ],
         "country": ""
     },
@@ -9924,12 +10314,112 @@
         "country": ""
     },
     {
+        "name": "NBA 01: Miami Heat @ Philadelphia 76ers | Home Stream | 02/26/2026 7:00 PM ET",
+        "id": "nba01miamiheatphiladelphia76ershomestream02262026700pmet",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/262786",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBA 08: San Antonio Spurs @ Brooklyn Nets | Away Stream | 02/26/2026 7:30 PM ET",
+        "id": "nba08sanantoniospursbrooklynnetsawaystream02262026730pmet",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/262793",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBA 09: Washington Wizards @ Atlanta Hawks | Home Stream | 02/26/2026 7:30 PM ET",
+        "id": "nba09washingtonwizardsatlantahawkshomestream02262026730pmet",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/262794",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBA 10: Washington Wizards @ Atlanta Hawks | Away Stream | 02/26/2026 7:30 PM ET",
+        "id": "nba10washingtonwizardsatlantahawksawaystream02262026730pmet",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/262795",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: NBA TV",
+        "id": "usanbatv",
+        "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/20073",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA Real NBA 03: Washington Wizards vs Atlanta Hawks @ 07:30 PM EST",
+        "id": "usarealnba03washingtonwizardsvsatlantahawks0730pmest",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/262778",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA Real NBA 05: Houston Rockets vs Orlando Magic @ 07:30 PM EST",
+        "id": "usarealnba05houstonrocketsvsorlandomagic0730pmest",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/262780",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBA 03: Charlotte Hornets @ Indiana Pacers | Away Stream | 02/26/2026 7:00 PM ET",
+        "id": "nba03charlottehornetsindianapacersawaystream02262026700pmet",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/262788",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
         "name": "GP Italia F1 HD",
         "id": "gpitaliaf1hd",
         "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",
         "url": "http://185.177.126.241:8880//live/ashan24/ashan24/825694.ts",
         "categories": [
             "es - 24x7 f1 sports- exclusive"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TABII SPOR",
+        "id": "trtabiispor",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/466915",
+        "categories": [
+            "tr | spor ⚽"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TABII SPOR 4",
+        "id": "trtabiispor4",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/466919",
+        "categories": [
+            "tr | spor ⚽"
         ],
         "country": ""
     },
@@ -16834,28 +17324,6 @@
         "country": ""
     },
     {
-        "name": "CINE OFFICE 1",
-        "id": "cineoffice1",
-        "logo": "http://sltv-logo.cms-s.com/logo/turkeyT/cine_office1.png",
-        "url": "http://focusmag.eu01.live:8080/guwXHdsG8g/kRUHdHHnnw/646644",
-        "categories": [
-            "tr | cinemaximum 7",
-            "24"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CINE OFFICE 5",
-        "id": "cineoffice5",
-        "logo": "http://sltv-logo.cms-s.com/logo/turkeyT/cine_office5.png",
-        "url": "http://focusmag.eu01.live:8080/guwXHdsG8g/kRUHdHHnnw/646640",
-        "categories": [
-            "tr | cinemaximum 7",
-            "24"
-        ],
-        "country": ""
-    },
-    {
         "name": "(IR) Irib Quran TV",
         "id": "iriribqurantv",
         "logo": "",
@@ -16882,46 +17350,6 @@
         "url": "http://al01.nxtbox.de:80/arda/eqaatcM/141194",
         "categories": [
             "tr - yerli sinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MLB TV",
-        "id": "mlbtv",
-        "logo": "https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",
-        "url": "https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyDzDyUTZLQ2k4HO44SlpIZE/.m3u8",
-        "categories": [
-            "pixelsports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ESPN USA",
-        "id": "espnusa",
-        "logo": "https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",
-        "url": "https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMqgFOqlTe9h0iTA4jf8kBw/.m3u8",
-        "categories": [
-            "pixelsports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Marquee Sports Network",
-        "id": "marqueesportsnetwork",
-        "logo": "https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",
-        "url": "https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyAf82ZyDSxJs2PI6C55WYnY/.m3u8",
-        "categories": [
-            "pixelsports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NBA TV",
-        "id": "nbatv",
-        "logo": "https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png",
-        "url": "https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8",
-        "categories": [
-            "pixelsports"
         ],
         "country": ""
     },
@@ -17015,6 +17443,17 @@
         "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/863054.ts",
         "categories": [
             "tr ➤ 7",
+            "24 çocuk"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BEN 10",
+        "id": "ben10",
+        "logo": "https://i.ibb.co/zT8nM6NP/7-24cocuk.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519342",
+        "categories": [
+            "tr | 7",
             "24 çocuk"
         ],
         "country": ""
@@ -17202,16 +17641,6 @@
         "country": ""
     },
     {
-        "name": "CRO: SPORT KLUB 6",
-        "id": "crosportklub6",
-        "logo": "https://docdog.top/logo/countries/croatia/sportklub-6-hr.png",
-        "url": "http://vipneeene.top:8080/VIP01601743247225373/0aa7c424791c/3002",
-        "categories": [
-            "eu | croatia vip"
-        ],
-        "country": ""
-    },
-    {
         "name": "CRO: CINEMAX 2",
         "id": "crocinemax2",
         "logo": "https://docdog.top/logo/countries/croatia/cinemax2-hr.png",
@@ -17236,16 +17665,6 @@
         "id": "croarenasport1",
         "logo": "https://docdog.top/logo/countries/croatia/arenasport1.png",
         "url": "http://vipneeene.top:8080/VIP012561741463703365/95fdeb70602e/2991",
-        "categories": [
-            "eu | croatia vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CRO: VTV VARAZDINE",
-        "id": "crovtvvarazdine",
-        "logo": "https://docdog.top/logo/countries/croatia/varazdinska-televizija-hr.png",
-        "url": "http://vipneeene.top:8080/VIP0139176242349027/uvfjq5ey7szy/3093",
         "categories": [
             "eu | croatia vip"
         ],
@@ -17302,30 +17721,10 @@
         "country": ""
     },
     {
-        "name": "Pro Tv HD",
-        "id": "protvhd",
+        "name": "National Tv",
+        "id": "nationaltv",
         "logo": "",
-        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/460072",
-        "categories": [
-            "ro | romania"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Antena  1",
-        "id": "antena1",
-        "logo": "",
-        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/460078",
-        "categories": [
-            "ro | romania"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Antena 3",
-        "id": "antena3",
-        "logo": "",
-        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/460080",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/460099",
         "categories": [
             "ro | romania"
         ],
@@ -17422,16 +17821,6 @@
         "country": ""
     },
     {
-        "name": "HU: DUNA WORLD",
-        "id": "hudunaworld",
-        "logo": "https://docdog.top/logo/countries/hungary/dunaworld.png",
-        "url": "http://vipneeene.top:8080/VIP0139176242349027/uvfjq5ey7szy/3782",
-        "categories": [
-            "eu | hungary vip"
-        ],
-        "country": ""
-    },
-    {
         "name": "HU: EUROSPORT 1",
         "id": "hueurosport1",
         "logo": "https://docdog.top/logo/countries/hungary/eurosport1.png",
@@ -17476,16 +17865,6 @@
         "id": "hujockytv",
         "logo": "https://docdog.top/logo/countries/hungary/jockytv.png",
         "url": "http://vipneeene.top:8080/vip511767980879/p5kxyy9p4bnz/3805",
-        "categories": [
-            "eu | hungary vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HU: LIFE NETWORK",
-        "id": "hulifenetwork",
-        "logo": "https://docdog.top/logo/countries/hungary/sonlifenetwork.png",
-        "url": "http://vipneeene.top:8080/vip511767980879/p5kxyy9p4bnz/3806",
         "categories": [
             "eu | hungary vip"
         ],
@@ -19032,10 +19411,10 @@
         "country": ""
     },
     {
-        "name": "Diyanet TV",
-        "id": "diyanettv",
+        "name": "TRT 2",
+        "id": "trt2",
         "logo": "",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/186255",
+        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/186242",
         "categories": [
             "ulusal tv [hd]"
         ],
@@ -19092,10 +19471,20 @@
         "country": ""
     },
     {
-        "name": "REDBOX TURKCE RAP RADIO",
-        "id": "redboxturkcerapradio",
+        "name": "REDBOX TURKCE POP 7/24",
+        "id": "redboxturkcepop724",
         "logo": "",
-        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/423700",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/423704",
+        "categories": [
+            "tr | müzi̇k"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TRT MUZIK*",
+        "id": "trtmuzik",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/452091",
         "categories": [
             "tr | müzi̇k"
         ],
@@ -19206,17 +19595,6 @@
         "id": "247hallowenkino9",
         "logo": "https://r.resimlink.com/ucg-ST72Z.png",
         "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/105215",
-        "categories": [
-            "deutschland hallowen 24",
-            "7"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 HALLOWEN KINO 2",
-        "id": "247hallowenkino2",
-        "logo": "https://r.resimlink.com/ucg-ST72Z.png",
-        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/105226",
         "categories": [
             "deutschland hallowen 24",
             "7"
@@ -19510,16 +19888,6 @@
         "url": "http://norqhwkyfzw.top:8080/Timoteo66666/1234/5605",
         "categories": [
             "es | deportes"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: REDBOX YESILCAM HD",
-        "id": "trredboxyesilcamhd",
-        "logo": "",
-        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/472590",
-        "categories": [
-            "tr | yeşi̇lçam si̇nema"
         ],
         "country": ""
     },
@@ -20058,36 +20426,6 @@
         "id": "sfgovtvsanfranciscothegovernmentchannel720p",
         "logo": "",
         "url": "https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Atlanta's 57 WATC 57.1 (720p)",
-        "id": "atlantas57watc571720p",
-        "logo": "",
-        "url": "https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Atlanta's 57 WATC TOO 57.2 (720p)",
-        "id": "atlantas57watctoo572720p",
-        "logo": "",
-        "url": "https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KQSL Channel 8 (720p)",
-        "id": "kqslchannel8720p",
-        "logo": "",
-        "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8",
         "categories": [
             "us_local"
         ],
@@ -21764,6 +22102,16 @@
         "country": ""
     },
     {
+        "name": "WLNG Radio (410p) [Not 24/7]",
+        "id": "wlngradio410pnot247",
+        "logo": "",
+        "url": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8",
+        "categories": [
+            "us_local"
+        ],
+        "country": ""
+    },
+    {
         "name": "PT: CNN",
         "id": "ptcnn",
         "logo": "",
@@ -21774,10 +22122,10 @@
         "country": ""
     },
     {
-        "name": "REDBOX BİLİM KURGU",
-        "id": "redboxblmkurgu",
-        "logo": "https://i.ibb.co/wZqFPDjf/7-24-sinema.png",
-        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519328",
+        "name": "BOX OFFICE 3",
+        "id": "boxoffice3",
+        "logo": "https://i.ibb.co/bMXJtKqr/boxoffice.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519288",
         "categories": [
             "tr | 7",
             "24 sinema &  eglence"
@@ -21785,10 +22133,32 @@
         "country": ""
     },
     {
-        "name": "KUZEY GÜNEY",
-        "id": "kuzeygney",
+        "name": "FILMAX GERİLİM",
+        "id": "filmaxgerlm",
+        "logo": "https://i.ibb.co/wZqFPDjf/7-24-sinema.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519302",
+        "categories": [
+            "tr | 7",
+            "24 sinema &  eglence"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AYI TEDDY",
+        "id": "ayiteddy",
+        "logo": "https://i.ibb.co/Cp0SdGzT/7-24-box-set.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519433",
+        "categories": [
+            "tr | 7",
+            "24 sinema &  eglence"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ÇÖP ADAM",
+        "id": "padam",
         "logo": "https://i.ibb.co/nMDxWqkC/7-24-turk-dizi.png",
-        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519621",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519484",
         "categories": [
             "tr | 7",
             "24 di̇zi̇"
@@ -21796,13 +22166,46 @@
         "country": ""
     },
     {
-        "name": "SHARON STONE",
-        "id": "sharonstone",
+        "name": "NATALIE PORTMAN",
+        "id": "natalieportman",
         "logo": "https://i.ibb.co/Q7K65fhN/7-24-filmaxactor.png",
-        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519701",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519659",
         "categories": [
             "tr | 7",
             "24 sinema &  eglence"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UZUN BOYLU KIZ",
+        "id": "uzunboylukiz",
+        "logo": "https://i.ibb.co/Cp0SdGzT/7-24-box-set.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519741",
+        "categories": [
+            "tr | 7",
+            "24 di̇zi̇"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WOLVERINE",
+        "id": "wolverine",
+        "logo": "https://i.ibb.co/Cp0SdGzT/7-24-box-set.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519753",
+        "categories": [
+            "tr | 7",
+            "24 sinema &  eglence"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ÖLÜMSÜZ",
+        "id": "lmsz",
+        "logo": "https://i.ibb.co/Cp0SdGzT/7-24-box-set.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519790",
+        "categories": [
+            "tr | 7",
+            "24 di̇zi̇"
         ],
         "country": ""
     },
@@ -24332,6 +24735,96 @@
         "country": ""
     },
     {
+        "name": "DE: CINEDOME ANIMATION",
+        "id": "decinedomeanimation",
+        "logo": "https://i.ibb.co/8n6wjd0W/7-24.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519793",
+        "categories": [
+            "de | sinema & kino"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: CINEDOME MARVEL",
+        "id": "decinedomemarvel",
+        "logo": "https://i.ibb.co/8n6wjd0W/7-24.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519804",
+        "categories": [
+            "de | sinema & kino"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: CINEDOME MITTELERDE",
+        "id": "decinedomemittelerde",
+        "logo": "https://i.ibb.co/8n6wjd0W/7-24.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519805",
+        "categories": [
+            "de | sinema & kino"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: MAX KINO 1",
+        "id": "demaxkino1",
+        "logo": "https://i.ibb.co/8n6wjd0W/7-24.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519808",
+        "categories": [
+            "de | sinema & kino"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: MAX KINO 4",
+        "id": "demaxkino4",
+        "logo": "https://i.ibb.co/8n6wjd0W/7-24.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519811",
+        "categories": [
+            "de | sinema & kino"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: MAX SELECT 1",
+        "id": "demaxselect1",
+        "logo": "https://i.ibb.co/8n6wjd0W/7-24.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519829",
+        "categories": [
+            "de | sinema & kino"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: MAX SELECT 4",
+        "id": "demaxselect4",
+        "logo": "https://i.ibb.co/8n6wjd0W/7-24.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519832",
+        "categories": [
+            "de | sinema & kino"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: REDBOX KINO 5",
+        "id": "deredboxkino5",
+        "logo": "https://i.ibb.co/8n6wjd0W/7-24.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/520204",
+        "categories": [
+            "de | sinema & kino"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: REDBOX KINO 8",
+        "id": "deredboxkino8",
+        "logo": "https://i.ibb.co/8n6wjd0W/7-24.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/520207",
+        "categories": [
+            "de | sinema & kino"
+        ],
+        "country": ""
+    },
+    {
         "name": "----- BASKET SERIE A -----",
         "id": "basketseriea",
         "logo": "",
@@ -24372,16 +24865,6 @@
         "country": ""
     },
     {
-        "name": "TR: Tabii Spor 3 HD",
-        "id": "trtabiispor3hd",
-        "logo": "https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg",
-        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/454318",
-        "categories": [
-            "tabii spor"
-        ],
-        "country": ""
-    },
-    {
         "name": "BE: RTL BEL",
         "id": "bertlbel",
         "logo": "https://docdog.top/logo/countries/belgium/bel-rtl-be.png",
@@ -24406,16 +24889,6 @@
         "id": "beketop12",
         "logo": "https://docdog.top/logo/countries/belgium/ketop12.png",
         "url": "http://vipneeene.top:8080/vip511767980879/p5kxyy9p4bnz/3132",
-        "categories": [
-            "eu | belgium vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BE: TRACE SPORT STARS",
-        "id": "betracesportstars",
-        "logo": "https://docdog.top/logo/countries/belgium/tracesportstars.png",
-        "url": "http://vipqutnnapi.top:8080/VIP0155169513131921/51696769842064/3156",
         "categories": [
             "eu | belgium vip"
         ],
@@ -24492,40 +24965,30 @@
         "country": ""
     },
     {
-        "name": "TR: Cine Box TV 20 HD",
-        "id": "trcineboxtv20hd",
+        "name": "TR: Cine Box TV 5 HD",
+        "id": "trcineboxtv5hd",
         "logo": "http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png",
-        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/170470",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/170455",
         "categories": [
             "sinema kanallari"
         ],
         "country": ""
     },
     {
-        "name": "TR: Sine Max TV 7 HD",
-        "id": "trsinemaxtv7hd",
-        "logo": "http://play",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/170447",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Sine Max TV 8 HD",
-        "id": "trsinemaxtv8hd",
-        "logo": "http://play",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/170448",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Cine Box TV 11 HD",
-        "id": "trcineboxtv11hd",
+        "name": "TR: Cine Box TV 19 HD",
+        "id": "trcineboxtv19hd",
         "logo": "http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/170461",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/170469",
+        "categories": [
+            "sinema kanallari"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Cine Box TV 18 HD",
+        "id": "trcineboxtv18hd",
+        "logo": "http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png",
+        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/170468",
         "categories": [
             "sinema kanallari"
         ],
@@ -25032,32 +25495,42 @@
         "country": ""
     },
     {
-        "name": "MUZIK 7/24 | SOFAR SOUND 1",
-        "id": "muzik724sofarsound1",
-        "logo": "https://i.ibb.co/7NrPpjh/logo.png",
-        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102284",
-        "categories": [
-            "tr special box muzik [full]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MUZIK 7/24 | HIRAI ZERDUS",
-        "id": "muzik724hiraizerdus",
-        "logo": "https://i.ibb.co/7NrPpjh/logo.png",
-        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102308",
-        "categories": [
-            "tr special box muzik [full]"
-        ],
-        "country": ""
-    },
-    {
         "name": "MUZIK 7/24 | ADELE",
         "id": "muzik724adele",
         "logo": "https://i.ibb.co/7NrPpjh/logo.png",
         "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102316",
         "categories": [
             "tr special box muzik [full]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MUZIK 7/24 | SHAKIRA",
+        "id": "muzik724shakira",
+        "logo": "https://i.ibb.co/7NrPpjh/logo.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102313",
+        "categories": [
+            "tr special box muzik [full]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MUZIK 7/24 | EYLEM AKTAS",
+        "id": "muzik724eylemaktas",
+        "logo": "https://i.ibb.co/7NrPpjh/logo.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102345",
+        "categories": [
+            "tr special box muzik [full]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Eurosport 1 HD",
+        "id": "deeurosport1hd",
+        "logo": "https://imagizer.imageshack.com/img924/130/XZpaXR.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/96734",
+        "categories": [
+            "de | sport ⚽"
         ],
         "country": ""
     },
@@ -25086,16 +25559,6 @@
         "id": "itnickelodeon",
         "logo": "",
         "url": "http://vipneeene.top:8080/VIP0139176242349027/uvfjq5ey7szy/135893",
-        "categories": [
-            "it | bambini vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IT: CARTOONITO HD",
-        "id": "itcartoonitohd",
-        "logo": "https://docdog.top/logo/countries/italy/cartoonito.png",
-        "url": "http://vipneeene.top:8080/vip511767980879/p5kxyy9p4bnz/135884",
         "categories": [
             "it | bambini vip"
         ],
@@ -25992,6 +26455,38 @@
         "country": ""
     },
     {
+        "name": "VN SBTN (A)",
+        "id": "vnsbtna",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/121034",
+        "categories": [
+            "vietnam"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: 911",
+        "id": "de911",
+        "logo": "https://i.ibb.co/8n6wjd0W/7-24.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/520211",
+        "categories": [
+            "de | 24",
+            "7 series"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: FBI",
+        "id": "defbi",
+        "logo": "https://i.ibb.co/8n6wjd0W/7-24.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/520219",
+        "categories": [
+            "de | 24",
+            "7 series"
+        ],
+        "country": ""
+    },
+    {
         "name": "UK: SONY TV ASIA HD",
         "id": "uksonytvasiahd",
         "logo": "http://img-cdn.curl.pk:8880/channels_icon/33322094591.png",
@@ -26206,6 +26701,26 @@
         "id": "ushindiasiansonymax2s",
         "logo": "",
         "url": "http://fortv.cc:8080/D76rh4/197436/125795",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Asian (Hindi) SET Max (S)",
+        "id": "usasianhindisetmaxs",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/125814",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Asian (Hindi) TV Asia (S)",
+        "id": "usasianhinditvasias",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/125819",
         "categories": [
             "india"
         ],
@@ -26587,62 +27102,12 @@
         "country": ""
     },
     {
-        "name": "TR: Minika Cocuk Hd",
-        "id": "trminikacocukhd",
-        "logo": "https://i.ibb.co/svFLBmqm/oNpTtSm.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/861287.ts",
+        "name": "TR: MINIKA GO ʜᴅ",
+        "id": "trminikago",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/475258",
         "categories": [
-            "tr ➤ çocuk"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Redkit Hd",
-        "id": "trredkithd",
-        "logo": "http://135.125.239.110/icon/603141.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/merolbekir/a.26082023s/861311.ts",
-        "categories": [
-            "tr ➤ çocuk"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bein Disney Junior Cocuk HD",
-        "id": "beindisneyjuniorcocukhd",
-        "logo": "https://i.ibb.co/6Rq4dd6t/Um5V5Wk.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/865275.ts",
-        "categories": [
-            "tr ➤ çocuk"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Moonbug Kids HD",
-        "id": "moonbugkidshd",
-        "logo": "https://i.ibb.co/Wvm8PHNR/Moonbug-Kids-svg.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/865276.ts",
-        "categories": [
-            "tr ➤ çocuk"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Dsmart Cocuk HD",
-        "id": "dsmartcocukhd",
-        "logo": "https://i.ibb.co/tMh2mMyM/srng8on.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/865277.ts",
-        "categories": [
-            "tr ➤ çocuk"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Kral Sakir Hd",
-        "id": "trkralsakirhd",
-        "logo": "http://135.125.239.110/icon/693988.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/861306.ts",
-        "categories": [
-            "tr ➤ çocuk"
+            "tr | çocuk"
         ],
         "country": ""
     },
@@ -26878,32 +27343,62 @@
         "country": ""
     },
     {
-        "name": "TR: Fil Spor [Maç Saati Aktif] 2 HD",
-        "id": "trfilspormasaatiaktif2hd",
+        "name": "TR: Fil Spor [Maç Saati Aktif] 5 HD",
+        "id": "trfilspormasaatiaktif5hd",
         "logo": "https://i.hizliresim.com/t8diqat.png",
-        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/372624",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/372627",
         "categories": [
             "fil sport"
         ],
         "country": ""
     },
     {
-        "name": "TR: Fil Spor [Maç Saati Aktif] 4 HD",
-        "id": "trfilspormasaatiaktif4hd",
-        "logo": "https://i.hizliresim.com/t8diqat.png",
-        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/372626",
+        "name": "IT: RAI 1 HD",
+        "id": "itrai1hd",
+        "logo": "https://static.epg.best/it/RaiUno.it.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519963",
         "categories": [
-            "fil sport"
+            "it | italy"
         ],
         "country": ""
     },
     {
-        "name": "TR: Fil Spor [Maç Saati Aktif] 3 HD",
-        "id": "trfilspormasaatiaktif3hd",
-        "logo": "https://i.hizliresim.com/t8diqat.png",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/372625",
+        "name": "IT: RAI 4 HD+",
+        "id": "itrai4hd",
+        "logo": "https://static.epg.best/it/Rai4.it.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519970",
         "categories": [
-            "fil sport"
+            "it | italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RAI GULP HD+",
+        "id": "itraigulphd",
+        "logo": "https://static.epg.best/it/RaiGulp.it.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519974",
+        "categories": [
+            "it | italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RAI SPORT HD",
+        "id": "itraisporthd",
+        "logo": "https://static.epg.best/it/RaiSport.it.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519980",
+        "categories": [
+            "it | italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RAI YO YO HD",
+        "id": "itraiyoyohd",
+        "logo": "https://static.epg.best/it/RaiYoyo.it.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519984",
+        "categories": [
+            "it | italy"
         ],
         "country": ""
     },
@@ -26914,56 +27409,6 @@
         "url": "http://sat222.online:80/jCbA6MRw1/QZixDZwSZL/28652",
         "categories": [
             "tv | globo nordeste"
-        ],
-        "country": ""
-    },
-    {
-        "name": "b**N SPORTS 1 SD",
-        "id": "bnsports1sd",
-        "logo": "https://www.tvlogolar.xyz/europa/turkey/beinsports1.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/94920",
-        "categories": [
-            "tr | b**n sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "b**N SPORTS 2 HD",
-        "id": "bnsports2hd",
-        "logo": "https://www.tvlogolar.xyz/europa/turkey/beinsports2.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/94924",
-        "categories": [
-            "tr | b**n sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "b**N SPORTS 4 HD",
-        "id": "bnsports4hd",
-        "logo": "https://www.tvlogolar.xyz/europa/turkey/beinsports4.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/94930",
-        "categories": [
-            "tr | b**n sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "b**N SPORTS 5 FHD",
-        "id": "bnsports5fhd",
-        "logo": "https://www.tvlogolar.xyz/europa/turkey/beinsports5.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/581423",
-        "categories": [
-            "tr | b**n sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "b**N SPORTS 5 HD",
-        "id": "bnsports5hd",
-        "logo": "https://www.tvlogolar.xyz/europa/turkey/beinsports5.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/265531",
-        "categories": [
-            "tr | b**n sports"
         ],
         "country": ""
     },
@@ -28208,6 +28653,56 @@
         "country": ""
     },
     {
+        "name": "DE: Sixx HEVC",
+        "id": "desixxhevc",
+        "logo": "https://imagizer.imageshack.com/img924/5882/ZP5GX7.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/413557",
+        "categories": [
+            "de | hevc"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: arte HEVC",
+        "id": "deartehevc",
+        "logo": "https://imagizer.imageshack.com/img922/6632/Rjz9uU.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/413563",
+        "categories": [
+            "de | hevc"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Phoenix",
+        "id": "dephoenix",
+        "logo": "https://imagizer.imageshack.com/img923/8954/7TGMy2.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/413568",
+        "categories": [
+            "de | hevc"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SWR BW HEVC",
+        "id": "deswrbwhevc",
+        "logo": "https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/413571",
+        "categories": [
+            "de | hevc"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: TELE 5 HEVC",
+        "id": "detele5hevc",
+        "logo": "https://imagizer.imageshack.com/img924/5722/ssCc5Q.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/413572",
+        "categories": [
+            "de | hevc"
+        ],
+        "country": ""
+    },
+    {
         "name": "IT: SKY UNO FHD",
         "id": "itskyunofhd",
         "logo": "https://docdog.top/logo/countries/italy/sky-uno-it.png",
@@ -28254,6 +28749,26 @@
         "url": "http://vipneeene.top:8080/VIP01331744952326393/b4b3f67ad663/136217",
         "categories": [
             "it | intrattenimento vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: CARTOON NETWORK",
+        "id": "decartoonnetwork",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/412012",
+        "categories": [
+            "de | kinder"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: KIKA",
+        "id": "dekika",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/412015",
+        "categories": [
+            "de | kinder"
         ],
         "country": ""
     },
@@ -28918,6 +29433,96 @@
         "country": ""
     },
     {
+        "name": "AL: JOLLY",
+        "id": "aljolly",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519160",
+        "categories": [
+            "alb | albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL: KLAN KOSOVA",
+        "id": "alklankosova",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519169",
+        "categories": [
+            "alb | albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL: KTV",
+        "id": "alktv",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519176",
+        "categories": [
+            "alb | albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL: OPOJA TV",
+        "id": "alopojatv",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519190",
+        "categories": [
+            "alb | albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL: RTK 1",
+        "id": "alrtk1",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519192",
+        "categories": [
+            "alb | albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL: RTK 2",
+        "id": "alrtk2",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519193",
+        "categories": [
+            "alb | albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL: RTK 4",
+        "id": "alrtk4",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519195",
+        "categories": [
+            "alb | albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL: RTV DUKAGJINI",
+        "id": "alrtvdukagjini",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519203",
+        "categories": [
+            "alb | albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL: RTV ISLAM",
+        "id": "alrtvislam",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519206",
+        "categories": [
+            "alb | albania"
+        ],
+        "country": ""
+    },
+    {
         "name": "(TR) Tabii Spor HD+",
         "id": "trtabiisporhd",
         "logo": "",
@@ -29379,32 +29984,10 @@
         "country": ""
     },
     {
-        "name": "FILM 24/7 JURASSIC PARK",
-        "id": "film247jurassicpark",
-        "logo": "https://i.ibb.co/rdPPcnG/HpIpzzA.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/103042",
-        "categories": [
-            "full de 24",
-            "7 special"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FILM 24/7 FINAL DESTINATION",
-        "id": "film247finaldestination",
-        "logo": "https://i.ibb.co/rdPPcnG/HpIpzzA.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/103045",
-        "categories": [
-            "full de 24",
-            "7 special"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SERIE 24/7 EVIL",
-        "id": "serie247evil",
+        "name": "SERIE 24/7 SNOWFALL",
+        "id": "serie247snowfall",
         "logo": "https://i.imgur.com/oJiXRw5.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/100011",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/101491",
         "categories": [
             "full de 24",
             "7 special"
@@ -29412,21 +29995,10 @@
         "country": ""
     },
     {
-        "name": "SERIE 24/7 EXPEDITION UNKNOWN",
-        "id": "serie247expeditionunknown",
-        "logo": "https://i.ibb.co/RH4H08S/1-SPECIALBOX.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96556",
-        "categories": [
-            "full de 24",
-            "7 special"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SERIE 24/7 EINE SCHRECKLICH NETTE FAMILIE",
-        "id": "serie247eineschrecklichnettefamilie",
+        "name": "SERIE 24/7 DIE CAMPER",
+        "id": "serie247diecamper",
         "logo": "https://i.ibb.co/rdPPcnG/HpIpzzA.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/103669",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/103667",
         "categories": [
             "full de 24",
             "7 special"
@@ -29434,10 +30006,10 @@
         "country": ""
     },
     {
-        "name": "SERIE 24/7 SEX AND THE CITY",
-        "id": "serie247sexandthecity",
+        "name": "SERIE 24/7 BEYBLADE V-FORCE",
+        "id": "serie247beybladevforce",
         "logo": "https://i.ibb.co/rdPPcnG/HpIpzzA.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/103670",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/103678",
         "categories": [
             "full de 24",
             "7 special"
@@ -29445,10 +30017,10 @@
         "country": ""
     },
     {
-        "name": "SERIE 24/7 PEPPA PIG",
-        "id": "serie247peppapig",
+        "name": "SERIE 24/7 PAW PATROL",
+        "id": "serie247pawpatrol",
         "logo": "https://i.ibb.co/rdPPcnG/HpIpzzA.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/103674",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/103679",
         "categories": [
             "full de 24",
             "7 special"
@@ -29456,10 +30028,10 @@
         "country": ""
     },
     {
-        "name": "SERIE 24/7 DREAMWORKS 2",
-        "id": "serie247dreamworks2",
+        "name": "SERIE 24/7 DEXTER",
+        "id": "serie247dexter",
         "logo": "https://i.ibb.co/rdPPcnG/HpIpzzA.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/103922",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/103681",
         "categories": [
             "full de 24",
             "7 special"
@@ -29467,21 +30039,32 @@
         "country": ""
     },
     {
-        "name": "FM: WUNSCHRADIO.FM",
-        "id": "fmwunschradiofm",
+        "name": "SERIE 24/7 TWO AND A HALF MAN",
+        "id": "serie247twoandahalfman",
+        "logo": "https://i.ibb.co/rdPPcnG/HpIpzzA.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103668",
+        "categories": [
+            "full de 24",
+            "7 special"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SERIE 24/7 JERKS",
+        "id": "serie247jerks",
+        "logo": "https://i.ibb.co/rdPPcnG/HpIpzzA.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103672",
+        "categories": [
+            "full de 24",
+            "7 special"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FM: I LOVE MUSIC CHILL BY ILOVEMUSIC.DE",
+        "id": "fmilovemusicchillbyilovemusicde",
         "logo": "https://i.ibb.co/PmbFZ0L/image.png",
-        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101378",
-        "categories": [
-            "full de 24",
-            "7 special"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FM: PLAYMYSTIC",
-        "id": "fmplaymystic",
-        "logo": "http://radio.pervii.com/logo/1403554005.png",
-        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101399",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101406",
         "categories": [
             "full de 24",
             "7 special"
@@ -34549,16 +35132,6 @@
         "country": ""
     },
     {
-        "name": "Mas FM | AR",
-        "id": "masfmar",
-        "logo": "https://cdn.m3u.cl/logo/1130_Mas_FM.png",
-        "url": "https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "TeleNord | AR",
         "id": "telenordar",
         "logo": "https://cdn.m3u.cl/logo/814_TeleNord.jpg",
@@ -35273,16 +35846,6 @@
         "id": "concepciontvcl",
         "logo": "https://cdn.m3u.cl/logo/352_Concepcion_TV.png",
         "url": "https://stream.blserver.cl/hls/ctv/index.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Energia TV | CL",
-        "id": "energiatvcl",
-        "logo": "https://cdn.m3u.cl/logo/386_Energia_TV.png",
-        "url": "https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],
@@ -39493,566 +40056,6 @@
         "id": "tapsports",
         "logo": "https://i.imgur.com/HWbSPI9.png",
         "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Premier Sports",
-        "id": "premiersports",
-        "logo": "https://i.imgur.com/GTfUEnU.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Premier Sports 2",
-        "id": "premiersports2",
-        "logo": "https://i.imgur.com/OWVR172.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/premiersports2hd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SpoTV HD",
-        "id": "spotvhd",
-        "logo": "https://i.imgur.com/QExPfsT.png",
-        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SpoTV 2 HD",
-        "id": "spotv2hd",
-        "logo": "https://i.imgur.com/7mY1Zxg.png",
-        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DreamWorks HD",
-        "id": "dreamworkshd",
-        "logo": "https://i.imgur.com/bzTr9Y2.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Dreamworks Tagalog",
-        "id": "dreamworkstagalog",
-        "logo": "https://i.imgur.com/bzTr9Y2.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Cartoon Network (Cignal)",
-        "id": "cartoonnetworkcignal",
-        "logo": "https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PTV",
-        "id": "ptv",
-        "logo": "https://i.imgur.com/jRvEV4E.png",
-        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RPTV",
-        "id": "rptv",
-        "logo": "https://cms.cignal.tv/Upload/Thumbnails/rptv%20logo%20final-02.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bilyonaryo Channel",
-        "id": "bilyonaryochannel",
-        "logo": "https://i.imgur.com/FxHmXYU.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BBC World News",
-        "id": "bbcworldnews",
-        "logo": "https://i.imgur.com/CTf7nGs.png",
-        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bloomberg",
-        "id": "bloomberg",
-        "logo": "https://i.imgur.com/2WGEb3V.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV5 Monde",
-        "id": "tv5monde",
-        "logo": "https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADB5E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980",
-        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "One News",
-        "id": "onenews",
-        "logo": "https://i.imgur.com/25PG6TF.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Lifetime",
-        "id": "lifetime",
-        "logo": "https://i.imgur.com/ZyqbNXn.png",
-        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Asian Food Network (Cignal)",
-        "id": "asianfoodnetworkcignal",
-        "logo": "https://i.imgur.com/PUe61Ov.png",
-        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Travel Channel",
-        "id": "travelchannel",
-        "logo": "https://i.imgur.com/8ukGHjv.png",
-        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "History HD",
-        "id": "historyhd",
-        "logo": "https://i.imgur.com/oJQJyhb.png",
-        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Crime & Investigation SD",
-        "id": "crimeinvestigationsd",
-        "logo": "https://i.imgur.com/9QBOVGF.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Discovery Channel",
-        "id": "discoverychannel",
-        "logo": "https://i.imgur.com/XsvAk5H.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Animal Planet",
-        "id": "animalplanet",
-        "logo": "https://i.imgur.com/SkpFpW4.png",
-        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DepEd Channel",
-        "id": "depedchannel",
-        "logo": "https://i.imgur.com/Ii7tRrE.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Knowledge Channel",
-        "id": "knowledgechannel",
-        "logo": "https://i.imgur.com/4O93eBO.png",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Euro Sport 2",
-        "id": "eurosport2",
-        "logo": "",
-        "url": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Nova Sport 1",
-        "id": "novasport1",
-        "logo": "",
-        "url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Nova Sport 2",
-        "id": "novasport2",
-        "logo": "",
-        "url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Vasantham",
-        "id": "vasantham",
-        "logo": "https://i.ibb.co/KVTfHd7/singapore-vasantham.png",
-        "url": "https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/13229990/contextType/PLAYBACK/isAltUrl/False/a.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RCTI",
-        "id": "rcti",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/nasional/rcti.jpg?raw=true",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MNCTV",
-        "id": "mnctv",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/nasional/mnctv.jpg?raw=true",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "GTV",
-        "id": "gtv",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/nasional/gtv.jpg?raw=true",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TRANS TV",
-        "id": "transtv",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/nasional/transtv.jpg?raw=true",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BALI TV",
-        "id": "balitv",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/nasional/balitv.jpg?raw=true",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BANDUNG TV",
-        "id": "bandungtv",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/nasional/bandungtv.jpg?raw=true",
-        "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HANACARAKA TV",
-        "id": "hanacarakatv",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/nasional/hanacaraka.jpg?raw=true",
-        "url": "https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ORIGINALS",
-        "id": "originals",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/movies/originals.jpg?raw=true",
-        "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SUPERRIX",
-        "id": "superrix",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/movies/superrix.jpg?raw=true",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Z BIOSKOP",
-        "id": "zbioskop",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/movies/zbioskop.jpg?raw=true",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ENT",
-        "id": "ent",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/entertainment/entertainment.jpg?raw=true",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VISION PRIME",
-        "id": "visionprime",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/entertainment/visionprime.jpg?raw=true",
-        "url": "https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SPORTSTARS",
-        "id": "sportstars",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/sports/sportstars.jpg?raw=true",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SPORTSTARS 2",
-        "id": "sportstars2",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/sports/sportstars2.jpg?raw=true",
-        "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SPORTSTARS 4",
-        "id": "sportstars4",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/sports/sportstars4.jpg?raw=true",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SOCCER CHANNEL",
-        "id": "soccerchannel",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/sports/soccer.jpg?raw=true",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FIGHT SPORTS",
-        "id": "fightsports",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/sports/fightsports.jpg?raw=true",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CBEEBIES BBC",
-        "id": "cbeebiesbbc",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/kids/cbeebies.jpg?raw=true",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SPORT 1",
-        "id": "sport1",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/antik/sport1.jpg",
-        "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SPORT 2",
-        "id": "sport2",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/antik/sport2.jpg",
-        "url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "JOJ SPORT",
-        "id": "jojsport",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/antik/jojsport.jpg",
-        "url": "https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "JOJ SPORT 2",
-        "id": "jojsport2",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/antik/jojsport2.jpg",
-        "url": "https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RTVS SPORT",
-        "id": "rtvssport",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/antik/rtvssport.jpg",
-        "url": "https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AUTO MOTOR AND SPORT",
-        "id": "automotorandsport",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/antik/automotorsport.jpg",
-        "url": "https://dash2.antik.sk/stream/hisi_ams/playlist_cbcs.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BBC FOUR",
-        "id": "bbcfour",
-        "logo": "",
-        "url": "https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "3SAT üá©üá™",
-        "id": "3sat",
-        "logo": "https://www.3sat.de/static//img/logos/logo.svg",
-        "url": "https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OCKO",
-        "id": "ocko",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/antik/ocko.jpg",
-        "url": "https://dash2.antik.sk/stream/hisi_ocko/playlist_cbcs.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RETRO MUSIC",
-        "id": "retromusic",
-        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/antik/retromusic.jpg",
-        "url": "https://dash2.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TTAVEL & TASTE",
-        "id": "ttaveltaste",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png",
-        "url": "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd",
         "categories": [
             "hilaytv"
         ],
