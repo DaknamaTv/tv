@@ -4230,16 +4230,6 @@
         "country": "IN"
     },
     {
-        "name": "Marutam TV",
-        "id": "MarutamTV.in",
-        "logo": "https://i.imgur.com/cFNw4Af.png",
-        "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Zee 24 Ghanta",
         "id": "Zee24Ghanta.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png",
@@ -4427,16 +4417,6 @@
         "categories": [
             "movies",
             "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Marutam Music",
-        "id": "MarutamMusic.in",
-        "logo": "",
-        "url": "https://mntv.livebox.co.in/musichls/live.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "IN"
     },
@@ -4679,16 +4659,6 @@
         "url": "https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "CCV",
-        "id": "CCV.in",
-        "logo": "https://i.imgur.com/4ss0KfA.png",
-        "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "IN"
     },
@@ -4959,16 +4929,6 @@
         "country": "IN"
     },
     {
-        "name": "RDX Goa",
-        "id": "RDXGoa.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
-        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony Sports Ten 5",
         "id": "SonySportsTen5.in",
         "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png",
@@ -5027,6 +4987,16 @@
         "categories": [
             "news",
             "classic"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Roja Movies",
+        "id": "RojaMovies.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
+        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
+        "categories": [
+            "movies"
         ],
         "country": "IN"
     }

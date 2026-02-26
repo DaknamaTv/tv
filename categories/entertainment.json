@@ -1150,16 +1150,6 @@
         "country": "IN"
     },
     {
-        "name": "Marutam TV",
-        "id": "MarutamTV.in",
-        "logo": "https://i.imgur.com/cFNw4Af.png",
-        "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Zee TV",
         "id": "ZeeTV.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png",
@@ -1436,16 +1426,6 @@
         "id": "GirasolTV.hn",
         "logo": "https://i.imgur.com/2t7A2yg.png",
         "url": "https://s.emisoras.tv:8081/girasoltv/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "HN"
-    },
-    {
-        "name": "EDN TV",
-        "id": "EDNTV.hn",
-        "logo": "https://i.imgur.com/5fPsYTz.png",
-        "url": "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1793,6 +1773,19 @@
         "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
         ],
         "country": "VN"
     },
@@ -3263,16 +3256,6 @@
         "country": "US"
     },
     {
-        "name": "FX Latin America",
-        "id": "FXLatinAmerica.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png",
-        "url": "http://38.199.6.1:17001/play/a04u/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Tin TV",
         "id": "TinTV.us",
         "logo": "https://i.imgur.com/hMqGs94.png",
@@ -3637,6 +3620,16 @@
         "country": "UG"
     },
     {
+        "name": "BTV",
+        "id": "BTV.ug",
+        "logo": "https://i.imgur.com/rcHZ1al.png",
+        "url": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "UG"
+    },
+    {
         "name": "Power Max Radio TV",
         "id": "PowerMaxRadioTV.ar",
         "logo": "https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg",
@@ -3727,16 +3720,6 @@
         "id": "MaLive.nl",
         "logo": "https://i.imgur.com/0Vzg2OR.png",
         "url": "https://live.salto.nl/hls/malive_high.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "SBS6 Classics",
-        "id": "SBS6Classics.nl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
-        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
         "categories": [
             "entertainment"
         ],

@@ -31,16 +31,6 @@
         "country": "TR"
     },
     {
-        "name": "ARB Gunes",
-        "id": "ARBGunes.az",
-        "logo": "https://i.imgur.com/dSg7KUK.png",
-        "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "AZ"
-    },
-    {
         "name": "Lenz Animation",
         "id": "LenzAnimation.ir",
         "logo": "https://i.postimg.cc/V652Dq1P/lenzanimation.png",
@@ -1214,6 +1204,16 @@
         "id": "NickJrLatinAmerica.us",
         "logo": "https://i.imgur.com/KT4tdQs.png",
         "url": "http://38.199.6.1:17001/play/a0pb/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Lego Channel",
+        "id": "LegoChannel.us",
+        "logo": "https://i.imgur.com/xePwW13.png",
+        "url": "https://jmp2.uk/stvp-GBBC4300005AL",
         "categories": [
             "kids"
         ],

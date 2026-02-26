@@ -2480,16 +2480,6 @@
         "country": ""
     },
     {
-        "name": "Green tv",
-        "id": "greentv",
-        "logo": "",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "SOMOY TV-[2]",
         "id": "somoytv2",
         "logo": "",
@@ -2584,6 +2574,36 @@
         "id": "bigmagic",
         "logo": "",
         "url": "http://103.175.73.12:8080/live/13/13_0.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "zee cafe hd",
+        "id": "zeecafehd",
+        "logo": "https://tvassets.roarzone.info/images/69.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/zee-cafe/index.m3u8?token=6e5aa971c1b32cb4896716a5bd6d39be6a9e456b-6d7a50ffc6b0092e1a9155dc509e95a0-1772096746-1772093146",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BeIN Sports 3",
+        "id": "beinsports3",
+        "logo": "",
+        "url": "http://135.125.109.73:9000/beinsport3_.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-3",
+        "id": "tnssports3",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts3",
         "categories": [
             "bd"
         ],

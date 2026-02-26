@@ -1,15 +1,5 @@
 [
     {
-        "name": "USA Real NHL 06: VGK VS LAK (SN1 Feed ) @ 10:00 pm",
-        "id": "usarealnhl06vgkvslaksn1feed1000pm",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/262711",
-        "categories": [
-            "nhl"
-        ],
-        "country": ""
-    },
-    {
         "name": "USA Real NHL 07: VGK VS LAK (TVAS Feed ) @ 10:00 pm",
         "id": "usarealnhl07vgkvslaktvasfeed1000pm",
         "logo": "",
@@ -24,6 +14,16 @@
         "id": "usarealnhl08edmvsanasnwfeed1030pm",
         "logo": "",
         "url": "http://cord-cutter.net:8080/0UcuSy/682882/262713",
+        "categories": [
+            "nhl"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NHL Network",
+        "id": "usnhlnetwork",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/253636",
         "categories": [
             "nhl"
         ],

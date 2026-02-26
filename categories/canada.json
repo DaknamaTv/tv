@@ -240,56 +240,6 @@
         "country": ""
     },
     {
-        "name": "CA: Global Halifax News",
-        "id": "caglobalhalifaxnews",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/57434",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: MTV HD",
-        "id": "camtvhd",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/57368",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA TSN 1 (R)",
-        "id": "catsn1r",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/47440",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Global Peterborough News (E)",
-        "id": "caglobalpeterboroughnewse",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/137681",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA documentary HD (B)",
-        "id": "cadocumentaryhdb",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/148610",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA: CPAC",
         "id": "cacpac",
         "logo": "",
@@ -550,16 +500,6 @@
         "country": ""
     },
     {
-        "name": "CA Peachtree TV HD (R)",
-        "id": "capeachtreetvhdr",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/47362",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA: SPORTSNET WEST",
         "id": "casportsnetwest",
         "logo": "",
@@ -600,16 +540,6 @@
         "country": ""
     },
     {
-        "name": "CA Global Monterial News (E)",
-        "id": "caglobalmonterialnewse",
-        "logo": "",
-        "url": "http://fortv.cc:8080/D76rh4/197436/136641",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA: CBC OTTAWA",
         "id": "cacbcottawa",
         "logo": "",
@@ -624,16 +554,6 @@
         "id": "cacbctoronto",
         "logo": "",
         "url": "http://tv2watch.icu:8080/cn7R0q/489385/57306",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA CITY TV CALGARY (E)",
-        "id": "cacitytvcalgarye",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/75652",
         "categories": [
             "canada"
         ],
@@ -660,16 +580,6 @@
         "country": ""
     },
     {
-        "name": "CA: CBC Winnipeg",
-        "id": "cacbcwinnipeg",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/100628",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA CITY TV WINNIPEG (E)",
         "id": "cacitytvwinnipege",
         "logo": "",
@@ -680,10 +590,120 @@
         "country": ""
     },
     {
-        "name": "CA City News Toronto ON",
-        "id": "cacitynewstorontoon",
+        "name": "CA CHCH (E)",
+        "id": "cachche",
         "logo": "",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/216100",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/57393",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CHRGD",
+        "id": "cachrgd",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/75653",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA HISTORY (E)",
+        "id": "cahistorye",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/57272",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA MSNBC (R)",
+        "id": "camsnbcr",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/47332",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: NFL NETWORK HD",
+        "id": "canflnetworkhd",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/47346",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: PBS HD",
+        "id": "capbshd",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/57276",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Sportsnet Pacific HD",
+        "id": "casportsnetpacifichd",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/47387",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV SCI-FI",
+        "id": "cactvscifi",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/57464",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV Sudbury Ontario HD (D)",
+        "id": "cactvsudburyontariohdd",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/100454",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA COOKING Channel",
+        "id": "cacookingchannel",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/107960",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global Montreal HD (B)",
+        "id": "caglobalmontrealhdb",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/136640",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CBC  New Brunswick / Fredericton NB",
+        "id": "cacbcnewbrunswickfrederictonnb",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/217655",
         "categories": [
             "canada"
         ],

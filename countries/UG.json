@@ -60,16 +60,6 @@
         "country": "UG"
     },
     {
-        "name": "3ABN TV Uganda",
-        "id": "3ABNTVUganda.ug",
-        "logo": "https://i.imgur.com/mml9lI2.png",
-        "url": "https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "UG"
-    },
-    {
         "name": "Fort TV",
         "id": "FORTTV.ug",
         "logo": "https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png",
@@ -186,6 +176,16 @@
         "url": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream_src.m3u8",
         "categories": [
             "religious"
+        ],
+        "country": "UG"
+    },
+    {
+        "name": "BTV",
+        "id": "BTV.ug",
+        "logo": "https://i.imgur.com/rcHZ1al.png",
+        "url": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "UG"
     }

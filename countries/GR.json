@@ -188,26 +188,6 @@
         "country": "GR"
     },
     {
-        "name": "Alert TV",
-        "id": "AlertTV.gr",
-        "logo": "https://i.imgur.com/xqa87lG.png",
-        "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "GR"
-    },
-    {
-        "name": "Corfu Channel",
-        "id": "CorfuChannel.gr",
-        "logo": "https://i.imgur.com/EFL1Tjg.png",
-        "url": "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "Syros TV1",
         "id": "SyrosTV1.gr",
         "logo": "https://i.imgur.com/arQe5qS.png",

@@ -170,26 +170,6 @@
         "country": "TR"
     },
     {
-        "name": "ARB 24",
-        "id": "ARB24.az",
-        "logo": "https://i.imgur.com/mtvIFyq.png",
-        "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "AZ"
-    },
-    {
-        "name": "Baku.TV",
-        "id": "BakuTV.az",
-        "logo": "https://i.imgur.com/r4FzxSg.png",
-        "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "AZ"
-    },
-    {
         "name": "Kapaz TV",
         "id": "KapazTV.az",
         "logo": "https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/512px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png",
@@ -2687,16 +2667,6 @@
         "country": "IN"
     },
     {
-        "name": "RDX Goa",
-        "id": "RDXGoa.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
-        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "ZillarBarta News",
         "id": "ZillarBartaNews.in",
         "logo": "https://i.imgur.com/6uestzY.jpeg",
@@ -2782,16 +2752,6 @@
         "id": "ProbashiTVNews.ca",
         "logo": "https://i.imgur.com/7oTsfQ4.png",
         "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "TV Punjab",
-        "id": "TVPunjab.ca",
-        "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
-        "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -3039,6 +2999,16 @@
         "country": "DO"
     },
     {
+        "name": "Carivision",
+        "id": "Carivision.do",
+        "logo": "https://i.imgur.com/XjGb2UM.png",
+        "url": "https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Radio Ancon",
         "id": "RadioAncon.pa",
         "logo": "https://i.imgur.com/xum8PNe.jpg",
@@ -3063,6 +3033,41 @@
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "HTV9",
+        "id": "HTV9.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -3321,6 +3326,19 @@
             "education",
             "entertainment",
             "news"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "CEACOM TV",
+        "id": "CEACOMTV.bo",
+        "logo": "https://i.imgur.com/hutdRfk.png",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+        "categories": [
+            "news",
+            "lifestyle",
+            "music",
+            "general"
         ],
         "country": "BO"
     },
@@ -3631,6 +3649,16 @@
         "id": "ATVPlus.pe",
         "logo": "https://i.imgur.com/fY9256H.png",
         "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "RCR",
+        "id": "RCR.pe",
+        "logo": "https://i.imgur.com/A8TRPrF.png",
+        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -4004,26 +4032,6 @@
         "id": "EgnatiaTV.gr",
         "logo": "https://i.imgur.com/zuyYIca.png",
         "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "GR"
-    },
-    {
-        "name": "Alert TV",
-        "id": "AlertTV.gr",
-        "logo": "https://i.imgur.com/xqa87lG.png",
-        "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "GR"
-    },
-    {
-        "name": "Corfu Channel",
-        "id": "CorfuChannel.gr",
-        "logo": "https://i.imgur.com/EFL1Tjg.png",
-        "url": "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -5466,6 +5474,16 @@
         "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
         "categories": [
             "culture",
+            "news"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "24/7 Canal de Noticias",
+        "id": "247CanaldeNoticias.ar",
+        "logo": "https://i.imgur.com/4hDCB1M.png",
+        "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+        "categories": [
             "news"
         ],
         "country": "AR"
