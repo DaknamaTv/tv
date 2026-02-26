@@ -162,5 +162,25 @@
             "movies"
         ],
         "country": "PK"
+    },
+    {
+        "name": "Filmazia",
+        "id": "Filmazia.pk",
+        "logo": "https://i.imgur.com/hpTCANa.png",
+        "url": "http://163.61.227.29:8000/play/a02l/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "Madani Channel English",
+        "id": "MadaniChannelEnglish.pk",
+        "logo": "https://i.imgur.com/Abi9j0A.png",
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PK"
     }
 ]

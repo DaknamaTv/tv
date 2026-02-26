@@ -8730,16 +8730,6 @@
         "country": "US"
     },
     {
-        "name": "ABC",
-        "id": "ABC.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "url": "http://41.205.93.154/ABC/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Shows por Stingray",
         "id": "PlutoTVShowsporStingray.us",
         "logo": "https://i.imgur.com/TrG7Y84.png",
@@ -9356,16 +9346,6 @@
         "country": "US"
     },
     {
-        "name": "Little Guyana TV",
-        "id": "LittleGuyanaTV.us",
-        "logo": "https://i.imgur.com/b475xOT.jpg",
-        "url": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pasiones",
         "id": "Pasiones.us",
         "logo": "https://i.imgur.com/BCWbGf9.png",
@@ -9422,14 +9402,6 @@
         "country": "US"
     },
     {
-        "name": "Real America's Voice",
-        "id": "RealAmericasVoice.us",
-        "logo": "https://i.imgur.com/l7tmTjX.png",
-        "url": "https://jmp2.uk/stvp-USBB1900002KF",
-        "categories": [],
-        "country": "US"
-    },
-    {
         "name": "TV Quisqueya",
         "id": "TVQuisqueya.us",
         "logo": "https://i.imgur.com/G7X4LQI.png",
@@ -9476,26 +9448,6 @@
         "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "JBS",
-        "id": "JBS.us",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
-        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Lego Channel",
-        "id": "LegoChannel.us",
-        "logo": "https://i.imgur.com/xePwW13.png",
-        "url": "https://jmp2.uk/stvp-GBBC4300005AL",
-        "categories": [
-            "kids"
         ],
         "country": "US"
     },
@@ -9701,6 +9653,16 @@
         "id": "TVSTelevisionNetwork.us",
         "logo": "",
         "url": "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "WHPS-CD2",
+        "id": "WHPSCD2.us",
+        "logo": "https://i.imgur.com/KW1iQ5W.png",
+        "url": "https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8",
         "categories": [
             "general"
         ],

@@ -946,14 +946,6 @@
         "country": "BR"
     },
     {
-        "name": "Boas Novas",
-        "id": "BoasNovas.br",
-        "logo": "https://i.imgur.com/ZqhizdP.png",
-        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "SBT Interior",
         "id": "SBTInterior.br",
         "logo": "https://i.imgur.com/IkZfa4j.png",
@@ -1038,6 +1030,16 @@
         "logo": "https://i.imgur.com/IK3F9Uq.png",
         "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
         "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "ISTV",
+        "id": "ISTV.br",
+        "logo": "https://i.imgur.com/RUKVrOH.png",
+        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
         "country": "BR"
     }
 ]

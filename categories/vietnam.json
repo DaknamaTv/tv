@@ -10,10 +10,20 @@
         "country": ""
     },
     {
-        "name": "VN HTV1 HD",
-        "id": "vnhtv1hd",
+        "name": "VN VIE TV (A)",
+        "id": "vnvietva",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/121042",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/121035",
+        "categories": [
+            "vietnam"
+        ],
+        "country": ""
+    },
+    {
+        "name": "VN SBTN (A)",
+        "id": "vnsbtna",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/121034",
         "categories": [
             "vietnam"
         ],

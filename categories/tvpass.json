@@ -1,25 +1,5 @@
 [
     {
-        "name": "TSN5 SD",
-        "id": "tsn5sd",
-        "logo": "",
-        "url": "https://tvpass.org/live/tsn5/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sportsnet Pacific",
-        "id": "sportsnetpacific",
-        "logo": "",
-        "url": "https://tvpass.org/live/sportsnet-pacific/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sportsnet West SD",
         "id": "sportsnetwestsd",
         "logo": "",
@@ -30,40 +10,10 @@
         "country": ""
     },
     {
-        "name": "Sportsnet One SD",
-        "id": "sportsnetonesd",
-        "logo": "",
-        "url": "https://tvpass.org/live/sportsnet-one/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "NBC (KNBC) Los Angeles",
         "id": "nbcknbclosangeles",
         "logo": "",
         "url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sportsnet Ontario",
-        "id": "sportsnetontario",
-        "logo": "",
-        "url": "https://tvpass.org/live/sportsnet-ontario/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sportsnet (East) HD",
-        "id": "sportsneteasthd",
-        "logo": "",
-        "url": "https://tvpass.org/live/sportsnet-east/hd",
         "categories": [
             "tvpass"
         ],
@@ -100,30 +50,10 @@
         "country": ""
     },
     {
-        "name": "NBA TV USA",
-        "id": "nbatvusa",
-        "logo": "",
-        "url": "https://tvpass.org/live/NBATV/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "USA Network East Feed",
         "id": "usanetworkeastfeed",
         "logo": "",
         "url": "https://tvpass.org/live/USANetworkEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CBS Sports Network USA SD",
-        "id": "cbssportsnetworkusasd",
-        "logo": "",
-        "url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd",
         "categories": [
             "tvpass"
         ],
@@ -140,60 +70,10 @@
         "country": ""
     },
     {
-        "name": "FOX (KTTV) Los Angeles SD",
-        "id": "foxkttvlosangelessd",
-        "logo": "",
-        "url": "https://tvpass.org/live/fox-kttv-los-angeles-ca/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Outdoor Channel US SD",
-        "id": "outdoorchannelussd",
-        "logo": "",
-        "url": "https://tvpass.org/live/OutdoorChannel/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sportsnet (East) SD",
         "id": "sportsneteastsd",
         "logo": "",
         "url": "https://tvpass.org/live/sportsnet-east/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Telemundo Eastern Feed HD",
-        "id": "telemundoeasternfeedhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/TelemundoEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA Network East Feed HD",
-        "id": "usanetworkeastfeedhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/USANetworkEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CW (KFMB-TV2) San Diego",
-        "id": "cwkfmbtv2sandiego",
-        "logo": "",
-        "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
         "categories": [
             "tvpass"
         ],
@@ -210,40 +90,10 @@
         "country": ""
     },
     {
-        "name": "A&E US Eastern Feed HD",
-        "id": "aeuseasternfeedhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/AEEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fanduel Sports Network North SD",
-        "id": "fanduelsportsnetworknorthsd",
-        "logo": "",
-        "url": "https://tvpass.org/live/fanduel-sports-network-north/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "Lifetime Movies East SD",
         "id": "lifetimemovieseastsd",
         "logo": "",
         "url": "https://tvpass.org/live/LifetimeMoviesEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sportsnet 360 SD",
-        "id": "sportsnet360sd",
-        "logo": "",
-        "url": "https://tvpass.org/live/sportsnet-360/sd",
         "categories": [
             "tvpass"
         ],
@@ -280,40 +130,10 @@
         "country": ""
     },
     {
-        "name": "Fanduel Sports Southeast North Carolina",
-        "id": "fanduelsportssoutheastnorthcarolina",
-        "logo": "",
-        "url": "https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FXX USA Eastern",
-        "id": "fxxusaeastern",
-        "logo": "",
-        "url": "https://tvpass.org/live/FXXEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "ION Eastern Feed",
         "id": "ioneasternfeed",
         "logo": "",
         "url": "https://tvpass.org/live/IONTVEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MoreMax Eastern",
-        "id": "moremaxeastern",
-        "logo": "",
-        "url": "https://tvpass.org/live/MoreMaxEast/sd",
         "categories": [
             "tvpass"
         ],
@@ -330,60 +150,10 @@
         "country": ""
     },
     {
-        "name": "NY HD",
-        "id": "nyhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/WNET/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AMC Eastern Feed SD",
-        "id": "amceasternfeedsd",
-        "logo": "",
-        "url": "https://tvpass.org/live/AMCEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "Cartoon Network USA Eastern Feed SD",
         "id": "cartoonnetworkusaeasternfeedsd",
         "logo": "",
         "url": "https://tvpass.org/live/CartoonNetworkEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CBS (KCBS) Los Angeles SD",
-        "id": "cbskcbslosangelessd",
-        "logo": "",
-        "url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Chicago Sports Network SD",
-        "id": "chicagosportsnetworksd",
-        "logo": "",
-        "url": "https://tvpass.org/live/chicago-sports-network/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Discovery Channel (US) Eastern Feed HD",
-        "id": "discoverychanneluseasternfeedhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/DiscoveryChannelEast/hd",
         "categories": [
             "tvpass"
         ],
@@ -400,70 +170,10 @@
         "country": ""
     },
     {
-        "name": "Fanduel Sports Southeast Georgia SD",
-        "id": "fanduelsportssoutheastgeorgiasd",
-        "logo": "",
-        "url": "https://tvpass.org/live/fanduel-sports-southeast-georgia/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FX Networks East Coast HD",
-        "id": "fxnetworkseastcoasthd",
-        "logo": "",
-        "url": "https://tvpass.org/live/FXEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FYI USA Eastern HD",
-        "id": "fyiusaeasternhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/FYIEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "Golf Channel USA HD",
         "id": "golfchannelusahd",
         "logo": "",
         "url": "https://tvpass.org/live/GolfChannel/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HBO 2 Eastern Feed HD",
-        "id": "hbo2easternfeedhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/HBO2East/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HBO Zone HD East SD",
-        "id": "hbozonehdeastsd",
-        "logo": "",
-        "url": "https://tvpass.org/live/HBOZoneEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Nicktoons East HD",
-        "id": "nicktoonseasthd",
-        "logo": "",
-        "url": "https://tvpass.org/live/NicktoonsEast/hd",
         "categories": [
             "tvpass"
         ],
@@ -480,96 +190,6 @@
         "country": ""
     },
     {
-        "name": "Spectrum SportsNet LA SD",
-        "id": "spectrumsportsnetlasd",
-        "logo": "",
-        "url": "https://tvpass.org/live/spectrum-sportsnet-la/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Spectrum Sportsnet Lakers SD",
-        "id": "spectrumsportsnetlakerssd",
-        "logo": "",
-        "url": "https://tvpass.org/live/spectrum-sportsnet/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SundanceTV USA East HD",
-        "id": "sundancetvusaeasthd",
-        "logo": "",
-        "url": "https://tvpass.org/live/SundanceTVEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TMC (US) Eastern Feed HD",
-        "id": "tmcuseasternfeedhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/TheMovieChannelEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Travel US East SD",
-        "id": "traveluseastsd",
-        "logo": "",
-        "url": "https://tvpass.org/live/TravelChannelEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Travel US East HD",
-        "id": "traveluseasthd",
-        "logo": "",
-        "url": "https://tvpass.org/live/TravelChannelEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TSN3 HD",
-        "id": "tsn3hd",
-        "logo": "",
-        "url": "https://tvpass.org/live/tsn3/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TSN4 HD",
-        "id": "tsn4hd",
-        "logo": "",
-        "url": "https://tvpass.org/live/tsn4/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Big Ten Network",
-        "id": "bigtennetwork",
-        "logo": "",
-        "url": "https://tvpass.org/live/BTN/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "Disney XD USA Eastern Feed",
         "id": "disneyxdusaeasternfeed",
         "logo": "",
@@ -580,60 +200,10 @@
         "country": ""
     },
     {
-        "name": "ESPN U",
-        "id": "espnu",
-        "logo": "",
-        "url": "https://tvpass.org/live/ESPNU/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fanduel Sports Southeast South Carolina",
-        "id": "fanduelsportssoutheastsouthcarolina",
-        "logo": "",
-        "url": "https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "Fanduel Sports Tennessee East",
         "id": "fanduelsportstennesseeeast",
         "logo": "",
         "url": "https://tvpass.org/live/fanduel-sports-tennessee-east/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FYI USA Eastern",
-        "id": "fyiusaeastern",
-        "logo": "",
-        "url": "https://tvpass.org/live/FYIEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Marquee Sports Network",
-        "id": "marqueesportsnetwork",
-        "logo": "",
-        "url": "https://tvpass.org/live/marquee-sports-network/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Monumental Sports Network",
-        "id": "monumentalsportsnetwork",
-        "logo": "",
-        "url": "https://tvpass.org/live/monumental-sports-network/sd",
         "categories": [
             "tvpass"
         ],
@@ -660,30 +230,510 @@
         "country": ""
     },
     {
-        "name": "TeenNick Eastern",
-        "id": "teennickeastern",
+        "name": "AMC Eastern Feed HD",
+        "id": "amceasternfeedhd",
         "logo": "",
-        "url": "https://tvpass.org/live/TeenNickEast/sd",
+        "url": "https://tvpass.org/live/AMCEast/hd",
         "categories": [
             "tvpass"
         ],
         "country": ""
     },
     {
-        "name": "TMC (US) Eastern Feed",
-        "id": "tmcuseasternfeed",
+        "name": "Animal Planet US East HD",
+        "id": "animalplanetuseasthd",
         "logo": "",
-        "url": "https://tvpass.org/live/TheMovieChannelEast/sd",
+        "url": "https://tvpass.org/live/AnimalPlanetEast/hd",
         "categories": [
             "tvpass"
         ],
         "country": ""
     },
     {
-        "name": "New Orleans Pelicans @ Chicago Bulls (12/31 7:10 PM ET)",
-        "id": "neworleanspelicanschicagobulls1231710pmet",
+        "name": "BET Eastern Feed HD",
+        "id": "beteasternfeedhd",
         "logo": "",
-        "url": "https://tvpass.org/live/NBA05/sd",
+        "url": "https://tvpass.org/live/BETEast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Big Ten Network HD",
+        "id": "bigtennetworkhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/BTN/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Boomerang HD",
+        "id": "boomeranghd",
+        "logo": "",
+        "url": "https://tvpass.org/live/Boomerang/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "C-SPAN 2 HD",
+        "id": "cspan2hd",
+        "logo": "",
+        "url": "https://tvpass.org/live/CSPAN2/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Cinemax Eastern Feed SD",
+        "id": "cinemaxeasternfeedsd",
+        "logo": "",
+        "url": "https://tvpass.org/live/CinemaxEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CMT US Eastern Feed SD",
+        "id": "cmtuseasternfeedsd",
+        "logo": "",
+        "url": "https://tvpass.org/live/CMTEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Crime & Investigation Network USA HD HD",
+        "id": "crimeinvestigationnetworkusahdhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/CrimePlusInvestigation/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Discovery Life Channel HD",
+        "id": "discoverylifechannelhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/DiscoveryLife/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Disney Eastern Feed SD",
+        "id": "disneyeasternfeedsd",
+        "logo": "",
+        "url": "https://tvpass.org/live/DisneyChannelEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Disney Eastern Feed HD",
+        "id": "disneyeasternfeedhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/DisneyChannelEast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "E! Entertainment USA Eastern Feed HD",
+        "id": "eentertainmentusaeasternfeedhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/EEast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ESPN Deportes HD",
+        "id": "espndeporteshd",
+        "logo": "",
+        "url": "https://tvpass.org/live/espn-deportes/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fanduel Sports Network Ohio Cleveland SD",
+        "id": "fanduelsportsnetworkohioclevelandsd",
+        "logo": "",
+        "url": "https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fanduel Sports Network Socal HD",
+        "id": "fanduelsportsnetworksocalhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/fanduel-sports-network-socal/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fanduel Sports Network West HD",
+        "id": "fanduelsportsnetworkwesthd",
+        "logo": "",
+        "url": "https://tvpass.org/live/fanduel-sports-network-west/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fanduel Sports Southeast South Carolina HD",
+        "id": "fanduelsportssoutheastsouthcarolinahd",
+        "logo": "",
+        "url": "https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fanduel Sports Tennessee East HD",
+        "id": "fanduelsportstennesseeeasthd",
+        "logo": "",
+        "url": "https://tvpass.org/live/fanduel-sports-tennessee-east/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fox News SD",
+        "id": "foxnewssd",
+        "logo": "",
+        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Golf Channel USA SD",
+        "id": "golfchannelusasd",
+        "logo": "",
+        "url": "https://tvpass.org/live/GolfChannel/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hallmark Family HD HD",
+        "id": "hallmarkfamilyhdhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/HallmarkDrama/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HBO Family Eastern Feed HD",
+        "id": "hbofamilyeasternfeedhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/HBOFamilyEast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HGTV USA Eastern Feed SD",
+        "id": "hgtvusaeasternfeedsd",
+        "logo": "",
+        "url": "https://tvpass.org/live/HGTVEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Independent Film Channel US SD",
+        "id": "independentfilmchannelussd",
+        "logo": "",
+        "url": "https://tvpass.org/live/IFCEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Investigation Discovery USA Eastern HD",
+        "id": "investigationdiscoveryusaeasternhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/InvestigationDiscoveryEast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MovieMax (Max 6) East HD",
+        "id": "moviemaxmax6easthd",
+        "logo": "",
+        "url": "https://tvpass.org/live/MovieMaxEast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC (KNBC) Los Angeles HD",
+        "id": "nbcknbclosangeleshd",
+        "logo": "",
+        "url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC Sports California HD",
+        "id": "nbcsportscaliforniahd",
+        "logo": "",
+        "url": "https://tvpass.org/live/nbc-sports-california/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NHL Network USA HD",
+        "id": "nhlnetworkusahd",
+        "logo": "",
+        "url": "https://tvpass.org/live/NHLNetwork/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nickelodeon USA East Feed HD",
+        "id": "nickelodeonusaeastfeedhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/NickelodeonEast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Oprah Winfrey Network USA Eastern SD",
+        "id": "oprahwinfreynetworkusaeasternsd",
+        "logo": "",
+        "url": "https://tvpass.org/live/OWNEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SNY Sportsnet New York Comcast HD",
+        "id": "snysportsnetnewyorkcomcasthd",
+        "logo": "",
+        "url": "https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Spectrum Sportsnet Lakers HD",
+        "id": "spectrumsportsnetlakershd",
+        "logo": "",
+        "url": "https://tvpass.org/live/spectrum-sportsnet/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TBS East HD",
+        "id": "tbseasthd",
+        "logo": "",
+        "url": "https://tvpass.org/live/TBSEast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TLC USA Eastern HD",
+        "id": "tlcusaeasternhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/TLCEast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "VICE HD",
+        "id": "vicehd",
+        "logo": "",
+        "url": "https://tvpass.org/live/VICETV/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WPIX New York (SUPERSTATION) SD",
+        "id": "wpixnewyorksuperstationsd",
+        "logo": "",
+        "url": "https://tvpass.org/live/WPIX/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC (KABC) Los Angeles",
+        "id": "abckabclosangeles",
+        "logo": "",
+        "url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Comedy Central (US) Eastern Feed",
+        "id": "comedycentraluseasternfeed",
+        "logo": "",
+        "url": "https://tvpass.org/live/ComedyCentralEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Discovery Family Channel",
+        "id": "discoveryfamilychannel",
+        "logo": "",
+        "url": "https://tvpass.org/live/DiscoveryFamily/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fanduel Sports Network Wisconsin",
+        "id": "fanduelsportsnetworkwisconsin",
+        "logo": "",
+        "url": "https://tvpass.org/live/fanduel-sports-network-wisconsin/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Game Show Network East",
+        "id": "gameshownetworkeast",
+        "logo": "",
+        "url": "https://tvpass.org/live/game-show-network-east/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HBO Eastern Feed",
+        "id": "hboeasternfeed",
+        "logo": "",
+        "url": "https://tvpass.org/live/HBOEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC Sports Boston",
+        "id": "nbcsportsboston",
+        "logo": "",
+        "url": "https://tvpass.org/live/nbc-sports-boston/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NewsMax TV",
+        "id": "newsmaxtv",
+        "logo": "",
+        "url": "https://tvpass.org/live/NewsmaxTV/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nick Jr. East",
+        "id": "nickjreast",
+        "logo": "",
+        "url": "https://tvpass.org/live/NickJrEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Science",
+        "id": "science",
+        "logo": "",
+        "url": "https://tvpass.org/live/Science/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Space City Home Network",
+        "id": "spacecityhomenetwork",
+        "logo": "",
+        "url": "https://tvpass.org/live/space-city-home-network/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sportsnet Pittsburgh",
+        "id": "sportsnetpittsburgh",
+        "logo": "",
+        "url": "https://tvpass.org/live/sportsnet-pittsburgh/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TLC USA Eastern",
+        "id": "tlcusaeastern",
+        "logo": "",
+        "url": "https://tvpass.org/live/TLCEast/sd",
         "categories": [
             "tvpass"
         ],

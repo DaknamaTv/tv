@@ -317,14 +317,6 @@
         "country": "ES"
     },
     {
-        "name": "Canal 4 Mancha Centro",
-        "id": "Canal4ManchaCentro.es",
-        "logo": "https://i.imgur.com/t3O3O9M.png",
-        "url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
-        "categories": [],
-        "country": "ES"
-    },
-    {
         "name": "Ciudades del Ocio TV",
         "id": "CiudadesdelOcioTV.es",
         "logo": "https://i.imgur.com/CTQgqsM.png",
@@ -1355,6 +1347,34 @@
         "url": "https://stream.maestrat.tv/hls/stream.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Canal Donana",
+        "id": "CanalDonana.es",
+        "logo": "https://i.imgur.com/0WrKIxm.png",
+        "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
+        "categories": [],
+        "country": "ES"
+    },
+    {
+        "name": "Fibwi",
+        "id": "Fibwi.es",
+        "logo": "https://i.imgur.com/4vcGzcC.png",
+        "url": "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Parlamento de Navarra",
+        "id": "ParlamentodeNavarra.es",
+        "logo": "https://i.imgur.com/JnhWxKv.png",
+        "url": "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8",
+        "categories": [
+            "legislative"
         ],
         "country": "ES"
     }

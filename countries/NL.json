@@ -459,14 +459,6 @@
         "country": "NL"
     },
     {
-        "name": "Radio Aalsmeer TV",
-        "id": "RadioAalsmeerTV.nl",
-        "logo": "https://i.imgur.com/SYzjLlI.png",
-        "url": "https://radioaalsmeer.nl:4443/live/tv.m3u8",
-        "categories": [],
-        "country": "NL"
-    },
-    {
         "name": "Sleutelstad TV",
         "id": "SleutelstadTV.nl",
         "logo": "https://i.imgur.com/ljVGMWV.png",
@@ -1332,6 +1324,16 @@
         "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/346",
         "categories": [
             "nl : film"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "SBS6 Classics",
+        "id": "SBS6Classics.nl",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
+        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "NL"
     }

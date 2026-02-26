@@ -110,16 +110,6 @@
         "country": ""
     },
     {
-        "name": "IT: RAI 1",
-        "id": "itrai1",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/212895",
-        "categories": [
-            "italy"
-        ],
-        "country": ""
-    },
-    {
         "name": "IT: LA 5",
         "id": "itla5",
         "logo": "",
@@ -154,6 +144,26 @@
         "id": "itraiitalia",
         "logo": "",
         "url": "http://cord-cutter.net:8080/0UcuSy/682882/212900",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RAI 2",
+        "id": "itrai2",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/212896",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RAI NEWS 24",
+        "id": "itrainews24",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/212913",
         "categories": [
             "italy"
         ],

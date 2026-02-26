@@ -200,26 +200,6 @@
         "country": "IN"
     },
     {
-        "name": "Star Sports Select 2",
-        "id": "StarSportsSelect2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143851_ld_h15_aa.png",
-        "url": "http://103.113.103.202:8001/play/a02q/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports Select 1",
-        "id": "StarSportsSelect1.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143849_ld_h15_aa.png",
-        "url": "http://103.113.103.202:8001/play/a02e/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony Sports Ten 2",
         "id": "SonySportsTen2.in",
         "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png",
@@ -240,6 +220,16 @@
         "country": "IN"
     },
     {
+        "name": "Sony Sports Ten 5",
+        "id": "SonySportsTen5.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Hard Knocks",
         "id": "HardKnocks.ca",
         "logo": "https://i.imgur.com/nt9B6jx.png",
@@ -254,16 +244,6 @@
         "id": "TSNTheOcho.ca",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
         "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "TSN1",
-        "id": "TSN1.ca",
-        "logo": "https://i.imgur.com/eRFE0jZ.png",
-        "url": "https://tvpass.org/live/tsn1/sd",
         "categories": [
             "sports"
         ],
@@ -601,6 +581,16 @@
             "sports"
         ],
         "country": "DE"
+    },
+    {
+        "name": "Tigo Sports",
+        "id": "TigoSports.sv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
+        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "SV"
     },
     {
         "name": "Sports Connect",

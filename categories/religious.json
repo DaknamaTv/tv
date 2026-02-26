@@ -1329,20 +1329,20 @@
         "country": "IN"
     },
     {
-        "name": "Hebron TV",
-        "id": "HebronTV.in",
-        "logo": "https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512",
-        "url": "https://account20.livebox.co.in/charleshls/live.m3u8",
+        "name": "Namdhari TV",
+        "id": "NamdhariTV.in",
+        "logo": "https://i.imgur.com/NalsXTo.png",
+        "url": "https://namdhari.tv/live/sbs1.m3u8",
         "categories": [
             "religious"
         ],
         "country": "IN"
     },
     {
-        "name": "Namdhari TV",
-        "id": "NamdhariTV.in",
-        "logo": "https://i.imgur.com/NalsXTo.png",
-        "url": "https://namdhari.tv/live/sbs1.m3u8",
+        "name": "ZB Bhakti",
+        "id": "ZBBhakti.in",
+        "logo": "https://i.imgur.com/MBaKNPC.jpeg",
+        "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
         "categories": [
             "religious"
         ],
@@ -1879,6 +1879,16 @@
         "country": "DO"
     },
     {
+        "name": "La Voz de Jesus HD",
+        "id": "LaVozdeJesusHD.do",
+        "logo": "https://gia.tv/streams/pstream/208429.png",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "TV Famille",
         "id": "TVFamille.mq",
         "logo": "https://i.imgur.com/Kbfihk5.png",
@@ -2010,6 +2020,16 @@
         "country": "PK"
     },
     {
+        "name": "Madani Channel English",
+        "id": "MadaniChannelEnglish.pk",
+        "logo": "https://i.imgur.com/Abi9j0A.png",
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PK"
+    },
+    {
         "name": "EMCI TV Europe",
         "id": "EMCITVEurope.fr",
         "logo": "https://i.imgur.com/KagDKKB.png",
@@ -2064,16 +2084,6 @@
         "id": "EcclesiaTV.ci",
         "logo": "https://i.imgur.com/mgabVFd.png",
         "url": "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CI"
-    },
-    {
-        "name": "TV Al Bayane",
-        "id": "TVAlBayane.ci",
-        "logo": "https://i.imgur.com/Xs9oEG8.png",
-        "url": "http://69.64.57.208/albayanetv/index.m3u8",
         "categories": [
             "religious"
         ],
@@ -2629,6 +2639,17 @@
             "religious"
         ],
         "country": "TZ"
+    },
+    {
+        "name": "Caritas TV",
+        "id": "CaritasTV.py",
+        "logo": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
+        "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+        "categories": [
+            "religious",
+            "general"
+        ],
+        "country": "PY"
     },
     {
         "name": "Holy Quran Radio Nablus",
@@ -4392,16 +4413,6 @@
         "country": "US"
     },
     {
-        "name": "JBS",
-        "id": "JBS.us",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
-        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Salt TV",
         "id": "SaltTV.ug",
         "logo": "https://i.imgur.com/AK9nE6Y.png",
@@ -4506,6 +4517,16 @@
         "id": "TVManaArgentina.ar",
         "logo": "https://i.imgur.com/jars0mP.png",
         "url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 13 Jujuy",
+        "id": "Canal13Jujuy.ar",
+        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
+        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
         "categories": [
             "religious"
         ],

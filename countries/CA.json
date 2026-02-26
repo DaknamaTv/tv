@@ -660,14 +660,6 @@
         "country": "CA"
     },
     {
-        "name": "Sardari TV",
-        "id": "SardariTV.ca",
-        "logo": "",
-        "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
-        "categories": [],
-        "country": "CA"
-    },
-    {
         "name": "Eawaz TV",
         "id": "EawazTV.ca",
         "logo": "https://i.imgur.com/vB4yzen.png",
@@ -758,12 +750,12 @@
         "country": "CA"
     },
     {
-        "name": "TSN1",
-        "id": "TSN1.ca",
-        "logo": "https://i.imgur.com/eRFE0jZ.png",
-        "url": "https://tvpass.org/live/tsn1/sd",
+        "name": "Sooriyan TV",
+        "id": "SooriyanTV.ca",
+        "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+        "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
         "categories": [
-            "sports"
+            "entertainment"
         ],
         "country": "CA"
     }
