@@ -536,16 +536,6 @@
         "country": "IN"
     },
     {
-        "name": "TV9 Marathi",
-        "id": "TV9Marathi.in",
-        "logo": "https://dtil.tmsimg.com/assets/s144030_ld_h15_aa.png",
-        "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Tolly TV",
         "id": "TollyTV.in",
         "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png",
@@ -1359,16 +1349,6 @@
         "country": "IN"
     },
     {
-        "name": "TV9 Bharatvarsh",
-        "id": "TV9Bharatvarsh.in",
-        "logo": "https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png",
-        "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Zee Rajasthan",
         "id": "ZeeRajasthan.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00231732.png",
@@ -1393,36 +1373,6 @@
         "id": "ZeeDelhiNCRHaryana.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0023166M.png",
         "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "TV9 Gujarati",
-        "id": "TV9Gujarati.in",
-        "logo": "https://dtil.tmsimg.com/assets/s144028_ld_h15_aa.png",
-        "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "TV9 Kannada",
-        "id": "TV9Kannada.in",
-        "logo": "https://dtil.tmsimg.com/assets/s144029_ld_h15_aa.png",
-        "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Power TV",
-        "id": "PowerTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143669_ld_h15_aa.png",
-        "url": "https://powertvkannada.com/hls/stream.m3u8",
         "categories": [
             "news"
         ],
@@ -1543,16 +1493,6 @@
         "id": "KashishNews.in",
         "logo": "https://i.imgur.com/qfINs2r.png",
         "url": "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "TV9 Telugu",
-        "id": "TV9Telugu.in",
-        "logo": "https://dtil.tmsimg.com/assets/s144031_ld_h15_aa.png",
-        "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -2094,48 +2034,12 @@
         "country": "IN"
     },
     {
-        "name": "Tarang TV",
-        "id": "TarangTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143927_ld_h15_aa.png",
-        "url": "https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8",
-        "categories": [],
-        "country": "IN"
-    },
-    {
-        "name": "Tarang Music",
-        "id": "TarangMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143926_ld_h15_aa.png",
-        "url": "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Prarthana TV",
-        "id": "PrarthanaTV.in",
-        "logo": "https://i.imgur.com/gj7dtNF.png",
-        "url": "https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8",
-        "categories": [],
-        "country": "IN"
-    },
-    {
         "name": "News18 India",
         "id": "News18India.in",
         "logo": "https://dtil.tmsimg.com/assets/s143610_ld_h15_aa.png",
         "url": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Alankar TV",
-        "id": "AlankarTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142630_ld_h15_aa.png",
-        "url": "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "IN"
     },
@@ -2405,16 +2309,6 @@
         "url": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Swatantra TV",
-        "id": "SwatantraTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swatantra_News.png",
-        "url": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "IN"
     },
@@ -2930,16 +2824,6 @@
         "country": "IN"
     },
     {
-        "name": "Prime9 News",
-        "id": "Prime9News.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_9_News.png",
-        "url": "https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Balle Balle",
         "id": "BalleBalle.in",
         "logo": "https://i.imgur.com/oxkkWH5.png",
@@ -3410,16 +3294,6 @@
         "country": "IN"
     },
     {
-        "name": "GTC Punjabi",
-        "id": "GTCPunjabi.in",
-        "logo": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg",
-        "url": "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Colors Tamil",
         "id": "ColorsTamil.in",
         "logo": "https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png",
@@ -3446,16 +3320,6 @@
         "url": "http://cdn12.henico.net:8080/live/sadatv/index.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "AmarUjala",
-        "id": "AmarUjala.in",
-        "logo": "https://i.imgur.com/ndQ8LZp.png",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amar-ujala/index.m3u8?ads.vf=xcmTmi3_hE0",
-        "categories": [
-            "news"
         ],
         "country": "IN"
     },
@@ -3890,16 +3754,6 @@
         "country": "IN"
     },
     {
-        "name": "Sun Bangla",
-        "id": "SunBangla.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143871_ld_h15_aa.png",
-        "url": "http://103.182.170.32:8888/play/a01v",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Velicham TV",
         "id": "VelichamTV.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Velicham_Tv.png",
@@ -4291,16 +4145,6 @@
         "country": "IN"
     },
     {
-        "name": "PMC Telugu",
-        "id": "PMCTelugu.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png",
-        "url": "https://mumbai-edge.smartplaytv.in/PMC/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Songdew TV",
         "id": "SongdewTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png",
@@ -4351,16 +4195,6 @@
         "country": "IN"
     },
     {
-        "name": "Goa365",
-        "id": "Goa365.in",
-        "logo": "https://www.goa365.tv/images/GOA-365-Logo.jpg",
-        "url": "https://ktismaservers.in:3086/live/goa365live.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Dabangg",
         "id": "Dabangg.in",
         "logo": "https://i.imgur.com/6ChpxLy.png",
@@ -4406,17 +4240,6 @@
         "logo": "https://dtil.tmsimg.com/assets/s158021_ld_h15_aa.png",
         "url": "http://103.229.254.25:7001/play/a06x/index.m3u8",
         "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Jaya Plus",
-        "id": "JayaPlus.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png",
-        "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
-        "categories": [
-            "culture",
             "entertainment"
         ],
         "country": "IN"
@@ -4475,16 +4298,6 @@
         "url": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Ultimate TV",
-        "id": "UltimateTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png",
-        "url": "https://mumbai-edge.smartplaytv.in/utv/index.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "IN"
     },
@@ -4579,16 +4392,6 @@
         "country": "IN"
     },
     {
-        "name": "Lokshahi News",
-        "id": "LokshahiNews.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143284_ld_h15_aa.png",
-        "url": "https://see.lokshahi.live/live/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "&pictures",
         "id": "Andpictures.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png",
@@ -4675,26 +4478,6 @@
         "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
         "categories": [
             "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Chardikla Gurbaani TV",
-        "id": "ChardiklaGurbaaniTV.in",
-        "logo": "https://i.imgur.com/NXD8CPq.png",
-        "url": "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Chardikla Time TV North America",
-        "id": "ChardiklaTimeTVNorthAmerica.in",
-        "logo": "https://i.imgur.com/IUeMFey.jpg",
-        "url": "https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "IN"
     },
@@ -4841,26 +4624,6 @@
         "country": "IN"
     },
     {
-        "name": "Gulistan News",
-        "id": "GulistanNews.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png",
-        "url": "https://live.gulistannews.in/hls/gul.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "JK 24x7 News",
-        "id": "JK24x7News.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png",
-        "url": "https://live.gulistannews.in/hls/jk.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "CCV",
         "id": "CCV.in",
         "logo": "https://i.imgur.com/4ss0KfA.png",
@@ -4907,6 +4670,76 @@
         "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
         "categories": [
             "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "GTC Punjabi",
+        "id": "GTCPunjabi.in",
+        "logo": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg",
+        "url": "https://mumt01.tangotv.in/GTC/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "RDX Goa",
+        "id": "RDXGoa.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
+        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "TV9 Bharatvarsh",
+        "id": "TV9Bharatvarsh.in",
+        "logo": "https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bharatvarsh/main.m3u8?ads.vf=Kcn5ohS6UeK",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "TV9 Gujarati",
+        "id": "TV9Gujarati.in",
+        "logo": "https://dtil.tmsimg.com/assets/s144028_ld_h15_aa.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-gujarati/main.m3u8?ads.vf=qBUeQCz1eAW",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "TV9 Kannada",
+        "id": "TV9Kannada.in",
+        "logo": "https://dtil.tmsimg.com/assets/s144029_ld_h15_aa.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-kannada/main.m3u8?ads.vf=05PGJXH7UWS",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "TV9 Marathi",
+        "id": "TV9Marathi.in",
+        "logo": "https://dtil.tmsimg.com/assets/s144030_ld_h15_aa.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8?ads.vf=DWL0yMp640W",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "TV9 Telugu",
+        "id": "TV9Telugu.in",
+        "logo": "https://dtil.tmsimg.com/assets/s144031_ld_h15_aa.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-telugu/main.m3u8?ads.vf=9T7faNl3hra",
+        "categories": [
+            "news"
         ],
         "country": "IN"
     }

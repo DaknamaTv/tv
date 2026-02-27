@@ -758,16 +758,6 @@
         "country": "IN"
     },
     {
-        "name": "Alankar TV",
-        "id": "AlankarTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142630_ld_h15_aa.png",
-        "url": "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Darshana TV",
         "id": "DarshanaTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s142774_ld_h15_aa.png",
@@ -968,16 +958,6 @@
         "country": "IN"
     },
     {
-        "name": "GTC Punjabi",
-        "id": "GTCPunjabi.in",
-        "logo": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg",
-        "url": "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Colors Tamil",
         "id": "ColorsTamil.in",
         "logo": "https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png",
@@ -1022,16 +1002,6 @@
         "id": "KhushbooBangla.in",
         "logo": "https://dtil.tmsimg.com/assets/s143265_ld_h9_aa.png",
         "url": "https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sun Bangla",
-        "id": "SunBangla.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143871_ld_h15_aa.png",
-        "url": "http://103.182.170.32:8888/play/a01v",
         "categories": [
             "entertainment"
         ],
@@ -1210,17 +1180,6 @@
         "country": "IN"
     },
     {
-        "name": "Jaya Plus",
-        "id": "JayaPlus.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png",
-        "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
-        "categories": [
-            "culture",
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Pulari TV",
         "id": "PulariTV.in",
         "logo": "https://i.imgur.com/v5urG30.png",
@@ -1265,6 +1224,16 @@
         "id": "KCLTV.in",
         "logo": "https://i.imgur.com/bkp9dIm.png",
         "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "GTC Punjabi",
+        "id": "GTCPunjabi.in",
+        "logo": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg",
+        "url": "https://mumt01.tangotv.in/GTC/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1716,16 +1685,6 @@
         "country": "DO"
     },
     {
-        "name": "TVS",
-        "id": "TVS.do",
-        "logo": "https://i.imgur.com/a2YX1oj.jpg",
-        "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Super7FM",
         "id": "Super7FM.do",
         "logo": "https://i.imgur.com/TJEqwZo.png",
@@ -1750,6 +1709,16 @@
         "id": "BonchesLatinosTV.do",
         "logo": "https://i.imgur.com/Kp8x0NS.png",
         "url": "https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Cibaena TV",
+        "id": "CibaenaTV.do",
+        "logo": "https://i.imgur.com/iHjdckl.png",
+        "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1793,19 +1762,6 @@
         "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
         ],
         "country": "VN"
     },
@@ -3548,16 +3504,6 @@
         "country": "MM"
     },
     {
-        "name": "Galaxy TV",
-        "id": "GalaxyTV.ug",
-        "logo": "https://i.imgur.com/P5OABe5.png",
-        "url": "https://livestream.galaxytv.ug/jikonkone/chunklist_w839478691.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "UG"
-    },
-    {
         "name": "DBM TV",
         "id": "BTMTV.ug",
         "logo": "https://i.imgur.com/NUvA2jf.png",
@@ -4000,16 +3946,6 @@
         "id": "zeeone1080p",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
         "url": "https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Colors Infinity HD (1080p)",
-        "id": "colorsinfinityhd1080p",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
-        "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
         "categories": [
             "entertainment"
         ],
