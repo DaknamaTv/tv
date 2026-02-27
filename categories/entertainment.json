@@ -1546,16 +1546,6 @@
         "country": "GT"
     },
     {
-        "name": "SAS TV",
-        "id": "SASTV.gt",
-        "logo": "https://i.imgur.com/VShjB3o.png",
-        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "GT"
-    },
-    {
         "name": "Bonches Latinos TV",
         "id": "BonchesLatinosTV.do",
         "logo": "https://i.imgur.com/Kp8x0NS.png",
@@ -1730,6 +1720,26 @@
         "id": "Super7FM.do",
         "logo": "https://i.imgur.com/TJEqwZo.png",
         "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Cibaena TV",
+        "id": "CibaenaTV.do",
+        "logo": "https://i.imgur.com/iHjdckl.png",
+        "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Pronems TV",
+        "id": "PronemsTV.do",
+        "logo": "https://i.imgur.com/a9ORO1G.png",
+        "url": "https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2244,6 +2254,18 @@
         "country": "LK"
     },
     {
+        "name": "Asia TV",
+        "id": "AsiaTV.lk",
+        "logo": "https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",
+        "url": "https://stream.asiatvnet.com/1/live/master.m3u8",
+        "categories": [
+            "entertainment",
+            "family",
+            "general"
+        ],
+        "country": "LK"
+    },
+    {
         "name": "CG Entertainment",
         "id": "CGEntertainment.it",
         "logo": "https://i.imgur.com/XeWzy7e.png",
@@ -2685,6 +2707,16 @@
             "entertainment"
         ],
         "country": "NA"
+    },
+    {
+        "name": "Belarus-2",
+        "id": "Belarus2.by",
+        "logo": "https://i.imgur.com/BpEHpPS.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BY"
     },
     {
         "name": "Impact Network",
@@ -3489,6 +3521,16 @@
         "id": "LoneStar.us",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png",
         "url": "https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8?ads.vf=-SPJecyFm2K",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Talkin Live Classics TV",
+        "id": "TalkinLiveClassicsTV.us",
+        "logo": "https://play-lh.googleusercontent.com/qt4POaxei89y6DP7sRJlRNv-yo4jlG3HuVO2Jb54Rf6T7aJ-j7RLG2z4aY9YrU5d0Q=w240-h480-rw",
+        "url": "https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8",
         "categories": [
             "entertainment"
         ],

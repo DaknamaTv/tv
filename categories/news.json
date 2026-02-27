@@ -330,6 +330,36 @@
         "country": "CN"
     },
     {
+        "name": "CGTN",
+        "id": "CGTN.cn",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
+        "url": "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CN"
+    },
+    {
+        "name": "CGTN Arabic",
+        "id": "CGTNArabic.cn",
+        "logo": "https://i.imgur.com/AkFFrS7.png",
+        "url": "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CN"
+    },
+    {
+        "name": "CGTN French",
+        "id": "CGTNFrench.cn",
+        "logo": "https://i.imgur.com/BwhledK.png",
+        "url": "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CN"
+    },
+    {
         "name": "Arirang TV",
         "id": "ArirangTV.kr",
         "logo": "https://i.imgur.com/Asu5pE9.png",
@@ -458,18 +488,6 @@
         "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Lingkar TV",
-        "id": "LingkarTV.id",
-        "logo": "https://lingkartv.com/assets/img/logo-square.png",
-        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
-        "categories": [
-            "news",
-            "music",
-            "religious"
         ],
         "country": "ID"
     },
@@ -2688,6 +2706,16 @@
         "country": "IN"
     },
     {
+        "name": "News Nation",
+        "id": "NewsNation.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/index.m3u8?ads.vf=dJdk_A0gECa",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "CityNews Toronto",
         "id": "CityNewsToronto.ca",
         "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
@@ -3720,16 +3748,6 @@
         "country": "PY"
     },
     {
-        "name": "4Dmas Noticias TV",
-        "id": "4DmasNoticiasTV.py",
-        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Al Najah News",
         "id": "AlNajahNews.ps",
         "logo": "https://i.imgur.com/c2bwn4G.png",
@@ -3897,6 +3915,16 @@
         "id": "CurrentTimeTV.cz",
         "logo": "https://i.imgur.com/hKo8ApU.png",
         "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CZ"
+    },
+    {
+        "name": "CT24",
+        "id": "CT24.cz",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/512px-%C4%8CT24_logo.png",
+        "url": "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -5418,16 +5446,6 @@
         "categories": [
             "news",
             "documentary"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Fox News Channel",
-        "id": "FoxNewsChannel.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
-        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
-        "categories": [
-            "news"
         ],
         "country": "US"
     },

@@ -450,16 +450,6 @@
         "country": "SN"
     },
     {
-        "name": "Seneweb TV",
-        "id": "SenewebTV.sn",
-        "logo": "https://i.imgur.com/i9P2qjs.png",
-        "url": "https://vdo2.pro-fhi.net:3297/stream/play.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "SN"
-    },
-    {
         "name": "TFM",
         "id": "TFM.sn",
         "logo": "https://i.imgur.com/TQWBlXn.png",
@@ -670,26 +660,6 @@
         "country": "TR"
     },
     {
-        "name": "beIN Sports 1 (TTNET ÖZEL)",
-        "id": "beINSports1TTNETZEL.tr",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/334642",
-        "categories": [
-            "general"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "beIN Sports 1 VIP H265",
-        "id": "beINSports1VIPH265.tr",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/190072",
-        "categories": [
-            "general"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "beIN Sports 5 HD",
         "id": "beINSports5HD.tr",
         "logo": "",
@@ -890,16 +860,6 @@
         "country": "CN"
     },
     {
-        "name": "Liaoning TV",
-        "id": "LiaoningTV.cn",
-        "logo": "https://i.imgur.com/XRfeNTd.png",
-        "url": "http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CN"
-    },
-    {
         "name": "KCTV",
         "id": "KCTV.kr",
         "logo": "https://i.imgur.com/IHkZpaI.png",
@@ -1075,6 +1035,16 @@
         "id": "HLAJDTV.kr",
         "logo": "https://i.imgur.com/JM4rxGU.png",
         "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "HLQS-DTV",
+        "id": "HLQSDTV.kr",
+        "logo": "https://i.imgur.com/oWB3ApR.png",
+        "url": "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1335,6 +1305,16 @@
         "id": "Novoetelevidenie.kz",
         "logo": "https://i.imgur.com/mmKWrWs.png",
         "url": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "KZ"
+    },
+    {
+        "name": "MTRK",
+        "id": "MTRK.kz",
+        "logo": "https://i.imgur.com/XMyRwDk.png",
+        "url": "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1635,6 +1615,46 @@
         "id": "PadangTV.id",
         "logo": "https://i.imgur.com/EL2BfxY.png",
         "url": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Batam TV",
+        "id": "BatamTV.id",
+        "logo": "https://i.imgur.com/lo7YXnW.png",
+        "url": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Elshinta TV",
+        "id": "ElshintaTV.id",
+        "logo": "https://i.imgur.com/x5uoy2H.png",
+        "url": "https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Jambi TV",
+        "id": "JambiTV.id",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png",
+        "url": "https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Jek TV",
+        "id": "JekTV.id",
+        "logo": "https://i.imgur.com/wh75d1f.png",
+        "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -2011,16 +2031,6 @@
         "country": "VE"
     },
     {
-        "name": "Grande TV",
-        "id": "GrandeTV.ve",
-        "logo": "https://i.imgur.com/jxCirrP.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Latina TV",
         "id": "LatinaTV.ve",
         "logo": "https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1",
@@ -2045,16 +2055,6 @@
         "id": "SomosTV.ve",
         "logo": "https://i.imgur.com/jOroeJZ.png",
         "url": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Portuguesa Television",
-        "id": "PortuguesaTelevision.ve",
-        "logo": "https://i.imgur.com/jHUSfGz.png",
-        "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
         "categories": [
             "general"
         ],
@@ -2155,6 +2155,36 @@
         "id": "TAMTV.ve",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
         "url": "https://tv.webtuya.com:3726/live/tammeridalive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Catatumbo TV",
+        "id": "CatatumboTV.ve",
+        "logo": "https://i.imgur.com/LBI2la0.png",
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Televisora de Oriente",
+        "id": "TelevisoradeOriente.ve",
+        "logo": "https://i.imgur.com/wFC6Xxq.png",
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "TVM para ti",
+        "id": "TVMparati.ve",
+        "logo": "https://intervenhosting.net/imagenes/tvmparati.jpg",
+        "url": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
         "categories": [
             "general"
         ],
@@ -2708,6 +2738,16 @@
         "categories": [
             "general",
             "religious"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "OSN",
+        "id": "OSN.ru",
+        "logo": "https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png",
+        "url": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "RU"
     },
@@ -3803,6 +3843,16 @@
         "country": "SK"
     },
     {
+        "name": "NZTV",
+        "id": "NZTV.sk",
+        "logo": "https://i.imgur.com/jGZlnzT.png",
+        "url": "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "SK"
+    },
+    {
         "name": "El Seis 6",
         "id": "ElSeis6.do",
         "logo": "https://elseis.do/wp-content/uploads/2025/02/logo-el-seis-horizontal.png",
@@ -4357,16 +4407,6 @@
         "id": "SuperTV55.do",
         "logo": "https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg",
         "url": "https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Makina TV",
-        "id": "MakinaTV.do",
-        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg",
-        "url": "https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8",
         "categories": [
             "general"
         ],
@@ -5024,16 +5064,6 @@
         "country": "DO"
     },
     {
-        "name": "Punto TV",
-        "id": "PuntoTV.do",
-        "logo": "https://imgur.com/vfvN6ox.png",
-        "url": "https://fox.hostlagarto.com:8081/puntotv/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "TV Cotui Canal 31",
         "id": "TVCotuiCanal31.do",
         "logo": "https://i.imgur.com/sMF7JDm.png",
@@ -5178,6 +5208,56 @@
         "id": "Enntivision.do",
         "logo": "https://i.imgur.com/nePOFZW.png",
         "url": "https://mlb.essastream.com:8081/enntivision/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Junior Technologia TV",
+        "id": "JuniorTechnologiaTV.do",
+        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg",
+        "url": "https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Nexxo TV",
+        "id": "NexxoTV.do",
+        "logo": "https://i.imgur.com/2OpCxa6.png",
+        "url": "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Telesantodomingo",
+        "id": "Telesantodomingo.do",
+        "logo": "https://i.imgur.com/hw64asF.jpeg",
+        "url": "https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Xtra Tv",
+        "id": "XtraTv.do",
+        "logo": "https://xtratvrd.com/logo512.png",
+        "url": "https://mlb.essastream.com:8081/xtratv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Zonavision TV",
+        "id": "ZonavisionTV.do",
+        "logo": "https://imgur.com/B3PrrMH.png",
+        "url": "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8",
         "categories": [
             "general"
         ],
@@ -5449,16 +5529,6 @@
         "id": "AlpedHuezTV.fr",
         "logo": "https://i.imgur.com/090tCQ5.png",
         "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "France 2",
-        "id": "France2.fr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",
-        "url": "http://69.64.57.208/france2/mono.m3u8",
         "categories": [
             "general"
         ],
@@ -6076,16 +6146,6 @@
         "country": "EC"
     },
     {
-        "name": "Curiquingue TV",
-        "id": "CuriquingueTV.ec",
-        "logo": "https://i.imgur.com/oukGx28.png",
-        "url": "https://video2.lhdserver.es/pjtv/live.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Oromar TV",
         "id": "OromarTV.ec",
         "logo": "https://i.imgur.com/j5Vvxd5.png",
@@ -6246,10 +6306,30 @@
         "country": "EC"
     },
     {
+        "name": "Gamavision",
+        "id": "Gamavision.ec",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
+        "url": "https://stream.esradioecuador.com/hls/stream.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "EC"
+    },
+    {
         "name": "Kringvarp Foroya",
         "id": "KringvarpForoya.fo",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KVF_logo_2019.svg/512px-KVF_logo_2019.svg.png",
         "url": "https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "FO"
+    },
+    {
+        "name": "KVF Sjonvarp",
+        "id": "KVFSjonvarp.fo",
+        "logo": "https://www.lyngsat.com/logo/tv/kk/kvf-sjonvarp-fo.png",
+        "url": "https://live.kringvarp.fo/uttanlands/720/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -6894,16 +6974,6 @@
         "country": "CO"
     },
     {
-        "name": "Mas Norte TV",
-        "id": "MasNorteTV.co",
-        "logo": "https://i.imgur.com/NmsWlj6.jpeg",
-        "url": "https://live.arnoproducciones.com/hls/norte.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "NSTV",
         "id": "NSTV.co",
         "logo": "https://i.imgur.com/ES6xFAv.png",
@@ -7274,16 +7344,6 @@
         "country": "DK"
     },
     {
-        "name": "DR1",
-        "id": "DR1.dk",
-        "logo": "https://i.imgur.com/OETzsOI.png",
-        "url": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DK"
-    },
-    {
         "name": "TBC1",
         "id": "TBC1.tz",
         "logo": "https://i.imgur.com/OmiVZ1u.png",
@@ -7546,6 +7606,16 @@
         "country": "PL"
     },
     {
+        "name": "Polsat 2",
+        "id": "Polsat2.pl",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/512px-Polsat_2_2021_gradient.svg.png",
+        "url": "http://87.106.2.165:8443/freetv/polsat2/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PL"
+    },
+    {
         "name": "TVR Moldova",
         "id": "TVRMoldova.md",
         "logo": "https://i.imgur.com/wDe9gL2.png",
@@ -7635,6 +7705,18 @@
             "general"
         ],
         "country": "GM"
+    },
+    {
+        "name": "Asia TV",
+        "id": "AsiaTV.lk",
+        "logo": "https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",
+        "url": "https://stream.asiatvnet.com/1/live/master.m3u8",
+        "categories": [
+            "entertainment",
+            "family",
+            "general"
+        ],
+        "country": "LK"
     },
     {
         "name": "ATV",
@@ -8048,30 +8130,10 @@
         "country": "IT"
     },
     {
-        "name": "Odeon 24",
-        "id": "Odeon24.it",
-        "logo": "https://i.imgur.com/Ho7SdXY.png",
-        "url": "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Taurianova TV",
         "id": "TaurianovaTV.it",
         "logo": "https://www.taurianovatv.it/wp-content/uploads/2024/04/cropped-FotoJet-2-HD15.jpg",
         "url": "https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "T9",
-        "id": "T9.it",
-        "logo": "https://i.imgur.com/kQKzpYj.png",
-        "url": "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -8102,16 +8164,6 @@
         "id": "RTMTV.it",
         "logo": "https://i.imgur.com/w9Twxsi.png",
         "url": "https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Lazio TV",
-        "id": "LazioTV.it",
-        "logo": "https://i.imgur.com/TNLD9yD.png",
-        "url": "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -8518,6 +8570,16 @@
         "country": "DE"
     },
     {
+        "name": "MDR Fernsehen",
+        "id": "MDRFernsehen.de",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/512px-MDR_Logo_2017.svg.png",
+        "url": "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DE"
+    },
+    {
         "name": "DELTA TV",
         "id": "DELTATV.gr",
         "logo": "https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png",
@@ -8722,16 +8784,6 @@
         "id": "Canal3Impresionante.sv",
         "logo": "https://i.imgur.com/mdfiWG9.png",
         "url": "https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "SV"
-    },
-    {
-        "name": "RTV Canal 57",
-        "id": "RTVCanal57.sv",
-        "logo": "https://i.imgur.com/tnOGWqL.png",
-        "url": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
         "categories": [
             "general"
         ],
@@ -9339,10 +9391,10 @@
         "country": "ES"
     },
     {
-        "name": "TVR",
-        "id": "TVR.es",
-        "logo": "https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png",
-        "url": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8",
+        "name": "Costa Noroeste TV",
+        "id": "CostaNoroesteTV.es",
+        "logo": "https://i.imgur.com/iM9AN6Z.png",
+        "url": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
         "categories": [
             "general"
         ],
@@ -11009,16 +11061,6 @@
         "country": "US"
     },
     {
-        "name": "PBC Tapesh TV",
-        "id": "PBCTapeshTV.us",
-        "logo": "https://i.imgur.com/50JzsmH.png",
-        "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "WHPS-CD2",
         "id": "WHPSCD2.us",
         "logo": "https://i.imgur.com/KW1iQ5W.png",
@@ -11039,20 +11081,20 @@
         "country": "US"
     },
     {
-        "name": "Little Guyana TV",
-        "id": "LittleGuyanaTV.us",
-        "logo": "https://i.imgur.com/b475xOT.jpg",
-        "url": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8",
+        "name": "AMGA TV",
+        "id": "AMGATV.us",
+        "logo": "https://i.imgur.com/NTlC6e7.png",
+        "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
         "categories": [
             "general"
         ],
         "country": "US"
     },
     {
-        "name": "AMGA TV",
-        "id": "AMGATV.us",
-        "logo": "https://i.imgur.com/NTlC6e7.png",
-        "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
+        "name": "KTVK-DT1",
+        "id": "KTVKDT1.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/512px-KTVK_logo.svg.png",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -12512,16 +12554,6 @@
         "id": "B15Zacatecas.mx",
         "logo": "https://i.imgur.com/kaUhEQy.png",
         "url": "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "California Medios TV",
-        "id": "CaliforniaMediosTV.mx",
-        "logo": "https://i.imgur.com/IDvpRNI.png",
-        "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -17669,16 +17701,6 @@
         "country": ""
     },
     {
-        "name": "LIFE TV KAYSERİ",
-        "id": "lifetvkayser",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "AL24 NEWS",
         "id": "al24news",
         "logo": "https://i.ibb.co/Gn19S8p/al24dz.png",
@@ -18163,16 +18185,6 @@
         "id": "kanal26eskehr",
         "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
         "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DENİZ POSTASI TV",
-        "id": "denzpostasitv",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -29589,16 +29601,6 @@
         "country": ""
     },
     {
-        "name": "CANAL CARACOL",
-        "id": "canalcaracol",
-        "logo": "",
-        "url": "http://177.93.46.178:8001/play/a079/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "CANAL UNO",
         "id": "canaluno",
         "logo": "",
@@ -29743,16 +29745,6 @@
         "id": "nickhdclone",
         "logo": "",
         "url": "http://177.93.46.178:8001/play/a06g/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RCN",
-        "id": "rcn",
-        "logo": "",
-        "url": "http://177.93.46.178:8001/play/a07a/index.m3u8",
         "categories": [
             "general"
         ],
@@ -30109,50 +30101,10 @@
         "country": ""
     },
     {
-        "name": "XXX: NovaTV Milf  HD",
-        "id": "xxxnovatvmilfhd",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/550980",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "XXX: NovaTV Moms Teach  HD",
         "id": "xxxnovatvmomsteachhd",
         "logo": "",
         "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/550981",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: SugarTV  Familie HD",
-        "id": "xxxsugartvfamiliehd",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/550992",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: FuxTV Vipissy HD",
-        "id": "xxxfuxtvvipissyhd",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/551016",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: PixelTV Holed HD",
-        "id": "xxxpixeltvholedhd",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/551024",
         "categories": [
             "general"
         ],
@@ -30169,90 +30121,10 @@
         "country": ""
     },
     {
-        "name": "Rouge TV (720p)",
-        "id": "rougetv720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/168368",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Thema Televisión (La Serena) (720p)",
-        "id": "thematelevisinlaserena720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/168405",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AFN TV (720p)",
-        "id": "afntv720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/168705",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "BeitolAbbas TV",
         "id": "beitolabbastv",
         "logo": "",
         "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/168710",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RTV NOF (WEB) (720p) [Not 24/7]",
-        "id": "rtvnofweb720pnot247",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/169008",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Frikanalen (720p)",
-        "id": "frikanalen720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/169031",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ТВА (Чернiвцi) (576p)",
-        "id": "ii576p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/169191",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Comedy Central (Made in Germany)  (Comedy)",
-        "id": "plutotvcomedycentralmadeingermanycomedy",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/169463",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV MTV  (Music)",
-        "id": "plutotvmtvmusic",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/169468",
         "categories": [
             "general"
         ],
@@ -30299,106 +30171,6 @@
         "country": ""
     },
     {
-        "name": "Canal Alpha Neuchatel (1080p) [Not 24/7]",
-        "id": "canalalphaneuchatel1080pnot247",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/188563",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Esperia TV (480p)",
-        "id": "esperiatv480p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/188610",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Icaro TV (720p) [Not 24/7]",
-        "id": "icarotv720pnot247",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/188620",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kiss Kiss Napoli TV (720p)",
-        "id": "kisskissnapolitv720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/188624",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Creta (540p)",
-        "id": "creta540p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/190163",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV Creta (540p)",
-        "id": "tvcreta540p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/190164",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV British TV (684p)",
-        "id": "plutotvbritishtv684p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/190447",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Anixe + (360p)",
-        "id": "anixe360p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196029",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Augsburg TV (1080p)",
-        "id": "augsburgtv1080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196033",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Erz-TV Stollberg (576p)",
-        "id": "erztvstollberg576p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196057",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "EWTN Germany (720p)",
         "id": "ewtngermany720p",
         "logo": "",
@@ -30409,40 +30181,10 @@
         "country": ""
     },
     {
-        "name": "Finest TV (288p) [Not 24/7]",
-        "id": "finesttv288pnot247",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196061",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "HSE24 Extra (1080p)",
         "id": "hse24extra1080p",
         "logo": "",
         "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196069",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HSE24 Trend (576p)",
-        "id": "hse24trend576p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196070",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KulturMD (1080p)",
-        "id": "kulturmd1080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196077",
         "categories": [
             "general"
         ],
@@ -30479,30 +30221,10 @@
         "country": ""
     },
     {
-        "name": "NRWision (720p)",
-        "id": "nrwision720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196098",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "OF-TV Offenbach (720p)",
         "id": "oftvoffenbach720p",
         "logo": "",
         "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196102",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OK Dessau (1080p) [Not 24/7]",
-        "id": "okdessau1080pnot247",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196105",
         "categories": [
             "general"
         ],
@@ -30529,50 +30251,10 @@
         "country": ""
     },
     {
-        "name": "OK Merseburg-Querfurt (1080p) [Not 24/7]",
-        "id": "okmerseburgquerfurt1080pnot247",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196110",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "OK Salzwedel (1080p) [Not 24/7]",
         "id": "oksalzwedel1080pnot247",
         "logo": "",
         "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196112",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OK Stendal (1080p) [Not 24/7]",
-        "id": "okstendal1080pnot247",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196115",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Parlamentsfernsehen 4 (1080p) [Not 24/7]",
-        "id": "parlamentsfernsehen41080pnot247",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196124",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio Weser TV Bremen (576p)",
-        "id": "radiowesertvbremen576p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196130",
         "categories": [
             "general"
         ],
@@ -30589,30 +30271,10 @@
         "country": ""
     },
     {
-        "name": "RBW (1080p)",
-        "id": "rbw1080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196134",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "Tagesschau 24 (720p)",
         "id": "tagesschau24720p",
         "logo": "",
         "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196163",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV38 Südost-Niedersachen (1080p)",
-        "id": "tv38sdostniedersachen1080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196167",
         "categories": [
             "general"
         ],
@@ -30739,36 +30401,6 @@
         "country": ""
     },
     {
-        "name": "Первый Музыкальный Канал (576p)",
-        "id": "576p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/198503",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "萧山新闻综合 (720p)",
-        "id": "720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/199268",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ANT1 Cyprus (1080p)",
-        "id": "ant1cyprus1080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/199404",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "ETV Entertainment",
         "id": "etventertainment",
         "logo": "",
@@ -30789,1020 +30421,10 @@
         "country": ""
     },
     {
-        "name": "Dheeran TV (576p)",
-        "id": "dheerantv576p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/200380",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Nika TV",
-        "id": "nikatv",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/446879",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Movies on Verizon",
-        "id": "moviesonverizon",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/468694",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Warner Bros. TV Sweet Escapes",
-        "id": "warnerbrostvsweetescapes",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/468891",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "Coast Guard",
         "id": "coastguard",
         "logo": "",
         "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/468940",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sakshi TV (576p)",
-        "id": "sakshitv576p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/469766",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AZ: REAL",
-        "id": "azreal",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/532147",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Atomic TV RO",
-        "id": "atomictvro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/119341",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Atomic Academy TV HD RO",
-        "id": "atomicacademytvhdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/119340",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PRO Arena FHD RO",
-        "id": "proarenafhdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/113885",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Aleph News HD RO",
-        "id": "alephnewshdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/110779",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Prima Comedy RO",
-        "id": "primacomedyro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/119342",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Prima News RO",
-        "id": "primanewsro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/119339",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Digi 24 FHD RO",
-        "id": "digi24fhdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/74115",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Antena 3 RO",
-        "id": "antena3ro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/795",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Antena 3 FHD RO",
-        "id": "antena3fhdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/74116",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Romania TV RO",
-        "id": "romaniatvro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/777",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "EuroSport 1 RO",
-        "id": "eurosport1ro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/775",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Eurosport 2 FHD RO",
-        "id": "eurosport2fhdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/74072",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Film Cafe RO",
-        "id": "filmcafero",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/9346",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Warner TV RO",
-        "id": "warnertvro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/104444",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Digi Life RO",
-        "id": "digilifero",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/760",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Digi Animal World RO",
-        "id": "digianimalworldro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/759",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Discovery Channel RO",
-        "id": "discoverychannelro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/25157",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Viasat Nature FHD RO",
-        "id": "viasatnaturefhdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/102418",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Viasat History FHD RO",
-        "id": "viasathistoryfhdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/74083",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bollywood HD RO",
-        "id": "bollywoodhdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/74129",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AXN White RO",
-        "id": "axnwhitero",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/797",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Cartoon Network HD RO",
-        "id": "cartoonnetworkhdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/25531",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Da Vinci Learning RO",
-        "id": "davincilearningro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/25530",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UTV FHD RO",
-        "id": "utvfhdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/74077",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Nasul TV RO",
-        "id": "nasultvro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/74100",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Food Network HD RO",
-        "id": "foodnetworkhdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/25527",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HBO 2 FHD RO",
-        "id": "hbo2fhdro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/74104",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HBO 3 RO",
-        "id": "hbo3ro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/776",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AMC RO",
-        "id": "amcro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/25520",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FilmBox Family RO",
-        "id": "filmboxfamilyro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/77667",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ComedyEst RO",
-        "id": "comedyestro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78232",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Nicktoons RO",
-        "id": "nicktoonsro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78233",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Credo TV RO",
-        "id": "credotvro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78237",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Alfa & Omega RO",
-        "id": "alfaomegaro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78238",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Speranta Tv RO",
-        "id": "sperantatvro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78239",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Hora Tv RO",
-        "id": "horatvro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78268",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Telestar 1 RO",
-        "id": "telestar1ro",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/83509",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VTM 3 FHD BE",
-        "id": "vtm3fhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/128377",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BABY TV HD BE",
-        "id": "babytvhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/128352",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DISNEY CHANNEL HD BE",
-        "id": "disneychannelhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/128321",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARTE BELGIQUE FHD BE",
-        "id": "artebelgiquefhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/128304",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV5 MONDE FHD BE",
-        "id": "tv5mondefhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/128302",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FRANCE 5 FHD BE",
-        "id": "france5fhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/128301",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FRANCE 24 FHD BE",
-        "id": "france24fhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/128284",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN PRO LEAGUES 1 FHD BE",
-        "id": "daznproleagues1fhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/128262",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN 1 FHD BE",
-        "id": "dazn1fhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/128256",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN 3 FHD BE",
-        "id": "dazn3fhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/128254",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN 4 HD BE",
-        "id": "dazn4hdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/128253",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ABXplore BE",
-        "id": "abxplorebe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/113642",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Eleven Pro League 2 FHD BE",
-        "id": "elevenproleague2fhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/90909",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VTM 2 BE",
-        "id": "vtm2be",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/95071",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Play 6 FHD BE",
-        "id": "play6fhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/95070",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VTM 2 FHD BE",
-        "id": "vtm2fhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/299",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VIJF BE",
-        "id": "vijfbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/13184",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Tipik HD BE",
-        "id": "tipikhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/2494",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CAZ BE",
-        "id": "cazbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/259",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Play Crime FHD BE",
-        "id": "playcrimefhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/13738",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RTL Bel HD BE",
-        "id": "rtlbelhdbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/281",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Eleven Sports 2 BE",
-        "id": "elevensports2be",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/13657",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "La Trois BE",
-        "id": "latroisbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/2495",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Plug RTL BE",
-        "id": "plugrtlbe",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/2497",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Voo Sport World 1 BE",
-        "id": "voosportworld1be",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/1165",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BX1 BE",
-        "id": "bx1be",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/2505",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Beate-Uhse.TV Adult",
-        "id": "beateuhsetvadult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/19550",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Evil Angel Adult",
-        "id": "evilangeladult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/13584",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Penthouse 1 FHD Adult",
-        "id": "penthouse1fhdadult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/13581",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Penthouse BLACK HD ADULT",
-        "id": "penthouseblackhdadult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78696",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ALBA XXX 1 ADULT",
-        "id": "albaxxx1adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78700",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ALBA XXX 2 ADULT",
-        "id": "albaxxx2adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78701",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ALBA XXX 6 ADULT",
-        "id": "albaxxx6adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78705",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MY DIRTY HOBBY 2 HD ADULT",
-        "id": "mydirtyhobby2hdadult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78707",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XY Mix HD ADULT",
-        "id": "xymixhdadult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78711",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XY Max HD ADULT",
-        "id": "xymaxhdadult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78712",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Adult TINY4K 3 HD ADULT",
-        "id": "adulttiny4k3hdadult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78738",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ALBA XXX HD1 ADULT",
-        "id": "albaxxxhd1adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78739",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XY Plus FHD ADULT",
-        "id": "xyplusfhdadult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/78741",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HOTCLUB BABES 1 FHD Adults",
-        "id": "hotclubbabes1fhdadults",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/104836",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HOTCLUB BABES 5 FHD Adults",
-        "id": "hotclubbabes5fhdadults",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/104833",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Threesome Adults",
-        "id": "threesomeadults",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/104802",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "bravoerotica 3 Adult",
-        "id": "bravoerotica3adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/120880",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "bravoerotica 4 Adult",
-        "id": "bravoerotica4adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/120881",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "bravoerotica 6 Adult",
-        "id": "bravoerotica6adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/120883",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Casting 1 Adult",
-        "id": "casting1adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/120871",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Casting 2 Adult",
-        "id": "casting2adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/120872",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Casting 3 Adult",
-        "id": "casting3adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/120873",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Casting 4 Adult",
-        "id": "casting4adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/120874",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Real Tapes 7 Adult",
-        "id": "realtapes7adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/120635",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Real Tapes 4 Adult",
-        "id": "realtapes4adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/120632",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Real Tapes 3 Adult",
-        "id": "realtapes3adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/120631",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Brazzers Adult",
-        "id": "brazzersadult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/121375",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Brazzers 3 Adult",
-        "id": "brazzers3adult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/121377",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Teacher Adult",
-        "id": "teacheradult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/121391",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Naughty America Adult",
-        "id": "naughtyamericaadult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/121387",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Teen BJ Adult",
-        "id": "teenbjadult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/121383",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Threesome Adult",
-        "id": "threesomeadult",
-        "logo": "",
-        "url": "http://skytv4k.org:8080/2fzp9BZgtl/Pl7NFMedhk/121382",
         "categories": [
             "general"
         ],

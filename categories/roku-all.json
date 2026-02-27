@@ -1,19 +1,189 @@
 [
     {
-        "name": "Weathernation",
-        "id": "weathernation",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1e38b83ae2a56f09f4d2ee8ed206b35/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1670264331925_WN_Roku_EPG_centered.png",
-        "url": "https://jmp2.uk/rok-a1e38b83ae2a56f09f4d2ee8ed206b35.m3u8",
+        "name": "TV Amor",
+        "id": "tvamor",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/bdb3cb29453a137748dfaeadae2f9d2b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765320641655_jira-generated-image-static-b6689660-306d-406e-adcb-d123fd2f979c.png",
+        "url": "https://jmp2.uk/rok-bdb3cb29453a137748dfaeadae2f9d2b.m3u8",
         "categories": [
             "roku-all"
         ],
         "country": ""
     },
     {
-        "name": "TV Amor",
-        "id": "tvamor",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/bdb3cb29453a137748dfaeadae2f9d2b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765320641655_jira-generated-image-static-b6689660-306d-406e-adcb-d123fd2f979c.png",
-        "url": "https://jmp2.uk/rok-bdb3cb29453a137748dfaeadae2f9d2b.m3u8",
+        "name": "MGM Presents",
+        "id": "mgmpresents",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5263332f746c6b1bed25aa6c105a79d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061592882_MGMPresents_HUDLogo_Centered_260x147.png",
+        "url": "https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pam Grier's Soul Flix",
+        "id": "pamgrierssoulflix",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/e7b30e2a58409242100d0edd2bfebbfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734494082178_PGSF_HUDAthanasiosTsiris.png",
+        "url": "https://jmp2.uk/rok-e7b30e2a58409242100d0edd2bfebbfd.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "About K-Content by CJ ENM",
+        "id": "aboutkcontentbycjenm",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ed1ad60fa9a05f34bf5d4e8b09460d6b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1665780149983_INFO_HUD_72dpi_copy.png",
+        "url": "https://jmp2.uk/rok-ed1ad60fa9a05f34bf5d4e8b09460d6b.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nature Moments",
+        "id": "naturemoments",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/b182852fa5860ed0017de42c7b9ce05a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1735672320363_NatureMoments_Roku_HUD_260x147_centeraligned.png",
+        "url": "https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Unspeakable",
+        "id": "unspeakable",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/11a0e337ea9b53d4b7a9517e219d7f5b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704849191652_TRC_xumoTile_FilmRiseUnspeakable_HUD_logo_260x147.png",
+        "url": "https://jmp2.uk/rok-11a0e337ea9b53d4b7a9517e219d7f5b.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FilmRise Creators",
+        "id": "filmrisecreators",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/067e6b6fa36352ad8984a8d97c9a39d4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158180785_RokuChannel_FilmRiseCreators_HUD_Logo_260x147.png",
+        "url": "https://jmp2.uk/rok-067e6b6fa36352ad8984a8d97c9a39d4.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Vas O No Vas USA",
+        "id": "vasonovasusa",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/cdfd1ee39343a406984976d2687e894d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765921837825_DealOrNoDealUSA-LATAM_HUD_logo_260x147.png",
+        "url": "https://jmp2.uk/rok-cdfd1ee39343a406984976d2687e894d.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Cinépolis Channel",
+        "id": "cinpolischannel",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/acf637e8292736265712e3be566c0e5a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1752626860506_HUD-Logo-260x147.png",
+        "url": "https://jmp2.uk/rok-acf637e8292736265712e3be566c0e5a.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ViX Novelas de oro",
+        "id": "vixnovelasdeoro",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ab6cd6569bf6557a8c5d9798cfce202b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751782970_NovelasdeOro_RokuHub_260x147_White.png",
+        "url": "https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILMEX Acción",
+        "id": "filmexaccin",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/f53e794f65b781ff1a0d37843c704827/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766446354112_FMXac_HUD_WHITE.png",
+        "url": "https://jmp2.uk/rok-f53e794f65b781ff1a0d37843c704827.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FreeTV Sureño",
+        "id": "freetvsureo",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/59d2dbddc997559bb7b689a7c887cba4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1707769538137_FreeTVSureno260x147.png",
+        "url": "https://jmp2.uk/rok-59d2dbddc997559bb7b689a7c887cba4.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Mi Raza",
+        "id": "miraza",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/1cec89adc1796217721b1ee2cb21255c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1764878529442_UHD_Logo_Mi_Raza_260x147.png",
+        "url": "https://jmp2.uk/rok-1cec89adc1796217721b1ee2cb21255c.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "COPS en Español",
+        "id": "copsenespaol",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png",
+        "url": "https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Stingray Zen Life",
+        "id": "stingrayzenlife",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/79876f8f79d0394ba8982259393e5e32/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260443435_StingrayZENlife_HUDlogo_centered_260x147.png",
+        "url": "https://jmp2.uk/rok-79876f8f79d0394ba8982259393e5e32.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Stingray Free Riding",
+        "id": "stingrayfreeriding",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/d90a57a66251fdda967c2e2b9e6aa25d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1753727436599_StingrayFreeRiding_HUDlogo_centered_260x147.png",
+        "url": "https://jmp2.uk/rok-d90a57a66251fdda967c2e2b9e6aa25d.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TikTok Radio",
+        "id": "tiktokradio",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e04e4c0e2cd5fe49b087a6ce5fd0d91/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1719497617582_11110_SM_TikTokRadio_Logo_260x147_V02.png",
+        "url": "https://jmp2.uk/rok-8e04e4c0e2cd5fe49b087a6ce5fd0d91.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Arizona's Family",
+        "id": "arizonasfamily",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ec2faed50af3503e934f0c342a7952fe/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557956357_KPHO_EPG_Hud_LogoKPHO_HUD_logo_260x147_Centered.png",
+        "url": "https://jmp2.uk/rok-ec2faed50af3503e934f0c342a7952fe.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KPTV FOX 12 Oregon News",
+        "id": "kptvfox12oregonnews",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5c8d77c2f6b85da3a7e74223b769ef5c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684345991989_KPTV_EPG%2526Hud_LogoKPTV_HUD_logo_260x147.png",
+        "url": "https://jmp2.uk/rok-5c8d77c2f6b85da3a7e74223b769ef5c.m3u8",
         "categories": [
             "roku-all"
         ],

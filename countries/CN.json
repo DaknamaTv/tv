@@ -303,31 +303,33 @@
         "country": "CN"
     },
     {
-        "name": "Fengshang Shopping Channel",
-        "id": "FengshangShoppingChannel.cn",
-        "logo": "https://i.imgur.com/WNhfnUR.png",
-        "url": "http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw",
+        "name": "CGTN",
+        "id": "CGTN.cn",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
+        "url": "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8",
         "categories": [
-            "shop"
+            "news"
         ],
         "country": "CN"
     },
     {
-        "name": "Liaoning TV",
-        "id": "LiaoningTV.cn",
-        "logo": "https://i.imgur.com/XRfeNTd.png",
-        "url": "http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8",
+        "name": "CGTN Arabic",
+        "id": "CGTNArabic.cn",
+        "logo": "https://i.imgur.com/AkFFrS7.png",
+        "url": "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8",
         "categories": [
-            "general"
+            "news"
         ],
         "country": "CN"
     },
     {
-        "name": "Anhui Satellite TV",
-        "id": "AnhuiSatelliteTV.cn",
-        "logo": "https://i.imgur.com/n5LABhB.png",
-        "url": "http://183.207.248.71/gitv/live1/AHWS/AHWS",
-        "categories": [],
+        "name": "CGTN French",
+        "id": "CGTNFrench.cn",
+        "logo": "https://i.imgur.com/BwhledK.png",
+        "url": "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
         "country": "CN"
     }
 ]

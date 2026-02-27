@@ -1163,5 +1163,23 @@
         "url": "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8",
         "categories": [],
         "country": "DE"
+    },
+    {
+        "name": "MDR Fernsehen",
+        "id": "MDRFernsehen.de",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/512px-MDR_Logo_2017.svg.png",
+        "url": "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "ProSieben",
+        "id": "ProSieben.de",
+        "logo": "https://i.imgur.com/zZOk3nh.png",
+        "url": "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8",
+        "categories": [],
+        "country": "DE"
     }
 ]

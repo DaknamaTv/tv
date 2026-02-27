@@ -891,16 +891,6 @@
         "country": "DO"
     },
     {
-        "name": "Makina TV",
-        "id": "MakinaTV.do",
-        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg",
-        "url": "https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Marka TV",
         "id": "MarkaTV.do",
         "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg",
@@ -1542,16 +1532,6 @@
         "country": "DO"
     },
     {
-        "name": "Televida",
-        "id": "Televida.do",
-        "logo": "https://i.imgur.com/S8Zdn41.png",
-        "url": "https://fox.hostlagarto.com:8081/televida/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Tenarenses TV",
         "id": "TenarensesTV.do",
         "logo": "https://i.imgur.com/cPIgs0v.png",
@@ -1716,16 +1696,6 @@
         "id": "Antena7.do",
         "logo": "https://i.imgur.com/zKWFgeQ.png",
         "url": "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Punto TV",
-        "id": "PuntoTV.do",
-        "logo": "https://imgur.com/vfvN6ox.png",
-        "url": "https://fox.hostlagarto.com:8081/puntotv/index.m3u8",
         "categories": [
             "general"
         ],
@@ -1958,6 +1928,76 @@
         "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
         "categories": [
             "sports"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Cibaena TV",
+        "id": "CibaenaTV.do",
+        "logo": "https://i.imgur.com/iHjdckl.png",
+        "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Junior Technologia TV",
+        "id": "JuniorTechnologiaTV.do",
+        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg",
+        "url": "https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Nexxo TV",
+        "id": "NexxoTV.do",
+        "logo": "https://i.imgur.com/2OpCxa6.png",
+        "url": "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Pronems TV",
+        "id": "PronemsTV.do",
+        "logo": "https://i.imgur.com/a9ORO1G.png",
+        "url": "https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Telesantodomingo",
+        "id": "Telesantodomingo.do",
+        "logo": "https://i.imgur.com/hw64asF.jpeg",
+        "url": "https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Xtra Tv",
+        "id": "XtraTv.do",
+        "logo": "https://xtratvrd.com/logo512.png",
+        "url": "https://mlb.essastream.com:8081/xtratv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Zonavision TV",
+        "id": "ZonavisionTV.do",
+        "logo": "https://imgur.com/B3PrrMH.png",
+        "url": "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "DO"
     }

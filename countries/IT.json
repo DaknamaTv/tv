@@ -1171,16 +1171,6 @@
         "country": "IT"
     },
     {
-        "name": "Odeon 24",
-        "id": "Odeon24.it",
-        "logo": "https://i.imgur.com/Ho7SdXY.png",
-        "url": "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Primocanale",
         "id": "Primocanale.it",
         "logo": "https://i.imgur.com/eunZ2Sa.png",
@@ -1277,16 +1267,6 @@
         "country": "IT"
     },
     {
-        "name": "T9",
-        "id": "T9.it",
-        "logo": "https://i.imgur.com/kQKzpYj.png",
-        "url": "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "TV7 Benevento",
         "id": "TV7Benevento.it",
         "logo": "https://i.imgur.com/VBhVaKB.png",
@@ -1357,34 +1337,6 @@
         "url": "http://78.130.250.2:8023/play/a04l/index.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Donna TV",
-        "id": "DonnaTV.it",
-        "logo": "https://i.imgur.com/39cSNHs.png",
-        "url": "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Italia 7",
-        "id": "Italia7.it",
-        "logo": "https://i.imgur.com/xc0kUHk.png",
-        "url": "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8",
-        "categories": [],
-        "country": "IT"
-    },
-    {
-        "name": "Lazio TV",
-        "id": "LazioTV.it",
-        "logo": "https://i.imgur.com/TNLD9yD.png",
-        "url": "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "IT"
     },
@@ -1545,6 +1497,14 @@
         "id": "TVYesItalia.it",
         "logo": "https://i.imgur.com/3CDxatu.png",
         "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Rai 1",
+        "id": "Rai1.it",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png",
+        "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
         "categories": [],
         "country": "IT"
     }

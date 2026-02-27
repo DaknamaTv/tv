@@ -150,16 +150,6 @@
         "country": "VE"
     },
     {
-        "name": "Grande TV",
-        "id": "GrandeTV.ve",
-        "logo": "https://i.imgur.com/jxCirrP.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "UN24",
         "id": "UN24.ve",
         "logo": "https://i.imgur.com/nGJlulj.png",
@@ -194,16 +184,6 @@
         "id": "SomosTV.ve",
         "logo": "https://i.imgur.com/jOroeJZ.png",
         "url": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Portuguesa Television",
-        "id": "PortuguesaTelevision.ve",
-        "logo": "https://i.imgur.com/jHUSfGz.png",
-        "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
         "categories": [
             "general"
         ],
@@ -364,6 +344,46 @@
         "id": "TAMTV.ve",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
         "url": "https://tv.webtuya.com:3726/live/tammeridalive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Catatumbo TV",
+        "id": "CatatumboTV.ve",
+        "logo": "https://i.imgur.com/LBI2la0.png",
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Plous TV",
+        "id": "PlousTV.ve",
+        "logo": "https://i.imgur.com/OSet4en.png",
+        "url": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Televisora de Oriente",
+        "id": "TelevisoradeOriente.ve",
+        "logo": "https://i.imgur.com/wFC6Xxq.png",
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "TVM para ti",
+        "id": "TVMparati.ve",
+        "logo": "https://intervenhosting.net/imagenes/tvmparati.jpg",
+        "url": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
         "categories": [
             "general"
         ],
