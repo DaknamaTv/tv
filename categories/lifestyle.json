@@ -207,6 +207,16 @@
         "country": "IN"
     },
     {
+        "name": "NDTV Good Times",
+        "id": "NDTVGoodTimes.in",
+        "logo": "https://i.imgur.com/7cruYvo.png",
+        "url": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Hobby Maker",
         "id": "HobbyMaker.uk",
         "logo": "https://i.imgur.com/VWHp5Tl.png",
@@ -297,6 +307,19 @@
             "lifestyle"
         ],
         "country": "CI"
+    },
+    {
+        "name": "CEACOM TV",
+        "id": "CEACOMTV.bo",
+        "logo": "https://i.imgur.com/hutdRfk.png",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+        "categories": [
+            "news",
+            "lifestyle",
+            "music",
+            "general"
+        ],
+        "country": "BO"
     },
     {
         "name": "Autentic Travel",

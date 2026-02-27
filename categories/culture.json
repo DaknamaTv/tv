@@ -1,5 +1,15 @@
 [
     {
+        "name": "2STV",
+        "id": "2STV.sn",
+        "logo": "https://i.imgur.com/WByVBZf.png",
+        "url": "http://69.64.57.208/2stv/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "SN"
+    },
+    {
         "name": "Natural TV",
         "id": "NaturalTV.tr",
         "logo": "https://i.imgur.com/rfcJ674.png",
@@ -325,6 +335,26 @@
         "country": "CL"
     },
     {
+        "name": "Chiloe Red 25",
+        "id": "ChiloeRed25.cl",
+        "logo": "https://i.imgur.com/3tqrImm.png",
+        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Holvoet TV",
+        "id": "HolvoetTV.cl",
+        "logo": "https://i.imgur.com/9JKRO3R.png",
+        "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "GTV",
         "id": "GTV.si",
         "logo": "https://i.imgur.com/LHChpid.png",
@@ -363,6 +393,19 @@
             "culture"
         ],
         "country": "DO"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
     },
     {
         "name": "zenith",
@@ -406,6 +449,16 @@
         "country": "CI"
     },
     {
+        "name": "A+ Ivoire",
+        "id": "APlusIvoire.ci",
+        "logo": "https://i.imgur.com/yOW0vyP.png",
+        "url": "http://69.64.57.208/atv/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CI"
+    },
+    {
         "name": "Liceum TV",
         "id": "LiceumTV.hu",
         "logo": "https://i.imgur.com/Hf122ZD.png",
@@ -435,16 +488,6 @@
             "culture"
         ],
         "country": "EC"
-    },
-    {
-        "name": "RTB 3",
-        "id": "RTB3.bf",
-        "logo": "https://i.imgur.com/OFZm8ic.png",
-        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "BF"
     },
     {
         "name": "UMSA TVU LP",
@@ -652,6 +695,17 @@
         "categories": [
             "culture",
             "education"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Unisul TV",
+        "id": "UnisulTV.br",
+        "logo": "https://i.imgur.com/N0TvAFz.png",
+        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
+        "categories": [
+            "education",
+            "culture"
         ],
         "country": "BR"
     },

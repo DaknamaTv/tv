@@ -502,18 +502,6 @@
         "country": "ID"
     },
     {
-        "name": "Lingkar TV",
-        "id": "LingkarTV.id",
-        "logo": "https://lingkartv.com/assets/img/logo-square.png",
-        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
-        "categories": [
-            "news",
-            "music",
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Espreso TV",
         "id": "EspresoTV.ua",
         "logo": "https://i.imgur.com/xNatV8K.png",
@@ -1508,16 +1496,6 @@
         "id": "News18Odia.in",
         "logo": "https://dtil.tmsimg.com/assets/s143616_ld_h15_aa.png",
         "url": "https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "News 24",
-        "id": "News24.in",
-        "logo": "https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png",
-        "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -2597,16 +2575,6 @@
         "country": "IN"
     },
     {
-        "name": "Malabar News",
-        "id": "MalabarNews.in",
-        "logo": "https://i.imgur.com/Un2gxt4.png",
-        "url": "http://cloud.logichost.in:1935/live/malabarnews/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "VBC News",
         "id": "VBCNews.in",
         "logo": "https://i.imgur.com/SvXCjha.png",
@@ -2798,16 +2766,6 @@
         "country": "CA"
     },
     {
-        "name": "CityNews Edmonton",
-        "id": "CityNewsEdmonton.ca",
-        "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
-        "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Channel Y",
         "id": "ChannelY.ca",
         "logo": "https://i.imgur.com/OqSl2Qf.png",
@@ -2949,6 +2907,16 @@
         "country": "HN"
     },
     {
+        "name": "TSi",
+        "id": "TSi.hn",
+        "logo": "https://i.imgur.com/GEyxDnf.png",
+        "url": "http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "HN"
+    },
+    {
         "name": "Guardian Talk Radio",
         "id": "GuardianTalkRadio.bs",
         "logo": "https://i.imgur.com/o3cWUwL.png",
@@ -2973,16 +2941,6 @@
         "id": "NCTV.cl",
         "logo": "https://i.imgur.com/oo5vDBv.png",
         "url": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Atacama Noticias",
-        "id": "AtacamaNoticias.cl",
-        "logo": "https://i.imgur.com/Avx4Ecf.png",
-        "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8",
         "categories": [
             "news"
         ],
@@ -3089,6 +3047,16 @@
         "country": "DO"
     },
     {
+        "name": "Noticias 16",
+        "id": "Noticias16.do",
+        "logo": "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png",
+        "url": "https://mlb.essastream.com:8081/noticias16/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Radio Ancon",
         "id": "RadioAncon.pa",
         "logo": "https://i.imgur.com/xum8PNe.jpg",
@@ -3120,13 +3088,26 @@
         "country": "VN"
     },
     {
-        "name": "Vinh Long TV 1",
-        "id": "VinhLongTV1.vn",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
+        "name": "HTV9",
+        "id": "HTV9.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
         ],
         "country": "VN"
     },
@@ -3342,6 +3323,16 @@
         "country": "EC"
     },
     {
+        "name": "Burkina Info TV",
+        "id": "BurkinaInfoTV.bf",
+        "logo": "https://i.imgur.com/a9v5CbU.png",
+        "url": "http://69.64.57.208/burkinainfo/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BF"
+    },
+    {
         "name": "O'zbekiston 24",
         "id": "Ozbekiston24.uz",
         "logo": "https://i.imgur.com/VRFhKbw.png",
@@ -3374,14 +3365,15 @@
         "country": "BO"
     },
     {
-        "name": "Unifranz",
-        "id": "Unifranz.bo",
-        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
-        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
+        "name": "CEACOM TV",
+        "id": "CEACOMTV.bo",
+        "logo": "https://i.imgur.com/hutdRfk.png",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
         "categories": [
-            "education",
-            "entertainment",
-            "news"
+            "news",
+            "lifestyle",
+            "music",
+            "general"
         ],
         "country": "BO"
     },
@@ -5470,6 +5462,16 @@
         "country": "US"
     },
     {
+        "name": "MS NOW",
+        "id": "MSNOW.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png",
+        "url": "http://41.205.93.154/MSNBC/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
         "name": "DVB TV",
         "id": "DVBTV.mm",
         "logo": "https://i.imgur.com/VdezHOv.png",
@@ -5750,6 +5752,16 @@
         "id": "TeleMoldovaPlus.ro",
         "logo": "https://i.imgur.com/8z0zLjw.jpeg",
         "url": "https://vdo.ssl-stream.com:3247/stream/play.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Euronews Romania",
+        "id": "EuronewsRomania.ro",
+        "logo": "https://i.imgur.com/jUOVUXt.png",
+        "url": "https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8",
         "categories": [
             "news"
         ],

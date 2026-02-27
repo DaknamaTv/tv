@@ -527,16 +527,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 34 San Juan",
-        "id": "Canal34SanJuan.ar",
-        "logo": "https://i.imgur.com/bZMEiYe.png",
-        "url": "https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 13 San Luis",
         "id": "Canal13SanLuis.ar",
         "logo": "https://i.imgur.com/NcfMC29.png",
@@ -773,16 +763,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 13 Jujuy",
-        "id": "Canal13Jujuy.ar",
-        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
-        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 4 San Juan",
         "id": "Canal4SanJuan.ar",
         "logo": "https://i.imgur.com/MsCnwRA.png",
@@ -795,6 +775,24 @@
         "id": "ChacoTV.ar",
         "logo": "https://i.imgur.com/b6RerDw.png",
         "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 5 TV Chepes",
+        "id": "Canal5TVChepes.ar",
+        "logo": "https://i.imgur.com/AzEqroq.png",
+        "url": "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Chilecito TV",
+        "id": "ChilecitoTV.ar",
+        "logo": "https://i.imgur.com/zGubmgZ.png",
+        "url": "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8",
         "categories": [],
         "country": "AR"
     }

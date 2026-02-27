@@ -770,16 +770,6 @@
         "country": "TR"
     },
     {
-        "name": "MaximTV Film TV HD 4",
-        "id": "MaximTVFilmTVHD4.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/188110",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "MaximTV Sinema Play 6 HD",
         "id": "MaximTVSinemaPlay6HD.tr",
         "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png",
@@ -1019,6 +1009,26 @@
         "logo": "https://i.imgur.com/FjFjdY5.png",
         "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8",
         "categories": [],
+        "country": "TR"
+    },
+    {
+        "name": "MTurk TV",
+        "id": "MTurkTV.tr",
+        "logo": "https://i.imgur.com/xj1gvrq.png",
+        "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "TRT Cocuk",
+        "id": "TRTCocuk.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "kids"
+        ],
         "country": "TR"
     }
 ]

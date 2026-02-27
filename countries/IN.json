@@ -1898,16 +1898,6 @@
         "country": "IN"
     },
     {
-        "name": "News 24",
-        "id": "News24.in",
-        "logo": "https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png",
-        "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Shubh TV",
         "id": "ShubhTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s143783_ld_h15_aa.png",
@@ -4391,16 +4381,6 @@
         "country": "IN"
     },
     {
-        "name": "Malabar News",
-        "id": "MalabarNews.in",
-        "logo": "https://i.imgur.com/Un2gxt4.png",
-        "url": "http://cloud.logichost.in:1935/live/malabarnews/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Tunes 6",
         "id": "Tunes6.in",
         "logo": "https://i.imgur.com/VUzMQ9S.png",
@@ -4897,6 +4877,36 @@
         "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "KCL TV",
+        "id": "KCLTV.in",
+        "logo": "https://i.imgur.com/bkp9dIm.png",
+        "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "NDTV Good Times",
+        "id": "NDTVGoodTimes.in",
+        "logo": "https://i.imgur.com/7cruYvo.png",
+        "url": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Roja Movies",
+        "id": "RojaMovies.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
+        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
+        "categories": [
+            "movies"
         ],
         "country": "IN"
     }
