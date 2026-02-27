@@ -28,8 +28,6 @@ jobs:
             m3u8 \
             tqdm \
             requests \
-            beautifulsoup4 \
-            lxml \
             fuzzywuzzy \
             python-Levenshtein
 
@@ -38,9 +36,6 @@ jobs:
           CHANNELS_URL: ${{ secrets.CHANNELS_URL }}
           STREAMS_URL: ${{ secrets.STREAMS_URL }}
           LOGOS_URL: https://iptv-org.github.io/api/logos.json
-          KENYA_BASE_URL: ${{ secrets.KENYA_BASE_URL }}
-          M3U_URL_1: ${{ secrets.M3U_URL_1 }}
-          M3U_URL_2: ${{ secrets.M3U_URL_2 }}
           MAX_CONCURRENT: 200
         run: python iptv_checker.py
         continue-on-error: true   # ← so artifacts are still uploaded even if script fails
