@@ -22,17 +22,6 @@
         "country": "TR"
     },
     {
-        "name": "Al-Kawthar TV",
-        "id": "AlKawtharTV.ir",
-        "logo": "https://i.imgur.com/x4zUmY1.png",
-        "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8",
-        "categories": [
-            "religious",
-            "culture"
-        ],
-        "country": "IR"
-    },
-    {
         "name": "Costa Rica Channel",
         "id": "CostaRicaChannel.cr",
         "logo": "https://i.imgur.com/N4pFVVF.png",
@@ -315,10 +304,10 @@
         "country": "CL"
     },
     {
-        "name": "Holvoet TV",
-        "id": "HolvoetTV.cl",
-        "logo": "https://i.imgur.com/9JKRO3R.png",
-        "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+        "name": "Chiloe Red 25",
+        "id": "ChiloeRed25.cl",
+        "logo": "https://i.imgur.com/3tqrImm.png",
+        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
         "categories": [
             "culture"
         ],
@@ -363,6 +352,19 @@
             "culture"
         ],
         "country": "DO"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
     },
     {
         "name": "zenith",
@@ -829,16 +831,6 @@
             "culture"
         ],
         "country": "MM"
-    },
-    {
-        "name": "JOS TV HD",
-        "id": "JOSTVHD.cg",
-        "logo": "https://i.imgur.com/Ai9kpuu.jpeg",
-        "url": "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CG"
     },
     {
         "name": "Catamarca TV",

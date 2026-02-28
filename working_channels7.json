@@ -1,415 +1,5 @@
 [
     {
-        "name": "ITALIA 2 TV",
-        "id": "italia2tv",
-        "logo": "https://i.imgur.com/ISbxfY0.png",
-        "url": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ZAROK",
-        "id": "zarok",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png",
-        "url": "https://iko-live.akamaized.net/ZarokTV/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AURORA ARTE",
-        "id": "auroraarte",
-        "logo": "https://i.imgur.com/BoLZ5wG.png",
-        "url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MİNİKA ÇOCUK",
-        "id": "mnkaocuk",
-        "logo": "https://i.ibb.co/L8ftBdN/minikacocuk.png",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MİNİKA GO",
-        "id": "mnkago",
-        "logo": "https://i.ibb.co/R2Zgy7F/minikago.png",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KUWAIT TV KHALLIK",
-        "id": "kuwaittvkhallik",
-        "logo": "https://i.ibb.co/tMLDMdy/kwttv.png",
-        "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TRT DİYANET ÇOCUK",
-        "id": "trtdyanetocuk",
-        "logo": "https://i.ibb.co/qDF8pHQ/tdcc.png",
-        "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SKY NEWS AUSTRALIA",
-        "id": "skynewsaustralia",
-        "logo": "https://i.ibb.co/8MBM4M1/skyn.png",
-        "url": "https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RTV 21 ALBANIA",
-        "id": "rtv21albania",
-        "logo": "https://i.ibb.co/Nd7f2QvW/21alb.jpg",
-        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "011.FM - Motown live",
-        "id": "011fmmotownlive",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/17846",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA (FR) RDS2 HD (B)",
-        "id": "cafrrds2hdb",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/57490",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA E! (R)",
-        "id": "caer",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/57422",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Global News Regina (D)",
-        "id": "caglobalnewsreginad",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/66384",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: Weather Network Toronto",
-        "id": "caweathernetworktoronto",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/57470",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CFLN FM BigLand",
-        "id": "cflnfmbigland",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/16248",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Country 108 Berlin",
-        "id": "country108berlin",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/14687",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rap & Trap Music live",
-        "id": "raptrapmusiclive",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/17808",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FM - Costa Del Mar",
-        "id": "fmcostadelmar",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/14722",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Game Of Thrones",
-        "id": "gameofthrones",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/66318",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 THE FIRST 48HRS",
-        "id": "247thefirst48hrs",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/66393",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MX: Multimedios",
-        "id": "mxmultimedios",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/57646",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Party Vibe",
-        "id": "partyvibe",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/17781",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pop FM 100.0 Copenhagen",
-        "id": "popfm1000copenhagen",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/14712",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Discovery Velocity HD",
-        "id": "cadiscoveryvelocityhd",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/46212",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US ESPN 1 (HD)",
-        "id": "usespn1hd",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/14197",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US IFC",
-        "id": "usifc",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/9272",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US MAV TV (F)",
-        "id": "usmavtvf",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/20977",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "radio.mp3",
-        "id": "radiomp3",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/87401",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FSNWorldNews.mp3",
-        "id": "fsnworldnewsmp3",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/87559",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "1664_32",
-        "id": "166432",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/87816",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "2281_128.mp3",
-        "id": "2281128mp3",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/88312",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "1007",
-        "id": "1007",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/88591",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio68",
-        "id": "radio68",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/94187",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio29",
-        "id": "radio29",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/94308",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DOCUBOX: DW DOCUMENTERY",
-        "id": "docuboxdwdocumentery",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/119441",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NBC: CA SAN JOSE KNTV",
-        "id": "nbccasanjosekntv",
-        "logo": "",
-        "url": "http://tv70.icu:8080/tXXe6C/428378/120659",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA |MO| CBS KMOV St. Louis",
-        "id": "usamocbskmovstlouis",
-        "logo": "",
-        "url": "http://bgdc.live:25461/newfaitht14@att.net/94645375/189844",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FOX NEWS",
-        "id": "foxnews",
-        "logo": "https://i.ibb.co/hdBrzcc/fox.png",
-        "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KURDISTAN 24",
-        "id": "kurdistan24",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png",
-        "url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NOW NEWS USA",
-        "id": "nownewsusa",
-        "logo": "https://i.ibb.co/JRcZNxdk/nownews.png",
-        "url": "https://nowushls.wns.live/hls/stream.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MIHAN TV",
-        "id": "mihantv",
-        "logo": "https://i.ibb.co/tqkV2sn/irflag.png",
-        "url": "https://iptv.mihantv.com/mihantv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "MEDYA HABER",
         "id": "medyahaber",
         "logo": "https://i.ibb.co/cXd3MBV/symkr.png",
@@ -710,96 +300,6 @@
         "country": ""
     },
     {
-        "name": "AKSU TV KAHRAMANMARAŞ",
-        "id": "aksutvkahramanmara",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KANAL Z ZONGULDAK",
-        "id": "kanalzzonguldak",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KANAL 58 SİVAS",
-        "id": "kanal58svas",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "K+ KAYSERİ",
-        "id": "kkayser",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SUN RTV MERSİN",
-        "id": "sunrtvmersn",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KANAL FIRAT",
-        "id": "kanalfirat",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TEMPO TV",
-        "id": "tempotv",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DİM TV ALANYA",
-        "id": "dmtvalanya",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ER TV MALATYA",
-        "id": "ertvmalatya",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "TRT EBA TV",
         "id": "trtebatv",
         "logo": "https://i.ibb.co/8g20RBH/ebatek.png",
@@ -910,180 +410,10 @@
         "country": ""
     },
     {
-        "name": "TV 41 KOCAELİ",
-        "id": "tv41kocael",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AS TV BURSA",
-        "id": "astvbursa",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KANAL V ANTALYA",
-        "id": "kanalvantalya",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KANAL 26 ESKİŞEHİR",
-        "id": "kanal26eskehr",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ES TV ESKİŞEHİR",
-        "id": "estveskehr",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/chunks.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TİVİ 6",
-        "id": "tv6",
-        "logo": "https://i.ibb.co/sRNHKjS/tivi622.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TON TV ÇANAKKALE",
-        "id": "tontvanakkale",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OLAY TÜRK KAYSERİ TV",
-        "id": "olaytrkkaysertv",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BRTV KARABÜK",
-        "id": "brtvkarabk",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MALATYA VUSLAT TV",
-        "id": "malatyavuslattv",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KANAL 3 AFYONKARAHİSAR",
-        "id": "kanal3afyonkarahsar",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ÇİFTÇİ TV",
-        "id": "fttv",
-        "logo": "https://i.ibb.co/vHwMgx0/ciftci.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "PERSIANA COMEDY",
         "id": "persianacomedy",
         "logo": "https://i.ibb.co/tqkV2sn/irflag.png",
         "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ETV KAYSERİ",
-        "id": "etvkayser",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MK TV",
-        "id": "mktv",
-        "logo": " https://i.ibb.co/wrMn5rgQ/mktv.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KANAL 15 BURDUR",
-        "id": "kanal15burdur",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KANAL 23 ELAZIĞ",
-        "id": "kanal23elazi",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HUNAT TV KAYSERİ",
-        "id": "hunattvkayser",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -5284,16 +4614,6 @@
         "id": "courttv",
         "logo": "https://i.ibb.co/Cs2Gv1ZG/courttv.jpg",
         "url": "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "EL SHARQ",
-        "id": "elsharq",
-        "logo": "https://i.ibb.co/H4shFvm/elsharq.png",
-        "url": "https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8",
         "categories": [
             "general"
         ],
@@ -11020,16 +10340,6 @@
         "country": ""
     },
     {
-        "name": "AL DAFRAH",
-        "id": "aldafrah",
-        "logo": "https://i.ibb.co/FYdQXH1/aldafrah.png",
-        "url": "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "MBC 1",
         "id": "mbc1",
         "logo": "https://i.ibb.co/N19JFwZ/mbc.png",
@@ -11860,16 +11170,6 @@
         "country": ""
     },
     {
-        "name": "FR: ANIMAUX",
-        "id": "franimaux",
-        "logo": "",
-        "url": "http://vipfdedgevv.top:8080/SVIP0113173229515473/35cr2j6thcn5/500",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "Antena 3 FHD",
         "id": "antena3fhd",
         "logo": "",
@@ -12530,16 +11830,6 @@
         "country": ""
     },
     {
-        "name": "Okey [Geo-blocked]",
-        "id": "okeygeoblocked",
-        "logo": "https://i.imgur.com/V2jREQ5.png",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "BBC Three HD (720p)",
         "id": "bbcthreehd720p",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",
@@ -12600,760 +11890,10 @@
         "country": ""
     },
     {
-        "name": "XXX: PixelTV Arch Angel HD",
-        "id": "xxxpixeltvarchangelhd",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/551026",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BeitolAbbas TV",
-        "id": "beitolabbastv",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/168710",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Storage Wars  (Series)",
-        "id": "plutotvstoragewarsseries",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/169474",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Punkteins (Oberlausitz) (1080p)",
-        "id": "punkteinsoberlausitz1080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/169479",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Omroep Brabant Radio (1080p)",
-        "id": "omroepbrabantradio1080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/188159",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Omroep West (1080p) [Not 24/7]",
-        "id": "omroepwest1080pnot247",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/188224",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "EWTN Germany (720p)",
-        "id": "ewtngermany720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196059",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HSE24 Extra (1080p)",
-        "id": "hse24extra1080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196069",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "More Than Sports TV (1080p)",
-        "id": "morethansportstv1080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196086",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NRWision (1080p)",
-        "id": "nrwision1080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196096",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NRWision (360p)",
-        "id": "nrwision360p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196097",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OF-TV Offenbach (720p)",
-        "id": "oftvoffenbach720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196102",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OK Flensburg (576p)",
-        "id": "okflensburg576p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196107",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OK Magdeburg (1080p)",
-        "id": "okmagdeburg1080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196108",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OK Salzwedel (1080p) [Not 24/7]",
-        "id": "oksalzwedel1080pnot247",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196112",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Ran 1 (1080p)",
-        "id": "ran11080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196132",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Tagesschau 24 (720p)",
-        "id": "tagesschau24720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196163",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Volksmusik TV (1080p)",
-        "id": "volksmusiktv1080p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196171",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WDR Fernsehen Aachen (720p)",
-        "id": "wdrfernsehenaachen720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196174",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WDR Fernsehen Bielefeld (720p)",
-        "id": "wdrfernsehenbielefeld720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196175",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WDR Fernsehen Bonn (720p)",
-        "id": "wdrfernsehenbonn720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196176",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WDR Fernsehen Dortmund (720p)",
-        "id": "wdrfernsehendortmund720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196177",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WDR Fernsehen Duisburg (720p)",
-        "id": "wdrfernsehenduisburg720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196178",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WDR Fernsehen Essen (720p)",
-        "id": "wdrfernsehenessen720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196180",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WDR Fernsehen Köln (720p)",
-        "id": "wdrfernsehenkln720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196181",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WDR Fernsehen Münster (720p)",
-        "id": "wdrfernsehenmnster720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196182",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WDR Fernsehen Siegen (720p)",
-        "id": "wdrfernsehensiegen720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196183",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WDR Fernsehen Wuppertal (720p)",
-        "id": "wdrfernsehenwuppertal720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196184",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Welt der Wunder TV (576p)",
-        "id": "weltderwundertv576p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/196186",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ETV Entertainment",
-        "id": "etventertainment",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/199638",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Taivas TV7 (720p)",
-        "id": "taivastv7720p",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/199657",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Coast Guard",
-        "id": "coastguard",
-        "logo": "",
-        "url": "http://tanzanyanuh.xyz:8080/rcp3720/rcp.804/468940",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "KMTV 3 News Omaha",
         "id": "kmtv3newsomaha",
         "logo": "",
         "url": "https://live-manifest.production-public.tubi.io/live/4955ee1f-cb35-4678-a5ee-28a3fa3c8e86/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sada TV",
-        "id": "sadatv",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/168689",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Streek TV (720p) [Not 24/7]",
-        "id": "streektv720pnot247",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/169016",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Chelsea TV",
-        "id": "chelseatv",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/169304",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "1-2-3.tv (480p)",
-        "id": "123tv480p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/169352",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio 10 (720p)",
-        "id": "radio10720p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/188179",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RTV Oost (720p)",
-        "id": "rtvoost720p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/188198",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Groovy TV (360p)",
-        "id": "groovytv360p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/190135",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bibel TV Musik (720p)",
-        "id": "bibeltvmusik720p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/196039",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Deluxe Lounge HD",
-        "id": "deluxeloungehd",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/196046",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Deluxe Rap (1080p)",
-        "id": "deluxerap1080p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/196048",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DW Arabic (1080p)",
-        "id": "dwarabic1080p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/196050",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HSE (1080p)",
-        "id": "hse1080p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/196071",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OK Merseburg-Querfurt (1080p) [Not 24/7]",
-        "id": "okmerseburgquerfurt1080pnot247",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/196110",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OK Stendal (1080p)",
-        "id": "okstendal1080p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/196116",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Parlamentsfernsehen 4 (1080p) [Not 24/7]",
-        "id": "parlamentsfernsehen41080pnot247",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/196124",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Madu TV (576p)",
-        "id": "madutv576p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/200117",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Wesal TV (720p)",
-        "id": "wesaltv720p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/200273",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Eagle One News (576p)",
-        "id": "eagleonenews576p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/200384",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KITE Victers (Kerala) (720p)",
-        "id": "kitevicterskerala720p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/200465",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Indywood TV (720p)",
-        "id": "indywoodtv720p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/200652",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RDX Goa (720p)",
-        "id": "rdxgoa720p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/200663",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UTV (1080p)",
-        "id": "utv1080p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/200770",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "4U TV (720p)",
-        "id": "4utv720p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/200772",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AVA Family (720p)",
-        "id": "avafamily720p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/200776",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AVA Series (720p)",
-        "id": "avaseries720p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/200777",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Wazobia Max TV Port Harcourt (720p)",
-        "id": "wazobiamaxtvportharcourt720p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/201367",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CDNN 23 (1080p)",
-        "id": "cdnn231080p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/201376",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Markíza",
-        "id": "markza",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/201871",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV Ružinov (1080p)",
-        "id": "tvruinov1080p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/201889",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DLTV 15 (1080p)",
-        "id": "dltv151080p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/201978",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Türkmen Owazy (406p)",
-        "id": "trkmenowazy406p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/202039",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV 8",
-        "id": "tv8",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/455181",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Telefoggia",
-        "id": "telefoggia",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/455302",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MyZen TV (1080p)",
-        "id": "myzentv1080p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/467466",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Teen Mom",
-        "id": "teenmom",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/468821",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BBC Travel",
-        "id": "bbctravel",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/468919",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Big Time Rush",
-        "id": "bigtimerush",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/468925",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Die Schöne und das Biest",
-        "id": "dieschneunddasbiest",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/468955",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Wipeout (OV)",
-        "id": "wipeoutov",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/469118",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Global News Kingston",
-        "id": "globalnewskingston",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/469414",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Westerns",
-        "id": "plutotvwesterns",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/469493",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Summer of Movies",
-        "id": "summerofmovies",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/469520",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Шансон ТВ (512p)",
-        "id": "512p",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/User527279/rpPMBrWy5V/532334",
         "categories": [
             "general"
         ],
@@ -13370,22 +11910,2732 @@
         "country": ""
     },
     {
-        "name": "oyequesa?mp=/1",
-        "id": "oyequesamp1",
+        "name": "TURKISH | RADYO MEGASITE",
+        "id": "turkishradyomegasite",
         "logo": "",
-        "url": "http://mytvstream.net:8080/b3Bg9B/358847/94104",
+        "url": "http://mega.netradyom.com:7900/;",
         "categories": [
-            "live radio"
+            "general"
         ],
         "country": ""
     },
     {
-        "name": ";stream.mp3?sid=2",
-        "id": "streammp3sid2",
+        "name": "TURKISH | RADYO VOYAGE",
+        "id": "turkishradyovoyage",
         "logo": "",
-        "url": "http://tvscreen.icu:8080/5199997801/ianlloydw@gmail.com/87658",
+        "url": "https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8",
         "categories": [
-            "live radio"
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Kral FM",
+        "id": "trkralfm",
+        "logo": "",
+        "url": "http://kralwmp.radyotvonline.com/;",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Radyo D",
+        "id": "trradyod",
+        "logo": "https://www.radyod.com/assets/img/logo-radyod.png",
+        "url": "https://radyo.duhnet.tv/radyod",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Radyo 7 TR",
+        "id": "trradyo7tr",
+        "logo": "http://www.radyo7.com/application/assets/home/common/images/radyo7-logo.svg",
+        "url": "http://radyo7hls.radyotvonline.net/radyo7/radyo7_test.stream/chunklist_w1699421347.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Radyo EGE HAVALARI",
+        "id": "trradyoegehavalari",
+        "logo": "",
+        "url": "https://moondigitaledge.radyotvonline.net/egehavalari/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Slow Türk Radyo",
+        "id": "trslowtrkradyo",
+        "logo": "https://www.canliradyodinle.fm/wp-content/uploads/slow-radyo.jpg",
+        "url": "https://radyo.duhnet.tv/slowturk",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Radyo Viva",
+        "id": "trradyoviva",
+        "logo": "",
+        "url": "https://radyoviva.radyotvonline.net/radyovivaaac",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR:TRT Türkü",
+        "id": "trtrttrk",
+        "logo": "http://anadolununsesi.tc/wp-content/uploads/2016/07/AS-300x147.png",
+        "url": "https://rd-trtturku.medya.trt.com.tr/master_128.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR:Slow Karadeniz FM",
+        "id": "trslowkaradenizfm",
+        "logo": "",
+        "url": "http://dinle.slowkaradenizfm.com:9578/;",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR:TGRT FM",
+        "id": "trtgrtfm",
+        "logo": "http://www.tgrt-fm.com.tr/resimler/logo.png",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/chunklist_b200000.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Radyo Arabesk",
+        "id": "trradyoarabesk",
+        "logo": "",
+        "url": "https://yayin.radyoarabesk.com.tr:8000/stream",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL: Radio Rijnmond",
+        "id": "nlradiorijnmond",
+        "logo": "",
+        "url": "http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "A Haber Radyo",
+        "id": "ahaberradyo",
+        "logo": "",
+        "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "A Spor Radyo",
+        "id": "asporradyo",
+        "logo": "",
+        "url": "https://trkvz-radyolar.ercdn.net/asporradyo/chunklist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Baba Radyo",
+        "id": "trbabaradyo",
+        "logo": "https://radiosapi.ams3.cdn.digitaloceanspaces.com/14215e8fc77a4d4da870d3f974852e8d.jpg",
+        "url": "http://37.247.98.7/;",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Lalegul FM",
+        "id": "trlalegulfm",
+        "logo": "https://radiosapi.ams3.cdn.digitaloceanspaces.com/68b479c92ade4a36b60d85c2fcd995e8.jpg",
+        "url": "https://icecast.netmedya.net/lalegulfm",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Moral FM",
+        "id": "trmoralfm",
+        "logo": "https://radiosapi.ams3.cdn.digitaloceanspaces.com/59fd93b245524b67b65990e8ff24fb99.jpg",
+        "url": "https://stream.zeno.fm/0cfiqwdkobavv",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Medine FM",
+        "id": "trmedinefm",
+        "logo": "https://radiosapi.ams3.cdn.digitaloceanspaces.com/b48f0a542ff34fc4bdc437fb4d27465b.jpg",
+        "url": "http://radyomuz.medinefm.net:9786/;",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Radyo Duygu (Arabesk)",
+        "id": "trradyoduyguarabesk",
+        "logo": "https://radiosapi.ams3.cdn.digitaloceanspaces.com/b597ae3d886b4ed69d47dff76d1e43f5.jpg",
+        "url": "https://radyoduygu.ozelip.com/8190/stream",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Radyo 34 (Arebesk)",
+        "id": "trradyo34arebesk",
+        "logo": "https://radiosapi.ams3.cdn.digitaloceanspaces.com/bbbd8e3dc4464c23a9d7314bd28ccefe.jpg",
+        "url": "https://radyo34.radyotvonline.net/radyo34",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Joy Turk",
+        "id": "trjoyturk",
+        "logo": "https://www.canliradyodinle.fm/wp-content/uploads/joy-turk-dinle.jpg",
+        "url": "http://stb.iphd.tv:80/c4:36:6c:d9:8e:35/FKPzTzKiA8/64134",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Best FM",
+        "id": "trbestfm",
+        "logo": "",
+        "url": "http://bestfm64k.radyotvonline.net/bestfmaac",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Ask FM",
+        "id": "traskfm",
+        "logo": "",
+        "url": "http://yayin.asymedya.com:8020/;",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Turku Radyo",
+        "id": "trturkuradyo",
+        "logo": "",
+        "url": "http://radyo.turkuradyo.net:4591/;",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: A Haber Radyo",
+        "id": "trahaberradyo",
+        "logo": "",
+        "url": "http://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Radyo Damar",
+        "id": "trradyodamar",
+        "logo": "",
+        "url": "http://yayin.damarfm.com:8080/;",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TRT Radyo Haber",
+        "id": "trtrtradyohaber",
+        "logo": "",
+        "url": "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Avrasya Turk",
+        "id": "travrasyaturk",
+        "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-avrasya-turk.jpg",
+        "url": "https://sslyayin.netyayin.net:10909/stream?icy=http",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Power Pop",
+        "id": "trpowerpop",
+        "logo": "",
+        "url": "https://listen.powerapp.com.tr/powerpop/mpeg/icecast.audio",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Radyo Turkuvaz",
+        "id": "trradyoturkuvaz",
+        "logo": "",
+        "url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/chunklist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Haberturk Radyo",
+        "id": "trhaberturkradyo",
+        "logo": "",
+        "url": "https://haberturkradyo.radyotvonline.net/haberturkradyo?/;stream.mp3",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Erkam Radyo",
+        "id": "trerkamradyo",
+        "logo": "",
+        "url": "https://yayin2.canliyayin.org:10910/stream?type=http&nocache=77729",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Gozyasi FM",
+        "id": "trgozyasifm",
+        "logo": "",
+        "url": "https://yayin5.radyohizmeti.com:10818/;stream",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Radyo Tatlises",
+        "id": "trradyotatlises",
+        "logo": "",
+        "url": "https://sslyayin.radyoyayini.com:7009/default",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Akra FM",
+        "id": "trakrafm",
+        "logo": "",
+        "url": "https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/chunklist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Radyo Seymen",
+        "id": "trradyoseymen",
+        "logo": "",
+        "url": "https://yayin.radyoseymen.com.tr:1070/stream",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Deva FM",
+        "id": "trdevafm",
+        "logo": "",
+        "url": "https://yayin.radyomadyo.com:8008/stream",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: DostFM",
+        "id": "trdostfm",
+        "logo": "",
+        "url": "http://yayin.dostfm.com:8920/;",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TRT Nagme",
+        "id": "trtrtnagme",
+        "logo": "",
+        "url": "https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:Radio 1",
+        "id": "nlradio1",
+        "logo": "",
+        "url": "http://icecast.omroep.nl:80/radio1-bb-mp3",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:Radio 2",
+        "id": "nlradio2",
+        "logo": "",
+        "url": "http://icecast.omroep.nl:80/radio2-bb-mp3",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:Radio 2 Sterren",
+        "id": "nlradio2sterren",
+        "logo": "",
+        "url": "http://icecast.omroep.nl/radio2-sterrennl-mp3",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:3 FM",
+        "id": "nl3fm",
+        "logo": "",
+        "url": "http://icecast.omroep.nl:80/3fm-bb-mp3",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:3 FM ALT",
+        "id": "nl3fmalt",
+        "logo": "",
+        "url": "http://icecast.omroep.nl/3fm-alternative-mp3",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:R3 FM KX",
+        "id": "nlr3fmkx",
+        "logo": "",
+        "url": "http://icecast.omroep.nl/3fm-serioustalent-mp3",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL: Radio 4",
+        "id": "nlradio4",
+        "logo": "",
+        "url": "http://icecast.omroep.nl/radio4-bb-mp3",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:Radio 4 Eigentijds",
+        "id": "nlradio4eigentijds",
+        "logo": "",
+        "url": "http://icecast.omroep.nl/radio4-eigentijds-mp3",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL: Radio 5",
+        "id": "nlradio5",
+        "logo": "",
+        "url": "http://icecast.omroep.nl:80/radio5-bb-mp3",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:Radio 6",
+        "id": "nlradio6",
+        "logo": "",
+        "url": "http://icecast.omroep.nl/radio6-bb-mp3",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:Arrow Rock",
+        "id": "nlarrowrock",
+        "logo": "https://www.arrow.nl/wp-content/uploads/2017/07/logo.jpg",
+        "url": "https://stream.gal.io/arrow",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:Indie XL",
+        "id": "nlindiexl",
+        "logo": "",
+        "url": "http://server-23.stream-server.nl:8438/;",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:Olympia FM",
+        "id": "nlolympiafm",
+        "logo": "",
+        "url": "http://streams.olympia-radio.nl:80/olympia",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:Q Music",
+        "id": "nlqmusic",
+        "logo": "",
+        "url": "https://stream.qmusic.nl/qmusic/mp3",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:Radio 538",
+        "id": "nlradio538",
+        "logo": "",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:Veronica FM",
+        "id": "nlveronicafm",
+        "logo": "",
+        "url": "http://19993.live.streamtheworld.com:80/VERONICA_SC",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:RADIO 10 NL",
+        "id": "nlradio10nl",
+        "logo": "",
+        "url": "http://stream.radio10.nl/radio10",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL:SLAM FM",
+        "id": "nlslamfm",
+        "logo": "",
+        "url": "http://stream.slam.nl/slamaac",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BeGoodRadio - 80s New Wave live",
+        "id": "begoodradio80snewwavelive",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/17802",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BumpinRadio.com - Hip Hop and R&B",
+        "id": "bumpinradiocomhiphopandrb",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/17599",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA-FR | ICI VANCOUVER FR",
+        "id": "cafricivancouverfr",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/57485",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: Bravo",
+        "id": "cabravo",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/57379",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CBC Edmonton",
+        "id": "cacbcedmonton",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/57384",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CBC OTTAWA",
+        "id": "cacbcottawa",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/57305",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CITY TV CALGARY (E)",
+        "id": "cacitytvcalgarye",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/75652",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV Halifax Nova Scotia HD",
+        "id": "cactvhalifaxnovascotiahd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/57410",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA (FR) TV5",
+        "id": "cafrtv5",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/57288",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Food Network",
+        "id": "cafoodnetwork",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/57247",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Game Show Network HD",
+        "id": "cagameshownetworkhd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/57430",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global Edmonton News (E)",
+        "id": "caglobaledmontonnewse",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/58724",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: MTV HD",
+        "id": "camtvhd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/57368",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Smithsonian Channel (B)",
+        "id": "casmithsonianchannelb",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/47369",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Sportsnet One (HD)",
+        "id": "casportsnetonehd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/47379",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Teletoon East (E)",
+        "id": "cateletooneaste",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/57372",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Carib Flow Sports (D)",
+        "id": "caribflowsportsd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/79544",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CFCB 570 Corner Brook NL",
+        "id": "cfcb570cornerbrooknl",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/16245",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: TELEMEDELLIN",
+        "id": "cotelemedellin",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/78722",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: NTN24 HD",
+        "id": "contn24hd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/78704",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Coffee House",
+        "id": "coffeehouse",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/17854",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Carib ESPN",
+        "id": "caribespn",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/66372",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FunX Latin [Opt-2]",
+        "id": "funxlatinopt2",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/14711",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ICI Premiere Montreal Quebec",
+        "id": "icipremieremontrealquebec",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/16251",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Infowars",
+        "id": "infowars",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/78578",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "JazzRadio (MRG.fm)",
+        "id": "jazzradiomrgfm",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/17837",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "My House Radio live",
+        "id": "myhouseradiolive",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/17810",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Net Radio - Christmas",
+        "id": "netradiochristmas",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/17841",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: TVI",
+        "id": "pttvi",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/78526",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Reggae Jam",
+        "id": "reggaejam",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/14661",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "The RnB Channel",
+        "id": "thernbchannel",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/16255",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK MOVIES: SKY CINEMA DRAMA",
+        "id": "ukmoviesskycinemadrama",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/35251",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK-Sky Sports Main Event",
+        "id": "ukskysportsmainevent",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/35243",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Lifetime Movies",
+        "id": "uslifetimemovies",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/20863",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NickToons",
+        "id": "usnicktoons",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/36",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: Bet Gospel",
+        "id": "usabetgospel",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/66080",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Cartoon Network",
+        "id": "uscartoonnetwork",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/46708",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Cooking Channel",
+        "id": "uscookingchannel",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/9229",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Discovery Channel (East)",
+        "id": "usdiscoverychanneleast",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/46720",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FX East",
+        "id": "usfxeast",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/46690",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Hallmark Channel",
+        "id": "ushallmarkchannel",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/46719",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US HDNET MOVIES",
+        "id": "ushdnetmovies",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/16265",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Nick JR East (A)",
+        "id": "usnickjreasta",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/9807",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: OUTSIDE TV",
+        "id": "usaoutsidetv",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/20865",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US RetroPlex (East)",
+        "id": "usretroplexeast",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/66379",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TBN",
+        "id": "ustbn",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/21895",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TNT (West)",
+        "id": "ustntwest",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/46688",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TNT East",
+        "id": "ustnteast",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/10455",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TRUTV East",
+        "id": "ustrutveast",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/10224",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: TV Land Classic HD",
+        "id": "usatvlandclassichd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/9271",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TVG Network",
+        "id": "ustvgnetwork",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/10259",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US VH1",
+        "id": "usvh1",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/7404",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US WE tv",
+        "id": "uswetv",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/9237",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Knight Rider*",
+        "id": "knightrider",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/83700",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KTRS",
+        "id": "ktrs",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/87344",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "181-technoclub_128k.mp3",
+        "id": "181technoclub128kmp3",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/87358",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "stream02",
+        "id": "stream02",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/87439",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KWOW",
+        "id": "kwow",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/87465",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KMRO",
+        "id": "kmro",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/87572",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WQUTFMAAC_SC",
+        "id": "wqutfmaacsc",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/87642",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "kwpzaacp",
+        "id": "kwpzaacp",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/87660",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "orl1073-sgplayer-aac",
+        "id": "orl1073sgplayeraac",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88016",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KSKZ",
+        "id": "kskz",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88094",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5139_128",
+        "id": "5139128",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88095",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "stream03",
+        "id": "stream03",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88105",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "1296_128?cb=812660.mp3&type=.flv",
+        "id": "1296128cb812660mp3typeflv",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88116",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WSTOFMAAC_SC",
+        "id": "wstofmaacsc",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88172",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "omagic",
+        "id": "omagic",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88181",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MIX1029",
+        "id": "mix1029",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88241",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WPCVFMAAC_SC",
+        "id": "wpcvfmaacsc",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88254",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "kbaq_mp3_128",
+        "id": "kbaqmp3128",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88255",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "4r73usts108uv?rj-ttl=5&rj-tok=AAABex_cRbcAHuhEe0ncIxmSPg",
+        "id": "4r73usts108uvrjttl5rjtokaaabexcrbcahuhee0ncixmspg",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88295",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5183_48",
+        "id": "518348",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88338",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5184_48",
+        "id": "518448",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88360",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "chevyls",
+        "id": "chevyls",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88716",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KBON",
+        "id": "kbon",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/93885",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "hymns",
+        "id": "hymns",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/93886",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WAMU2",
+        "id": "wamu2",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/93922",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KKOO",
+        "id": "kkoo",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/93948",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WRIX",
+        "id": "wrix",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/93949",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "live-128k-mp3",
+        "id": "live128kmp3",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/93958",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KLOBFMAAC_SC",
+        "id": "klobfmaacsc",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/94084",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio80",
+        "id": "radio80",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/94167",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio73",
+        "id": "radio73",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/94175",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio66",
+        "id": "radio66",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/94204",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio63",
+        "id": "radio63",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/94210",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio51",
+        "id": "radio51",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/94252",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio49",
+        "id": "radio49",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/94257",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio42",
+        "id": "radio42",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/94272",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio24",
+        "id": "radio24",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/94316",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio12",
+        "id": "radio12",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/94348",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio6",
+        "id": "radio6",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/94367",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Carib JNN",
+        "id": "caribjnn",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/99566",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Carib (AMP) Rush Sports 2",
+        "id": "caribamprushsports2",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/99568",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PH SARI SARI (C)",
+        "id": "phsarisaric",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/101824",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PE: AMERICA TV",
+        "id": "peamericatv",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/110637",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PE: LATINA HD",
+        "id": "pelatinahd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/110640",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global Calgary",
+        "id": "caglobalcalgary",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/115349",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA (FR) CASA SD (P)",
+        "id": "cafrcasasdp",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/116948",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: QVC",
+        "id": "usqvc",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/117707",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CINEBOX: ANIMATION",
+        "id": "cineboxanimation",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/119420",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CINEBOX: COMEDY",
+        "id": "cineboxcomedy",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/119423",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DOCUBOX: DISCOVERY",
+        "id": "docuboxdiscovery",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/119440",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Game Show Network",
+        "id": "usgameshownetwork",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120633",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX 11 (KMSB) Tucson",
+        "id": "usfox11kmsbtucson",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120651",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CBS: CA SAN FRANCISCO KPIX",
+        "id": "cbscasanfranciscokpix",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120657",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (KUSA) Denver",
+        "id": "usnbckusadenver",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120664",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CT | New Britain | NBC WVIT",
+        "id": "ctnewbritainnbcwvit",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120669",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: IA DES MOINES WHO",
+        "id": "nbciadesmoineswho",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120682",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: ID TWIN FALLS KTFT",
+        "id": "nbcidtwinfallsktft",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120686",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WMAQ) Chicago",
+        "id": "usnbcwmaqchicago",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120690",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX: LOUISVILLE KY WDRB",
+        "id": "foxlouisvillekywdrb",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120696",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (WWL) New Orleans",
+        "id": "uscbswwlneworleans",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120704",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX: SHREVPORT LA KMSS",
+        "id": "foxshrevportlakmss",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120707",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: MA SPRINGFIELD WWLP",
+        "id": "nbcmaspringfieldwwlp",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120711",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: MD BALTIMORE WBAL",
+        "id": "nbcmdbaltimorewbal",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120714",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: MO KANSAS CITY KSHB",
+        "id": "nbcmokansascitykshb",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120728",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NY | Rochester | NBC WHEC",
+        "id": "nyrochesternbcwhec",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120753",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: CINCINNATI WLWT",
+        "id": "nbccincinnatiwlwt",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120755",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: OH TOLEDO WNWO",
+        "id": "nbcohtoledownwo",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120763",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX (WTXF) Philadelphia (F)",
+        "id": "usfoxwtxfphiladelphiaf",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120775",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (KDKA) Pittsburgh (F)",
+        "id": "uscbskdkapittsburghf",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120777",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SC | Columbia | FOX WACH",
+        "id": "sccolumbiafoxwach",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120785",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WSMV) Nashville",
+        "id": "usnbcwsmvnashville",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120799",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX (KDFW) Dallas",
+        "id": "usfoxkdfwdallas",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120805",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: EL PASO KTSM",
+        "id": "nbcelpasoktsm",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120808",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (KPRC) Houston (F)",
+        "id": "usnbckprchoustonf",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120815",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: VA RICHMOND WWBT",
+        "id": "nbcvarichmondwwbt",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120823",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX: VIRGINIA BEACH VA WVBT",
+        "id": "foxvirginiabeachvawvbt",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120824",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC 5 (KING) Seattle (H)",
+        "id": "usnbc5kingseattleh",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120826",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WGBA) HD",
+        "id": "usnbcwgbahd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120835",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC: LOUISVILLE WHAS",
+        "id": "abclouisvillewhas",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120858",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC: NASHVILLE WKRN",
+        "id": "abcnashvillewkrn",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120860",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC Phoenix KNXV",
+        "id": "abcphoenixknxv",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120861",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "LOC | OR | PORTLAND | ABC KATU",
+        "id": "locorportlandabckatu",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120862",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: ABC LAS VEGAS (KTNV)",
+        "id": "usaabclasvegasktnv",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120866",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC: BATON ROUGE WBRZ",
+        "id": "abcbatonrougewbrz",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120868",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC33 (KSPR) Missouri",
+        "id": "abc33ksprmissouri",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120871",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US abc 28 (WFTS) Tampa",
+        "id": "usabc28wftstampa",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120952",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS 7 (WDBJ) Roanoke",
+        "id": "uscbs7wdbjroanoke",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121077",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX: ROANOKE VA WFXR",
+        "id": "foxroanokevawfxr",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121078",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WSAV)",
+        "id": "usnbcwsav",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121081",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US True Crime Network (KARE)",
+        "id": "ustruecrimenetworkkare",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121130",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (WFMY) Greensboro (F)",
+        "id": "uscbswfmygreensborof",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121131",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WXIA) Atlanta (F)",
+        "id": "usnbcwxiaatlantaf",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121136",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US abc9 (WFTV) Orlando",
+        "id": "usabc9wftvorlando",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121145",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS 19 ((WOIO)) Cleveland",
+        "id": "uscbs19woiocleveland",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121152",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CW 35 (KMYS) San Antonio (Y)",
+        "id": "uscw35kmyssanantonioy",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121158",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US abc4 (WTAE) Pittsburgh",
+        "id": "usabc4wtaepittsburgh",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121169",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AZ (D)",
+        "id": "azd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121172",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US abc10 (KGTV) San Diego",
+        "id": "usabc10kgtvsandiego",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121176",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (WFOR) Miami",
+        "id": "uscbswformiami",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121243",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX: MIAMI FL WSVN",
+        "id": "foxmiamiflwsvn",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121244",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US abc18 (WDHN) Dothan",
+        "id": "usabc18wdhndothan",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121593",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS 12 (WPEC) West Palm Beach",
+        "id": "uscbs12wpecwestpalmbeach",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121596",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US ABC 5 (WCVB) Boston (A)",
+        "id": "usabc5wcvbbostona",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121745",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WBTS) Boston",
+        "id": "usnbcwbtsboston",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/121746",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Dejaview HD (B)",
+        "id": "cadejaviewhdb",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/122001",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX (WSYT) Syracuse (F)",
+        "id": "usfoxwsytsyracusef",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/122003",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC: MANCHESTER WMUR",
+        "id": "abcmanchesterwmur",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/122057",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS 5 (WCSC) Charleston",
+        "id": "uscbs5wcsccharleston",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/122058",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US ABC6 (WJBF) Augusta (A)",
+        "id": "usabc6wjbfaugustaa",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/122270",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WAGT) Augusta",
+        "id": "usnbcwagtaugusta",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/122271",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX: AUGUSTA GA WFXG",
+        "id": "foxaugustagawfxg",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/122272",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (WRDW) Augusta (F)",
+        "id": "uscbswrdwaugustaf",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/122273",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS 4 (WTVY) Dothan (H)",
+        "id": "uscbs4wtvydothanh",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/122275",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US abc25 (WOLO) Columbia",
+        "id": "usabc25wolocolumbia",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/125633",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Comet",
+        "id": "uscomet",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/125831",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7 SEX IN THE CITY",
+        "id": "247sexinthecity",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/125972",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global Edmonton (D)",
+        "id": "caglobaledmontond",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/132271",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global Montreal HD (B)",
+        "id": "caglobalmontrealhdb",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/136640",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (KFVS) Cape Girardeau (F)",
+        "id": "uscbskfvscapegirardeauf",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/136883",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US BET Her",
+        "id": "usbether",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/137790",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA | Sacramento | NBC KCRA",
+        "id": "casacramentonbckcra",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/137953",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US PBS (WNED) HD (SP)",
+        "id": "uspbswnedhdsp",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/139756",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "LOC | IA | CBS | KGAN -WATERLOO-IOWA",
+        "id": "lociacbskganwaterlooiowa",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/140900",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: FRANCE 3 FHD",
+        "id": "frfrance3fhd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/160298",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: AB3 HD",
+        "id": "frab3hd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/160302",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Real America's Voice (STV)",
+        "id": "usrealamericasvoicestv",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/160581",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (WGCL) Atlanta",
+        "id": "uscbswgclatlanta",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/160715",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX 6 (WITI) Milwaukee",
+        "id": "usfox6witimilwaukee",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/161142",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: NOS STUDIOS FHD",
+        "id": "ptnosstudiosfhd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/164811",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG: CINE ARGENTINO",
+        "id": "argcineargentino",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/164871",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "URU: CANAL 10 SAETA HD",
+        "id": "urucanal10saetahd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/164917",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: SPORT TV 1 FHD",
+        "id": "ptsporttv1fhd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/167742",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US (LN) HBCU Go",
+        "id": "uslnhbcugo",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/209775",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Die Hard",
+        "id": "m4diehard",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/215282",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Post-Apocalyptic",
+        "id": "m4postapocalyptic",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/215311",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Star Wars",
+        "id": "m4starwars",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/215324",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: The Godfather",
+        "id": "m4thegodfather",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/215330",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: The Purge",
+        "id": "m4thepurge",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/215337",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Jamie Foxx",
+        "id": "m4jamiefoxx",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/215357",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Adam Sandler",
+        "id": "m4adamsandler",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/215373",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Daniel Craig",
+        "id": "m4danielcraig",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/215375",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Jackie Chan",
+        "id": "m4jackiechan",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/215378",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Julia Roberts",
+        "id": "m4juliaroberts",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/215403",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US US CW 39 (KIAH) Houston",
+        "id": "ususcw39kiahhouston",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/216086",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC 17 (KGET) Bakersfield",
+        "id": "usnbc17kgetbakersfield",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/216551",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KS",
+        "id": "ks",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/216553",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CW 43 (WUAB) Cleveland",
+        "id": "uscw43wuabcleveland",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/216585",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NFL 03:  Super Bowl LX",
+        "id": "nfl03superbowllx",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/252012",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA Real NBA 05: Memphis Grizzlies vs Dallas Mavericks @ 08:30 PM EST",
+        "id": "usarealnba05memphisgrizzliesvsdallasmavericks0830pmest",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/262973",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA Real MLB 02: Marlins VS Phillies (Phillies Feed ) @ 13:05",
+        "id": "usarealmlb02marlinsvsphilliesphilliesfeed1305",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/262997",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MLB 06: 8:10PM D-backs VS Mariners",
+        "id": "mlb06810pmdbacksvsmariners",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/263008",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pamir TV (1080p)",
+        "id": "pamirtv1080p",
+        "logo": "",
+        "url": "http://koxgo.shop:8080/kn9696/kn0069/167982",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AlbUK TV (1080p)",
+        "id": "albuktv1080p",
+        "logo": "https://i.imgur.com/gRvEH4v.png",
+        "url": "http://koxgo.shop:8080/kn9696/kn0069/167986",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV Opoja (720p)",
+        "id": "tvopoja720p",
+        "logo": "https://i.imgur.com/De7sZf6.jpg",
+        "url": "http://koxgo.shop:8080/kn9696/kn0069/167991",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio Van 103.0 FM (Yerevan) (720p)",
+        "id": "radiovan1030fmyerevan720p",
+        "logo": "https://i.imgur.com/zYO4KjA.jpg",
+        "url": "http://koxgo.shop:8080/kn9696/kn0069/168015",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kronehit (1080p)",
+        "id": "kronehit1080p",
+        "logo": "",
+        "url": "http://koxgo.shop:8080/kn9696/kn0069/168053",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "R9 (720p)",
+        "id": "r9720p",
+        "logo": "https://i.imgur.com/Wu6SMvb.png",
+        "url": "http://koxgo.shop:8080/kn9696/kn0069/168055",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Red Bull TV (1080p)",
+        "id": "redbulltv1080p",
+        "logo": "https://i.imgur.com/7NeBmWX.jpg",
+        "url": "http://koxgo.shop:8080/kn9696/kn0069/168056",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Swamiji TV (720p)",
+        "id": "swamijitv720p",
+        "logo": "https://i.imgur.com/ygkBFYT.jpg",
+        "url": "http://koxgo.shop:8080/kn9696/kn0069/168059",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "W24 (720p)",
+        "id": "w24720p",
+        "logo": "https://i.imgur.com/J25y9ah.png",
+        "url": "http://koxgo.shop:8080/kn9696/kn0069/168063",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "malta (720p)",
+        "id": "malta720p",
+        "logo": "",
+        "url": "http://koxgo.shop:8080/kn9696/kn0069/168075",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Televizija 5 (240p)",
+        "id": "televizija5240p",
+        "logo": "https://i.imgur.com/hdwjkYa.png",
+        "url": "http://koxgo.shop:8080/kn9696/kn0069/168078",
+        "categories": [
+            "general"
         ],
         "country": ""
     },
@@ -13470,26 +14720,6 @@
         "country": ""
     },
     {
-        "name": "2znsmu8d8zquv",
-        "id": "2znsmu8d8zquv",
-        "logo": "",
-        "url": "http://tvscreen.icu:8080/5199997801/ianlloydw@gmail.com/88154",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KMJAMAAC_SC",
-        "id": "kmjamaacsc",
-        "logo": "",
-        "url": "http://mytvstream.net:8080/b3Bg9B/358847/87467",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "listen",
         "id": "listen",
         "logo": "",
@@ -13520,40 +14750,10 @@
         "country": ""
     },
     {
-        "name": "SLCR_highdef.mp3",
-        "id": "slcrhighdefmp3",
-        "logo": "",
-        "url": "http://mytvstream.net:8080/b3Bg9B/358847/88533",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NPR_64",
-        "id": "npr64",
-        "logo": "",
-        "url": "http://mytvstream.net:8080/b3Bg9B/358847/87862",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "1005",
         "id": "1005",
         "logo": "",
         "url": "http://mytvstream.net:8080/RKu2Hy/559290/88200",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "folkfwd-64-aac",
-        "id": "folkfwd64aac",
-        "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/93832",
         "categories": [
             "live radio"
         ],
@@ -13570,30 +14770,10 @@
         "country": ""
     },
     {
-        "name": "krcl-high",
-        "id": "krclhigh",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/87619",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "suburbsofgoa-128-mp3",
         "id": "suburbsofgoa128mp3",
         "logo": "",
         "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/93853",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WMACAMAAC_SC",
-        "id": "wmacamaacsc",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/93872",
         "categories": [
             "live radio"
         ],
@@ -13610,50 +14790,10 @@
         "country": ""
     },
     {
-        "name": "kxwt",
-        "id": "kxwt",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/93918",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "Radio50",
         "id": "radio50",
         "logo": "",
         "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/94255",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "theLight",
-        "id": "thelight",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/88292",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KTSEFMAAC_SC",
-        "id": "ktsefmaacsc",
-        "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/87463",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "tkdisco?mp=/stream/",
-        "id": "tkdiscompstream",
-        "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/87526",
         "categories": [
             "live radio"
         ],
@@ -13910,16 +15050,6 @@
         "country": ""
     },
     {
-        "name": "KTKU",
-        "id": "ktku",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88379",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "kalx-128.mp3",
         "id": "kalx128mp3",
         "logo": "",
@@ -13950,40 +15080,10 @@
         "country": ""
     },
     {
-        "name": "kuvo-aac-64",
-        "id": "kuvoaac64",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88416",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "stream15",
         "id": "stream15",
         "logo": "",
         "url": "http://nocable.cc:8080/37ccEK/176337/88429",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "chevy",
-        "id": "chevy",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88438",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "APS Radio Classical",
-        "id": "apsradioclassical",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88446",
         "categories": [
             "live radio"
         ],
@@ -14000,70 +15100,10 @@
         "country": ""
     },
     {
-        "name": "KRMP_MP3",
-        "id": "krmpmp3",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88451",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "5132_128",
-        "id": "5132128",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88511",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "njsunrise_b",
-        "id": "njsunriseb",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88623",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "SUNRADIO",
         "id": "sunradio",
         "logo": "",
         "url": "http://nocable.cc:8080/37ccEK/176337/88691",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WCKA",
-        "id": "wcka",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88749",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KXRK-48k.aac",
-        "id": "kxrk48kaac",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88762",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WUCF",
-        "id": "wucf",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88768",
         "categories": [
             "live radio"
         ],
@@ -14080,66 +15120,6 @@
         "country": ""
     },
     {
-        "name": "folkf",
-        "id": "folkf",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88783",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "whkt.mp3",
-        "id": "whktmp3",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88792",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WTAQAMAAC_SC",
-        "id": "wtaqamaacsc",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88799",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "181-eagle_128k.mp3",
-        "id": "181eagle128kmp3",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88817",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "secretagent-128-mp3",
-        "id": "secretagent128mp3",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/93826",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "5181_48",
-        "id": "518148",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/93849",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "2459_128.mp3",
         "id": "2459128mp3",
         "logo": "",
@@ -14150,140 +15130,10 @@
         "country": ""
     },
     {
-        "name": "nis.mp3",
-        "id": "nismp3",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94069",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WMVO",
-        "id": "wmvo",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94071",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "stream09",
-        "id": "stream09",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94076",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "vpr96.mp3",
-        "id": "vpr96mp3",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94082",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "vkhcuazk6a0uv",
-        "id": "vkhcuazk6a0uv",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94088",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio72",
-        "id": "radio72",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94177",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "Radio69",
         "id": "radio69",
         "logo": "",
         "url": "http://nocable.cc:8080/37ccEK/176337/94185",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio65",
-        "id": "radio65",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94206",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio59",
-        "id": "radio59",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94225",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio52",
-        "id": "radio52",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94250",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio40",
-        "id": "radio40",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94275",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio32",
-        "id": "radio32",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94303",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio16",
-        "id": "radio16",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94334",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio1",
-        "id": "radio1",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/94391",
         "categories": [
             "live radio"
         ],
@@ -14566,36 +15416,6 @@
         "url": "http://185.177.126.241:8880//live/ashan24/ashan24/108252.ts",
         "categories": [
             "bg - bulgaria - live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MEX: AZTECA UNO",
-        "id": "mexaztecauno",
-        "logo": "https://docdog.top/logo/countries/mexico/azteca1.png",
-        "url": "http://vipbhbiss.top:8080/VIP01850172228193492/92ac6557c576/5116",
-        "categories": [
-            "lame | mexico vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MEX: TOONCAST",
-        "id": "mextooncast",
-        "logo": "https://docdog.top/logo/countries/mexico/cartoonito-mx.png",
-        "url": "http://vipbhbiss.top:8080/VIP016571763906336130/d4752a7fef16/5218",
-        "categories": [
-            "lame | mexico vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MEX: DISCOVERY SCIENCE",
-        "id": "mexdiscoveryscience",
-        "logo": "https://docdog.top/logo/countries/mexico/discoveryscience.png",
-        "url": "http://vipbhbiss.top:8080/VIP018631755037102548/1a2018c56272/5143",
-        "categories": [
-            "lame | mexico vip"
         ],
         "country": ""
     },
@@ -15184,16 +16004,6 @@
         "id": "abolatv.pt",
         "logo": "http://vodkom.com:25461/Logo/PORTUGAL/A_Bola_TV.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/95397",
-        "categories": [
-            "eu portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PT: KOMBAT SPORT",
-        "id": "kombatsport.pt",
-        "logo": "http://vodkom.com:25461/Logo/PORTUGAL/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/95398",
         "categories": [
             "eu portugal"
         ],
@@ -16200,76 +17010,6 @@
         "country": ""
     },
     {
-        "name": "XXX: GAY [VIP]",
-        "id": "xxxgayvip",
-        "logo": "https://asiagrandiptv.us/logo//GAYTV.png",
-        "url": "http://vipbhbiss.top:8080/VIP015391744828611391/5a06d1aedcf0/132512",
-        "categories": [
-            "xxx | vip 18+"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: STEB SIBLINGS CAUGHT ADULT",
-        "id": "xxxstebsiblingscaughtadult",
-        "logo": "https://docdog.top/logo/countries/xxx/porn18.png",
-        "url": "http://vipbhbiss.top:8080/VIP01611756900902621/807c1f25a25d/132440",
-        "categories": [
-            "xxx | vip 18+"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: NUBILE FILMS1 ADULT",
-        "id": "xxxnubilefilms1adult",
-        "logo": "https://docdog.top/logo/countries/xxx/porn18.png",
-        "url": "http://vipbhbiss.top:8080/VIP016571763906336130/d4752a7fef16/132432",
-        "categories": [
-            "xxx | vip 18+"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: PINK EROTIC 3 [VIP]",
-        "id": "xxxpinkerotic3vip",
-        "logo": "https://docdog.top/logo/countries/xxx/porn18.png",
-        "url": "http://vipbhbiss.top:8080/VIP016571763906336130/d4752a7fef16/132535",
-        "categories": [
-            "xxx | vip 18+"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: BLACK ADULT",
-        "id": "xxxblackadult",
-        "logo": "https://docdog.top/logo/countries/xxx/porn18.png",
-        "url": "http://vipbhbiss.top:8080/VIP016571763906336130/d4752a7fef16/132388",
-        "categories": [
-            "xxx | vip 18+"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: ASIAN SEX DIARY ADULT",
-        "id": "xxxasiansexdiaryadult",
-        "logo": "https://docdog.top/logo/countries/xxx/porn18.png",
-        "url": "http://vipbhbiss.top:8080/VIP016571763906336130/d4752a7fef16/132397",
-        "categories": [
-            "xxx | vip 18+"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX: FIT18 ADULT",
-        "id": "xxxfit18adult",
-        "logo": "https://docdog.top/logo/countries/xxx/porn18.png",
-        "url": "http://vipbhbiss.top:8080/VIP015391744828611391/5a06d1aedcf0/132415",
-        "categories": [
-            "xxx | vip 18+"
-        ],
-        "country": ""
-    },
-    {
         "name": "MX: Canal 5",
         "id": "mxcanal5",
         "logo": "http://img-cdn.curl.pk:8880/channels_icon/75789305031.png",
@@ -16400,16 +17140,6 @@
         "country": ""
     },
     {
-        "name": "ENGLISH: NATIONAL GEOGRAPHIC HD",
-        "id": "englishnationalgeographichd",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/93663",
-        "categories": [
-            "as english"
-        ],
-        "country": ""
-    },
-    {
         "name": "ENGLISH: SONY BBC EARTH ENGLISH HD",
         "id": "englishsonybbcearthenglishhd",
         "logo": "",
@@ -16480,16 +17210,6 @@
         "country": ""
     },
     {
-        "name": "ENGLISH: CNN NEWS",
-        "id": "englishcnnnews",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/93682",
-        "categories": [
-            "as english"
-        ],
-        "country": ""
-    },
-    {
         "name": "ENGLISH: ALJAZEERA HD",
         "id": "englishaljazeerahd",
         "logo": "",
@@ -16526,66 +17246,6 @@
         "url": "http://planettvweb.com:8091/Owa367/42FShe31/28874",
         "categories": [
             "documentales"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TV8",
-        "id": "trtv8",
-        "logo": "",
-        "url": "http://vipbhbiss.top:8080/VIP016571763906336130/d4752a7fef16/141304",
-        "categories": [
-            "tr | general vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: SAT 7 TURK",
-        "id": "trsat7turk",
-        "logo": "",
-        "url": "http://vipbhbiss.top:8080/VIP015391744828611391/5a06d1aedcf0/141169",
-        "categories": [
-            "tr | general vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: POWERTURK TV HD",
-        "id": "trpowerturktvhd",
-        "logo": "",
-        "url": "http://vipbhbiss.top:8080/VIP014081765268833157/dd7d22aadd59/141159",
-        "categories": [
-            "tr | general vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TV8 HD",
-        "id": "trtv8hd",
-        "logo": "",
-        "url": "http://vipbhbiss.top:8080/VIP014081765268833157/dd7d22aadd59/141306",
-        "categories": [
-            "tr | general vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: KANAL 24",
-        "id": "trkanal24",
-        "logo": "",
-        "url": "http://vipbhbiss.top:8080/VIP011431763919048130/afa7408c7967/141030",
-        "categories": [
-            "tr | general vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: KAYSERI TV",
-        "id": "trkayseritv",
-        "logo": "",
-        "url": "http://vipbhbiss.top:8080/VIP017381727977428101/1d2465f693b2/141064",
-        "categories": [
-            "tr | general vip"
         ],
         "country": ""
     },

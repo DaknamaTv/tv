@@ -60,16 +60,6 @@
         "country": "IR"
     },
     {
-        "name": "Lenz Film",
-        "id": "LenzFilm.ir",
-        "logo": "https://i.postimg.cc/jjMGH8ph/lenzfilm.png",
-        "url": "https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IR"
-    },
-    {
         "name": "QTV-3",
         "id": "QTV3.cn",
         "logo": "https://www.tvchinese.net/uploads/tv/qdtv3.jpg",
@@ -391,16 +381,6 @@
         "id": "CityEdenKinoKomediya.ru",
         "logo": "https://i.imgur.com/Aga2XVA.png",
         "url": "https://cityeden.catcast.tv/content/41331/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "City Eden KinoKlassika",
-        "id": "CityEdenKinoKlassika.ru",
-        "logo": "https://i.imgur.com/0qGCS1S.png",
-        "url": "https://cityeden.catcast.tv/content/34185/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -807,16 +787,6 @@
             "movies"
         ],
         "country": "UK"
-    },
-    {
-        "name": "Aurora Media Films",
-        "id": "AuroraMediaFilms.gt",
-        "logo": "https://i.imgur.com/DVC5w6H.png",
-        "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "GT"
     },
     {
         "name": "Boreal",

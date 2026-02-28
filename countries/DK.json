@@ -298,16 +298,6 @@
         "country": "DK"
     },
     {
-        "name": "TV4 SERIES DK",
-        "id": "cmoreseries.dk",
-        "logo": "http://vodkom.com:25461/Logo/DENMARK/C_More_Series_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/100045",
-        "categories": [
-            "eu denmark"
-        ],
-        "country": "DK"
-    },
-    {
         "name": "VIASAT FILM ACTION",
         "id": "viasataction.dk",
         "logo": "http://vodkom.com:25461/Logo/DENMARK/V_film_action_HD_(Old).png",
@@ -354,6 +344,16 @@
         "url": "http://sansat.co:88/02021375753918/8946623682/100060",
         "categories": [
             "eu denmark"
+        ],
+        "country": "DK"
+    },
+    {
+        "name": "DR1",
+        "id": "DR1.dk",
+        "logo": "https://i.imgur.com/OETzsOI.png",
+        "url": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "DK"
     }

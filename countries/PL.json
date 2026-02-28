@@ -572,16 +572,6 @@
         "country": "PL"
     },
     {
-        "name": "TV Toya",
-        "id": "TVToya.pl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_TOYA_Nowe_Logo_od_2014.svg/512px-TV_TOYA_Nowe_Logo_od_2014.svg.png",
-        "url": "https://cdn-14-go.toya.net.pl/drm/001_toyahd/manifest.mpd",
-        "categories": [
-            "general"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "TVP HD",
         "id": "tvphd.pl",
         "logo": "http://www.vodkom.com:25461/Logo/POLONIA/TVP_HD.png",
@@ -702,16 +692,6 @@
         "country": "PL"
     },
     {
-        "name": "POLSAT RODZINA",
-        "id": "polsatrodzina.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Rodzina.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94800",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "POLSAT X HD",
         "id": "POLSATXHD.pl",
         "logo": "",
@@ -742,30 +722,10 @@
         "country": "PL"
     },
     {
-        "name": "FOKUS TV",
-        "id": "fokustv.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Fokus_TV.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94851",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "ANTENA SD",
         "id": "antena.pl",
         "logo": "http://www.vodkom.com:25461/Logo/POLONIA/",
         "url": "http://sansat.co:88/02021375753918/8946623682/448892",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "BBC BRIT",
-        "id": "bbcbrit.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/BBC_Brit.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94861",
         "categories": [
             "eu polonia"
         ],
@@ -812,30 +772,10 @@
         "country": "PL"
     },
     {
-        "name": "TVN TURBO HD",
-        "id": "tvnturbo.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/TVN_Turbo_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94844",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "TVN STYLE HD",
         "id": "tvnstyle.pl",
         "logo": "http://www.vodkom.com:25461/Logo/POLONIA/TVN_STYLE_HD.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/94898",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "TVN PORA NA SHOW HD",
-        "id": "TVNPORANASHOWHD.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/1102870",
         "categories": [
             "eu polonia"
         ],
@@ -882,16 +822,6 @@
         "country": "PL"
     },
     {
-        "name": "TVN ŻYCIE JAK W BAJCE HD",
-        "id": "TVNYCIEJAKWBAJCEHD.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/1102880",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "TVN MOMENTY PRAWDY HD",
         "id": "TVNMOMENTYPRAWDYHD.pl",
         "logo": "",
@@ -906,16 +836,6 @@
         "id": "TVNRAJSKAMIOHD.pl",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/1102884",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "TVN KULTOWE SERIALE HD",
-        "id": "TVNKULTOWESERIALEHD.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/1102885",
         "categories": [
             "eu polonia"
         ],
@@ -942,30 +862,10 @@
         "country": "PL"
     },
     {
-        "name": "TVN CZAS NA ŚLUB",
-        "id": "TVNCZASNALUB.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/1102892",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "TVP KULTURA 2",
         "id": "TVPKULTURA2.pl",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/1102909",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "TVP 3 Łódź HD",
-        "id": "TVP3dHD.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/1102943",
         "categories": [
             "eu polonia"
         ],
@@ -982,50 +882,10 @@
         "country": "PL"
     },
     {
-        "name": "TVP 3 Opole HD",
-        "id": "TVP3OpoleHD.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/1102945",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "TVP 3 Rzeszów HD",
         "id": "TVP3RzeszwHD.pl",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/1102946",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "TVP 3 Lublin HD",
-        "id": "TVP3LublinHD.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/1102947",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "TVP 3 Bydgoszcz HD",
-        "id": "TVP3BydgoszczHD.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/1102949",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "TVP 3 Olsztyn HD",
-        "id": "TVP3OlsztynHD.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/1102950",
         "categories": [
             "eu polonia"
         ],
@@ -1122,26 +982,6 @@
         "country": "PL"
     },
     {
-        "name": "FILMBOX FAMILY",
-        "id": "filmboxfamily.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/FilmBox_Family.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94812",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "FILMBOX ARTHOUSE",
-        "id": "filmboxarthouse.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Filmbox_Arthouse.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94813",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "SKYSHOWTIME 1 HD",
         "id": "SKYSHOWTIME1HD.pl",
         "logo": "",
@@ -1156,26 +996,6 @@
         "id": "SKYSHOWTIME2HD.pl",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/1102895",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "CINEMAX 2 HD",
-        "id": "cinemax2.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Cinemax_2_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94815",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "HBO HD",
-        "id": "hbo.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/HBO_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94816",
         "categories": [
             "eu polonia"
         ],
@@ -1242,26 +1062,6 @@
         "country": "PL"
     },
     {
-        "name": "FOOD NETWORK HD",
-        "id": "foodnetwork.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Food Network_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94847",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "DOMO HD",
-        "id": "domo.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/CANAL+DOMO_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94848",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "DTX",
         "id": "DTX.pl",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DTX_Logo.png/512px-DTX_Logo.png",
@@ -1312,26 +1112,6 @@
         "country": "PL"
     },
     {
-        "name": "SCIFI HD",
-        "id": "scifiuniversal.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/SciFi_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94831",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "KINO TV HD",
-        "id": "kinotv.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Kino_TV_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94907",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "AXN HD",
         "id": "axn.pl",
         "logo": "http://www.vodkom.com:25461/Logo/POLONIA/AXN_HD.png",
@@ -1372,16 +1152,6 @@
         "country": "PL"
     },
     {
-        "name": "STUDIOMED TV HD",
-        "id": "studiomed.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/StudioMed_TV_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94979",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "AMC",
         "id": "amc.pl",
         "logo": "http://www.vodkom.com:25461/Logo/POLONIA/AMC.png",
@@ -1416,26 +1186,6 @@
         "id": "motowizjatv.pl",
         "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Motowizja_HD.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/94853",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "COMEDY CENTRAL HD",
-        "id": "comedycentral.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Comedy_Central_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94837",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "COMEDY CENTRAL EXTRA",
-        "id": "comedycentralextra.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/448907",
         "categories": [
             "eu polonia"
         ],
@@ -1502,16 +1252,6 @@
         "country": "PL"
     },
     {
-        "name": "TVP ABC",
-        "id": "tvpabc.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/TVP_ABC.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94890",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "BABY TV",
         "id": "babytv.pl",
         "logo": "http://www.vodkom.com:25461/Logo/POLONIA/BabyTV.png",
@@ -1562,16 +1302,6 @@
         "country": "PL"
     },
     {
-        "name": "DISNEY CHANNEL HD",
-        "id": "disneychannel.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Disney_Channel_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94872",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "DUCK TV",
         "id": "DUCKTV.pl",
         "logo": "",
@@ -1586,16 +1316,6 @@
         "id": "teennick.pl",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/448912",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "4FUN KIDS SD",
-        "id": "4funkids.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/448913",
         "categories": [
             "eu polonia"
         ],
@@ -1676,16 +1396,6 @@
         "id": "sportklub.pl",
         "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Sportklub_HD.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/94948",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "EUROSPORT 1 HD",
-        "id": "eurosport.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Eurosport_1_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94949",
         "categories": [
             "eu polonia"
         ],
@@ -1842,26 +1552,6 @@
         "country": "PL"
     },
     {
-        "name": "2 LIGA KANAŁ 5",
-        "id": "2LIGAKANA5.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/448941",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "FAME MMA",
-        "id": "FAMEMMA.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/448950",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "PRIME MMA",
         "id": "PRIMEMMA.pl",
         "logo": "",
@@ -1936,16 +1626,6 @@
         "id": "CANALEXTRA2HD.pl",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/662742",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "CANAL+ EXTRA 2 FHD",
-        "id": "CANALEXTRA2FHD.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/662743",
         "categories": [
             "eu polonia"
         ],
@@ -2556,16 +2236,6 @@
         "id": "zoomtv.pl",
         "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Zoom_TV.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/94895",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "HGTV HD",
-        "id": "hgtv.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Nowa_TV.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94900",
         "categories": [
             "eu polonia"
         ],

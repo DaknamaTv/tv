@@ -1360,16 +1360,6 @@
         "country": ""
     },
     {
-        "name": "DD Bangla",
-        "id": "ddbangla",
-        "logo": "https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d",
-        "url": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "B4U Kadak",
         "id": "b4ukadak",
         "logo": "https://s3.aynaott.com/storage/dfb6c20649dd691bab10b2f9d2f0e400",
@@ -1564,16 +1554,6 @@
         "id": "bdradiobhumi",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vC7b-JQBv9knK3AHnTbn/posters/8711141f-1ae8-4ce5-b94b-74f825011c5c.webp",
         "url": "https://stream.zenolive.com/ybf1umk1k18uv",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BD] Dhaka FM",
-        "id": "bddhakafm",
-        "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/wC7c-JQBv9knK3AHFjbi/posters/c288512c-17aa-4ba2-b2d5-4e7b1b729d88.webp",
-        "url": "https://stream-162.zeno.fm/u9mphfk604zuv?zs=QJnv4-xkRN2k7MeRy9mFyg",
         "categories": [
             "bd"
         ],
@@ -1850,26 +1830,6 @@
         "country": ""
     },
     {
-        "name": "Sunnah Tv",
-        "id": "sunnahtv",
-        "logo": "",
-        "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AL SUNNAH TV",
-        "id": "alsunnahtv",
-        "logo": "",
-        "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Deshe Bideshe",
         "id": "deshebideshe",
         "logo": "https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",
@@ -2044,16 +2004,6 @@
         "id": "sonymaxsd",
         "logo": "",
         "url": "http://103.99.249.139/sonymax/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Me-",
-        "id": "me",
-        "logo": "",
-        "url": "https://iptvbd.live/metv1080/1080.m3u8",
         "categories": [
             "bd"
         ],
@@ -2380,16 +2330,6 @@
         "country": ""
     },
     {
-        "name": "ASTRO",
-        "id": "astro",
-        "logo": "",
-        "url": "http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/146809.ts",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "ZB Cinema",
         "id": "zbcinema",
         "logo": "",
@@ -2490,16 +2430,6 @@
         "country": ""
     },
     {
-        "name": "SKY-SPORTS",
-        "id": "skysports",
-        "logo": "",
-        "url": "http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/147059.ts",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Astro SPORTS Primier",
         "id": "astrosportsprimier",
         "logo": "",
@@ -2524,16 +2454,6 @@
         "id": "amazonsat",
         "logo": "",
         "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Green TV",
-        "id": "greentv",
-        "logo": "",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
         "categories": [
             "bd"
         ],
@@ -2610,10 +2530,10 @@
         "country": ""
     },
     {
-        "name": "TNS Sports-2",
-        "id": "tnssports2",
+        "name": "ATN Music",
+        "id": "atnmusic",
         "logo": "",
-        "url": "https://7pal.short.gy/tntspts2",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
         "categories": [
             "bd"
         ],

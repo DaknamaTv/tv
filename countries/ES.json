@@ -1205,16 +1205,6 @@
         "country": "ES"
     },
     {
-        "name": "Trece",
-        "id": "Trece.es",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png",
-        "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Este Canal TV",
         "id": "EsteCanalTV.es",
         "logo": "https://i.imgur.com/jDT5XFs.jpg",
@@ -1261,30 +1251,10 @@
         "country": "ES"
     },
     {
-        "name": "XPTV US",
-        "id": "XPTVUS.es",
-        "logo": "https://i.imgur.com/1m7kDmc.png",
-        "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "BCN Gospel TV",
         "id": "BCNGospelTV.es",
         "logo": "https://i.imgur.com/ZKAnehs.png",
         "url": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "Costa Noroeste TV",
-        "id": "CostaNoroesteTV.es",
-        "logo": "https://i.imgur.com/iM9AN6Z.png",
-        "url": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
         "categories": [
             "general"
         ],
@@ -1646,6 +1616,42 @@
         "categories": [
             "entertainment"
         ],
+        "country": "ES"
+    },
+    {
+        "name": "9 la Loma TV",
+        "id": "9laLomaTV.es",
+        "logo": "https://i.imgur.com/WQP3el2.png",
+        "url": "https://9laloma.tv/live.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "BurrianaTeVe",
+        "id": "BurrianaTeVe.es",
+        "logo": "https://i.imgur.com/G3nIGHh.png",
+        "url": "https://www.burrianateve.com/hls/btv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Canal Donana",
+        "id": "CanalDonana.es",
+        "logo": "https://i.imgur.com/0WrKIxm.png",
+        "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
+        "categories": [],
+        "country": "ES"
+    },
+    {
+        "name": "Telemotril",
+        "id": "Telemotril.es",
+        "logo": "https://i.imgur.com/4nspLHb.png",
+        "url": "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8",
+        "categories": [],
         "country": "ES"
     }
 ]

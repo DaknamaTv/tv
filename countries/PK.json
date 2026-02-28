@@ -182,5 +182,15 @@
         "url": "https://pixelsmedia.live/livepraisetv/index.m3u8",
         "categories": [],
         "country": "PK"
+    },
+    {
+        "name": "Aik News",
+        "id": "AikNews.pk",
+        "logo": "https://i.imgur.com/svPXoAP.png",
+        "url": "https://video.primexsports.com/pnn/live/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PK"
     }
 ]

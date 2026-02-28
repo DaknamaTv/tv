@@ -955,24 +955,6 @@
         "country": "BR"
     },
     {
-        "name": "ISTV",
-        "id": "ISTV.br",
-        "logo": "https://i.imgur.com/RUKVrOH.png",
-        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Canal 25 Jundiai",
-        "id": "Canal25Jundiai.br",
-        "logo": "https://i.imgur.com/7igGMwH.png",
-        "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "TV Sim Cachoeiro",
         "id": "TVSimCachoeiro.br",
         "logo": "https://i.imgur.com/t5oUK3C.png",
@@ -1021,36 +1003,6 @@
         "country": "BR"
     },
     {
-        "name": "CNN BRASIL FHD",
-        "id": "CNNBRASILFHD.br",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/577023",
-        "categories": [
-            "us brazil"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "CNN BRASIL HD",
-        "id": "CNNBRASILHD.br",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/577024",
-        "categories": [
-            "us brazil"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "GLOBO BRASILA HD",
-        "id": "GLOBOBRASILAHD.br",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/577026",
-        "categories": [
-            "us brazil"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "GLOBO RJ HD",
         "id": "GLOBORJHD.br",
         "logo": "",
@@ -1085,16 +1037,6 @@
         "id": "GLOBONORDESTEHD.br",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/577030",
-        "categories": [
-            "us brazil"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "GLOBO RBS PORTO ALEGRE HD",
-        "id": "GLOBORBSPORTOALEGREHD.br",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/577031",
         "categories": [
             "us brazil"
         ],
@@ -1301,16 +1243,6 @@
         "country": "BR"
     },
     {
-        "name": "NICK JR HD",
-        "id": "NICKJRHD.br",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/577059",
-        "categories": [
-            "us brazil"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "RA TIM BUM HD",
         "id": "RATIMBUMHD.br",
         "logo": "",
@@ -1335,16 +1267,6 @@
         "id": "HBO2HD.br",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/577064",
-        "categories": [
-            "us brazil"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "HBO FAMILY HD",
-        "id": "HBOFAMILYHD.br",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/577065",
         "categories": [
             "us brazil"
         ],
@@ -1435,16 +1357,6 @@
         "id": "PREMIERE5HD.br",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/577074",
-        "categories": [
-            "us brazil"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "PREMIERE 7 HD",
-        "id": "PREMIERE7HD.br",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/577076",
         "categories": [
             "us brazil"
         ],
@@ -1571,16 +1483,6 @@
         "country": "BR"
     },
     {
-        "name": "BAND SP HD",
-        "id": "BANDSPHD.br",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/577090",
-        "categories": [
-            "us brazil"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "BAND SPORT HD",
         "id": "BANDSPORTHD.br",
         "logo": "",
@@ -1661,16 +1563,6 @@
         "country": "BR"
     },
     {
-        "name": "STUDIO UNIVERSAL HD",
-        "id": "STUDIOUNIVERSALHD.br",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/577101",
-        "categories": [
-            "us brazil"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "SYFY HD",
         "id": "SYFYHD.br",
         "logo": "",
@@ -1705,16 +1597,6 @@
         "id": "TLCHD.br",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/577105",
-        "categories": [
-            "us brazil"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "UNIVERSAL HD",
-        "id": "UNIVERSALHD.br",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/577106",
         "categories": [
             "us brazil"
         ],
@@ -1927,16 +1809,6 @@
         "url": "http://sansat.co:88/02021375753918/8946623682/577133",
         "categories": [
             "us brazil"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Vicosa",
-        "id": "TVVicosa.br",
-        "logo": "https://i.imgur.com/TZF55f9.png",
-        "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "BR"
     }

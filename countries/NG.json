@@ -188,16 +188,6 @@
         "country": "NG"
     },
     {
-        "name": "Advocate Broadcasting Network",
-        "id": "AdvocateBroadcastingNetwork.ng",
-        "logo": "https://i.imgur.com/ZkBEAp7.png",
-        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "NG"
-    },
-    {
         "name": "Whole Word TV",
         "id": "WholeWordTV.ng",
         "logo": "https://i.imgur.com/71MRtuK.png",
@@ -356,16 +346,6 @@
         "country": "NG"
     },
     {
-        "name": "HOPE CHANNEL AFRICA",
-        "id": "HOPECHANNELAFRICA.ng",
-        "logo": "http://www.vodkom.com:25461/Logo//FLAGS/nigeria.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/76750",
-        "categories": [
-            "af nigeria"
-        ],
-        "country": "NG"
-    },
-    {
         "name": "NEW BEGINNING TV NETWORK",
         "id": "NEWBEGINNINGTVNETWORK.ng",
         "logo": "http://www.vodkom.com:25461/Logo//FLAGS/nigeria.png",
@@ -410,16 +390,6 @@
         "id": "LOVEWORLDSATTV.ng",
         "logo": "http://www.vodkom.com:25461/Logo//FLAGS/nigeria.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/76764",
-        "categories": [
-            "af nigeria"
-        ],
-        "country": "NG"
-    },
-    {
-        "name": "AREWA 24",
-        "id": "AREWA24.ng",
-        "logo": "http://www.vodkom.com:25461/Logo//FLAGS/nigeria.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/76776",
         "categories": [
             "af nigeria"
         ],
@@ -493,6 +463,14 @@
         "categories": [
             "culture"
         ],
+        "country": "NG"
+    },
+    {
+        "name": "Wazobia Max TV Port-Harcourt",
+        "id": "WazobiaMaxTVPortHarcourt.ng",
+        "logo": "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
+        "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
+        "categories": [],
         "country": "NG"
     }
 ]
