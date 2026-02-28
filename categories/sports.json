@@ -80,16 +80,6 @@
         "country": "VE"
     },
     {
-        "name": "Meridiano TV",
-        "id": "MeridianoTV.ve",
-        "logo": "https://i.imgur.com/I6gsUqD.png",
-        "url": "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Football",
         "id": "Football.ru",
         "logo": "https://i.imgur.com/pEuaZVx.png",
@@ -224,6 +214,16 @@
         "id": "TSNTheOcho.ca",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
         "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "TSN1",
+        "id": "TSN1.ca",
+        "logo": "https://i.imgur.com/eRFE0jZ.png",
+        "url": "https://tvpass.org/live/tsn1/sd",
         "categories": [
             "sports"
         ],
@@ -573,16 +573,6 @@
         "country": "DE"
     },
     {
-        "name": "Tigo Sports",
-        "id": "TigoSports.sv",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
-        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "SV"
-    },
-    {
         "name": "Sports Connect",
         "id": "SportsConnect.za",
         "logo": "https://i.imgur.com/0sNWg54.png",
@@ -701,6 +691,16 @@
             "sports"
         ],
         "country": "MN"
+    },
+    {
+        "name": "Belarus-5",
+        "id": "Belarus5.by",
+        "logo": "https://i.imgur.com/NJsRFud.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BY"
     },
     {
         "name": "Alkass Five",
@@ -1262,16 +1262,6 @@
             "sports"
         ],
         "country": "US"
-    },
-    {
-        "name": "FUFA TV",
-        "id": "FUFATV.ug",
-        "logo": "https://i.imgur.com/iIq5MqR.png",
-        "url": "https://stream.hydeinnovations.com/fufatv/index.fmp4.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UG"
     },
     {
         "name": "M-Net Sport",

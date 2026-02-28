@@ -91,12 +91,382 @@
         "country": "EG"
     },
     {
-        "name": "NogoumFMTV",
-        "id": "NogoumFMTV.eg",
-        "logo": "https://i.imgur.com/krp3kgv.png",
-        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
+        "name": "NILE DRAMA",
+        "id": "niledrama.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/NILE_DRAMA.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7247",
         "categories": [
-            "music"
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "NILE NEWS",
+        "id": "nilenews.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/NILE_NEWS.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7244",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "NILE SPORT",
+        "id": "nilesport.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/NILE_SPORT.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7241",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "ON TV LIVE",
+        "id": "ONTVLIVE.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7190",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "ON LIVE",
+        "id": "ONLIVE.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/ON_E.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/38451",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "ON TV E",
+        "id": "ONTVE.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/ON_E.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/11315",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "ON TV SPORT",
+        "id": "ONTVSPORT.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/ONTIME_SPORTS.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7189",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "ON TV DRAMA",
+        "id": "ONTVDRAMA.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/c",
+        "url": "http://sansat.co:88/02021375753918/8946623682/11316",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "DMC HD",
+        "id": "DMCHD.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/dmc_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/105562",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "CBC",
+        "id": "cbc.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/CBC.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7253",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "CBC SOFRA",
+        "id": "cbcsofra.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/CBC_SOFRA.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7252",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "CBC EXTRA NEWS",
+        "id": "CBCEXTRANEWS.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/CBC_EXTRA_NEWS.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7251",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "ALHAYAT HD",
+        "id": "ALHAYATHD.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/AlHayat_HD",
+        "url": "http://sansat.co:88/02021375753918/8946623682/105551",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "AL HAYAT",
+        "id": "alhayat.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/Al_Hayat.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7192",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "ALHAYAT 2",
+        "id": "ALHAYAT2.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/ALHAYAT_2.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/105566",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "SADA EL BALAD",
+        "id": "SADAELBALAD.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/Sada_El_Balad.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7237",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "AL NAHAR ONE",
+        "id": "alnaharone.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/Al-Nahar_One.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7232",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "AL NAHAR DRAMA",
+        "id": "alnahardrama.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/Al-Nahar_Drama.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7231",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "AL HADATH AL YOUM",
+        "id": "ALHADATHALYOUM.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/Al_Hadath_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7226",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "CIMA TV",
+        "id": "CIMATV.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/CIMA.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7215",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "PANORAMA FILM",
+        "id": "PANORAMAFILM.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/Panorama_Film.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7218",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "PANORAMA DRAMA 1",
+        "id": "panoramadrama.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/Panorama_Drama.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/11322",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "PANORAMA DRAMA 2",
+        "id": "PANORAMADRAMA2.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/Panorama_Drama_2.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/11321",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "AL KAHERA WAL NAS + 2",
+        "id": "ALKAHERAWALNAS2.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/Al_Kahera_Wal_Nas_+2.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/105552",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "AL MASRIYA",
+        "id": "ALMASRIYA.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/Al_Masryia.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7567",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "MASPERO ZAMAN",
+        "id": "MASPEROZAMAN.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/Maspero_Zaman.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7187",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "MEKAMELEEN TV",
+        "id": "MEKAMELEENTV.eg",
+        "logo": "http://vodkom.com:25461/Logo/PICONS/MEKAMELEEN_TV.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7250",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "EL SHARQ",
+        "id": "ELSHARQ.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/El_SharqTV.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/7224",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "ZAMALEK SPORTS",
+        "id": "ZAMALEKSPORTS.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/ZAMALEK_SPORTS.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/53172",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "AL OULA HD",
+        "id": "ALOULAHD.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/AL_OULA_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/105560",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "NOGOUM FM TV",
+        "id": "NOGOUMFMTV.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/NOGOUM_FM_TV.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/105568",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "EGYPT EDUCATION CHANNEL",
+        "id": "EGYPTEDUCATIONCHANNEL.eg",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/698890",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "CH6 AL DELTA TV",
+        "id": "CH6ALDELTATV.eg",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/698894",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "C-SAT TV",
+        "id": "CSATTV.eg",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/698898",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "EGYPTIAN TV FHD",
+        "id": "EGYPTIANTVFHD.eg",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/698899",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "MIX BEL ARABY",
+        "id": "MIXBELARABY.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/MIX_BEL_ARABY.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/11313",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "ON TV LIVE HD",
+        "id": "ONTVLIVEHD.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/ON_E_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/11318",
+        "categories": [
+            "arabic egypt"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "ON TV SPORT HD",
+        "id": "ONTVSPORTHD.eg",
+        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/ONTIME_SPORTS_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/11317",
+        "categories": [
+            "arabic egypt"
         ],
         "country": "EG"
     }

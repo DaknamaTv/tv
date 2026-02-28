@@ -2470,16 +2470,6 @@
         "country": ""
     },
     {
-        "name": "ASTRO SPORTS PLUS",
-        "id": "astrosportsplus",
-        "logo": "",
-        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sony Sports-5 SD",
         "id": "sonysports5sd",
         "logo": "",
@@ -2554,6 +2544,76 @@
         "id": "sonysportsten2hd",
         "logo": "",
         "url": "http://103.229.254.25:7001/play/a0ef/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Ekushey TV",
+        "id": "ekusheytv",
+        "logo": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
+        "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Ekushey TV (480p)",
+        "id": "ekusheytv480p",
+        "logo": "",
+        "url": "https://ekusheyserver.com/etvlivesn.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BBC Cbeebies",
+        "id": "bbccbeebies",
+        "logo": "",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Madani Tv",
+        "id": "madanitv",
+        "logo": "",
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Tom & Jarry",
+        "id": "tomjarry",
+        "logo": "",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "And Prive",
+        "id": "andprive",
+        "logo": "",
+        "url": "http://202.70.146.135:8000/play/a05y/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-2",
+        "id": "tnssports2",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts2",
         "categories": [
             "bd"
         ],

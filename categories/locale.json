@@ -40,30 +40,10 @@
         "country": ""
     },
     {
-        "name": "Atomic Academy TV (480p)",
-        "id": "atomicacademytv480p",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12472",
-        "categories": [
-            "locale"
-        ],
-        "country": ""
-    },
-    {
         "name": "Atomic TV (360p)",
         "id": "atomictv360p",
         "logo": "",
         "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12473",
-        "categories": [
-            "locale"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Banat TV (720p)",
-        "id": "banattv720p",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12474",
         "categories": [
             "locale"
         ],
@@ -100,26 +80,6 @@
         "country": ""
     },
     {
-        "name": "Digi 24 (576p)",
-        "id": "digi24576p",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12484",
-        "categories": [
-            "locale"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Exploris (576p) [Not 24/7]",
-        "id": "exploris576pnot247",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12487",
-        "categories": [
-            "locale"
-        ],
-        "country": ""
-    },
-    {
         "name": "Hello Taste (720p)",
         "id": "hellotaste720p",
         "logo": "",
@@ -134,26 +94,6 @@
         "id": "impacttvdance1080p",
         "logo": "",
         "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12491",
-        "categories": [
-            "locale"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kanal D Romania (360p)",
-        "id": "kanaldromania360p",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12497",
-        "categories": [
-            "locale"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kiss TV (1080p)",
-        "id": "kisstv1080p",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12499",
         "categories": [
             "locale"
         ],
@@ -190,30 +130,10 @@
         "country": ""
     },
     {
-        "name": "MediCOOL TV (720p)",
-        "id": "medicooltv720p",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12504",
-        "categories": [
-            "locale"
-        ],
-        "country": ""
-    },
-    {
         "name": "MoozDance (576p)",
         "id": "moozdance576p",
         "logo": "",
         "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12508",
-        "categories": [
-            "locale"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MoozHits (576p)",
-        "id": "moozhits576p",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12509",
         "categories": [
             "locale"
         ],
@@ -234,26 +154,6 @@
         "id": "novatvbrasov576pnot247",
         "logo": "",
         "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12513",
-        "categories": [
-            "locale"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Observator News (720p)",
-        "id": "observatornews720p",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12514",
-        "categories": [
-            "locale"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Ploiesti TV (1080p)",
-        "id": "ploiestitv1080p",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12515",
         "categories": [
             "locale"
         ],
@@ -304,6 +204,36 @@
         "id": "tvplussuceava576p",
         "logo": "",
         "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12539",
+        "categories": [
+            "locale"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVSat",
+        "id": "tvsat",
+        "logo": "",
+        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1461",
+        "categories": [
+            "locale"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Credo TV (720p) [Not 24/7]",
+        "id": "credotv720pnot247",
+        "logo": "",
+        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12482",
+        "categories": [
+            "locale"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Tele7ABC HD (720p)",
+        "id": "tele7abchd720p",
+        "logo": "",
+        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/12531",
         "categories": [
             "locale"
         ],

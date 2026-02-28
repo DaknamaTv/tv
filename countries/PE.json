@@ -234,16 +234,6 @@
         "country": "PE"
     },
     {
-        "name": "La Fabulosa TV",
-        "id": "LaFabulosaTV.pe",
-        "logo": "https://i.imgur.com/GjME5H0.png",
-        "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "CR Television",
         "id": "CRTelevision.pe",
         "logo": "https://i.imgur.com/oxycMeA.png",
@@ -349,16 +339,6 @@
         "logo": "https://i.imgur.com/GkSoxhx.png",
         "url": "https://live.obslivestream.com/vivatv/index.m3u8",
         "categories": [],
-        "country": "PE"
-    },
-    {
-        "name": "ATV Sur",
-        "id": "ATVSur.pe",
-        "logo": "https://i.imgur.com/LnyVa5H.png",
-        "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
-        "categories": [
-            "general"
-        ],
         "country": "PE"
     },
     {
@@ -468,32 +448,12 @@
         "country": "PE"
     },
     {
-        "name": "Panc TV Peru",
-        "id": "PancTVPeru.pe",
-        "logo": "https://play-lh.googleusercontent.com/-FVhaeUjvONL49NYdVMchoLXU421387791mp8zZ15JFic_kPyb3vULf86ffIr-NeOg",
-        "url": "https://panel.host-live.com:19360/20000/20000.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Radio Tropical",
         "id": "RadioTropical.pe",
         "logo": "https://i.imgur.com/TBPVOBI.png",
         "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
         "categories": [
             "music"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "RCR",
-        "id": "RCR.pe",
-        "logo": "https://i.imgur.com/A8TRPrF.png",
-        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "PE"
     },
@@ -515,6 +475,24 @@
         "categories": [
             "general"
         ],
+        "country": "PE"
+    },
+    {
+        "name": "RadioTV Oriente",
+        "id": "RadioTVOriente.pe",
+        "logo": "https://i.imgur.com/iHaFLHX.png",
+        "url": "https://live.obslivestream.com/tvoriente/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "RN Television",
+        "id": "RNTelevision.pe",
+        "logo": "https://i.imgur.com/oFGiW7u.png",
+        "url": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
+        "categories": [],
         "country": "PE"
     }
 ]

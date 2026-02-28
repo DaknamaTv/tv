@@ -1,9 +1,39 @@
 [
     {
-        "name": "Pink M",
-        "id": "pinkm",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2uD75zhHi8nF81DKkM7DbUSyOBFT2iFI976uUdoRKEJzgsNw5WzVBRrGRsgCSe7yufI&usqp=CAU",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/267.ts",
+        "name": "CRNA GORA",
+        "id": "crnagora",
+        "logo": "http://zdravavoda.xyz:80/images/Y7zsky1hvrklwOFSXhhZoFWkfAH5rsBc4FwwttO2mw7UWUHvFlYcz4SNWy2N0u20vNzB_VDRP3dBoe_iam4PYPxkSi4sgWQLVP0YOAtmkSg.jpg",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/38216.ts",
+        "categories": [
+            "crna gora"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTCG 2",
+        "id": "rtcg2",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHb0EZBwSXGi1jjy9Ybju8VCIjGL1t74VPO2RrzSSUtNj2bphQSM0Brxb54abG7LnC7ns&usqp=CAU",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/261.ts",
+        "categories": [
+            "crna gora"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Prva TV CG",
+        "id": "prvatvcg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqcfGbPP7nb6z0b6GRdkXgZHgrdAO7eZTwwMpbed_pi2SW4LbIFSMX9VhNQHBMJ9jApRI&usqp=CAU",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/263.ts",
+        "categories": [
+            "crna gora"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Vijesti 24",
+        "id": "vijesti24",
+        "logo": "http://zdravavoda.xyz:80/images/rrSKkmOIP45krMBabgGqYfgjWIWTvqwZmBqoWwvqMbfYEEStIh0uzHw4Uehl9YxDSNt9JDHPiMRgfalvjbmz6pZ5YMNwrcN4ZZ-CYdtYKztEUlDSfQZotmn-AwoZG6DTc18nnqM7nE86SbBt-0vE5LZh3bD2EVJeVodGLJmG85w.jpg",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/265.ts",
         "categories": [
             "crna gora"
         ],

@@ -635,22 +635,622 @@
         "country": "RO"
     },
     {
-        "name": "Euronews Romania",
-        "id": "EuronewsRomania.ro",
-        "logo": "https://i.imgur.com/jUOVUXt.png",
-        "url": "https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Tele7ABC HD",
         "id": "Tele7ABCHD.ro",
         "logo": "https://i.imgur.com/CheqyWH.png",
         "url": "https://live.tele7abc.ro/hls/stream/index.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "TVR 1",
+        "id": "tvr1.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/TVR_1_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634763",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "TVR 2",
+        "id": "tvr2.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/TVR_2_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634764",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "TVR 3",
+        "id": "tvr3.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/TVR_3.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634765",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "TVR HD",
+        "id": "TVRHD.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/TVR_International.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634766",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "EURONEWS",
+        "id": "EURONEWS.ro",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634767",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "ROMANIA TV",
+        "id": "romaniatv.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Romania_TV.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634768",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "ANTENA 1",
+        "id": "antena1.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Antena_1_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634769",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "ANTENA 3",
+        "id": "antena3.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Antena_3_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634771",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "ANTENA STARS",
+        "id": "antenastars.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Antena_Stars_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634773",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "PRO TV HD",
+        "id": "protv.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/PRO_TV_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634775",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "PRO 2",
+        "id": "PRO2.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/PRO_2_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634778",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "DIGI WORLD HD",
+        "id": "digiworld.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634780",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "DIGI LIFE",
+        "id": "digilife.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634781",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "DIGI 24 HD",
+        "id": "digi24.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634783",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "AXN WHITE",
+        "id": "axnwhite.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/AXN_White.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634784",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "AXN ROMANIA",
+        "id": "axn.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/AXN_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634785",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "AXN BLACK",
+        "id": "axnblack.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/AXN_Black.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634786",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "B1 TV",
+        "id": "b1tv.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634787",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "FAVORIT TV",
+        "id": "favorit.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Favorit.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634788",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "HBO HD RO",
+        "id": "hbo.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/HBO_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634790",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "HBO2",
+        "id": "hbo2.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/HBO2_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634791",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "HBO 3 RO",
+        "id": "hbo3.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/HBO3_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634792",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "JIMJAM",
+        "id": "jimjam.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/JimJam.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634795",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "KANAL D",
+        "id": "kanald.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Kanal_D_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634796",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "KISS TV",
+        "id": "kisstv.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Kiss_TV.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634797",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "NATIONAL TV",
+        "id": "nationaltv.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/National_TV.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634799",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "REALITATEA TV",
+        "id": "realitateaplus.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634801",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "TNT RO",
+        "id": "TNTRO.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634803",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "ETNO",
+        "id": "etnotv.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/ETNO.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634806",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "TV PAPRIKA",
+        "id": "TVPAPRIKA.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/TV_Paprika.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634810",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "U TV",
+        "id": "utv.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634812",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "TV 1000",
+        "id": "tv1000.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/TV1000.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634813",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "TLC",
+        "id": "tlc.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/TLC_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634816",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "HAPPY CHANNEL HD",
+        "id": "happychannel.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634818",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "DISNEY CHANNEL",
+        "id": "disneychannel.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Disney_Channel.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634822",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "MINIMAX",
+        "id": "minimax.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Minimax.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634824",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "CINEMAX 2",
+        "id": "cinemax2.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Cinemax_2_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634826",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "CINEMAX",
+        "id": "cinemax.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Cinemax_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634827",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "FILM CAFE",
+        "id": "filmcafe.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634832",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "PRO CINEMA",
+        "id": "procinema.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/PRO_CINEMA_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634834",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "BOLLYWOOD TV",
+        "id": "bollywoodtv.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Bollywood_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634837",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "AMC",
+        "id": "amc.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/AMC.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634838",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "NAT GEO GRAPHIC RO",
+        "id": "nationalgeographic.ro",
+        "logo": "http://vodkom.com:25461/Logo/PICONS/NATIONAL_GEO.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634841",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "NAT GEO WILD HD",
+        "id": "nationalgeographicwild.ro",
+        "logo": "http://vodkom.com:25461/Logo/PICONS/NATIONAL_GEOGRAPHIC_WILD_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634842",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "DISCOVERY CHANNEL",
+        "id": "discoverychannel.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Discovery_Channel_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634846",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "DIGI ANIMAL WORLD",
+        "id": "digianimalworld.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634848",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "VIASAT NATURE",
+        "id": "viasatnature.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Viasat_Nature_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634849",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "VIASAT HISTORY",
+        "id": "viasathistory.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Viasat_History_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634850",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "VIASAT EXPLORE",
+        "id": "viasatexplore.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Viasat_Explore_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634851",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "HISTORY",
+        "id": "history.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/History_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634852",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "HISTORY HD",
+        "id": "HISTORYHD.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/History_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634853",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "TRAVEL CHANNEL",
+        "id": "travelchannel.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Travel_Channel_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634854",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "FISHING & HUNTING",
+        "id": "FISHINGHUNTING.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Fishing_and_Hunting_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634855",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "MUSIC CHANNEL",
+        "id": "musicchannel.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634857",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "DIGI SPORT 1 HD RO",
+        "id": "digisport1.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/DIGI_Sport_1_HD_RO.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634865",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "PRIMA 4K",
+        "id": "prima4k.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634866",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "DIGI SPORT 2 HD RO",
+        "id": "digisport2.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/DIGI_Sport_2.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634870",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "DIGI SPORT 4",
+        "id": "digisport4.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/DIGI_Sport_4.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634873",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "EUROSPORT 1 HD",
+        "id": "eurosport1.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Eurosport_1_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634876",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "EUROSPORT 2 HD",
+        "id": "eurosport2.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/Eurosport_2_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634877",
+        "categories": [
+            "eu romania"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "PRO TV INTERNATIONAL",
+        "id": "protvinternational.ro",
+        "logo": "http://www.vodkom.com:25461/Logo/ROMANIA/",
+        "url": "http://sansat.co:88/02021375753918/8946623682/634879",
+        "categories": [
+            "eu romania"
         ],
         "country": "RO"
     }

@@ -1,29 +1,99 @@
 [
     {
-        "name": "Bravo Music",
-        "id": "bravomusic",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/83/Bravo_Music.png/revision/latest?cb=20210316101750",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/419.ts",
+        "name": "CRO TV ᴴᴰ",
+        "id": "crotv",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6jBKrzKICGG5AmReL9OYpHOQGwQJBXZqdO-y8lwd8dDPXTT2CZtDXweiHh1Ral5G2_k&usqp=CAU",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/38045.ts",
         "categories": [
             "muzika"
         ],
         "country": ""
     },
     {
-        "name": "DM SAT",
-        "id": "dmsat",
-        "logo": "http://zdravavoda.xyz:80/images/e_NMRUR0lcqMa7vbWVHD2Yv1aBsTSZjfhNu2rbsd2szM90KhtbBC5PXik0uGiInXcekHl3jVu4PrqA-LXXqLzw.jpg",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/421.ts",
+        "name": "Croatia Records ᴴᴰ",
+        "id": "croatiarecords",
+        "logo": "http://zdravavoda.xyz:80/images/Bdla5kabdHNgSq9JonCiSHUNFWjsC84_quMBW0Kodbbu_iJIpMaRm8_UThE2G5vbLS0-FtDia030hYoMjRrnbD6Ifw5kZaUC4YUKFmIK0XU.png",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/38042.ts",
         "categories": [
             "muzika"
         ],
         "country": ""
     },
     {
-        "name": "MTV Music",
-        "id": "mtvmusic",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9RgQ7nkOhH2p4sChVOkuv-is5YzGdpeFEH6md-Khe2kcY6B0E3dwQdMWh3dltbSpIGA&usqp=CAU",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/435.ts",
+        "name": "Grand 2",
+        "id": "grand2",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c5/Novi_kanal_grand-2.png/revision/latest?cb=20221130012929",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/423.ts",
+        "categories": [
+            "muzika"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Grand Narodna TV",
+        "id": "grandnarodnatv",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Grand-narodna-televizija.jpg/revision/latest?cb=20221130003330",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/424.ts",
+        "categories": [
+            "muzika"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hayat Music",
+        "id": "hayatmusic",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4VHuKlvZE0NR7ezkymMxMpfILGOv7OWfrNCUK-iDFD9c4gJ2QXXwRJLs7lC6fdg3mij4&usqp=CAU",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/426.ts",
+        "categories": [
+            "muzika"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Imperia TV",
+        "id": "imperiatv",
+        "logo": "https://biznis.ba/wp-content/uploads/2020/10/imperia-tv.jpg?v1601647036",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/429.ts",
+        "categories": [
+            "muzika"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Jugoton",
+        "id": "jugoton",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJ-0lSXjMzqgK_EcyoiOfcqdTCR89edk1q19UbK8Z8nspkGLAc9RlacojqgkNXIy6LD8&usqp=CAU",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/431.ts",
+        "categories": [
+            "muzika"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kafansko Veče",
+        "id": "kafanskovee",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_2M2TBRhX8__Fm9tDHBKAFcffw3WHxmMy0vavXLr77WPQnndrMc1LLQb6MmC0-uSTJo&usqp=CAU",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/38048.ts",
+        "categories": [
+            "muzika"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Toxic Folk",
+        "id": "toxicfolk",
+        "logo": "http://zdravavoda.xyz:80/images/V1DWcSZTfdzEuEzzszyPB_dzynhC9mifp6ILnyuGQy9YTDhrBRWWO6Qh3R5fEsHZgb9M9LA7ar3m0HRILQY52fuPG6c-w4QyW6ySsJ3Izy4.png",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/444.ts",
+        "categories": [
+            "muzika"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Delux Rap",
+        "id": "deluxrap",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIrGStOHNoQLWHwiENHbLAiGIVBjeRw3niA&s",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/72157.ts",
         "categories": [
             "muzika"
         ],

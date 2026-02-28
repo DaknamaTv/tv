@@ -106,16 +106,6 @@
         "country": "BO"
     },
     {
-        "name": "Red TV Shop",
-        "id": "RedTVShop.bo",
-        "logo": "https://i.imgur.com/I7yB176.png",
-        "url": "https://master.tucableip.com/redtvshop/index.m3u8",
-        "categories": [
-            "shop"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "CTV",
         "id": "CTV.bo",
         "logo": "https://i.imgur.com/ljKb0UX.png",
@@ -174,14 +164,6 @@
         "country": "BO"
     },
     {
-        "name": "Cadena A",
-        "id": "CadenaA.bo",
-        "logo": "https://i.imgur.com/BxQPPAA.png",
-        "url": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
-        "categories": [],
-        "country": "BO"
-    },
-    {
         "name": "ATB La Paz",
         "id": "ATBLaPaz.bo",
         "logo": "https://i.imgur.com/E243X2x.png",
@@ -192,15 +174,14 @@
         "country": "BO"
     },
     {
-        "name": "CEACOM TV",
-        "id": "CEACOMTV.bo",
-        "logo": "https://i.imgur.com/hutdRfk.png",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+        "name": "Unifranz",
+        "id": "Unifranz.bo",
+        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
+        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
         "categories": [
-            "news",
-            "lifestyle",
-            "music",
-            "general"
+            "education",
+            "entertainment",
+            "news"
         ],
         "country": "BO"
     }
