@@ -1,25 +1,5 @@
 [
     {
-        "name": "Al Arabiya (1080p)",
-        "id": "alarabiya1080p",
-        "logo": "",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/267203",
-        "categories": [
-            "abu dabi"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Al Arabiya Business (1080p)",
-        "id": "alarabiyabusiness1080p",
-        "logo": "",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/267205",
-        "categories": [
-            "abu dabi"
-        ],
-        "country": ""
-    },
-    {
         "name": "MBC 4 (1080p)",
         "id": "mbc41080p",
         "logo": "",
@@ -30,10 +10,50 @@
         "country": ""
     },
     {
-        "name": "MBC Persia (1080p)",
-        "id": "mbcpersia1080p",
+        "name": "Ajman TV (1080p)",
+        "id": "ajmantv1080p",
         "logo": "",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/267237",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/267202",
+        "categories": [
+            "abu dabi"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fujairah TV (720p)",
+        "id": "fujairahtv720p",
+        "logo": "",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/267226",
+        "categories": [
+            "abu dabi"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MBC 5 (1080p)",
+        "id": "mbc51080p",
+        "logo": "",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/267233",
+        "categories": [
+            "abu dabi"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MBC Iraq (1080p)",
+        "id": "mbciraq1080p",
+        "logo": "",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/267234",
+        "categories": [
+            "abu dabi"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sharjah 2 (1080p)",
+        "id": "sharjah21080p",
+        "logo": "",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/267242",
         "categories": [
             "abu dabi"
         ],

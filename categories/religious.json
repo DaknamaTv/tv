@@ -423,16 +423,6 @@
         "country": "EG"
     },
     {
-        "name": "Huda TV",
-        "id": "HudaTV.eg",
-        "logo": "https://i.imgur.com/1UUjU26.png",
-        "url": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "EG"
-    },
-    {
         "name": "Sat 7 Kids",
         "id": "Sat7Kids.cy",
         "logo": "https://i.imgur.com/M0ik0i2.png",
@@ -671,16 +661,6 @@
         "id": "EBNTelevision.pr",
         "logo": "https://i.imgur.com/4OCptwT.png",
         "url": "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PR"
-    },
-    {
-        "name": "WWXY-DT3",
-        "id": "WWXYDT3.pr",
-        "logo": "https://i.imgur.com/lAhIGsI.png",
-        "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
         "categories": [
             "religious"
         ],
@@ -1666,16 +1646,6 @@
             "religious"
         ],
         "country": "SI"
-    },
-    {
-        "name": "CNA",
-        "id": "CNA.dz",
-        "logo": "https://i.imgur.com/Ki3ySUE.png",
-        "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "DZ"
     },
     {
         "name": "Light Channel",
@@ -2705,6 +2675,16 @@
         "id": "TVMuslimThailand.th",
         "logo": "https://i.imgur.com/aCFpuzW.png",
         "url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "TH"
+    },
+    {
+        "name": "Boonniyom TV",
+        "id": "BoonniyomTV.th",
+        "logo": "https://i.imgur.com/KvdFCD5.png",
+        "url": "https://live.x2.co.th/live/bntv.m3u8",
         "categories": [
             "religious"
         ],
@@ -4648,16 +4628,6 @@
         "id": "SharjahTV.ae",
         "logo": "https://i.imgur.com/Oz2bPOt.png",
         "url": "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "AE"
-    },
-    {
-        "name": "Nour TV",
-        "id": "NourTV.ae",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg",
-        "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
         "categories": [
             "religious"
         ],

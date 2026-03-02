@@ -1,25 +1,5 @@
 [
     {
-        "name": "UNIVISION DALLAS TX HD",
-        "id": "univisiondallastxhd",
-        "logo": "https://i.ibb.co/vP606jW/UNICIS.png",
-        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/22938",
-        "categories": [
-            "→ unimas-univision-galavision ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UNIVISION HOUSTON",
-        "id": "univisionhouston",
-        "logo": "https://i.ibb.co/vP606jW/UNICIS.png",
-        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/22960",
-        "categories": [
-            "→ unimas-univision-galavision ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Galavision Dallas HD",
         "id": "galavisiondallashd",
         "logo": "https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png",
@@ -30,20 +10,50 @@
         "country": ""
     },
     {
-        "name": "UNIVISION ALBUQUERQUE SANTA FE",
-        "id": "univisionalbuquerquesantafe",
-        "logo": "https://i.ibb.co/vP606jW/UNICIS.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/22971",
+        "name": "Galavision Salt Lake (us_lat)",
+        "id": "galavisionsaltlakeuslat",
+        "logo": "http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/23063",
         "categories": [
             "→ unimas-univision-galavision ←"
         ],
         "country": ""
     },
     {
-        "name": "Galavision Salt Lake (us_lat)",
-        "id": "galavisionsaltlakeuslat",
-        "logo": "http://209.126.82.213/LogosP/USA_lat/usalat_galavision.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/23063",
+        "name": "UNIMAS (WFPA-PHILADELPHIA PA)",
+        "id": "unimaswfpaphiladelphiapa",
+        "logo": "https://i.ibb.co/88gkFbH/unias.png",
+        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/22976",
+        "categories": [
+            "→ unimas-univision-galavision ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Univision Boston (WUNI) (us_lat)",
+        "id": "univisionbostonwuniuslat",
+        "logo": "http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png",
+        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/23034",
+        "categories": [
+            "→ unimas-univision-galavision ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Unimas Las Vegas HD",
+        "id": "unimaslasvegashd",
+        "logo": "https://i.ibb.co/88gkFbH/unias.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/22992",
+        "categories": [
+            "→ unimas-univision-galavision ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Univision Atlanta (WUVG) (us_lat)",
+        "id": "univisionatlantawuvguslat",
+        "logo": "http://209.126.82.213/LogosP/USA_lat/usalat_univision_.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/23045",
         "categories": [
             "→ unimas-univision-galavision ←"
         ],

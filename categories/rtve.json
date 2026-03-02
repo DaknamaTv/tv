@@ -70,10 +70,20 @@
         "country": ""
     },
     {
-        "name": "24H DASH",
-        "id": "24hdash",
+        "name": "RTVE CRIMEN DASH",
+        "id": "rtvecrimendash",
         "logo": "https://okdiario.com/img/2023/11/11/rtve-play-635x358.jpg",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/264205",
+        "url": "https://ztnr.rtve.es/ztnr/2472037.m3u8",
+        "categories": [
+            "rtve"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TDP DASH",
+        "id": "tdpdash",
+        "logo": "https://okdiario.com/img/2023/11/11/rtve-play-635x358.jpg",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/264206",
         "categories": [
             "rtve"
         ],

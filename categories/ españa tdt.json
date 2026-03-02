@@ -40,46 +40,6 @@
         "country": ""
     },
     {
-        "name": "ES | LA 2 SD",
-        "id": "esla2sd",
-        "logo": "https://i.ibb.co/QYC7hys/LA2.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/236480",
-        "categories": [
-            "→ españa tdt ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ES | 24 Horas HD",
-        "id": "es24horashd",
-        "logo": "https://i.ibb.co/v4c7N4D/24H.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/236491",
-        "categories": [
-            "→ españa tdt ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ES | BeMad SD",
-        "id": "esbemadsd",
-        "logo": "https://i.ibb.co/PTZdBCn/BEMAD.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/236492",
-        "categories": [
-            "→ españa tdt ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ES | Divinity SD",
-        "id": "esdivinitysd",
-        "logo": "https://i.ibb.co/RSZxkk9/DIVINI.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/236494",
-        "categories": [
-            "→ españa tdt ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "ES | DKiss HD",
         "id": "esdkisshd",
         "logo": "https://i.ibb.co/5xr17yD/DKISS.png",
@@ -90,20 +50,110 @@
         "country": ""
     },
     {
-        "name": "ES | Gol Play HD",
-        "id": "esgolplayhd",
-        "logo": "https://i.ibb.co/chCBk8g/GOL.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/236507",
+        "name": "TV RIOJA HD",
+        "id": "tvriojahd",
+        "logo": "",
+        "url": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/chunklist_w514421644.m3u8",
         "categories": [
             "→ españa tdt ←"
         ],
         "country": ""
     },
     {
-        "name": "ES | PARAMOUNT NETWORK SD",
-        "id": "esparamountnetworksd",
-        "logo": "https://i.ibb.co/XxkQ6w0/PARCH.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/236536",
+        "name": "ES | La 1 HD",
+        "id": "esla1hd",
+        "logo": "https://i.ibb.co/0JKQNsQ/TVE.png",
+        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/236479",
+        "categories": [
+            "→ españa tdt ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES | Energy HD",
+        "id": "esenergyhd",
+        "logo": "https://i.ibb.co/WP34vMP/ENERGY.png",
+        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/236503",
+        "categories": [
+            "→ españa tdt ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES | Neox SD",
+        "id": "esneoxsd",
+        "logo": "https://i.ibb.co/bsDcdxv/NEOX.png",
+        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/236512",
+        "categories": [
+            "→ españa tdt ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES | TEN SD",
+        "id": "estensd",
+        "logo": "https://i.ibb.co/KmYmLS2/TEN.png",
+        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/236518",
+        "categories": [
+            "→ españa tdt ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES | Antena 3 HD",
+        "id": "esantena3hd",
+        "logo": "https://i.ibb.co/sj872F6/A3.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/236483",
+        "categories": [
+            "→ españa tdt ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES | Cuatro SD",
+        "id": "escuatrosd",
+        "logo": "https://i.ibb.co/f16y5Tm/C4.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/236484",
+        "categories": [
+            "→ españa tdt ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES | BeMad HD",
+        "id": "esbemadhd",
+        "logo": "https://i.ibb.co/PTZdBCn/BEMAD.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/236493",
+        "categories": [
+            "→ españa tdt ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES | Neox HD",
+        "id": "esneoxhd",
+        "logo": "https://i.ibb.co/bsDcdxv/NEOX.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/236513",
+        "categories": [
+            "→ españa tdt ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES | Nova SD",
+        "id": "esnovasd",
+        "logo": "https://i.ibb.co/sgS20VF/NOVA.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/236514",
+        "categories": [
+            "→ españa tdt ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES | Trece HD",
+        "id": "estrecehd",
+        "logo": "https://i.ibb.co/8PGGhkG/13TV.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/236520",
         "categories": [
             "→ españa tdt ←"
         ],

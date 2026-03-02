@@ -1564,44 +1564,43 @@
         "country": "IT"
     },
     {
-        "name": "Rai 2",
-        "id": "Rai2.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718",
-        "categories": [],
-        "country": "IT"
-    },
-    {
-        "name": "Rai 4",
-        "id": "Rai4.it",
-        "logo": "https://i.imgur.com/sEY21rg.png",
-        "url": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966",
-        "categories": [],
-        "country": "IT"
-    },
-    {
-        "name": "Rai Movie",
-        "id": "RaiMovie.it",
-        "logo": "https://i.imgur.com/0FjxXU9.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
+        "name": "Peer TV Alto Adige",
+        "id": "PeerTVAltoAdige.it",
+        "logo": "https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",
+        "url": "https://iptv.peer.biz/live/peertv-it.m3u8",
         "categories": [
-            "movies"
+            "outdoor",
+            "travel"
         ],
         "country": "IT"
     },
     {
-        "name": "Rai Premium",
-        "id": "RaiPremium.it",
-        "logo": "https://i.imgur.com/40g5Urz.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992",
-        "categories": [],
+        "name": "Peer TV South Tyrol",
+        "id": "PeerTVSouthTyrol.it",
+        "logo": "https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png",
+        "url": "https://iptv.peer.biz/live/peertv-en.m3u8",
+        "categories": [
+            "outdoor",
+            "travel"
+        ],
         "country": "IT"
     },
     {
-        "name": "Rai Storia",
-        "id": "RaiStoria.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990",
+        "name": "Peer TV Sudtirol",
+        "id": "PeerTVSudtirol.it",
+        "logo": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",
+        "url": "https://iptv.peer.biz/live/peertv.m3u8",
+        "categories": [
+            "outdoor",
+            "travel"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "TeleMia Extra",
+        "id": "TeleMiaExtra.it",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png",
+        "url": "https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8",
         "categories": [],
         "country": "IT"
     }

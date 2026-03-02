@@ -1,1435 +1,5 @@
 [
     {
-        "name": "TVR RENNES",
-        "id": "tvrrennes",
-        "logo": "https://i.ibb.co/3k4Lv34/tvrennes.png",
-        "url": "https://cdn.live.easybroadcast.io/abr_corp/54_tvr_vtucuxt/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ISHTAR ASSYRIAN GLOBAL",
-        "id": "ishtarassyrianglobal",
-        "logo": "https://i.ibb.co/ZNQPS3x/Ishtar.jpg",
-        "url": "https://58cc65c534c67.streamlock.net/agnsat.com/agn2/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MEKAMELEEN",
-        "id": "mekameleen",
-        "logo": "https://i.ibb.co/0mtj39x/Mekameleen.png",
-        "url": "http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BFM TV (backup)",
-        "id": "bfmtvbackup",
-        "logo": "https://i.ibb.co/kckRLh5/bfm.png",
-        "url": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TVE CLAN [geo-restricted]",
-        "id": "tveclangeorestricted",
-        "logo": "https://i.ibb.co/BGy5vM5/clan.jpg",
-        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/clan/clan_main_720.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CGTN BELGESEL",
-        "id": "cgtnbelgesel",
-        "logo": "https://i.ibb.co/s9gLmqv/cgtnch.png",
-        "url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV3 CATALUNYA FAST 2",
-        "id": "tv3catalunyafast2",
-        "logo": "https://i.ibb.co/xmGNS4w/tvcata.jpg",
-        "url": "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AL HIWAR",
-        "id": "alhiwar",
-        "logo": "https://i.ibb.co/Fs6CgPG/Al-Hiwar.png",
-        "url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DRIVE AUTO",
-        "id": "driveauto",
-        "logo": "https://i.ibb.co/Xs1PxZs/driveauto.png",
-        "url": "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BAHRY 1",
-        "id": "bahry1",
-        "logo": "https://i.ibb.co/60rryfmv/bahry.png",
-        "url": "https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "GZT",
-        "id": "gzt",
-        "logo": "https://i.ibb.co/9s9YKYT/gzt.png",
-        "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV NET",
-        "id": "tvnet",
-        "logo": "https://i.ibb.co/1RWhvy4/tvnet.png",
-        "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RÛDAW TV",
-        "id": "rdawtv",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png",
-        "url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AGRO TV",
-        "id": "agrotv",
-        "logo": "https://i.ibb.co/1RnLJpf/agro.png",
-        "url": "https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SKY NEWS ARABIA",
-        "id": "skynewsarabia",
-        "logo": "https://i.ibb.co/dGjByMq/Sky-News-Arabia.png",
-        "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "EXPLORE",
-        "id": "explore",
-        "logo": "https://i.ibb.co/L9fj1Hj/greece.png",
-        "url": "http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "GROOVY TV",
-        "id": "groovytv",
-        "logo": "https://i.ibb.co/1qXMwq2/groovy.png",
-        "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MBC DRAMA USA",
-        "id": "mbcdramausa",
-        "logo": "https://i.ibb.co/2ndSCfQ/mbcdrama0.png",
-        "url": "https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CANAL PARLAMENTO",
-        "id": "canalparlamento",
-        "logo": "https://i.ibb.co/8xh76zN/parl.jpg",
-        "url": "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "LIBYA WATANYA",
-        "id": "libyawatanya",
-        "logo": "https://i.ibb.co/mCBL5fNk/lybiawat.jpg",
-        "url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SCREAM IN",
-        "id": "screamin",
-        "logo": "https://i.ibb.co/0psZzs4S/scream.jpg",
-        "url": "https://amg00711-zylo-amg00711c6-plex-us-935.playouts.now.amagi.tv/zylo-Screamin-lg/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SHARJAH TV SPORTS",
-        "id": "sharjahtvsports",
-        "logo": "https://i.ibb.co/1bpYYZ2/shrspt.png",
-        "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SHARJAH TV",
-        "id": "sharjahtv",
-        "logo": "https://i.ibb.co/nnQnFjg/sharjahtv.png",
-        "url": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VOICE OF LBN",
-        "id": "voiceoflbn",
-        "logo": "https://i.ibb.co/zH7W9tX/volbn.png",
-        "url": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AL SHALLAL",
-        "id": "alshallal",
-        "logo": "https://i.ibb.co/k8Xbs2n/alshallal.jpg",
-        "url": "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CGTN FRANÇAIS",
-        "id": "cgtnfranais",
-        "logo": "https://i.ibb.co/ZgqnqnJ/cgtnfr.png",
-        "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KAB 1",
-        "id": "kab1",
-        "logo": "https://i.ibb.co/qMyBBdb/kab.png",
-        "url": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RESHET 13 רשת (backlink)",
-        "id": "reshet13backlink",
-        "logo": "https://i.ibb.co/MnSQCcr/R1322.jpg",
-        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l38msgjy/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RESHET 13 רשת (backup)",
-        "id": "reshet13backup",
-        "logo": "https://i.ibb.co/MnSQCcr/R1322.jpg",
-        "url": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TVE LA 1",
-        "id": "tvela1",
-        "logo": "https://i.ibb.co/VM5vGBV/la1.jpg",
-        "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "POSTA TV ALANYA",
-        "id": "postatvalanya",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "http://cdn-postatv.yayin.com.tr/postatv/postatv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TOP SCI-FI",
-        "id": "topscifi",
-        "logo": "https://i.ibb.co/dsVjrcPR/topscifi.jpg",
-        "url": "https://amg01796-amg01796c14-samsung-fr-5846.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-topscifi-samsungfr/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "LA 2 CATALUNYA",
-        "id": "la2catalunya",
-        "logo": "https://i.ibb.co/ssGmhbH/la2.jpg",
-        "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CİNE 1 TV",
-        "id": "cne1tv",
-        "logo": "https://i.ibb.co/SnPFhXS/cnee12.png",
-        "url": "http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AFRICANEWS FR",
-        "id": "africanewsfr",
-        "logo": "https://i.ibb.co/XSYtYHZ/africanews.png",
-        "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FRANCE 24 AR (backup)",
-        "id": "france24arbackup",
-        "logo": "https://i.ibb.co/hKP8X8B/f24.png",
-        "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RTVE PLAY CADENA 1",
-        "id": "rtveplaycadena1",
-        "logo": "https://i.ibb.co/SRbKtLk/rtve.png",
-        "url": "https://ztnr.rtve.es/ztnr/6108696.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AL WOUSTA",
-        "id": "alwousta",
-        "logo": "https://i.ibb.co/fFZ3kZj/alwousta.png",
-        "url": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "QURAN RADIOTV SMC",
-        "id": "quranradiotvsmc",
-        "logo": "https://i.ibb.co/2qdGPCh/Sharjahtvquran.png",
-        "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SIC REPLAY",
-        "id": "sicreplay",
-        "logo": "https://i.ibb.co/W2dzvHS/sicreplay.png",
-        "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AL YAUM",
-        "id": "alyaum",
-        "logo": "https://i.ibb.co/2KwY06R/alyaum.png",
-        "url": "https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SIC HD ALTA DEFINIÇÃO",
-        "id": "sichdaltadefinio",
-        "logo": "https://i.ibb.co/M2g53rQ/sichdad.png",
-        "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SYRIA TV 2",
-        "id": "syriatv2",
-        "logo": "https://i.ibb.co/0kQdg9X/syria2.png",
-        "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ON4 TV",
-        "id": "on4tv",
-        "logo": "https://i.ibb.co/6B8M20v/on422.png",
-        "url": "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ROJAVA TV",
-        "id": "rojavatv",
-        "logo": "https://i.ibb.co/cXd3MBV/symkr.png",
-        "url": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FUJAIRAH TV",
-        "id": "fujairahtv",
-        "logo": "https://i.ibb.co/b6ZvV2r/fujairah.png",
-        "url": "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CGTN FRANÇAIS (backup)",
-        "id": "cgtnfranaisbackup",
-        "logo": "https://i.ibb.co/ZgqnqnJ/cgtnfr.png",
-        "url": "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SHARJAH QURAN",
-        "id": "sharjahquran",
-        "logo": "https://i.ibb.co/2qdGPCh/Sharjahtvquran.png",
-        "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "LA 2 CANARIAS",
-        "id": "la2canarias",
-        "logo": "https://i.ibb.co/ssGmhbH/la2.jpg",
-        "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "QURAN KAREEM TV",
-        "id": "qurankareemtv",
-        "logo": "https://i.ibb.co/f0cKj4S/kareem.jpg",
-        "url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SAUDIA THIKRAYAT",
-        "id": "saudiathikrayat",
-        "logo": "https://i.ibb.co/6PH6566/thikrayat.jpg",
-        "url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AL EKHBARIA",
-        "id": "alekhbaria",
-        "logo": "https://i.ibb.co/TkVK043/ekbariya.png",
-        "url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NEWS MAX",
-        "id": "newsmax",
-        "logo": "https://i.ibb.co/yNdTPqt/newsmax.png",
-        "url": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OMAN SPORT",
-        "id": "omansport",
-        "logo": "https://i.ibb.co/GJVSFNt/oman.png",
-        "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OANN",
-        "id": "oann",
-        "logo": "https://i.ibb.co/kX8ywwV/oan.png",
-        "url": "https://oneamericanews-vizio.amagi.tv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DREAM TÜRK",
-        "id": "dreamtrk",
-        "logo": "https://i.ibb.co/4SsJS4R/dreamturk.png",
-        "url": "http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SIC",
-        "id": "sic",
-        "logo": "https://i.ibb.co/6r1xHn6/sic.png",
-        "url": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TEVE 2",
-        "id": "teve2",
-        "logo": "https://i.ibb.co/1Z22dCY/teve2.png",
-        "url": "http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "EURO D",
-        "id": "eurod",
-        "logo": "https://i.ibb.co/THj0Jrg/eurod22.png",
-        "url": "http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TVE INTERNACIONAL (america)",
-        "id": "tveinternacionalamerica",
-        "logo": "https://i.ibb.co/ypn5DBD/tveint.png",
-        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BBC NEWS",
-        "id": "bbcnews",
-        "logo": "https://i.ibb.co/dPmZMqq/bbcn.png",
-        "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "LA 1 CATALUNYA",
-        "id": "la1catalunya",
-        "logo": "https://i.ibb.co/VM5vGBV/la1.jpg",
-        "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TVE CLAN",
-        "id": "tveclan",
-        "logo": "https://i.ibb.co/BGy5vM5/clan.jpg",
-        "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TVG GALICIA EU",
-        "id": "tvggaliciaeu",
-        "logo": "https://i.ibb.co/LtG0fMD/galic.jpg",
-        "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TVE TDP",
-        "id": "tvetdp",
-        "logo": "https://i.ibb.co/D1Djbfj/tdp.jpg",
-        "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OMAN 1",
-        "id": "oman1",
-        "logo": "https://i.ibb.co/GJVSFNt/oman.png",
-        "url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "LA 1 CANARIAS",
-        "id": "la1canarias",
-        "logo": "https://i.ibb.co/VM5vGBV/la1.jpg",
-        "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV LA CAPITALE (CI)",
-        "id": "tvlacapitaleci",
-        "logo": "https://i.ibb.co/rKX3HQNG/afrlog.png",
-        "url": "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BURSA LINE TV",
-        "id": "bursalinetv",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "İÇEL TV MERSİN",
-        "id": "eltvmersn",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RNE PARA TODOS",
-        "id": "rneparatodos",
-        "logo": "https://i.ibb.co/SRbKtLk/rtve.png",
-        "url": "https://ztnr.rtve.es/ztnr/6688753.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MARAYA KIDS SMC",
-        "id": "marayakidssmc",
-        "logo": "https://i.ibb.co/YJxjtKS/maraya.jpg",
-        "url": "https://live.kwikmotion.com/smckidslive/tjkids1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SUPER!",
-        "id": "super",
-        "logo": "https://i.imgur.com/zDByOwo.png",
-        "url": "https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TVE 24 H",
-        "id": "tve24h",
-        "logo": "https://i.ibb.co/fqg1vfr/24h.png",
-        "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TH TÜRK HABER",
-        "id": "thtrkhaber",
-        "logo": "https://i.ibb.co/j9Pmc2qN/thhaber.jpg",
-        "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FUTURE LBN",
-        "id": "futurelbn",
-        "logo": "https://i.ibb.co/ZB8x8TP/futlbn.png",
-        "url": "https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VOA TV",
-        "id": "voatv",
-        "logo": "https://i.ibb.co/17rc425/voa.png",
-        "url": "https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TRACE BRAZUCA",
-        "id": "tracebrazuca",
-        "logo": "https://i.ibb.co/fk0Vttj/tracebraz.png",
-        "url": "https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ALTAS TV ORDU",
-        "id": "altastvordu",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KANAL 32 ISPARTA",
-        "id": "kanal32isparta",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24 H CANARIAS",
-        "id": "24hcanarias",
-        "logo": "https://i.ibb.co/fqg1vfr/24h.png",
-        "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FREE SPEECH TV",
-        "id": "freespeechtv",
-        "logo": "https://i.ibb.co/W6TrwQx/freespech.png",
-        "url": "https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ROTANA KHALIJA",
-        "id": "rotanakhalija",
-        "logo": "https://i.ibb.co/5sJ9vSJ/rotanakhalijia.png",
-        "url": "https://shls-masr2-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AKİT TV",
-        "id": "akttv",
-        "logo": "https://i.ibb.co/B4XX5Vx/akittv.png",
-        "url": "http://akittv-live.ercdn.net/akittv/akittv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ÇAY TV RİZE",
-        "id": "aytvrze",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RTNC (CD)",
-        "id": "rtnccd",
-        "logo": "https://i.ibb.co/rKX3HQNG/afrlog.png",
-        "url": "https://tnt-television.com/rtnc_HD/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PAYVAND",
-        "id": "payvand",
-        "logo": "https://i.ibb.co/tqkV2sn/irflag.png",
-        "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KANAL AVRUPA",
-        "id": "kanalavrupa",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SHELANU GOD-IL",
-        "id": "shelanugodil",
-        "logo": "https://i.ibb.co/tMm7vdM/shelanug.jpg",
-        "url": "https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TRACE URBAN",
-        "id": "traceurban",
-        "logo": "https://i.ibb.co/2hgmDs6/traceurb.png",
-        "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO 24 ORE LIVE TV",
-        "id": "radio24orelivetv",
-        "logo": "https://i.ibb.co/VppqZ2GD/24ore.png",
-        "url": "https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ANRENNA 2 BERGAMO",
-        "id": "anrenna2bergamo",
-        "logo": "https://i.imgur.com/NfvHIAw.png",
-        "url": "https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BLOOMBERG HT (backup)",
-        "id": "bloomberghtbackup",
-        "logo": "https://i.ibb.co/HXKrJRC/blght22.png",
-        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SAUDIA TV CH 1",
-        "id": "saudiatvch1",
-        "logo": "https://i.ibb.co/qNXgWyZ/sauditv.jpg",
-        "url": "https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sensical Makers",
-        "id": "sensicalmakers",
-        "logo": "",
-        "url": "https://sensical5up-oando.amagi.tv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BLOOMBERG US",
-        "id": "bloombergus",
-        "logo": "https://i.ibb.co/Nn5x9Hq/bloom.jpg",
-        "url": "https://www.bloomberg.com/media-manifest/streams/us-event.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BLOOMBERG EU",
-        "id": "bloombergeu",
-        "logo": "https://i.ibb.co/Nn5x9Hq/bloom.jpg",
-        "url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CINÉ NANAR",
-        "id": "cinnanar",
-        "logo": "https://i.ibb.co/02pwsTj/cinenanar.png",
-        "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CNBC NEWS",
-        "id": "cnbcnews",
-        "logo": "https://i.ibb.co/FxZYHhM/cnbc.jpg",
-        "url": "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-lggb/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO CONTACT LIVE TV",
-        "id": "radiocontactlivetv",
-        "logo": "https://i.ibb.co/9HBg0Bs1/rdcontact.jpg",
-        "url": "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BLOOMBERG ORIGINALS",
-        "id": "bloombergoriginals",
-        "logo": "https://i.ibb.co/Nn5x9Hq/bloom.jpg",
-        "url": "https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HR DE",
-        "id": "hrde",
-        "logo": "https://i.ibb.co/JnYMnfw/hrde.png",
-        "url": "https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RTL TVI",
-        "id": "rtltvi",
-        "logo": "https://i.ibb.co/kKMpCzz/rtltvi.png",
-        "url": "https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SPACE TOON",
-        "id": "spacetoon",
-        "logo": "https://i.ibb.co/QFvZPd9/spacetoon.png",
-        "url": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AL HAYAT",
-        "id": "alhayat",
-        "logo": "https://i.ibb.co/KjSRycnm/alhayat.png",
-        "url": "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "EURONEWS FR",
-        "id": "euronewsfr",
-        "logo": "https://i.ibb.co/VxLFYSj/euronews.png",
-        "url": "https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RMC TALK INFO",
-        "id": "rmctalkinfo",
-        "logo": "https://i.ibb.co/k4Bs0Cj/rmcti.jpg",
-        "url": "https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "LE FIGARO LIVE",
-        "id": "lefigarolive",
-        "logo": "https://i.ibb.co/hcPj99k/fgro.png",
-        "url": "https://d1gsfjwktnstnw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46esn6i995lvi/LeFigaroTV_FR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BLOOMBERG FR",
-        "id": "bloombergfr",
-        "logo": "https://i.ibb.co/Nn5x9Hq/bloom.jpg",
-        "url": "https://995e2d68.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9CbG9vbWJlcmdUVkZyYW5jZV9ITFM/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV5MONDE INFO (backup)",
-        "id": "tv5mondeinfobackup",
-        "logo": "https://i.ibb.co/drk4BWw/tv5inf.png",
-        "url": "https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u7sgewc3l8ri/tvfm.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RMC STORY",
-        "id": "rmcstory",
-        "logo": "https://i.ibb.co/fdYg3Lz/rmcstory.png",
-        "url": "https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RMC DÉCOUVERTE",
-        "id": "rmcdcouverte",
-        "logo": "https://i.ibb.co/VS4xR2g/rmcdecou.png",
-        "url": "https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RMC LIFE",
-        "id": "rmclife",
-        "logo": "https://i.ibb.co/hRCWKTBL/Rmclife.png",
-        "url": "https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CLUBBING TV",
-        "id": "clubbingtv",
-        "logo": "https://i.ibb.co/M5P1TMG/clubbing.png",
-        "url": "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VEVO 90 00",
-        "id": "vevo9000",
-        "logo": "https://i.ibb.co/3CtD77v/vevo90.png",
-        "url": "https://d1f0sy6q94jy8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-emgxxi50294g2/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "JUNIORS",
-        "id": "juniors",
-        "logo": "https://i.ibb.co/0jSZKkmM/junifr.png",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17flivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TEENS",
-        "id": "teens",
-        "logo": "https://i.ibb.co/3mx8Hw9j/teefr.png",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "POPCORN",
-        "id": "popcorn",
-        "logo": "https://i.ibb.co/spnvQmbV/popcorn.png",
-        "url": "http://dyc8bdiow0oz1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/85ac8883-2de0-4285-8f27-9d97857c45ad/0.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DESTINATION NATURE",
-        "id": "destinationnature",
-        "logo": "https://i.ibb.co/Qv1tzH0W/destnat.png",
-        "url": "https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/DestinationNature_FR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV5MONDE+ CHEFS",
-        "id": "tv5mondechefs",
-        "logo": "https://i.ibb.co/rRzQ2yBw/Tv5m-cf.png",
-        "url": "https://d17g2p9a7he1mu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4dzadk8a25ad/tv5ch.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RMC MYSTÈRE",
-        "id": "rmcmystre",
-        "logo": "https://i.ibb.co/VpvbTn4/rmcmyst.jpg",
-        "url": "https://d2mey07nrym09f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zzv8u40ihzmq2/RMC_MYSTERE_FR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RMC MECANIC",
-        "id": "rmcmecanic",
-        "logo": "https://i.ibb.co/c3ZRH8G/rmcmeca.jpg",
-        "url": "https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RMC ALERTE SECOURS",
-        "id": "rmcalertesecours",
-        "logo": "https://i.ibb.co/tpy1mKV/rmcalertes.jpg",
-        "url": "https://d18py9aevgxe9g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7m4nvp688td5a/RMC_alerte_secours_FR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "L'ÉQUIPE LIVE 2",
-        "id": "lquipelive2",
-        "logo": "https://i.ibb.co/cXRbJz4/eqps.png",
-        "url": "https://d2sfyr4abdyf7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d5yhiqv8rl7x3/Lequipe2_FR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AFTERFOOT RMC-BFM",
-        "id": "afterfootrmcbfm",
-        "logo": "https://i.ibb.co/Xdqd4cT/afterfootrmc.jpg",
-        "url": "https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MGG E-SPORT",
-        "id": "mggesport",
-        "logo": "https://i.ibb.co/kDmhscZ/mgg.png",
-        "url": "https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FIFA+ FR",
-        "id": "fifafr",
-        "logo": "https://i.ibb.co/hFf6hc4T/fifaplus.jpg",
-        "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MOTORVISION FR",
-        "id": "motorvisionfr",
-        "logo": "https://i.ibb.co/0YKFn02/motorvisionfrs.png",
-        "url": "https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MOTORVISION TV",
-        "id": "motorvisiontv",
-        "logo": "https://i.ibb.co/0sdMx5Z/mtrvsn.png",
-        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RAKUTEN TOP FILMS",
-        "id": "rakutentopfilms",
-        "logo": "https://i.ibb.co/3v8W06Q/rakutenfilms.png",
-        "url": "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RAKUTEN ACTION FILMS",
-        "id": "rakutenactionfilms",
-        "logo": "https://i.ibb.co/3v8W06Q/rakutenfilms.png",
-        "url": "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RAKUTEN COMEDY FILMS",
-        "id": "rakutencomedyfilms",
-        "logo": "https://i.ibb.co/3v8W06Q/rakutenfilms.png",
-        "url": "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RAKUTEN DRAMA FILMS",
-        "id": "rakutendramafilms",
-        "logo": "https://i.ibb.co/3v8W06Q/rakutenfilms.png",
-        "url": "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BREF CINÉ",
-        "id": "brefcin",
-        "logo": "https://i.ibb.co/yhRGCbH/Brefcin.png",
-        "url": "https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ACTION TOTALE ADRÉNALINE",
-        "id": "actiontotaleadrnaline",
-        "logo": "https://i.ibb.co/8gYhv2YT/Acttotadr.png",
-        "url": "https://d34e8uj4fi4k3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-css3dozxusykg/live/fast-channel-100adrenaline-cfcb8564/fast-channel-100adrenaline-cfcb8564.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ZEE ONE FR",
-        "id": "zeeonefr",
-        "logo": "https://i.ibb.co/0VGrLr4c/zeeone.png",
-        "url": "https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TRT BELGESEL (backup)",
-        "id": "trtbelgeselbackup",
-        "logo": "https://i.ibb.co/N1h8m96/trtbelgesel.png",
-        "url": "https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VAV TV AILE",
-        "id": "vavtvaile",
-        "logo": "https://i.ibb.co/bj1H8LCm/vavtv.png",
-        "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist/0.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VAV TV ISLAM",
-        "id": "vavtvislam",
-        "logo": "https://i.ibb.co/bj1H8LCm/vavtv.png",
-        "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/islamtv/playlist/0.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VAV TV ILMIHAL",
-        "id": "vavtvilmihal",
-        "logo": "https://i.ibb.co/bj1H8LCm/vavtv.png",
-        "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilm-tv/playlist/0.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VAV TV KURANI KERIM",
-        "id": "vavtvkuranikerim",
-        "logo": "https://i.ibb.co/bj1H8LCm/vavtv.png",
-        "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kurani-kerim-dersleri-tv/playlist/0.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VAV TV KULTUR SANAT",
-        "id": "vavtvkultursanat",
-        "logo": "https://i.ibb.co/bj1H8LCm/vavtv.png",
-        "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VAV TV MUKABELE",
-        "id": "vavtvmukabele",
-        "logo": "https://i.ibb.co/bj1H8LCm/vavtv.png",
-        "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist/0.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "VAV TV BELGESEL",
         "id": "vavtvbelgesel",
         "logo": "https://i.ibb.co/bj1H8LCm/vavtv.png",
@@ -7320,16 +5890,6 @@
         "country": ""
     },
     {
-        "name": "UK Sky Cinema Scifi & Horror FHD",
-        "id": "ukskycinemascifihorrorfhd",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/35248",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "US CHARGE!",
         "id": "uscharge",
         "logo": "",
@@ -7410,16 +5970,6 @@
         "country": ""
     },
     {
-        "name": "US Syfy (East)",
-        "id": "ussyfyeast",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/46685",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "US TNT (West)",
         "id": "ustntwest",
         "logo": "",
@@ -7454,16 +6004,6 @@
         "id": "usworldfishingnetworkf",
         "logo": "",
         "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/10477",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KTRS",
-        "id": "ktrs",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/87344",
         "categories": [
             "general"
         ],
@@ -7520,26 +6060,6 @@
         "country": ""
     },
     {
-        "name": "KMRO",
-        "id": "kmro",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/87572",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KHRK",
-        "id": "khrk",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/87581",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "cpr2_lo",
         "id": "cpr2lo",
         "logo": "",
@@ -7554,16 +6074,6 @@
         "id": "wmxtfmaacsc",
         "logo": "",
         "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/87742",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WAMU2",
-        "id": "wamu2",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/88002",
         "categories": [
             "general"
         ],
@@ -7590,30 +6100,10 @@
         "country": ""
     },
     {
-        "name": "WKIT",
-        "id": "wkit",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/88210",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "WSTOFMAAC_SC",
         "id": "wstofmaacsc",
         "logo": "",
         "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/88597",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WTFM",
-        "id": "wtfm",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/88633",
         "categories": [
             "general"
         ],
@@ -7674,16 +6164,6 @@
         "id": "hymns",
         "logo": "",
         "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/93886",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KVTA",
-        "id": "kvta",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/93894",
         "categories": [
             "general"
         ],
@@ -8080,16 +6560,6 @@
         "country": ""
     },
     {
-        "name": "US NBC (KSNV) Las Vegas",
-        "id": "usnbcksnvlasvegas",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/120743",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "US NBC (WKYC) HD",
         "id": "usnbcwkychd",
         "logo": "",
@@ -8104,16 +6574,6 @@
         "id": "nbcohtoledownwo",
         "logo": "",
         "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/120763",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NBC: TN KNOXVILLE WBIR",
-        "id": "nbctnknoxvillewbir",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/120795",
         "categories": [
             "general"
         ],
@@ -8160,26 +6620,6 @@
         "country": ""
     },
     {
-        "name": "ABC Phoenix KNXV",
-        "id": "abcphoenixknxv",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/120861",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CW (KNVA)",
-        "id": "uscwknva",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/120885",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "US CW (WUCW) (SP)",
         "id": "uscwwucwsp",
         "logo": "",
@@ -8204,56 +6644,6 @@
         "id": "ustruecrimenetworkkare",
         "logo": "",
         "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/121130",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US FOX 5 (WAGA) Atlanta",
-        "id": "usfox5wagaatlanta",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/121135",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC 2 (WESH) ORLANDO",
-        "id": "usnbc2weshorlando",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/121147",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC 15 (WPMI) Alabama (H)",
-        "id": "usnbc15wpmialabamah",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/121155",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FOX: NASHVILLE TN WZTV",
-        "id": "foxnashvilletnwztv",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/121164",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CW 19 (WPCW) Pittsburgh",
-        "id": "uscw19wpcwpittsburgh",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/121170",
         "categories": [
             "general"
         ],
@@ -8290,16 +6680,6 @@
         "country": ""
     },
     {
-        "name": "US CBS (WKYT) Lexington",
-        "id": "uscbswkytlexington",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/122007",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "US WGN 9 (WGNDT) Chicago",
         "id": "uswgn9wgndtchicago",
         "logo": "",
@@ -8310,30 +6690,10 @@
         "country": ""
     },
     {
-        "name": "US abc36 (WTVQ) Lexington",
-        "id": "usabc36wtvqlexington",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/125674",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "24/7 SEX IN THE CITY",
         "id": "247sexinthecity",
         "logo": "",
         "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/125972",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US (FD) Military History",
-        "id": "usfdmilitaryhistory",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/134832",
         "categories": [
             "general"
         ],
@@ -8370,16 +6730,6 @@
         "country": ""
     },
     {
-        "name": "US CBS 7 (WNCN) Raleigh/Durham",
-        "id": "uscbs7wncnraleighdurham",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/140820",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "US PBS (WNET) NY | New York (D)",
         "id": "uspbswnetnynewyorkd",
         "logo": "",
@@ -8390,30 +6740,10 @@
         "country": ""
     },
     {
-        "name": "USA: NFL NETWORK (2)",
-        "id": "usanflnetwork2",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/159117",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: FRANCE 3 FHD",
         "id": "frfrance3fhd",
         "logo": "",
         "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/160298",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CHILE: 13I",
-        "id": "chile13i",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/164885",
         "categories": [
             "general"
         ],
@@ -8440,30 +6770,10 @@
         "country": ""
     },
     {
-        "name": "US FOX 17 (KDSM) Des Moines",
-        "id": "usfox17kdsmdesmoines",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/171157",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "IT: LA 5",
         "id": "itla5",
         "logo": "",
         "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/212911",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Alien",
-        "id": "m4alien",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/215271",
         "categories": [
             "general"
         ],
@@ -8490,16 +6800,6 @@
         "country": ""
     },
     {
-        "name": "M4: Horror",
-        "id": "m4horror",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/215293",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "M4: Robot",
         "id": "m4robot",
         "logo": "",
@@ -8520,40 +6820,10 @@
         "country": ""
     },
     {
-        "name": "M4: Jason Statham",
-        "id": "m4jasonstatham",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/215379",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Kevin Hart",
-        "id": "m4kevinhart",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/215380",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "M4: Denzel Washington",
         "id": "m4denzelwashington",
         "logo": "",
         "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/215393",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Keira Knightley",
-        "id": "m4keiraknightley",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/215406",
         "categories": [
             "general"
         ],
@@ -8580,50 +6850,10 @@
         "country": ""
     },
     {
-        "name": "(TR-R) Easyland",
-        "id": "trreasyland",
-        "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/134086",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "(TR-R) TURKCENIN SESRADYOSU",
-        "id": "trrturkceninsesradyosu",
-        "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/166759",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: 1LIVE",
         "id": "de1live",
         "logo": "",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/461558",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: BAYERN 1",
-        "id": "debayern1",
-        "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/461585",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: HR3",
-        "id": "dehr3",
-        "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/461586",
         "categories": [
             "general"
         ],
@@ -8650,16 +6880,6 @@
         "country": ""
     },
     {
-        "name": "DE: SUNSHINE LIVE",
-        "id": "desunshinelive",
-        "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/461576",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: RTL",
         "id": "frrtl",
         "logo": "",
@@ -8670,70 +6890,1070 @@
         "country": ""
     },
     {
-        "name": "FR: EUROPE 1",
-        "id": "freurope1",
+        "name": "Game Of Thrones",
+        "id": "gameofthrones",
         "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/461660",
+        "url": "http://tv70.icu:8080/tXXe6C/428378/66318",
         "categories": [
             "general"
         ],
         "country": ""
     },
     {
-        "name": "FR: FRANCE INFO FM",
-        "id": "frfranceinfofm",
-        "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/461658",
+        "name": "PAL TV",
+        "id": "paltv",
+        "logo": "https://i.ibb.co/TMFyykR/paltv.png",
+        "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
         "categories": [
             "general"
         ],
         "country": ""
     },
     {
-        "name": "(TR-R) PAL STATION",
-        "id": "trrpalstation",
+        "name": "TELEAMIGA",
+        "id": "teleamiga",
         "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/134896",
+        "url": "http://177.93.46.178:8001/play/a06t/index.m3u8",
         "categories": [
             "general"
         ],
         "country": ""
     },
     {
-        "name": "(TR-R) Doksanlar",
-        "id": "trrdoksanlar",
+        "name": "US HDNET MOVIES",
+        "id": "ushdnetmovies",
         "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/134077",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/16265",
         "categories": [
             "general"
         ],
         "country": ""
     },
     {
-        "name": "(TR-R) Greekland",
-        "id": "trrgreekland",
+        "name": "WQUTFMAAC_SC",
+        "id": "wqutfmaacsc",
         "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/134070",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/87642",
         "categories": [
             "general"
         ],
         "country": ""
     },
     {
-        "name": "(TR-R) SLOW RADYO",
-        "id": "trrslowradyo",
+        "name": "omagic",
+        "id": "omagic",
         "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/166826",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/88181",
         "categories": [
             "general"
         ],
         "country": ""
     },
     {
-        "name": "(TR-R) SLOWTURK2",
-        "id": "trrslowturk2",
+        "name": "Radio80",
+        "id": "radio80",
         "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/166825",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/94167",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA (FR) CASA SD (P)",
+        "id": "cafrcasasdp",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/116948",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CINEBOX: COMEDY",
+        "id": "cineboxcomedy",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/119423",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CBS: CA SAN FRANCISCO KPIX",
+        "id": "cbscasanfranciscokpix",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120657",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX: LOUISVILLE KY WDRB",
+        "id": "foxlouisvillekywdrb",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120696",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: ABC LAS VEGAS (KTNV)",
+        "id": "usaabclasvegasktnv",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120866",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC: BATON ROUGE WBRZ",
+        "id": "abcbatonrougewbrz",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/120868",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (WRDW) Augusta (F)",
+        "id": "uscbswrdwaugustaf",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/122273",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS 4 (WTVY) Dothan (H)",
+        "id": "uscbs4wtvydothanh",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/122275",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US abc25 (WOLO) Columbia",
+        "id": "usabc25wolocolumbia",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/125633",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (KFVS) Cape Girardeau (F)",
+        "id": "uscbskfvscapegirardeauf",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/136883",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: AB3 HD",
+        "id": "frab3hd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/160302",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX 6 (WITI) Milwaukee",
+        "id": "usfox6witimilwaukee",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/161142",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: NOS STUDIOS FHD",
+        "id": "ptnosstudiosfhd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/164811",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG: CINE ARGENTINO",
+        "id": "argcineargentino",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/164871",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "URU: CANAL 10 SAETA HD",
+        "id": "urucanal10saetahd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/164917",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: SPORT TV 1 FHD",
+        "id": "ptsporttv1fhd",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/167742",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US (LN) HBCU Go",
+        "id": "uslnhbcugo",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/209775",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Adam Sandler",
+        "id": "m4adamsandler",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/215373",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Daniel Craig",
+        "id": "m4danielcraig",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/215375",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC 17 (KGET) Bakersfield",
+        "id": "usnbc17kgetbakersfield",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/216551",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KS",
+        "id": "ks",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/216553",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CW 43 (WUAB) Cleveland",
+        "id": "uscw43wuabcleveland",
+        "logo": "",
+        "url": "http://1tvnow.icu:8080/3052056980/igc69@aol.com/216585",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CBC Charlottetown HD (D)",
+        "id": "cacbccharlottetownhdd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/57382",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV CALGARY (E)",
+        "id": "cactvcalgarye",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/57964",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV Kitchener",
+        "id": "cactvkitchener",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/58557",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV2 Windsor HD (B)",
+        "id": "cactv2windsorhdb",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/77165",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Discovery Family",
+        "id": "usdiscoveryfamily",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/57347",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: MOVIETIME HD",
+        "id": "camovietimehd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/47331",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: PBS HD",
+        "id": "capbshd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/57276",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Sportsnet 360 (HD)",
+        "id": "casportsnet360hd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/57299",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: TFO  (FR)",
+        "id": "catfofr",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/57291",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Christian Hardrock Radio",
+        "id": "christianhardrockradio",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/17864",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FunX HipHop",
+        "id": "funxhiphop",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/14709",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FunX Latin [Opt-2]",
+        "id": "funxlatinopt2",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/14711",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nova 106.9 Brisbane",
+        "id": "nova1069brisbane",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/14683",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Roots",
+        "id": "roots",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/17821",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Reggae Jam",
+        "id": "reggaejam",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/14661",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: SKY SP RACING FHD",
+        "id": "ukskyspracingfhd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/76842",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US ACC Network (A)",
+        "id": "usaccnetworka",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/9273",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US BET (East)",
+        "id": "usbeteast",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/13702",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: CMT",
+        "id": "usacmt",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/46706",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CNBC",
+        "id": "uscnbc",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/9815",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US GetTV",
+        "id": "usgettv",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/18366",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US HGTV (East)",
+        "id": "ushgtveast",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/46717",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US HLN",
+        "id": "ushln",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/17748",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MeTV Network East",
+        "id": "usmetvnetworkeast",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/16149",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SOH_32K",
+        "id": "soh32k",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/87373",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "listen",
+        "id": "listen",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/87403",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KLOBFMAAC_SC",
+        "id": "klobfmaacsc",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/87474",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "wclv.mp3",
+        "id": "wclvmp3",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/87535",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Classical_128",
+        "id": "classical128",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/88342",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "kuvo-aac-64",
+        "id": "kuvoaac64",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/88416",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "stream11",
+        "id": "stream11",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/88501",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MelodiaFM_Romantic",
+        "id": "melodiafmromantic",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/88647",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "tkdisco?mp=/stream/",
+        "id": "tkdiscompstream",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/88757",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "clrs",
+        "id": "clrs",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/88777",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "live-128k-mp3",
+        "id": "live128kmp3",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/93958",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio2",
+        "id": "radio2",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/94384",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FanDuel Sports Sun",
+        "id": "usfanduelsportssun",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/104917",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DOCUBOX: ALL DOCUMENTERY",
+        "id": "docuboxalldocumentery",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/119439",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: MS JACKSON WLBT",
+        "id": "nbcmsjacksonwlbt",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/120731",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: NC RALEIGH WRAL",
+        "id": "nbcncraleighwral",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/120736",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX 24 (WTAT) Charleston",
+        "id": "usfox24wtatcharleston",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/120782",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "VN HTV1 HD",
+        "id": "vnhtv1hd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/121042",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS 5 (WCSC) Charleston",
+        "id": "uscbs5wcsccharleston",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/122058",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Asian (Hindi) SAB TV (S)",
+        "id": "usasianhindisabtvs",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/125809",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "F1TV: F1-TV FHD",
+        "id": "f1tvf1tvfhd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/125947",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA One Soccer",
+        "id": "caonesoccer",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/135810",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: CSPAN FHD",
+        "id": "uscspanfhd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/136589",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global Monterial News (E)",
+        "id": "caglobalmonterialnewse",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/136641",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC: CHATTANOOGA WTVC",
+        "id": "abcchattanoogawtvc",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/136741",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (WSPA) HD",
+        "id": "uscbswspahd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/137048",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "LOC | NBC | KWWL WATERLOO-IOWA",
+        "id": "locnbckwwlwaterlooiowa",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/140899",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE+ FAMIZ FHD",
+        "id": "frcinefamizfhd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/160308",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX (KVRR) Fargo (F)",
+        "id": "usfoxkvrrfargof",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/160733",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NESN PLUS",
+        "id": "usnesnplus",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/161451",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: HOLLYWOOD FHD",
+        "id": "pthollywoodfhd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/164813",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BR: AMC HD",
+        "id": "bramchd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/164938",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC 13 (WHO) Des Moines (A)",
+        "id": "usnbc13whodesmoinesa",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/171158",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WALB) Albany (F)",
+        "id": "usnbcwalbalbanyf",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/173119",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA HPItv East HD",
+        "id": "cahpitveasthd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/173131",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MY 9 (WWOR) New York",
+        "id": "usmy9wwornewyork",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/176368",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RAI YOYO",
+        "id": "itraiyoyo",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/212926",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: History",
+        "id": "m4history",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/215292",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: James Bond (007)",
+        "id": "m4jamesbond007",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/215296",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Space",
+        "id": "m4space",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/215320",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Thriller",
+        "id": "m4thriller",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/215340",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Dwayne Johnson",
+        "id": "m4dwaynejohnson",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/215376",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: Anne Hathaway",
+        "id": "m4annehathaway",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/215385",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX 34 (KJTV) Lubbock/Texas",
+        "id": "usfox34kjtvlubbocktexas",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/216132",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS 12 (KWCH) Hutchinson (H)",
+        "id": "uscbs12kwchhutchinsonh",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/216584",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MI | Kalamazoo | CBS WWMT",
+        "id": "mikalamazoocbswwmt",
+        "logo": "",
+        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/221616",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: 2000S",
+        "id": "de2000s",
+        "logo": "",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/461557",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SWR1 RP",
+        "id": "deswr1rp",
+        "logo": "",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/461568",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: SKYROCK",
+        "id": "frskyrock",
+        "logo": "",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/461664",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "(TR-R) AVRASYA RADYO",
+        "id": "trravrasyaradyo",
+        "logo": "",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/167393",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "(TR-R) Popland",
+        "id": "trrpopland",
+        "logo": "",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/134078",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "(NO-Radio) NRK P4",
+        "id": "noradionrkp4",
+        "logo": "http://sltv-icon.cms-s.com/logo/sweden2/nrkradio.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/33749",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MT: ONE RADIO",
+        "id": "mtoneradio",
+        "logo": "",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/179409",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Mis dos amores (1938)",
+        "id": "misdosamores1938",
+        "logo": "",
+        "url": "http://ultrapremium.cloud:8080/movie/961764347tv1/ji847xwg/264134.m3u8",
         "categories": [
             "general"
         ],
@@ -8780,40 +8000,10 @@
         "country": ""
     },
     {
-        "name": "suburbsofgoa-128-mp3",
-        "id": "suburbsofgoa128mp3",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/93853",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "1708_64",
-        "id": "170864",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/93890",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "Radio50",
         "id": "radio50",
         "logo": "",
         "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/94255",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "5200_48",
-        "id": "520048",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/87380",
         "categories": [
             "live radio"
         ],
@@ -8860,220 +8050,10 @@
         "country": ""
     },
     {
-        "name": "KPAMAMAAC_SC",
-        "id": "kpamamaacsc",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/87420",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MIX1029",
-        "id": "mix1029",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/87546",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": ";stream.mp3?sid=2",
-        "id": "streammp3sid2",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/87658",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "kwpzaacp",
-        "id": "kwpzaacp",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/87660",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "wshu-baroque",
-        "id": "wshubaroque",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/87665",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "5119_48",
-        "id": "511948",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/87671",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "english-aac",
-        "id": "englishaac",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/87778",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "APS Radio Classical",
-        "id": "apsradioclassical",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/87932",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "secretagent-128-mp3",
-        "id": "secretagent128mp3",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/87978",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "wcvofm.mp3",
-        "id": "wcvofmmp3",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88011",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WPLMFM_SC",
-        "id": "wplmfmsc",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88014",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "1",
-        "id": "1",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88051",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "5138_128",
-        "id": "5138128",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88073",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "wfae1",
         "id": "wfae1",
         "logo": "",
         "url": "http://fortv.cc:8080/Archie100/MrArchie/88084",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "stream03",
-        "id": "stream03",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88105",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "wwhm.aac",
-        "id": "wwhmaac",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88112",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "4r73usts108uv?rj-ttl=5&rj-tok=AAABex_cRbcAHuhEe0ncIxmSPg",
-        "id": "4r73usts108uvrjttl5rjtokaaabexcrbcahuhee0ncixmspg",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88295",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WMXI",
-        "id": "wmxi",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88319",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "5184_48",
-        "id": "518448",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88360",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": ";stream.mp3",
-        "id": "streammp3",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88426",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KRMP_MP3",
-        "id": "krmpmp3",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88451",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "folkalley-128mp3",
-        "id": "folkalley128mp3",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88500",
         "categories": [
             "live radio"
         ],
@@ -9090,40 +8070,10 @@
         "country": ""
     },
     {
-        "name": "KTSEFMAAC_SC",
-        "id": "ktsefmaacsc",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88510",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SUNRADIO",
-        "id": "sunradio",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/88691",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "WUCF",
         "id": "wucf",
         "logo": "",
         "url": "http://fortv.cc:8080/Archie100/MrArchie/88768",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WBMW_MP3",
-        "id": "wbmwmp3",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/93850",
         "categories": [
             "live radio"
         ],
@@ -9140,120 +8090,510 @@
         "country": ""
     },
     {
-        "name": "KRVV",
-        "id": "krvv",
+        "name": "irish-128mp3",
+        "id": "irish128mp3",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/93857",
+        "url": "http://mytvstream.net:8080/b3Bg9B/358847/87393",
         "categories": [
             "live radio"
         ],
         "country": ""
     },
     {
-        "name": ";?nocache=1604442609&type=http",
-        "id": "nocache1604442609typehttp",
+        "name": "wers",
+        "id": "wers",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/93934",
+        "url": "http://tvscreen.icu:8080/5199997801/ianlloydw@gmail.com/93836",
         "categories": [
             "live radio"
         ],
         "country": ""
     },
     {
-        "name": "100-PROGRESSIVEROCK",
-        "id": "100progressiverock",
+        "name": "wdnyfm-proc.mp3",
+        "id": "wdnyfmprocmp3",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/94096",
+        "url": "http://nocable.cc:8080/37ccEK/176337/87698",
         "categories": [
             "live radio"
         ],
         "country": ""
     },
     {
-        "name": "Radio73",
-        "id": "radio73",
+        "name": "a07058",
+        "id": "a07058",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/94175",
+        "url": "http://nocable.cc:8080/37ccEK/176337/87859",
         "categories": [
             "live radio"
         ],
         "country": ""
     },
     {
-        "name": "Radio72",
-        "id": "radio72",
+        "name": "stream",
+        "id": "stream",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/94177",
+        "url": "http://nocable.cc:8080/37ccEK/176337/87863",
         "categories": [
             "live radio"
         ],
         "country": ""
     },
     {
-        "name": "Radio64",
-        "id": "radio64",
+        "name": "KRXOHD2AAC_SC",
+        "id": "krxohd2aacsc",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/94208",
+        "url": "http://nocable.cc:8080/37ccEK/176337/87888",
         "categories": [
             "live radio"
         ],
         "country": ""
     },
     {
-        "name": "Radio54",
-        "id": "radio54",
+        "name": "dronezone-128-mp3",
+        "id": "dronezone128mp3",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/94244",
+        "url": "http://nocable.cc:8080/37ccEK/176337/87891",
         "categories": [
             "live radio"
         ],
         "country": ""
     },
     {
-        "name": "Radio51",
-        "id": "radio51",
+        "name": "b26873_128mp3",
+        "id": "b26873128mp3",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/94252",
+        "url": "http://nocable.cc:8080/37ccEK/176337/87895",
         "categories": [
             "live radio"
         ],
         "country": ""
     },
     {
-        "name": "Radio49",
-        "id": "radio49",
+        "name": "WRATFMAACIHR_SC?pname=TDSdk",
+        "id": "wratfmaacihrscpnametdsdk",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/94257",
+        "url": "http://nocable.cc:8080/37ccEK/176337/87897",
         "categories": [
             "live radio"
         ],
         "country": ""
     },
     {
-        "name": "Radio36",
-        "id": "radio36",
+        "name": "KTMYFM_SC",
+        "id": "ktmyfmsc",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/94290",
+        "url": "http://nocable.cc:8080/37ccEK/176337/87905",
         "categories": [
             "live radio"
         ],
         "country": ""
     },
     {
-        "name": "Radio12",
-        "id": "radio12",
+        "name": "WQUD",
+        "id": "wqud",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/94348",
+        "url": "http://nocable.cc:8080/37ccEK/176337/87937",
         "categories": [
             "live radio"
         ],
         "country": ""
     },
     {
-        "name": "Radio7",
-        "id": "radio7",
+        "name": "5154_128",
+        "id": "5154128",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/94364",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88253",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5163_128",
+        "id": "5163128",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88264",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "181-fusionjazz_128k.mp3",
+        "id": "181fusionjazz128kmp3",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88273",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "evergreen-aac-128k",
+        "id": "evergreenaac128k",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88358",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5125_48",
+        "id": "512548",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88370",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5189_48",
+        "id": "518948",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88376",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "kalx-128.mp3",
+        "id": "kalx128mp3",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88381",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "defcon-64-aac",
+        "id": "defcon64aac",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88406",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5208_48",
+        "id": "520848",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88408",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "stream15",
+        "id": "stream15",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88429",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "live",
+        "id": "live",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88449",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "2556_128.mp3?uuid=b85ijfmaq",
+        "id": "2556128mp3uuidb85ijfmaq",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88782",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "2459_128.mp3",
+        "id": "2459128mp3",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/93993",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio69",
+        "id": "radio69",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/94185",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "wlkn",
+        "id": "wlkn",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/87421",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "stream09",
+        "id": "stream09",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/87466",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "b92108_64aac",
+        "id": "b9210864aac",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/87477",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "thediscopalace?mp=/stream/",
+        "id": "thediscopalacempstream",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/87508",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KXRK-48k.aac",
+        "id": "kxrk48kaac",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/87531",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NPR_64",
+        "id": "npr64",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/87862",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "a49617",
+        "id": "a49617",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/87867",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "a70946",
+        "id": "a70946",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/87906",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "casablanca?mp=/stream/",
+        "id": "casablancampstream",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/88091",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5139_128",
+        "id": "5139128",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/88095",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "kcmsmp3",
+        "id": "kcmsmp3",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/88184",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "kbaq_mp3_128",
+        "id": "kbaqmp3128",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/88255",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5181_48",
+        "id": "518148",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/88318",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5194_128",
+        "id": "5194128",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/88393",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SLCR_highdef.mp3",
+        "id": "slcrhighdefmp3",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/88533",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "folkfwd-64-aac",
+        "id": "folkfwd64aac",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/93832",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "kabz-aac",
+        "id": "kabzaac",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/94058",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "chevy",
+        "id": "chevy",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/94127",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio79",
+        "id": "radio79",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/94168",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio77",
+        "id": "radio77",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/94171",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio74",
+        "id": "radio74",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/94173",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio62",
+        "id": "radio62",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/94217",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio56",
+        "id": "radio56",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/94235",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio35",
+        "id": "radio35",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/94293",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio31",
+        "id": "radio31",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/94304",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio24",
+        "id": "radio24",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/94316",
         "categories": [
             "live radio"
         ],
@@ -9610,16 +8950,6 @@
         "country": ""
     },
     {
-        "name": "DE: |MAGENTA| RTL HAMBURG & SCHLESWIG-HOLSTEIN",
-        "id": "demagentartlhamburgschleswigholstein",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/rtl.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633339",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: |MAGENTA| OK4",
         "id": "demagentaok4",
         "logo": "https://sltv-icon.cms-s.com/logo/germanynew/Offener_Kanal_ok4.png",
@@ -9670,26 +9000,6 @@
         "country": ""
     },
     {
-        "name": "DE: |MAGENTA| PROSIEBEN",
-        "id": "demagentaprosieben",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/pro_7.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633471",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| VOXUP",
-        "id": "demagentavoxup",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/vox_up.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633421",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: |MAGENTA| NICK-COMEDY CENTRAL+1",
         "id": "demagentanickcomedycentral1",
         "logo": "https://sltv-icon.cms-s.com/logo/germanynew/nick-cc1.png",
@@ -9730,30 +9040,10 @@
         "country": ""
     },
     {
-        "name": "DE: |MAGENTA| ANIXE+",
-        "id": "demagentaanixe",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/anixe_plus.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633440",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: |MAGENTA| MARCO POLO TV",
         "id": "demagentamarcopolotv",
         "logo": "https://sltv-icon.cms-s.com/logo/germanynew/marcoPolo.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633410",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| WELT DER WUNDER",
-        "id": "demagentaweltderwunder",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/welt_der_wunder.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633408",
         "categories": [
             "de magenta tv"
         ],
@@ -9770,50 +9060,10 @@
         "country": ""
     },
     {
-        "name": "DE: |MAGENTA| AXN BLACK",
-        "id": "demagentaaxnblack",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/AXN_BLACK.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633305",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| UNIVERSAL TV",
-        "id": "demagentauniversaltv",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/universal_tv.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633297",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: |MAGENTA| SAT.1 GOLD",
         "id": "demagentasat1gold",
         "logo": "https://sltv-icon.cms-s.com/logo/germanynew/sat_1_gold.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633426",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| SAT.1 HAMBURG UND SCHLESWIG-HOLSTEIN",
-        "id": "demagentasat1hamburgundschleswigholstein",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/sat_1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633338",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| RBB FERNSEHEN BERLIN",
-        "id": "demagentarbbfernsehenberlin",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/rbb.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633453",
         "categories": [
             "de magenta tv"
         ],
@@ -9850,76 +9100,6 @@
         "country": ""
     },
     {
-        "name": "DE: |MAGENTA| NIEDERBAYERN TV PASSAU",
-        "id": "demagentaniederbayerntvpassau",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/Niederbayern_TV_Passau.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633350",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| TVA OSTBAYERN",
-        "id": "demagentatvaostbayern",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/tvaOstbayern.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633347",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| LAUSITZ.TV",
-        "id": "demagentalausitztv",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/lausitzTV.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633346",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| SWR FERNSEHEN RP",
-        "id": "demagentaswrfernsehenrp",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/swr_bw.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633450",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| WDR FERNSEHEN WUPPERTAL",
-        "id": "demagentawdrfernsehenwuppertal",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/wdr.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633322",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| OK WEINSTRASSE",
-        "id": "demagentaokweinstrasse",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/ok-Weinstra%c3%9fe.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633319",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| RAN1",
-        "id": "demagentaran1",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/ran1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633311",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: |MAGENTA| CARTOONITO",
         "id": "demagentacartoonito",
         "logo": "https://sltv-icon.cms-s.com/logo/germanynew/Cartoonito.png",
@@ -9934,26 +9114,6 @@
         "id": "demagentaric",
         "logo": "https://sltv-icon.cms-s.com/logo/germanynew/ric.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633427",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| BIBEL TV",
-        "id": "demagentabibeltv",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/BibelTV.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633416",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| HOPE TV",
-        "id": "demagentahopetv",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/hopeTv.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633415",
         "categories": [
             "de magenta tv"
         ],
@@ -9990,36 +9150,6 @@
         "country": ""
     },
     {
-        "name": "DE: |MAGENTA| QVC ZWEI",
-        "id": "demagentaqvczwei",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/Qvczwei.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633388",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| CNBC INTERNATIONAL",
-        "id": "demagentacnbcinternational",
-        "logo": "http://sltv-icon.cms-s.com/logo/2021mixlogo/cnbc.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633380",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: |MAGENTA| RED BULL TV",
-        "id": "demagentaredbulltv",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633445",
-        "categories": [
-            "de magenta tv"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: |MAGENTA| EUROSPORT 2",
         "id": "demagentaeurosport2",
         "logo": "http://sltv-icon.cms-s.com/logo/germanynew/eurosport_2.png",
@@ -10030,20 +9160,330 @@
         "country": ""
     },
     {
-        "name": "DE: |MAGENTA| SPORTDIGITAL FUSSBALL",
-        "id": "demagentasportdigitalfussball",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/sportdigital_fb.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633256",
+        "name": "DE: |MAGENTA| DMAX",
+        "id": "demagentadmax",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/dmaxx.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633435",
         "categories": [
             "de magenta tv"
         ],
         "country": ""
     },
     {
-        "name": "DE: |MAGENTA| SPORT 3 - MYTEAMTV",
-        "id": "demagentasport3myteamtv",
+        "name": "DE: |MAGENTA| KIKA",
+        "id": "demagentakika",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/kika.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633466",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| WELT",
+        "id": "demagentawelt",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/welt.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633463",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| ARD-ALPHA",
+        "id": "demagentaardalpha",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/ard-alpha.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633419",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| AXN WHITE",
+        "id": "demagentaaxnwhite",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/AXN_WHITE.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633290",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| SAT.1 RHEINLAND-PFALZ UND HESSEN",
+        "id": "demagentasat1rheinlandpfalzundhessen",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/sat_1.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633316",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| ALLGAU.TV",
+        "id": "demagentaallgautv",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/Allg%c3%a4u_TV.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633361",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| OBERPFALZ TV",
+        "id": "demagentaoberpfalztv",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/oberpfalzTv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633354",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| RFO",
+        "id": "demagentarfo",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/rfo.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633353",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| TV OBERFRANKEN",
+        "id": "demagentatvoberfranken",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/Logo_TV-Oberfranken.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633349",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| MDR-FERNSEHEN THURINGEN",
+        "id": "demagentamdrfernsehenthuringen",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/mdr.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633308",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| MDR-FERNSEHEN SACHSEN-ANHALT",
+        "id": "demagentamdrfernsehensachsenanhalt",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/mdr.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633312",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| WDR FERNSEHEN DORTMUND",
+        "id": "demagentawdrfernsehendortmund",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/wdr.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633328",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| OK-TV MAINZ",
+        "id": "demagentaoktvmainz",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/OKTV-mainz.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633317",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| BLK TV",
+        "id": "demagentablktv",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/BLK_regio.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633314",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| ALTENBURG.TV",
+        "id": "demagentaaltenburgtv",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/altenburgTV.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633309",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| DELUXE MUSIC",
+        "id": "demagentadeluxemusic",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/delux_music.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633405",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| MTV",
+        "id": "demagentamtv",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/mtv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633404",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| DMF",
+        "id": "demagentadmf",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/dmf-musik.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633403",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| BALLERMANN TV",
+        "id": "demagentaballermanntv",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/ballerman.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633402",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| 1-2-3.TV",
+        "id": "demagenta123tv",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/1-2-3Tv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633393",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| HSE",
+        "id": "demagentahse",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/hse24.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633391",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| JUWELO",
+        "id": "demagentajuwelo",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/Juwelo_Tv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633390",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| SONNENKLAR.TV",
+        "id": "demagentasonnenklartv",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/sonnenklar_tv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633386",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| ERT WORLD",
+        "id": "demagentaertworld",
+        "logo": "http://sltv-icon.cms-s.com/logo/GREECE/ertworld.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633382",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| CNN INTERNATIONAL",
+        "id": "demagentacnninternational",
+        "logo": "http://sltv-icon.cms-s.com/logo/Italy/cnn_international_global.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633379",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| FRANCE 4",
+        "id": "demagentafrance4",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/FRANCE4HD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633375",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| FRANCE 24 FRANCAIS",
+        "id": "demagentafrance24francais",
+        "logo": "http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Russia/france24.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633373",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| ESPORTSONE",
+        "id": "demagentaesportsone",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/ESPORTSONE.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633277",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| MS SPORT",
+        "id": "demagentamssport",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/msSport.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633447",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| SPORT 1 - MYTEAMTV",
+        "id": "demagentasport1myteamtv",
         "logo": "https://sltv-icon.cms-s.com/logo/germanynew/magentaSport.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633272",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633274",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| SPORT 2 - MYTEAMTV",
+        "id": "demagentasport2myteamtv",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/magentaSport.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633273",
+        "categories": [
+            "de magenta tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |MAGENTA| SPORT 15 - MYTEAMTV",
+        "id": "demagentasport15myteamtv",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/magentaSport.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633260",
         "categories": [
             "de magenta tv"
         ],
@@ -10054,26 +9494,6 @@
         "id": "frnrjhitsfhd",
         "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/FHDNRJ12FHD.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218629",
-        "categories": [
-            "fr musique"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: MCM FHD",
-        "id": "frmcmfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/MCMHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218619",
-        "categories": [
-            "fr musique"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: MTV FHD",
-        "id": "frmtvfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/mtv.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218623",
         "categories": [
             "fr musique"
         ],
@@ -10120,10 +9540,30 @@
         "country": ""
     },
     {
-        "name": "FR: TRACE CARIBBEAN",
-        "id": "frtracecaribbean",
-        "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/653251",
+        "name": "FR: MTV HITS HD",
+        "id": "frmtvhitshd",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/mtvHits.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/172043",
+        "categories": [
+            "fr musique"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: MEZZO HD",
+        "id": "frmezzohd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/MEZZOHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/94549",
+        "categories": [
+            "fr musique"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CSTAR HITS FHD",
+        "id": "frcstarhitsfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CSTAR.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/188521",
         "categories": [
             "fr musique"
         ],
@@ -10334,6 +9774,16 @@
         "id": "1824hamador",
         "logo": "https://i.imgur.com/V6mSSbg.png",
         "url": "http://p.plexiptv.co:8880/20877364/07779277/24493",
+        "categories": [
+            "adultos"
+        ],
+        "country": ""
+    },
+    {
+        "name": "(+18) SEXPRIVÉ HD¹",
+        "id": "18sexprivhd",
+        "logo": "https://googleplusimages.com/SEXPRIVE.png",
+        "url": "http://p.plexiptv.co:8880/Tp87Eg/71NgjS/110847",
         "categories": [
             "adultos"
         ],
@@ -11070,6 +10520,86 @@
         "country": ""
     },
     {
+        "name": "PL: CANAL+ SERIALE HD",
+        "id": "plcanalserialehd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/8505.jpg?79415",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309937",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: ESKA ROCK TV",
+        "id": "pleskarocktv",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9990.jpg?29563",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309797",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: HISTORY HD",
+        "id": "plhistoryhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/733.jpg?67449",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309825",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: ID HD",
+        "id": "plidhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/622.jpg?72096",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309856",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: NATIONAL GEOGRAPHIC HD",
+        "id": "plnationalgeographichd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/616.png?34589",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309877",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: NOVELAS+ HD",
+        "id": "plnovelashd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/8416.jpg?25759",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309850",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: RED CARPET TV HD",
+        "id": "plredcarpettvhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9863.jpg?61612",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309836",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Galavision East HD",
+        "id": "galavisioneasthd",
+        "logo": "https://i.ibb.co/2sdFqMJ/GALAVSIONSDSA.png",
+        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/68641",
+        "categories": [
+            "→ galavisión ←"
+        ],
+        "country": ""
+    },
+    {
         "name": "PK: AAJ NEWS HD",
         "id": "pkaajnewshd",
         "logo": "http://img-cdn.curl.pk:8880/channels_icon/79372097811.png",
@@ -11080,10 +10610,20 @@
         "country": ""
     },
     {
-        "name": "LA_SD:SUR_PARAGUAY:UNICANAL",
-        "id": "lasdsurparaguayunicanal",
+        "name": "LA_SD:SUR_PARAGUAY:GEN TV",
+        "id": "lasdsurparaguaygentv",
         "logo": "",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/61962",
+        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/61972",
+        "categories": [
+            "→ paraguay ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "LA_SD:SUR_PARAGUAY:PARAGUAY TV",
+        "id": "lasdsurparaguayparaguaytv",
+        "logo": "",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/61968",
         "categories": [
             "→ paraguay ←"
         ],
@@ -11284,26 +10824,6 @@
         "id": "novtelemundoneworleansl1080",
         "logo": "https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",
         "url": "http://tv.proyectox.vip:8080/PaolaPlaza/0d91a58cfda9/8361",
-        "categories": [
-            "canales-novelas"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NOV-Telemundo - Phoenix Arizona (L)(1080)",
-        "id": "novtelemundophoenixarizonal1080",
-        "logo": "https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",
-        "url": "http://tv.proyectox.vip:8080/PaolaPlaza/0d91a58cfda9/8368",
-        "categories": [
-            "canales-novelas"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NOV-Univision Network (TV)",
-        "id": "novunivisionnetworktv",
-        "logo": "https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",
-        "url": "http://tv.proyectox.vip:8080/PaolaPlaza/0d91a58cfda9/8400",
         "categories": [
             "canales-novelas"
         ],

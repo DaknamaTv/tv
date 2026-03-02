@@ -1,15 +1,5 @@
 [
     {
-        "name": "Dunya Naw TV",
-        "id": "dunyanawtv",
-        "logo": "https://i.ibb.co/nQkLgyn/dunya-naw-tv.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/264807",
-        "categories": [
-            "afghanistan"
-        ],
-        "country": ""
-    },
-    {
         "name": "Kayhan TV",
         "id": "kayhantv",
         "logo": "https://i.imgur.com/2MDjU7x.png",
@@ -20,20 +10,30 @@
         "country": ""
     },
     {
-        "name": "RTA (1080p)",
-        "id": "rta1080p",
-        "logo": "",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/267262",
+        "name": "Eslah TV",
+        "id": "eslahtv",
+        "logo": "https://i.imgur.com/To7VnsA.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/264808",
         "categories": [
             "afghanistan"
         ],
         "country": ""
     },
     {
-        "name": "RTA Sport (1080p)",
-        "id": "rtasport1080p",
+        "name": "RTA",
+        "id": "rta",
+        "logo": "https://i.imgur.com/pJU2KPh.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/264811",
+        "categories": [
+            "afghanistan"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTA News (1080p)",
+        "id": "rtanews1080p",
         "logo": "",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/267265",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/267264",
         "categories": [
             "afghanistan"
         ],

@@ -160,10 +160,40 @@
         "country": ""
     },
     {
-        "name": "IT: Mediaset Extra",
-        "id": "itmediasetextra",
-        "logo": "https://play.xsmp.xyz/logos/mediaset-extra-it.png",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/97791",
+        "name": "IT: TV 2000",
+        "id": "ittv2000",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Tv2000_-_Logo_2022.svg/800px-Tv2000_-_Logo_2022.svg.png",
+        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/97809",
+        "categories": [
+            "italia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Rai 1 HD",
+        "id": "rai1hd",
+        "logo": "http://picon.koolmedia.live/images/12b591a979ea7a0e28d130ab965066b5.png",
+        "url": "http://koolhd-tv2.sekkd.com:80/pro2_6u45p6/7s8hhf66/289",
+        "categories": [
+            "italia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "La7 HD",
+        "id": "la7hd",
+        "logo": "http://picon.koolmedia.live/images/1_0_19_4F_1770_110_820000_0_0_0.png",
+        "url": "http://koolhd-tv2.sekkd.com:80/pro2_6u45p6/7s8hhf66/283",
+        "categories": [
+            "italia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Rai Storia HD",
+        "id": "raistoriahd",
+        "logo": "http://picon.koolmedia.live/images/1_0_19_4532_30D4_13E_820000_0_0_0.png",
+        "url": "http://koolhd-tv2.sekkd.com:80/pro2_6u45p6/7s8hhf66/275",
         "categories": [
             "italia"
         ],

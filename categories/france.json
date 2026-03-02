@@ -140,16 +140,6 @@
         "country": ""
     },
     {
-        "name": "FR-Cstar (HD)",
-        "id": "frcstarhd",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/361901",
-        "categories": [
-            "france"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR-BEIN SPORTS MAX 7 (HD)",
         "id": "frbeinsportsmax7hd",
         "logo": "",
@@ -180,16 +170,6 @@
         "country": ""
     },
     {
-        "name": "FR-EUROSPORT 360 3 (HD)",
-        "id": "freurosport3603hd",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/361800",
-        "categories": [
-            "france"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR-EUROSPORT 360 4 (HD)",
         "id": "freurosport3604hd",
         "logo": "",
@@ -200,40 +180,100 @@
         "country": ""
     },
     {
-        "name": "FR: Canal+  HD",
-        "id": "frcanalhd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/99293",
-        "categories": [
-            "france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: Nat Geo Wild  HD",
-        "id": "frnatgeowildhd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/99420",
-        "categories": [
-            "france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: Planet Crime Investigation HD",
-        "id": "frplanetcrimeinvestigationhd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/99428",
-        "categories": [
-            "france"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: Cine Polar + HD",
         "id": "frcinepolarhd",
         "logo": "",
         "url": "http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/99295",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: TF1 FHD",
+        "id": "frtf1fhd",
+        "logo": "http://play.xsmp.xyz/logos/tf1-fr.png",
+        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/99249",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: M6",
+        "id": "frm6",
+        "logo": "http://play.xsmp.xyz/logos/m6-fr.png",
+        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/99258",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: EQUIDIA live",
+        "id": "frequidialive",
+        "logo": "",
+        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/99270",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: FRANCE 2 FHD",
+        "id": "frfrance2fhd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/160297",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ DECALE FHD",
+        "id": "frcanaldecalefhd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/160306",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: FRANCE 3 HD",
+        "id": "frfrance3hd",
+        "logo": "http://play.xsmp.xyz/logos/france-3-fr.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/99261",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: TV5 MONDE INFO HD",
+        "id": "frtv5mondeinfohd",
+        "logo": "http://play.xsmp.xyz/logos/tv5-monde-int.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/99251",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: RTL9 HD",
+        "id": "frrtl9hd",
+        "logo": "http://play.xsmp.xyz/logos/rtl9-fr.png",
+        "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/99252",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: BFMTV HD",
+        "id": "frbfmtvhd",
+        "logo": "",
+        "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/99275",
         "categories": [
             "france"
         ],

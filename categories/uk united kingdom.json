@@ -1,15 +1,5 @@
 [
     {
-        "name": "UK-MUTV",
-        "id": "ukmutv",
-        "logo": "",
-        "url": "http://mytvstream.net:8080/b3Bg9B/358847/53717",
-        "categories": [
-            "uk united kingdom"
-        ],
-        "country": ""
-    },
-    {
         "name": "UK: RTE NEWS",
         "id": "ukrtenews",
         "logo": "",
@@ -104,6 +94,26 @@
         "id": "ukmore4",
         "logo": "",
         "url": "http://fortv.cc:8080/Archie100/MrArchie/53673",
+        "categories": [
+            "uk united kingdom"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK Sky Sports F1 FHD (D)",
+        "id": "ukskysportsf1fhdd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/53704",
+        "categories": [
+            "uk united kingdom"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: CBS JUSTICE",
+        "id": "ukcbsjustice",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/134942",
         "categories": [
             "uk united kingdom"
         ],

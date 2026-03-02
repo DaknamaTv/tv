@@ -10,26 +10,6 @@
         "country": ""
     },
     {
-        "name": "FR: MCM FHD",
-        "id": "frmcmfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/MCMHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218619",
-        "categories": [
-            "fr musique"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: MTV FHD",
-        "id": "frmtvfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/mtv.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218623",
-        "categories": [
-            "fr musique"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: TRACE URBAN",
         "id": "frtraceurban",
         "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/trace-urban.png",
@@ -70,10 +50,30 @@
         "country": ""
     },
     {
-        "name": "FR: TRACE CARIBBEAN",
-        "id": "frtracecaribbean",
-        "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/653251",
+        "name": "FR: MTV HITS HD",
+        "id": "frmtvhitshd",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/mtvHits.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/172043",
+        "categories": [
+            "fr musique"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: MEZZO HD",
+        "id": "frmezzohd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/MEZZOHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/94549",
+        "categories": [
+            "fr musique"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CSTAR HITS FHD",
+        "id": "frcstarhitsfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CSTAR.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/188521",
         "categories": [
             "fr musique"
         ],

@@ -30,16 +30,6 @@
         "country": ""
     },
     {
-        "name": "CA-FR | MOI ET CIE",
-        "id": "cafrmoietcie",
-        "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/57487",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA (FR) Prise  (P)",
         "id": "cafrprisep",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/220px-Prise_2_logo_%282018%29.svg.png",
@@ -50,10 +40,50 @@
         "country": ""
     },
     {
-        "name": "CA (FR) Super Ecran 2 SD (P)",
-        "id": "cafrsuperecran2sdp",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/66364",
+        "name": "CA (FR) ICI Tele Montreal HD (D)",
+        "id": "cafricitelemontrealhdd",
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/57484",
+        "categories": [
+            "canada french"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA-FR | ICI VANCOUVER FR",
+        "id": "cafricivancouverfr",
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/1/15/ICIRadio-Canada_T%C3%A9l%C3%A9%28logo%29.png",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/57485",
+        "categories": [
+            "canada french"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA (FR) LCN (E)",
+        "id": "cafrlcne",
+        "logo": "https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/lcn_sept2020.png",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/57968",
+        "categories": [
+            "canada french"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA (FR) TVA Montreal FHD (B)",
+        "id": "cafrtvamontrealfhdb",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/57497",
+        "categories": [
+            "canada french"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA (FR) NOOVO (D)",
+        "id": "cafrnoovod",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/57501",
         "categories": [
             "canada french"
         ],

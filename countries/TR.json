@@ -670,16 +670,6 @@
         "country": "TR"
     },
     {
-        "name": "Al Qanat 9",
-        "id": "AlQanat9.tr",
-        "logo": "https://i.imgur.com/HC91Mho.png",
-        "url": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Ciftci TV",
         "id": "CiftciTV.tr",
         "logo": "https://i.imgur.com/CLzP4vL.png",
@@ -833,6 +823,16 @@
         "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
         "categories": [
             "kids"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "MTurk TV",
+        "id": "MTurkTV.tr",
+        "logo": "https://i.imgur.com/xj1gvrq.png",
+        "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "TR"
     }

@@ -1,95 +1,5 @@
 [
     {
-        "name": "ENT| Telemundo Internacional HD",
-        "id": "enttelemundointernacionalhd",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/605",
-        "categories": [
-            "→ entretenimiento ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ENT| Univision Miami HD",
-        "id": "entunivisionmiamihd",
-        "logo": "https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/miami/univision-23-fl.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/610",
-        "categories": [
-            "→ entretenimiento ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ENT| Tlnovelas",
-        "id": "enttlnovelas",
-        "logo": "https://pbs.twimg.com/profile_images/1214269997595471872/k0Mcs-1D_200x200.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/611",
-        "categories": [
-            "→ entretenimiento ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ENT | Univision Tlnovelas",
-        "id": "entunivisiontlnovelas",
-        "logo": "http://209.126.82.213/LogosP/Entretenimiento/ent_univision_telenovelas.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/269135",
-        "categories": [
-            "→ entretenimiento ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ENT| Cocina TV",
-        "id": "entcocinatv",
-        "logo": "https://canalcocina.es/images/canalcocina.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/614",
-        "categories": [
-            "→ entretenimiento ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ENT| Antena 3",
-        "id": "entantena3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/617",
-        "categories": [
-            "→ entretenimiento ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ENT| E! Entertainment",
-        "id": "enteentertainment",
-        "logo": "https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/629",
-        "categories": [
-            "→ entretenimiento ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ENT| Hola TV HD",
-        "id": "entholatvhd",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/631",
-        "categories": [
-            "→ entretenimiento ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MEX| Distrito Comedia",
-        "id": "mexdistritocomedia",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/635",
-        "categories": [
-            "→ entretenimiento ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "ENT| Futv",
         "id": "entfutv",
         "logo": "https://ticourbano.com/wp-content/uploads/2020/01/FUTV-Costa-Rica-2020-1068x712.jpg",
@@ -104,6 +14,116 @@
         "id": "enttigo",
         "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/16/ee/e816ee95-b41b-f18d-5142-43340bc6436f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
         "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/267922",
+        "categories": [
+            "→ entretenimiento ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ENT| Tlnovelas HD",
+        "id": "enttlnovelashd",
+        "logo": "https://pbs.twimg.com/profile_images/1214269997595471872/k0Mcs-1D_200x200.png",
+        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/612",
+        "categories": [
+            "→ entretenimiento ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ENT| CANAL COCINA",
+        "id": "entcanalcocina",
+        "logo": "https://canalcocina.es/images/canalcocina.png",
+        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/613",
+        "categories": [
+            "→ entretenimiento ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ENT| Más Chic HD",
+        "id": "entmschichd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",
+        "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/624",
+        "categories": [
+            "→ entretenimiento ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ENT| Pasiones TV HD",
+        "id": "entpasionestvhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/591",
+        "categories": [
+            "→ entretenimiento ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ENT| El GOURMET",
+        "id": "entelgourmet",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/596",
+        "categories": [
+            "→ entretenimiento ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ENT| El Garage TV",
+        "id": "entelgaragetv",
+        "logo": "https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/602",
+        "categories": [
+            "→ entretenimiento ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA**:UNIVISION TLNOVELAS",
+        "id": "usaunivisiontlnovelas",
+        "logo": "",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/269139",
+        "categories": [
+            "→ entretenimiento ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ENT| Antena 3 HD",
+        "id": "entantena3hd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/618",
+        "categories": [
+            "→ entretenimiento ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ENT| Caza y Pesca HD",
+        "id": "entcazaypescahd",
+        "logo": "https://ewsat.com/img/CAZA_Y_PESCA.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/620",
+        "categories": [
+            "→ entretenimiento ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ENT| Las Estrellas",
+        "id": "entlasestrellas",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/633",
+        "categories": [
+            "→ entretenimiento ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ENT| Repretel",
+        "id": "entrepretel",
+        "logo": "https://1.bp.blogspot.com/-7j8MsbkwHGU/Txhx0brh4iI/AAAAAAAALjU/T829B6ztV9c/s400/repretel.png",
+        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/239422",
         "categories": [
             "→ entretenimiento ←"
         ],

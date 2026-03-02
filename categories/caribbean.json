@@ -10,10 +10,20 @@
         "country": ""
     },
     {
-        "name": "Carib ESPN2",
-        "id": "caribespn2",
+        "name": "Carib CVM TV (D)",
+        "id": "caribcvmtvd",
         "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/99623",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/66371",
+        "categories": [
+            "caribbean"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Carib Flow Sports (D)",
+        "id": "caribflowsportsd",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/79544",
         "categories": [
             "caribbean"
         ],
