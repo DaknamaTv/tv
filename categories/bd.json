@@ -2260,16 +2260,6 @@
         "country": ""
     },
     {
-        "name": "ZB Cinema",
-        "id": "zbcinema",
-        "logo": "",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Disney International",
         "id": "disneyinternational",
         "logo": "",
@@ -2480,20 +2470,60 @@
         "country": ""
     },
     {
-        "name": "Azan TV",
-        "id": "azantv",
+        "name": "Me-",
+        "id": "me",
         "logo": "",
-        "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
+        "url": "https://iptvbd.live/metv1080/1080.m3u8",
         "categories": [
             "bd"
         ],
         "country": ""
     },
     {
-        "name": "Me-",
-        "id": "me",
+        "name": "global tv",
+        "id": "globaltv",
+        "logo": "https://tvassets.roarzone.info/images/global-tv.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/index.m3u8?token=be2e2f1570c569084607443968fff5e198c4ed3b-8b4a6d39bcbd10d1ae11b916b2ebe192-1772408972-1772405372",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ASTRO SPORTS PLUS",
+        "id": "astrosportsplus",
         "logo": "",
-        "url": "https://iptvbd.live/metv1080/1080.m3u8",
+        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Astro SPORTS Primier",
+        "id": "astrosportsprimier",
+        "logo": "",
+        "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-2",
+        "id": "tnssports2",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts2",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-1",
+        "id": "tnssports1",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts1",
         "categories": [
             "bd"
         ],

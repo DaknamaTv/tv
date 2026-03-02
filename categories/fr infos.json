@@ -1,39 +1,79 @@
 [
     {
-        "name": "FR: TVM 3 HD",
-        "id": "frtvm3hd",
-        "logo": "http://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TVM3_2015.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/444916",
+        "name": "FR: TECH & CO FHD",
+        "id": "frtechcofhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/TECH&CO.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/459821",
         "categories": [
             "fr infos"
         ],
         "country": ""
     },
     {
-        "name": "FR: FRANCE INFO FHD",
-        "id": "frfranceinfofhd",
+        "name": "FR: FRANCE INFO HD",
+        "id": "frfranceinfohd",
         "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/FRANCEINFOHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218605",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/1944",
         "categories": [
             "fr infos"
         ],
         "country": ""
     },
     {
-        "name": "FR: BFM2 HD",
-        "id": "frbfm2hd",
+        "name": "FR: FRANCE 24 HD",
+        "id": "frfrance24hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/FRANCE24.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/789",
+        "categories": [
+            "fr infos"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CNEWS FHD",
+        "id": "frcnewsfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CNEWS.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187827",
+        "categories": [
+            "fr infos"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: BFM TV FHD",
+        "id": "frbfmtvfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/BFM.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187826",
+        "categories": [
+            "fr infos"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: BFM BUSINESS HD",
+        "id": "frbfmbusinesshd",
         "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/BFMHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/548695",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/73486",
         "categories": [
             "fr infos"
         ],
         "country": ""
     },
     {
-        "name": "FR: LCI FHD",
-        "id": "frlcifhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/LCIHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218615",
+        "name": "FR: BFM BUSINESS FHD",
+        "id": "frbfmbusinessfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/bfm_business.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218590",
+        "categories": [
+            "fr infos"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: LCP FHD",
+        "id": "frlcpfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/LCP.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187829",
         "categories": [
             "fr infos"
         ],

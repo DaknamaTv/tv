@@ -353,6 +353,16 @@
         "country": "VE"
     },
     {
+        "name": "Aguacate TV",
+        "id": "AguacateTV.ve",
+        "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+        "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "VE"
+    },
+    {
         "name": "Friday! International",
         "id": "FridayInternational.ru",
         "logo": "https://i.imgur.com/N2z3EZC.png",
@@ -1261,6 +1271,157 @@
         "country": "IN"
     },
     {
+        "name": "Adithya TV",
+        "id": "AdithyaTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142548_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0zk/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Asianet Plus",
+        "id": "AsianetPlus.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0z4/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "MTV",
+        "id": "MTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0r4/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Marathi",
+        "id": "SonyMarathi.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0u5/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Kiran",
+        "id": "StarKiran.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0ph/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Maa",
+        "id": "StarMaa.in",
+        "logo": "https://dtil.tmsimg.com/assets/s179620_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0pb/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Maa Gold",
+        "id": "StarMaaGold.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143822_ld_h15_aa.png",
+        "url": "http://103.121.6.5:8000/play/a063/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Pravah",
+        "id": "StarPravah.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143834_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0rq/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Suvarna",
+        "id": "StarSuvarna.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143853_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0zd/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sun Life",
+        "id": "SunLife.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143873_ld_h15_ab.png",
+        "url": "http://111.88.78.21:8000/play/a0z3/index.m3u8",
+        "categories": [
+            "entertainment",
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Udaya TV",
+        "id": "UdayaTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s145430_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0xv/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Kannada",
+        "id": "ZeeKannada.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S209.png",
+        "url": "http://111.88.78.21:8000/play/a0ze/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Marathi",
+        "id": "ZeeMarathi.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233VCK.png",
+        "url": "http://111.88.78.21:8000/play/a0rt/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Telugu",
+        "id": "ZeeTelugu.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S99J.png",
+        "url": "http://111.88.78.21:8000/play/a0tn/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Yuva",
+        "id": "ZeeYuva.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S9FG.png",
+        "url": "http://111.88.78.21:8000/play/a0yt/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "MHZ",
         "id": "MHZ.ca",
         "logo": "https://i.imgur.com/a5fw83n.jpg",
@@ -1315,6 +1476,16 @@
         "id": "PrimeCanadaTV.ca",
         "logo": "https://i.imgur.com/Vji81jB.png",
         "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "Sooriyan TV",
+        "id": "SooriyanTV.ca",
+        "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+        "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1510,6 +1681,16 @@
         "id": "MaxivisionTV.gt",
         "logo": "https://i.imgur.com/UC8WrEN.jpg",
         "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "GT"
+    },
+    {
+        "name": "SAS TV",
+        "id": "SASTV.gt",
+        "logo": "https://i.imgur.com/VShjB3o.png",
+        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2276,6 +2457,16 @@
         "country": "IT"
     },
     {
+        "name": "Chandel TV",
+        "id": "ChandelTV.tg",
+        "logo": "https://i.imgur.com/jQO7dVE.png",
+        "url": "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "TG"
+    },
+    {
         "name": "kabel eins",
         "id": "kabeleins.de",
         "logo": "https://i.imgur.com/6pulSHZ.png",
@@ -2647,6 +2838,16 @@
             "entertainment"
         ],
         "country": "NA"
+    },
+    {
+        "name": "Belarus-2",
+        "id": "Belarus2.by",
+        "logo": "https://i.imgur.com/BpEHpPS.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BY"
     },
     {
         "name": "Impact Network",
@@ -3511,16 +3712,6 @@
         "id": "afrobeattv.ug",
         "logo": "",
         "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "UG"
-    },
-    {
-        "name": "Romanza",
-        "id": "romanza.ug",
-        "logo": "",
-        "url": "https://livecdn.premiumfree.tv/afxpstr/Romanza/tracks-v1a1/mono.m3u8",
         "categories": [
             "entertainment"
         ],

@@ -1,35 +1,5 @@
 [
     {
-        "name": "TR: BEIN MOVIES TURK HD",
-        "id": "trbeinmoviesturkhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_movies_turk.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/132710",
-        "categories": [
-            "tr sinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: DIZISMART PREMIUM HD",
-        "id": "trdizismartpremiumhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/dizismart_premium.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/132715",
-        "categories": [
-            "tr sinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: FILMBOX FHD",
-        "id": "trfilmboxfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/2021mixlogo/filmbox.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/412587",
-        "categories": [
-            "tr sinema"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: SINEMA TV AKSIYON HD",
         "id": "trsinematvaksiyonhd",
         "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/sinema_aksiyon.png",
@@ -50,10 +20,90 @@
         "country": ""
     },
     {
-        "name": "TR: SINEMA TV YERLI HD",
-        "id": "trsinematvyerlihd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/sinema_yerli%20(1).png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/201419",
+        "name": "TR: BEIN SERIES 2 FHD",
+        "id": "trbeinseries2fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/beinSeries2.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/469410",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: BEIN SERIES 3 FHD",
+        "id": "trbeinseries3fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/beinSeries3.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/469409",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: MOVIESMART TURK HD",
+        "id": "trmoviesmartturkhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/movismart_turk.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/132718",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: MOVIESMART CLASSIC HD",
+        "id": "trmoviesmartclassichd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/movismart_classic.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/139527",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: DIZISMART MAX FHD",
+        "id": "trdizismartmaxfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/dizismartMax.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/469458",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: FX HD",
+        "id": "trfxhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/fx.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/130853",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: SINEMA TV 2 HD",
+        "id": "trsinematv2hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/sinema_tv_2.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/201416",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: SINEMA TV AILE HD",
+        "id": "trsinematvailehd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/sinema_aile.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/155747",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: SINEMA TV AILE 2 HD",
+        "id": "trsinematvaile2hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/sinema_aile2.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/405208",
         "categories": [
             "tr sinema"
         ],

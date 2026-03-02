@@ -138,5 +138,35 @@
             "movie networks"
         ],
         "country": ""
+    },
+    {
+        "name": "US EPIX (East)",
+        "id": "usepixeast",
+        "logo": "https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/13214",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US RetroPlex (East)",
+        "id": "usretroplexeast",
+        "logo": "",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/66379",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Starz Cinema (East)",
+        "id": "usstarzcinemaeast",
+        "logo": "https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png",
+        "url": "http://fortv.cc:8080/Archie100/MrArchie/9301",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
     }
 ]

@@ -10,30 +10,10 @@
         "country": ""
     },
     {
-        "name": "CH: RTS UN HD",
-        "id": "chrtsunhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/rts_ch_un.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/227434",
-        "categories": [
-            "ch suisse - switzerland"
-        ],
-        "country": ""
-    },
-    {
         "name": "CH: RTS UN FHD",
         "id": "chrtsunfhd",
         "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/rts_ch_un.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/3656",
-        "categories": [
-            "ch suisse - switzerland"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CH: RTS UN HEVC",
-        "id": "chrtsunhevc",
-        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/rts_ch_un.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/227435",
         "categories": [
             "ch suisse - switzerland"
         ],
@@ -50,40 +30,60 @@
         "country": ""
     },
     {
-        "name": "CH: RSI LA 1 HD",
-        "id": "chrsila1hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/rsi_la1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/7869",
+        "name": "CH: SRF 1 HD",
+        "id": "chsrf1hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/srf_1_ch.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/7447",
         "categories": [
             "ch suisse - switzerland"
         ],
         "country": ""
     },
     {
-        "name": "CH: RSI LA 1 HEVC",
-        "id": "chrsila1hevc",
-        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/rsi_la1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/227430",
+        "name": "CH: SRF 2 HD",
+        "id": "chsrf2hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/srf_2_ch_uhd.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/7448",
         "categories": [
             "ch suisse - switzerland"
         ],
         "country": ""
     },
     {
-        "name": "CH: TELE TICINO HD",
-        "id": "chteleticinohd",
-        "logo": "http://sltv-icon.cms-s.com/logo/SWITZERLAND/tele_ticino.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/295521",
+        "name": "CH: 6TER HD SUISSE",
+        "id": "ch6terhdsuisse",
+        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/M6_6ter.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/235105",
         "categories": [
             "ch suisse - switzerland"
         ],
         "country": ""
     },
     {
-        "name": "CH: BLUE ACTION HD",
-        "id": "chblueactionhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/teleclub_action.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/231808",
+        "name": "CH: TELE BASEL",
+        "id": "chtelebasel",
+        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/tele_basel.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/137451",
+        "categories": [
+            "ch suisse - switzerland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: TELE SWISS HD",
+        "id": "chteleswisshd",
+        "logo": "http://sltv-icon.cms-s.com/logo/SWITZERLAND/swiss1.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/321040",
+        "categories": [
+            "ch suisse - switzerland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: BLUE STARS HD",
+        "id": "chbluestarshd",
+        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/teleclub_cinema.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/133925",
         "categories": [
             "ch suisse - switzerland"
         ],

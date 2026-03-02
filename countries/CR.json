@@ -284,14 +284,6 @@
         "country": "CR"
     },
     {
-        "name": "TV Sur Canal 9",
-        "id": "TVSurCanal9.cr",
-        "logo": "https://i.imgur.com/7HbISMV.png",
-        "url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8",
-        "categories": [],
-        "country": "CR"
-    },
-    {
         "name": "Canal 3 KMK TV",
         "id": "Canal3KMKTV.cr",
         "logo": "https://i.imgur.com/sgRDRBK.jpg",
@@ -319,16 +311,6 @@
         "categories": [
             "music",
             "entertainment"
-        ],
-        "country": "CR"
-    },
-    {
-        "name": "Canal 6",
-        "id": "Canal6.cr",
-        "logo": "https://i.imgur.com/nfKJftW.png",
-        "url": "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "CR"
     },
@@ -383,42 +365,12 @@
         "country": "CR"
     },
     {
-        "name": "CANAL 14 TV SUR",
-        "id": "CANAL14TVSUR.cr",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/191274",
-        "categories": [
-            "us latin other"
-        ],
-        "country": "CR"
-    },
-    {
-        "name": "Cartago Medios TV",
-        "id": "CartagoMediosTV.cr",
-        "logo": "https://i.imgur.com/Vcd40AL.png",
-        "url": "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Vintage Music",
         "id": "VintageMusic.cr",
         "logo": "https://i.imgur.com/KImqYnN.jpeg",
         "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
         "categories": [
             "music"
-        ],
-        "country": "CR"
-    },
-    {
-        "name": "Canal 4",
-        "id": "Canal4.cr",
-        "logo": "https://i.imgur.com/5arZEgO.png",
-        "url": "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "CR"
     },

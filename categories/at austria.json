@@ -10,16 +10,6 @@
         "country": ""
     },
     {
-        "name": "AT: ORF 2 HD",
-        "id": "atorf2hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/orf2.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/29996",
-        "categories": [
-            "at austria"
-        ],
-        "country": ""
-    },
-    {
         "name": "AT: ORF2K HD",
         "id": "atorf2khd",
         "logo": "http://sltv-icon.cms-s.com/logo/germanynew/orf2-K.png",
@@ -30,50 +20,60 @@
         "country": ""
     },
     {
-        "name": "AT: ORF2T HD",
-        "id": "atorf2thd",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/orf2-T.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/375187",
+        "name": "AT: ORF III HD",
+        "id": "atorfiiihd",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/orf3_austria.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/129284",
         "categories": [
             "at austria"
         ],
         "country": ""
     },
     {
-        "name": "AT: ORF2W HD",
-        "id": "atorf2whd",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/orf2-W.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/375185",
+        "name": "AT: ORF2O HD",
+        "id": "atorf2ohd",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/orf2-O.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/375190",
         "categories": [
             "at austria"
         ],
         "country": ""
     },
     {
-        "name": "AT: ATV 2 HD",
-        "id": "atatv2hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/atv2_austria.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/29994",
+        "name": "AT: OE24 TV HD",
+        "id": "atoe24tvhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/oe24tv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/253897",
         "categories": [
             "at austria"
         ],
         "country": ""
     },
     {
-        "name": "AT: TLC AUSTRIA",
-        "id": "attlcaustria",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/tlcAustria.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/434688",
+        "name": "AT: OE24 TV",
+        "id": "atoe24tv",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/oe24tv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/375166",
         "categories": [
             "at austria"
         ],
         "country": ""
     },
     {
-        "name": "AT: SKY SPORT AUSTRIA 1 HD",
-        "id": "atskysportaustria1hd",
+        "name": "AT: R9 ÖSTERREICH HD",
+        "id": "atr9sterreichhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/r9_oesterreich.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/295541",
+        "categories": [
+            "at austria"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AT: SKY SPORT AUSTRIA 8 HD (SPIELZEIT)",
+        "id": "atskysportaustria8hdspielzeit",
         "logo": "http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/212526",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/547027",
         "categories": [
             "at austria"
         ],

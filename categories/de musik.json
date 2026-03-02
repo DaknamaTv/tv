@@ -10,10 +10,60 @@
         "country": ""
     },
     {
-        "name": "DE: JUKEBOX TV",
-        "id": "dejukeboxtv",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/jukebox.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/240634",
+        "name": "DE: DELUXE DANCE",
+        "id": "dedeluxedance",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/DLXdance-by-kontor.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/474189",
+        "categories": [
+            "de musik"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: DELUXE MUSIC",
+        "id": "dedeluxemusic",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/delux_music.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/30358",
+        "categories": [
+            "de musik"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: NRJ HITS TV",
+        "id": "denrjhitstv",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/NRJ_Hits_TV.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/240633",
+        "categories": [
+            "de musik"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: POWER TV",
+        "id": "depowertv",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/power.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/330868",
+        "categories": [
+            "de musik"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SCHLAGER DELUXE",
+        "id": "deschlagerdeluxe",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/SCHLAGER_DELUXE.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/390902",
+        "categories": [
+            "de musik"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: STINGRAY DJAZZ",
+        "id": "destingraydjazz",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/Stingray_Djazz.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/478396",
         "categories": [
             "de musik"
         ],

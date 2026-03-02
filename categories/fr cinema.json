@@ -1,79 +1,9 @@
 [
     {
-        "name": "FR: CANAL+ GRAND ECRAN HD",
-        "id": "frcanalgrandecranhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/a-z/--C--/canal-plus-box-office-fr.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/485824",
-        "categories": [
-            "fr cinema"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: CANAL+ BOX OFFICE HD",
         "id": "frcanalboxofficehd",
         "logo": "http://sltv-icon.cms-s.com/logo/a-z/--C--/canal-plus-box-office-fr.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/485823",
-        "categories": [
-            "fr cinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CINE+ OCS HD",
-        "id": "frcineocshd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/OCSMAXHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/3971",
-        "categories": [
-            "fr cinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CINE+ OCS FHD",
-        "id": "frcineocsfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/OCSMAXHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/384433",
-        "categories": [
-            "fr cinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CINE+ EMOTION HD",
-        "id": "frcineemotionhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CINE+EMOTION.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/1474",
-        "categories": [
-            "fr cinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CINE+ FRISSON FHD",
-        "id": "frcinefrissonfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CINEFRISSON.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/144998",
-        "categories": [
-            "fr cinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CINE CLASSIC FHD",
-        "id": "frcineclassicfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINECLASSICHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/384828",
-        "categories": [
-            "fr cinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: ACTION HD",
-        "id": "fractionhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/ACTIONHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/2541",
         "categories": [
             "fr cinema"
         ],
@@ -90,20 +20,220 @@
         "country": ""
     },
     {
-        "name": "FR: CINE OFFICE 9 EPOUVANTE-HORREUR HD",
-        "id": "frcineoffice9epouvantehorreurhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%209%20EPOUVANTE-HORREUR%20HD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/212765",
+        "name": "FR: CINE+ FESTIVAL HD",
+        "id": "frcinefestivalhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CINEPREMIERE.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/1473",
         "categories": [
             "fr cinema"
         ],
         "country": ""
     },
     {
-        "name": "FR: CINE OFFICE 14 CONCERT HD",
-        "id": "frcineoffice14concerthd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%2014%20CONCERT%20HD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/247031",
+        "name": "FR: TCM CINEMA HD",
+        "id": "frtcmcinemahd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/TCMCINEMAHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/2544",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: NOLLYWOOD HD",
+        "id": "frnollywoodhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/NOLLYWOOD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/94565",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ GRAND ECRAN FHD",
+        "id": "frcanalgrandecranfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/Canal+_Grand_ecran.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/461065",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+  SERIES FHD",
+        "id": "frcanalseriesfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CANAL+SERIES.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/145002",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: COMEDIE+ HD",
+        "id": "frcomediehd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/COMEDIEHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/3813",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: WARNER TV HD",
+        "id": "frwarnertvhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/WARNER.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/130875",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: WARNER TV FHD",
+        "id": "frwarnertvfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/WARNER.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/188532",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR:  DISNEY CINEMA FHD",
+        "id": "frdisneycinemafhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/DISNEYCHANNELHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218571",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE OFFICE 1 ACTION HD",
+        "id": "frcineoffice1actionhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%201%20ACTION%20HD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/212571",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE OFFICE 2 COMEDY HD",
+        "id": "frcineoffice2comedyhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%202%20COMEDY%20HD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/212570",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE OFFICE 3 ARTS MARCIAUX HD",
+        "id": "frcineoffice3artsmarciauxhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%203%20ARTS%20MARCIAUX%20HD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/212572",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE OFFICE 4 BIOPIC HD",
+        "id": "frcineoffice4biopichd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%204%20BIOPIC%20HD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/212610",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE OFFICE 6 GUERRE HD",
+        "id": "frcineoffice6guerrehd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%206%20GUERRE%20HD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/212615",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE OFFICE 7 WALT DISNEY HD",
+        "id": "frcineoffice7waltdisneyhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%207%20WALT%20DISNEY%20HD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/212617",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE OFFICE 11 ACTION 2 HD",
+        "id": "frcineoffice11action2hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%2011%20ACTION%202%20HD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/213004",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE OFFICE 12 MANGAS HD",
+        "id": "frcineoffice12mangashd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%2012%20MANGAS%20HD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/237537",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE OFFICE 13 DRAME HD",
+        "id": "frcineoffice13dramehd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%2013%20DRAME%20HD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/238029",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANALPLAY 2",
+        "id": "frcanalplay2",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/canal_play.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/2127",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: A LA CARTE 1 HD",
+        "id": "fralacarte1hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/canal_play.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/3830",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: A LA CARTE 8 HD",
+        "id": "fralacarte8hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/canal_play.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/150671",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: A LA CARTE 9 HD",
+        "id": "fralacarte9hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/canal_play.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/150672",
         "categories": [
             "fr cinema"
         ],

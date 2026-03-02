@@ -407,6 +407,99 @@
         "country": "RU"
     },
     {
+        "name": "Amedia Hit",
+        "id": "AmediaHit.ru",
+        "logo": "https://i.imgur.com/a8ZBGBw.png",
+        "url": "http://31.148.48.15/Amedia_HIT_HD/index.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Amedia Premium",
+        "id": "AmediaPremium.ru",
+        "logo": "https://i.imgur.com/UUjehw9.png",
+        "url": "http://31.148.48.15/Amedia_Premium_HD/index.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "FAN",
+        "id": "FAN.ru",
+        "logo": "https://i.imgur.com/mDeTbaF.png",
+        "url": "http://31.148.48.15/Fan/index.m3u8",
+        "categories": [
+            "animation",
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Hollywood",
+        "id": "Hollywood.ru",
+        "logo": "https://i.imgur.com/1j7cT2I.png",
+        "url": "http://31.148.48.15/MGM_HD/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Kineko",
+        "id": "Kineko.ru",
+        "logo": "https://i.imgur.com/Otfvlmf.png",
+        "url": "http://31.148.48.15/Kineko_HD/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "KinoSat",
+        "id": "KinoSat.ru",
+        "logo": "https://i.imgur.com/7KsNvBz.png",
+        "url": "http://31.148.48.15/Kineko/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Rodnoe Kino",
+        "id": "RodnoeKino.ru",
+        "logo": "https://i.imgur.com/H70LxoZ.png",
+        "url": "http://31.148.48.15/Rodnoe_kino/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Russkiy Illusion",
+        "id": "RusskiyIllusion.ru",
+        "logo": "https://i.imgur.com/RlsqFN8.png",
+        "url": "http://31.148.48.15/Russkiy_illusion/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "viju TV1000 russkoe",
+        "id": "vijuTV1000russkoe.ru",
+        "logo": "https://i.imgur.com/Meak2y4.png",
+        "url": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "Abzy Movies",
         "id": "AbzyMovies.in",
         "logo": "https://i.imgur.com/LnVgKVF.png",
@@ -708,17 +801,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Cinema",
-        "id": "ZBCinema.in",
-        "logo": "https://i.imgur.com/kUg6WSk.jpeg",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-        "categories": [
-            "classic",
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Alankar TV",
         "id": "AlankarTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s142630_ld_h15_aa.png",
@@ -753,6 +835,96 @@
         "id": "RojaMovies.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
         "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Colors Bangla Cinema",
+        "id": "ColorsBanglaCinema.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142748_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0zo/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Colors Gujarati Cinema",
+        "id": "ColorsGujaratiCinema.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142751_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0zm/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Movies Now +",
+        "id": "MoviesNowPlus.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143548_ld_h15_aa.png",
+        "url": "http://116.90.120.128:8000/play/a0i4/index.m3u88",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Pix",
+        "id": "SonyPix.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a0ed/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Surya Movies",
+        "id": "SuryaMovies.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143885_ld_h15_ab.png",
+        "url": "http://111.88.78.21:8000/play/a0y0/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Udaya Movies",
+        "id": "UdayaMovies.in",
+        "logo": "https://dtil.tmsimg.com/assets/s144040_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0yy/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Vijay Super",
+        "id": "VijaySuper.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158319_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0te/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Biskope",
+        "id": "ZeeBiskope.in",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png",
+        "url": "http://116.90.120.128:8000/play/a0kf/index.m3u88",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Talkies",
+        "id": "ZeeTalkies.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S299.png",
+        "url": "http://116.90.120.128:8000/play/a0io/index.m3u88",
         "categories": [
             "movies"
         ],

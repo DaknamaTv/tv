@@ -1,15 +1,5 @@
 [
     {
-        "name": "FR: DISNEY CHANNEL+1 FHD",
-        "id": "frdisneychannel1fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/DISNEY%20CINEMA.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218601",
-        "categories": [
-            "fr enfant"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: BOOMERANG FHD",
         "id": "frboomerangfhd",
         "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/BOOMERANGHD.png",
@@ -20,80 +10,100 @@
         "country": ""
     },
     {
-        "name": "FR: NICKELODEON FHD",
-        "id": "frnickelodeonfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/NICKELODEONHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218574",
+        "name": "FR: DISNEY JUNIOR HD",
+        "id": "frdisneyjuniorhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/disney_junior.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/1954",
         "categories": [
             "fr enfant"
         ],
         "country": ""
     },
     {
-        "name": "FR: NICK JUNIOR HD",
-        "id": "frnickjuniorhd",
+        "name": "FR: NICK JUNIOR FHD",
+        "id": "frnickjuniorfhd",
         "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/NICKELODEONJUNIORHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/3808",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/602078",
         "categories": [
             "fr enfant"
         ],
         "country": ""
     },
     {
-        "name": "FR: NICKELODEON TEEN HD",
-        "id": "frnickelodeonteenhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/Nickelodeon_Teen.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/224548",
-        "categories": [
-            "fr enfant"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: WARNER TV NEXT HD",
-        "id": "frwarnertvnexthd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/BOINGHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/8562",
-        "categories": [
-            "fr enfant"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: WARNER TV NEXT FHD",
-        "id": "frwarnertvnextfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/BOINGHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218592",
-        "categories": [
-            "fr enfant"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: TELETOON+1 FHD",
-        "id": "frteletoon1fhd",
+        "name": "FR: TELETOON+ HD",
+        "id": "frteletoonhd",
         "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/TELETOON+HD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218639",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/1501",
         "categories": [
             "fr enfant"
         ],
         "country": ""
     },
     {
-        "name": "FR: GAME ONE FHD",
-        "id": "frgameonefhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/GAMEONEHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218607",
+        "name": "FR: TOONAMI HD",
+        "id": "frtoonamihd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/TOONAMIHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/94560",
         "categories": [
             "fr enfant"
         ],
         "country": ""
     },
     {
-        "name": "FR: CARTOON NETWORK HD",
-        "id": "frcartoonnetworkhd",
+        "name": "FR: CANAL J HD",
+        "id": "frcanaljhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CANALJHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/3828",
+        "categories": [
+            "fr enfant"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: J-ONE HD",
+        "id": "frjonehd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/J-ONEHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/94561",
+        "categories": [
+            "fr enfant"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: GULLI FHD",
+        "id": "frgullifhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/GULLI.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187828",
+        "categories": [
+            "fr enfant"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CARTOON NETWORK FHD",
+        "id": "frcartoonnetworkfhd",
         "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CARTOONNETWORKHD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/1502",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218564",
+        "categories": [
+            "fr enfant"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: PITCHOUN TV HD",
+        "id": "frpitchountvhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/Pitchoun.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/490908",
+        "categories": [
+            "fr enfant"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: IDF1 HD",
+        "id": "fridf1hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/idf1.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/212535",
         "categories": [
             "fr enfant"
         ],

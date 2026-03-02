@@ -528,16 +528,6 @@
         "country": "MX"
     },
     {
-        "name": "XHZHZ-TDT",
-        "id": "XHZHZTDT.mx",
-        "logo": "https://i.imgur.com/RxhABeK.png",
-        "url": "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "VB Media TV",
         "id": "VBMediaTV.mx",
         "logo": "https://i.imgur.com/5qlVblr.png",
@@ -783,6 +773,16 @@
         "logo": "https://i.imgur.com/H34quHQ.png",
         "url": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",
         "categories": [],
+        "country": "MX"
+    },
+    {
+        "name": "Eclipse TV",
+        "id": "EclipseTV.mx",
+        "logo": "https://i.imgur.com/GiDD8xG.jpg",
+        "url": "https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "MX"
     }
 ]

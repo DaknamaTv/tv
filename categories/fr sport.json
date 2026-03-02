@@ -1,25 +1,5 @@
 [
     {
-        "name": "FR: CANAL+ FOOT HD",
-        "id": "frcanalfoothd",
-        "logo": "http://sltv-icon.cms-s.com/logo/a-z/--C--/canal-plus-foot-fr.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/463932",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: LIGUE 1+ HD ( VENDREDI MATCH )",
-        "id": "frligue1hdvendredimatch",
-        "logo": "https://img1.dc2.oqee.net/channel_pictures/3526/w480",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/548767",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: LIGUE 1+ HD ( DIMANCHE 4ÈME MATCH )",
         "id": "frligue1hddimanche4mematch",
         "logo": "https://img1.dc2.oqee.net/channel_pictures/3526/w480",
@@ -40,16 +20,6 @@
         "country": ""
     },
     {
-        "name": "FR: LIGUE 1+ 8 FHD",
-        "id": "frligue18fhd",
-        "logo": "",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/622016",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: CANAL+ LIVE 2 HD",
         "id": "frcanallive2hd",
         "logo": "https://noos.vip/logo/FR/canalpluslive2.png",
@@ -60,150 +30,10 @@
         "country": ""
     },
     {
-        "name": "FR: CANAL+ LIVE 4 HD",
-        "id": "frcanallive4hd",
-        "logo": "https://noos.vip/logo/FR/canalpluslive4.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544779",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CANAL+ LIVE 5 FHD",
-        "id": "frcanallive5fhd",
-        "logo": "https://noos.vip/logo/FR/canalpluslive5.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544778",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CANAL+ LIVE 7 HD",
-        "id": "frcanallive7hd",
-        "logo": "https://noos.vip/logo/FR/canalpluslive7.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544773",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CANAL+ LIVE 9 FHD",
-        "id": "frcanallive9fhd",
-        "logo": "https://noos.vip/logo/FR/canalpluslive9.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544770",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CANAL+ LIVE 9 HD",
-        "id": "frcanallive9hd",
-        "logo": "https://noos.vip/logo/FR/canalpluslive9.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544769",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CANAL+ LIVE 11 FHD",
-        "id": "frcanallive11fhd",
-        "logo": "https://noos.vip/logo/FR/canalpluslive10.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544766",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CANAL+ LIVE 11 HD",
-        "id": "frcanallive11hd",
-        "logo": "https://noos.vip/logo/FR/canalpluslive10.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544765",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CANAL+ LIVE 13 FHD",
-        "id": "frcanallive13fhd",
-        "logo": "https://noos.vip/logo/FR/canalpluslive13.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544762",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CANAL+ LIVE 15 FHD",
-        "id": "frcanallive15fhd",
-        "logo": "https://noos.vip/logo/FR/canalpluslive15.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544758",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: |VIP| CANAL+ SPORT 3 HD",
-        "id": "frvipcanalsport3hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CANAL+SPORT.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/516161",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: |VIP| CANAL+ SPORT 4 HD",
-        "id": "frvipcanalsport4hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CANAL+SPORT.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/516160",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: |VIP| CANAL+ SPORT 5 HD",
-        "id": "frvipcanalsport5hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CANAL+SPORT.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/516159",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: BEIN SPORT 2 FHD",
-        "id": "frbeinsport2fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_2.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187812",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: BEIN SPORT MAX 5 FHD",
         "id": "frbeinsportmax5fhd",
         "logo": "http://sltv-icon.cms-s.com/logo/BEIN/BEINSPORT51.2MB.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187746",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: BEIN SPORT MAX 6 FHD",
-        "id": "frbeinsportmax6fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/BEIN/BEINSPORT61.2MB.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187745",
         "categories": [
             "fr sport"
         ],
@@ -230,40 +60,10 @@
         "country": ""
     },
     {
-        "name": "FR: BEIN SPORT MAX  HD 10",
-        "id": "frbeinsportmaxhd10",
-        "logo": "http://sltv-icon.cms-s.com/logo/BEIN/BEINSPORT101.2MB.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187741",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: INFOSPORT+ HD",
         "id": "frinfosporthd",
         "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/INFOSPORT+HD.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/384462",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: RMC SPORT 2 FHD",
-        "id": "frrmcsport2fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/RMCSPORT2.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/174965",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: RMC SPORT 5 HD",
-        "id": "frrmcsport5hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/RMCSPORT5HD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/209453",
         "categories": [
             "fr sport"
         ],
@@ -280,16 +80,6 @@
         "country": ""
     },
     {
-        "name": "FR: EUROSPORT 360 8 HD",
-        "id": "freurosport3608hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/Eurosport_360.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/474768",
-        "categories": [
-            "fr sport"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR:  AUTOMOTO TV",
         "id": "frautomototv",
         "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/Automoto%20La%20chaine.png",
@@ -300,20 +90,270 @@
         "country": ""
     },
     {
-        "name": "FR: GOLF CHANNEL FHD",
-        "id": "frgolfchannelfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/GOLF+HD.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218687",
+        "name": "FR: CANAL+ SPORT 360 FHD",
+        "id": "frcanalsport360fhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187545",
         "categories": [
             "fr sport"
         ],
         "country": ""
     },
     {
-        "name": "FR: NAUTICAL TV HD",
-        "id": "frnauticaltvhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/NAUTICAL-TV.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/490910",
+        "name": "FR: LIGUE 1+ FHD ( SAMEDI MATCH 2 )",
+        "id": "frligue1fhdsamedimatch2",
+        "logo": "https://img1.dc2.oqee.net/channel_pictures/3526/w480",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/548762",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: LIGUE 1+ HD ( DIMANCHE 1ER MATCH )",
+        "id": "frligue1hddimanche1ermatch",
+        "logo": "https://img1.dc2.oqee.net/channel_pictures/3526/w480",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/548759",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: LIGUE 1+ HD ( DIMANCHE 3ÈME MATCH )",
+        "id": "frligue1hddimanche3mematch",
+        "logo": "https://img1.dc2.oqee.net/channel_pictures/3526/w480",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/548755",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: LIGUE 1+ FHD ( DIMANCHE 3EME MATCH )",
+        "id": "frligue1fhddimanche3emematch",
+        "logo": "https://img1.dc2.oqee.net/channel_pictures/3526/w480",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/548754",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: LIGUE 1+ 7 FHD",
+        "id": "frligue17fhd",
+        "logo": "",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/622018",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ LIVE 1 FHD",
+        "id": "frcanallive1fhd",
+        "logo": "https://noos.vip/logo/FR/canalpluslive1.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544786",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ LIVE 1 HD",
+        "id": "frcanallive1hd",
+        "logo": "https://noos.vip/logo/FR/canalpluslive1.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544785",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ LIVE 5 HD",
+        "id": "frcanallive5hd",
+        "logo": "https://noos.vip/logo/FR/canalpluslive5.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544777",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ LIVE 8 FHD",
+        "id": "frcanallive8fhd",
+        "logo": "https://noos.vip/logo/FR/canalpluslive8.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544772",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ LIVE 8 HD",
+        "id": "frcanallive8hd",
+        "logo": "https://noos.vip/logo/FR/canalpluslive8.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544771",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ LIVE 10 FHD",
+        "id": "frcanallive10fhd",
+        "logo": "https://noos.vip/logo/FR/canalpluslive10.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544768",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ LIVE 10 HD",
+        "id": "frcanallive10hd",
+        "logo": "https://noos.vip/logo/FR/canalpluslive10.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544767",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ LIVE 16 FHD",
+        "id": "frcanallive16fhd",
+        "logo": "https://noos.vip/logo/FR/canalpluslive16.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544756",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ LIVE 17 FHD",
+        "id": "frcanallive17fhd",
+        "logo": "https://noos.vip/logo/FR/canalpluslive17.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/544754",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ MOTO GP HD",
+        "id": "frcanalmotogphd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/canal+moto-gp.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/553250",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: BEIN SPORT 1 FHD",
+        "id": "frbeinsport1fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_1.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187813",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: BEIN SPORT 3 FHD",
+        "id": "frbeinsport3fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_3.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187811",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: BEIN SPORT MAX HD 6",
+        "id": "frbeinsportmaxhd6",
+        "logo": "http://sltv-icon.cms-s.com/logo/BEIN/BEINSPORT61.2MB.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/8567",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: BEIN SPORT MAX HD 7",
+        "id": "frbeinsportmaxhd7",
+        "logo": "http://sltv-icon.cms-s.com/logo/BEIN/BEINSPORT71.2MB.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/73482",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: L'EQUIPE 21 FHD",
+        "id": "frlequipe21fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/l_equipe21.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/384461",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: RMC SPORT  4 FHD",
+        "id": "frrmcsport4fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/RMCSPORT4.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/176136",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: RMC SPORT LIVE 6",
+        "id": "frrmcsportlive6",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/rmc-sport-live-6.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187797",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: RMC SPORT LIVE 7",
+        "id": "frrmcsportlive7",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/RMCSPORTLIVE7.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/187796",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: AUTOMOTO LA CHAINE FHD",
+        "id": "frautomotolachainefhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/AUTOMOTO.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/188511",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: BFM GRAND LILLE HD",
+        "id": "frbfmgrandlillehd",
+        "logo": "",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/88284",
+        "categories": [
+            "fr sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: EQUIDIA LIVE HD",
+        "id": "frequidialivehd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/EQUIDIAHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/557163",
         "categories": [
             "fr sport"
         ],

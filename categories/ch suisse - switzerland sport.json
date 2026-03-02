@@ -1,45 +1,5 @@
 [
     {
-        "name": "CH: BLUE ZOOM D HD",
-        "id": "chbluezoomdhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/teleclub_zoom.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/133924",
-        "categories": [
-            "ch suisse - switzerland sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CH: VIP BLUE SPORT EVENT 1 FHD",
-        "id": "chvipbluesportevent1fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/SWITZERLAND/blueSport1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/444171",
-        "categories": [
-            "ch suisse - switzerland sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CH: VIP BLUE SPORT EVENT 9 FHD",
-        "id": "chvipbluesportevent9fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/SWITZERLAND/blueSport9.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/548741",
-        "categories": [
-            "ch suisse - switzerland sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CH: VIP BLUE SPORT EVENT 14 FHD",
-        "id": "chvipbluesportevent14fhd",
-        "logo": "https://sltv-icon.cms-s.com/logo/SWITZERLAND/blueSport14.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/598818",
-        "categories": [
-            "ch suisse - switzerland sport"
-        ],
-        "country": ""
-    },
-    {
         "name": "CH: VIP MYSPORTS 1 HD (EN FRANCAIS)",
         "id": "chvipmysports1hdenfrancais",
         "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_1.png",
@@ -50,20 +10,70 @@
         "country": ""
     },
     {
-        "name": "CH: MYSPORTS 2 HD",
-        "id": "chmysports2hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_2.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/339599",
+        "name": "CH: BLUE SPORT D 1 FHD",
+        "id": "chbluesportd1fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/SWITZERLAND/blueSport1.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/133920",
         "categories": [
             "ch suisse - switzerland sport"
         ],
         "country": ""
     },
     {
-        "name": "CH: VIP MYSPORTS 3 HD (EN FRANCAIS)",
-        "id": "chvipmysports3hdenfrancais",
+        "name": "CH: BLUE SPORT D 2 HD",
+        "id": "chbluesportd2hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/SWITZERLAND/blueSport2.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/295525",
+        "categories": [
+            "ch suisse - switzerland sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: VIP BLUE SPORT EVENT 7 FHD",
+        "id": "chvipbluesportevent7fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/SWITZERLAND/blueSport7.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/548743",
+        "categories": [
+            "ch suisse - switzerland sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: VIP BLUE SPORT EVENT 11 FHD",
+        "id": "chvipbluesportevent11fhd",
+        "logo": "https://sltv-icon.cms-s.com/logo/SWITZERLAND/blueSport11.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/598821",
+        "categories": [
+            "ch suisse - switzerland sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: MYSPORTS 3 HD",
+        "id": "chmysports3hd",
         "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_3.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/227541",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/339597",
+        "categories": [
+            "ch suisse - switzerland sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: MYSPORTS 4 HD",
+        "id": "chmysports4hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_4.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/339596",
+        "categories": [
+            "ch suisse - switzerland sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: VIP MYSPORTS 6 HD (EN FRANCAIS)",
+        "id": "chvipmysports6hdenfrancais",
+        "logo": "http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_6.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/227544",
         "categories": [
             "ch suisse - switzerland sport"
         ],

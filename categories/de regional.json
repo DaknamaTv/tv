@@ -1,15 +1,5 @@
 [
     {
-        "name": "DE: ----- REGIONAL -----",
-        "id": "deregional",
-        "logo": "http://sltv-icon.cms-s.com/logo/flag/ger.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486822",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: SR FERNSEHEN HD",
         "id": "desrfernsehenhd",
         "logo": "http://sltv-icon.cms-s.com/logo/germanynew/sr_fernsehen.png",
@@ -34,26 +24,6 @@
         "id": "derbbberlin",
         "logo": "http://sltv-icon.cms-s.com/logo/germanynew/rbb.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/250739",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: SAT 1 BAYERN",
-        "id": "desat1bayern",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/SAT1-Bayern.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/550880",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: SWR RP",
-        "id": "deswrrp",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/swr_bw.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/375197",
         "categories": [
             "de regional"
         ],
@@ -100,110 +70,10 @@
         "country": ""
     },
     {
-        "name": "DE: WDR DUSSELDORF",
-        "id": "dewdrdusseldorf",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/wdr.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/483966",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: ALLGÄU.TV",
-        "id": "deallgutv",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/Allg%c3%a4u_TV.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486791",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: FRANKEN FERNSEHEN",
-        "id": "defrankenfernsehen",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/Franken_Fernsehen.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486794",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: NAHE TV",
-        "id": "denahetv",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/NaheTV.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486778",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: NRWISION",
-        "id": "denrwision",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/nrwision.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/487558",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: NIEDERBAYERN TV DEGGENDORF STRAUBING",
-        "id": "deniederbayerntvdeggendorfstraubing",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/Niederbayern_TV_Deggendorf_Straubing.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486797",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: NIEDERBAYERN TV LANDSHUT",
-        "id": "deniederbayerntvlandshut",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/Niederbayern_TV_landshut.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486796",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: NIEDERBAYERN TV PASSAU",
         "id": "deniederbayerntvpassau",
         "logo": "http://sltv-icon.cms-s.com/logo/germanynew/Niederbayern_TV_Passau.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486795",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: OK4",
-        "id": "deok4",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/Offener_Kanal_ok4.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486783",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: OK KAISERSLAUTERN",
-        "id": "deokkaiserslautern",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/ok-kaiserslautern.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486780",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: OK SÜDWESTPFALZ",
-        "id": "deoksdwestpfalz",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/ok-s%c3%bcdwestpfalz.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486776",
         "categories": [
             "de regional"
         ],
@@ -220,16 +90,6 @@
         "country": ""
     },
     {
-        "name": "DE: PUNKTUM",
-        "id": "depunktum",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/punktUm.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/487559",
-        "categories": [
-            "de regional"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: RADIO BREMEN TV",
         "id": "deradiobrementv",
         "logo": "http://sltv-icon.cms-s.com/logo/germanynew/Radio_Bremen_TV.png",
@@ -240,20 +100,130 @@
         "country": ""
     },
     {
-        "name": "DE: RBW",
-        "id": "derbw",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/rbw.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/552224",
+        "name": "DE: RHEIN LOKAL",
+        "id": "derheinlokal",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/rheinLokal.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486777",
         "categories": [
             "de regional"
         ],
         "country": ""
     },
     {
-        "name": "DE: RHEIN LOKAL",
-        "id": "derheinlokal",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/rheinLokal.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486777",
+        "name": "DE: RTL NORD HH SH",
+        "id": "dertlnordhhsh",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/rtl-hh-sh.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/513321",
+        "categories": [
+            "de regional"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: RTL NRW",
+        "id": "dertlnrw",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/rtl-nrw.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/513323",
+        "categories": [
+            "de regional"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SAT 1 NRW",
+        "id": "desat1nrw",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/SAT1-NRW.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/550875",
+        "categories": [
+            "de regional"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SAT 1 RHLPF HESSEN",
+        "id": "desat1rhlpfhessen",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/SAT1%20RhlPf-Hessen.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/550873",
+        "categories": [
+            "de regional"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: WDR BIELEFELD",
+        "id": "dewdrbielefeld",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/wdr.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/483970",
+        "categories": [
+            "de regional"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: WDR SIEGEN",
+        "id": "dewdrsiegen",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/wdr.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/483963",
+        "categories": [
+            "de regional"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: ALEX OFFENER KANAL BERLIN",
+        "id": "dealexoffenerkanalberlin",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/Alex_Offener_Kanal_Berlin.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486787",
+        "categories": [
+            "de regional"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: LAUSITZWELLE",
+        "id": "delausitzwelle",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/lausitzwelle.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486813",
+        "categories": [
+            "de regional"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: REGIO TV STUTTGART",
+        "id": "deregiotvstuttgart",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/regiTVStuttgart.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486818",
+        "categories": [
+            "de regional"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SACHSEN FERNSEHEN EINS",
+        "id": "desachsenfernseheneins",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/sachsenFernsehenEins.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486812",
+        "categories": [
+            "de regional"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: STUDIO 47",
+        "id": "destudio47",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/studio47.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/486815",
+        "categories": [
+            "de regional"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: TV.INGOLSTADT",
+        "id": "detvingolstadt",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/tvIngolstadt.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/487219",
         "categories": [
             "de regional"
         ],

@@ -1,9 +1,49 @@
 [
     {
-        "name": "TR: HABER MOZAIK HD",
-        "id": "trhabermozaikhd",
-        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/mozaikHaberl.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/624301",
+        "name": "TR: BENGUTURK TV HD",
+        "id": "trbenguturktvhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/benguturk.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/132737",
+        "categories": [
+            "tr haber"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: 24 TV FHD",
+        "id": "tr24tvfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/24_tv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/134410",
+        "categories": [
+            "tr haber"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: FLASH HABER HD",
+        "id": "trflashhaberhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/flashTv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/384157",
+        "categories": [
+            "tr haber"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: EKOL TV HD",
+        "id": "trekoltvhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/ekolTV.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/534125",
+        "categories": [
+            "tr haber"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: EKO TURK HD",
+        "id": "trekoturkhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/ekoturk.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/226515",
         "categories": [
             "tr haber"
         ],

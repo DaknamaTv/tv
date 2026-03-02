@@ -1,129 +1,99 @@
 [
     {
-        "name": "DE: VIP DAZN 1 HD++",
-        "id": "devipdazn1hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/583149",
-        "categories": [
-            "de vip sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: VIP DAZN 1 FHD",
-        "id": "devipdazn1fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/378118",
-        "categories": [
-            "de vip sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: VIP DAZN EVENT 8 HD (SPIELZEIT)",
-        "id": "devipdaznevent8hdspielzeit",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/dazn8.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/390459",
-        "categories": [
-            "de vip sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: VIP DAZN EVENT 12 HD (SPIELZEIT)",
-        "id": "devipdaznevent12hdspielzeit",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/dazn12.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/390455",
-        "categories": [
-            "de vip sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: VIP DAZN EVENT 18 HD (SPIELZEIT)",
-        "id": "devipdaznevent18hdspielzeit",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/dazn18.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/540841",
-        "categories": [
-            "de vip sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: VIP DAZN EVENT 21 HD (SPIELZEIT)",
-        "id": "devipdaznevent21hdspielzeit",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/dazn21.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/598793",
-        "categories": [
-            "de vip sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: ----- VIP SKY SPORT -----",
-        "id": "devipskysport",
-        "logo": "http://sltv-icon.cms-s.com/logo/flag/ger.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/553151",
-        "categories": [
-            "de vip sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: VIP SKY SPORT 10 HD (SPIELZEIT)",
-        "id": "devipskysport10hdspielzeit",
-        "logo": "http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_10.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/378143",
-        "categories": [
-            "de vip sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: VIP SKY SPORT 11 HD (SPIELZEIT)",
-        "id": "devipskysport11hdspielzeit",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/skySport11.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/395373",
-        "categories": [
-            "de vip sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: VIP SKY SPORT AUSTRIA 4 HD (SPIELZEIT)",
-        "id": "devipskysportaustria4hdspielzeit",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/378138",
-        "categories": [
-            "de vip sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: VIP SKY SPORT AUSTRIA 7 HD (SPIELZEIT)",
-        "id": "devipskysportaustria7hdspielzeit",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/380720",
-        "categories": [
-            "de vip sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: VIP MAGENTA SPORT 7 HD",
-        "id": "devipmagentasport7hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/germany/telekomsport.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/390483",
-        "categories": [
-            "de vip sport"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: VIP MAGENTA SPORT 15 HD",
         "id": "devipmagentasport15hd",
         "logo": "http://sltv-icon.cms-s.com/logo/germany/telekomsport.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/390475",
+        "categories": [
+            "de vip sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: ----- VIP CHAMPIONS LEAGUE -----",
+        "id": "devipchampionsleague",
+        "logo": "http://sltv-icon.cms-s.com/logo/flag/ger.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/553153",
+        "categories": [
+            "de vip sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: VIP DAZN 1 SD",
+        "id": "devipdazn1sd",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_1.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/623282",
+        "categories": [
+            "de vip sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: VIP DAZN EVENT 15 HD (SPIELZEIT)",
+        "id": "devipdaznevent15hdspielzeit",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/dazn15.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/390452",
+        "categories": [
+            "de vip sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: VIP DAZN EVENT 27 HD (SPIELZEIT)",
+        "id": "devipdaznevent27hdspielzeit",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/dazn27.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/606494",
+        "categories": [
+            "de vip sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: VIP DAZN EVENT 30 HD (SPIELZEIT)",
+        "id": "devipdaznevent30hdspielzeit",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/dazn30.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/606491",
+        "categories": [
+            "de vip sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: VIP SKY SPORT 7 HD (SPIELZEIT)",
+        "id": "devipskysport7hdspielzeit",
+        "logo": "http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_7.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/378146",
+        "categories": [
+            "de vip sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: ----- VIP MAGENTA SPORT -----",
+        "id": "devipmagentasport",
+        "logo": "http://sltv-icon.cms-s.com/logo/flag/ger.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/553150",
+        "categories": [
+            "de vip sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: VIP MAGENTA SPORT 9 HD",
+        "id": "devipmagentasport9hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/germany/telekomsport.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/390481",
+        "categories": [
+            "de vip sport"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: VIP MAGENTA SPORT 14 HD",
+        "id": "devipmagentasport14hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/germany/telekomsport.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/390476",
         "categories": [
             "de vip sport"
         ],

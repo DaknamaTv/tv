@@ -1,29 +1,79 @@
 [
     {
-        "name": "TR: NATIONAL GEO FHD",
-        "id": "trnationalgeofhd",
+        "name": "TR: TRT BELGESEL HD",
+        "id": "trtrtbelgeselhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/trt_belgesel.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/1029",
+        "categories": [
+            "tr belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: DMAX HD",
+        "id": "trdmaxhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/dmax.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/2106",
+        "categories": [
+            "tr belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: NATIONAL GEO HD",
+        "id": "trnationalgeohd",
         "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/national_geo.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/301271",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/2629",
         "categories": [
             "tr belgesel"
         ],
         "country": ""
     },
     {
-        "name": "TR: NATIONAL GEO WILD FHD",
-        "id": "trnationalgeowildfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/national_geo_wild.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/240520",
+        "name": "TR: VIASAT EXPLORE",
+        "id": "trviasatexplore",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/viasatExplore.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/350384",
         "categories": [
             "tr belgesel"
         ],
         "country": ""
     },
     {
-        "name": "TR: ID XTRA",
-        "id": "tridxtra",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/idxtrahd.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/289003",
+        "name": "TR: TARIM TV HD",
+        "id": "trtarimtvhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tarim_turk.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/244152",
+        "categories": [
+            "tr belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: EMAX HD",
+        "id": "tremaxhd",
+        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/emax.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/598932",
+        "categories": [
+            "tr belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: CIFTCI TV",
+        "id": "trciftcitv",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/ciftci_tv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/305",
+        "categories": [
+            "tr belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: SILK WAY HD",
+        "id": "trsilkwayhd",
+        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/SILK WAY.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/644536",
         "categories": [
             "tr belgesel"
         ],

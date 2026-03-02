@@ -2728,6 +2728,46 @@
         "country": "IN"
     },
     {
+        "name": "JK 24x7 News",
+        "id": "JK24x7News.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png",
+        "url": "https://live.gulistannews.in/hls/jk.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Prudent Media",
+        "id": "PrudentMedia.in",
+        "logo": "https://i.imgur.com/DG0x4UD.png",
+        "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "RDX Goa",
+        "id": "RDXGoa.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
+        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sun News",
+        "id": "SunNews.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143877_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0ys/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "CityNews Toronto",
         "id": "CityNewsToronto.ca",
         "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
@@ -2798,20 +2838,20 @@
         "country": "CA"
     },
     {
-        "name": "TV Punjab",
-        "id": "TVPunjab.ca",
-        "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
-        "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
+        "name": "CityNews Edmonton",
+        "id": "CityNewsEdmonton.ca",
+        "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
         "categories": [
             "news"
         ],
         "country": "CA"
     },
     {
-        "name": "CityNews Edmonton",
-        "id": "CityNewsEdmonton.ca",
-        "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
-        "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
+        "name": "TV Punjab",
+        "id": "TVPunjab.ca",
+        "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=FKWvIiyQPz8",
         "categories": [
             "news"
         ],
@@ -3110,17 +3150,6 @@
         "country": "VN"
     },
     {
-        "name": "Vinh Long TV 1",
-        "id": "VinhLongTV1.vn",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "VTV",
         "id": "VTV.mv",
         "logo": "https://i.imgur.com/6bY9Umo.png",
@@ -3336,6 +3365,16 @@
         "id": "EcotelTV.ec",
         "logo": "https://i.imgur.com/pVlZUSV.png",
         "url": "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "RTU",
+        "id": "RTU.ec",
+        "logo": "https://i.imgur.com/1OWvMP4.png",
+        "url": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
         "categories": [
             "news"
         ],
@@ -3711,16 +3750,6 @@
         "country": "PE"
     },
     {
-        "name": "RCR",
-        "id": "RCR.pe",
-        "logo": "https://i.imgur.com/A8TRPrF.png",
-        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Fresh News",
         "id": "FreshNews.kh",
         "logo": "https://i.imgur.com/bV6sawt.png",
@@ -3771,20 +3800,20 @@
         "country": "PY"
     },
     {
-        "name": "C9N",
-        "id": "C9N.py",
-        "logo": "https://i.imgur.com/Cp4zJ7O.png",
-        "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Al Najah News",
         "id": "AlNajahNews.ps",
         "logo": "https://i.imgur.com/c2bwn4G.png",
         "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PS"
+    },
+    {
+        "name": "Nablus TV",
+        "id": "NablusTV.ps",
+        "logo": "https://i.imgur.com/GoLhaDK.png",
+        "url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8",
         "categories": [
             "news"
         ],
@@ -4087,16 +4116,6 @@
         "id": "ALWifakNewsTV.lb",
         "logo": "https://i.imgur.com/1vqhmNz.png",
         "url": "http://alwifaklive.info:1935/live/myStream/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "LB"
-    },
-    {
-        "name": "Palestine Al Yawm",
-        "id": "PalestineAlYawm.lb",
-        "logo": "https://i.imgur.com/n8dSgx4.png",
-        "url": "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8",
         "categories": [
             "news"
         ],

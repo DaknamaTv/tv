@@ -685,6 +685,46 @@
         "country": "RU"
     },
     {
+        "name": "Muzyka Live",
+        "id": "MuzykaLive.ru",
+        "logo": "https://i.imgur.com/RH6hTWG.png",
+        "url": "http://31.148.48.15/La-Minor_TV/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "RU.TV",
+        "id": "RUTV.ru",
+        "logo": "https://i.imgur.com/Z7HUU7V.png",
+        "url": "http://31.148.48.15/RU_TV/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Shanson TV",
+        "id": "ShansonTV.ru",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Zhara",
+        "id": "Zhara.ru",
+        "logo": "https://i.imgur.com/41K9Y2s.png",
+        "url": "http://31.148.48.15/Zhara/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "Nueva Vida FM",
         "id": "NuevaVidaFM.pr",
         "logo": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
@@ -1070,6 +1110,27 @@
         "id": "VaanavilTV.in",
         "logo": "https://i.imgur.com/etr1k08.png",
         "url": "http://198.27.83.207:2550/VAANAVIL_SD/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sun Life",
+        "id": "SunLife.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143873_ld_h15_ab.png",
+        "url": "http://111.88.78.21:8000/play/a0z3/index.m3u8",
+        "categories": [
+            "entertainment",
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Vijay Takkar",
+        "id": "VijayTakkar.in",
+        "logo": "https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0xx/index.m3u8",
         "categories": [
             "music"
         ],
@@ -2365,6 +2426,16 @@
         "country": "PE"
     },
     {
+        "name": "La Fabulosa TV",
+        "id": "LaFabulosaTV.pe",
+        "logo": "https://i.imgur.com/GjME5H0.png",
+        "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
         "name": "D Music",
         "id": "DMusic.kh",
         "logo": "https://www.lyngsat.com/logo/tv/dd/d-music-kh.png",
@@ -3148,16 +3219,6 @@
             "music"
         ],
         "country": "PH"
-    },
-    {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
     },
     {
         "name": "Couleur 3",

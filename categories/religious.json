@@ -1,15 +1,5 @@
 [
     {
-        "name": "TVCARiB Gospel",
-        "id": "TVCARiBGospel.sx",
-        "logo": "https://i.imgur.com/fvGlwKo.png",
-        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "SX"
-    },
-    {
         "name": "Mission Asia",
         "id": "MissionAsia.au",
         "logo": "https://i.imgur.com/B5mKwF6.png",
@@ -94,26 +84,6 @@
         "id": "AssiratTV.ir",
         "logo": "https://i.imgur.com/ps4Gtj0.png",
         "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "RasoulallahTv",
-        "id": "RasoulallahTv.ir",
-        "logo": "https://i.imgur.com/Jh5ADee.png",
-        "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "WiseHumanTv",
-        "id": "WiseHumanTv.ir",
-        "logo": "https://i.imgur.com/BT7EtfB.png",
-        "url": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -721,6 +691,16 @@
         "id": "FamiliaVisionHD.pr",
         "logo": "https://i.imgur.com/uqTH7m5.jpg",
         "url": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PR"
+    },
+    {
+        "name": "DNJ TV",
+        "id": "DNJTV.pr",
+        "logo": "https://i.imgur.com/YqTcGJZ.png",
+        "url": "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -1338,6 +1318,26 @@
         "country": "IN"
     },
     {
+        "name": "Jothi TV",
+        "id": "JothiTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143239_ld_h15_aa.png",
+        "url": "http://111.88.78.21:8000/play/a0yr/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Namdhari TV",
+        "id": "NamdhariTV.in",
+        "logo": "https://i.imgur.com/NalsXTo.png",
+        "url": "https://namdhari.tv/live/sbs1.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "EMCI TV America",
         "id": "EMCITVAmerica.ca",
         "logo": "",
@@ -1668,6 +1668,16 @@
         "country": "SI"
     },
     {
+        "name": "CNA",
+        "id": "CNA.dz",
+        "logo": "https://i.imgur.com/Ki3ySUE.png",
+        "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "DZ"
+    },
+    {
         "name": "Light Channel",
         "id": "LightChannel.bg",
         "logo": "https://i.imgur.com/S3Fbf8T.png",
@@ -1682,16 +1692,6 @@
         "id": "HopeChannelBulgaria.bg",
         "logo": "https://i.imgur.com/bxzeEML.png",
         "url": "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BG"
-    },
-    {
-        "name": "Plovdiv Orthodox TV",
-        "id": "PlovdivOrthodoxTV.bg",
-        "logo": "",
-        "url": "http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2129,6 +2129,16 @@
         "country": "HT"
     },
     {
+        "name": "Radio Tele Full Gospel",
+        "id": "RadioTeleFullGospel.ht",
+        "logo": "https://i.imgur.com/WbwIp9y.jpeg",
+        "url": "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "HT"
+    },
+    {
         "name": "IeanJesus Ecuador",
         "id": "IeanJesusEcuador.ec",
         "logo": "https://i.imgur.com/TyckDSV.png",
@@ -2253,16 +2263,6 @@
         "id": "ImamHusseinTV4.iq",
         "logo": "https://i.imgur.com/0UYcylY.png",
         "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "FarmodaTV",
-        "id": "FarmodaTV.iq",
-        "logo": "https://i.imgur.com/x4KCQlH.png",
-        "url": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2699,16 +2699,6 @@
             "religious"
         ],
         "country": "PL"
-    },
-    {
-        "name": "Boonniyom TV",
-        "id": "BoonniyomTV.th",
-        "logo": "https://i.imgur.com/KvdFCD5.png",
-        "url": "https://live.x2.co.th/live/bntv.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "TH"
     },
     {
         "name": "TV Muslim Thailand",
@@ -4406,16 +4396,6 @@
         "id": "MajestadTV.us",
         "logo": "https://i.imgur.com/BJhrvtL.png",
         "url": "https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "JBS",
-        "id": "JBS.us",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
-        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
         "categories": [
             "religious"
         ],
