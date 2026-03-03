@@ -1,319 +1,109 @@
 [
     {
-        "name": "TR: EUROSPORT 1",
-        "id": "treurosport1",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/eurosport1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/7177",
+        "name": "TR: NBA TV HD",
+        "id": "trnbatvhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/nba_tv.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/13245",
         "categories": [
             "tr spor"
         ],
         "country": ""
     },
     {
-        "name": "TR: EUROSPORT 2",
-        "id": "treurosport2",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/eurosport2.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/7178",
+        "name": "TR: SPORTS TV",
+        "id": "trsportstv",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/sports_tv.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/2105",
         "categories": [
             "tr spor"
         ],
         "country": ""
     },
     {
-        "name": "TR: FIGHT NETWORK",
-        "id": "trfightnetwork",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/Fight_network.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/423772",
+        "name": "TR: FIGHTBOX",
+        "id": "trfightbox",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/fightbox.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/240517",
         "categories": [
             "tr spor"
         ],
         "country": ""
     },
     {
-        "name": "TR: UFC FIGHT PASS",
-        "id": "trufcfightpass",
-        "logo": "http://sltv-icon.cms-s.com/logo/USA/UFCFIGHTPASS.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/423894",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: BEIN SPORTS 1 4K - UHD (MAC ZAMANI)",
-        "id": "trbeinsports14kuhdmaczamani",
+        "name": "TR: BEIN SPORTS 1 HD (MAC ZAMANI)",
+        "id": "trbeinsports1hdmaczamani",
         "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/269994",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/374534",
         "categories": [
             "tr spor"
         ],
         "country": ""
     },
     {
-        "name": "TR: BEIN SPORTS 4 FHD",
-        "id": "trbeinsports4fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_4.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/7597",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: BEIN SPORTS MAX 1  FHD",
-        "id": "trbeinsportsmax1fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_max_1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/162818",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TIVIBU SPOR 3 FHD",
-        "id": "trtivibuspor3fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tivibuSpor_3.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/386687",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TRT SPOR FHD",
-        "id": "trtrtsporfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/trt_spor.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/128288",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: EKOL SPORTS HD",
-        "id": "trekolsportshd",
-        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/ekolSports.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/622010",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: BEIN SPORTS HABER",
-        "id": "trbeinsportshaber",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sp_haber.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/383650",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: BEIN SPORTS 1 SD",
-        "id": "trbeinsports1sd",
+        "name": "TR: BEIN SPORTS 1 FHD",
+        "id": "trbeinsports1fhd",
         "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/138607",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/269058",
         "categories": [
             "tr spor"
         ],
         "country": ""
     },
     {
-        "name": "TR: BEIN SPORTS 3 FHD",
-        "id": "trbeinsports3fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_3.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/7596",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: BEIN SPORTS MAX 2 FHD",
-        "id": "trbeinsportsmax2fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_max_2.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/162819",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TIVIBU SPOR FHD",
-        "id": "trtivibusporfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tivibuSpor.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/1468",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TIVIBU SPOR 1 FHD",
-        "id": "trtivibuspor1fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tivibuSpor1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/6049",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TIVIBU SPOR 4 FHD",
-        "id": "trtivibuspor4fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tivibuSpor4.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/399025",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: S SPORT HD",
-        "id": "trssporthd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/s_sport.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/285910",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: ----- SPOR -----",
-        "id": "trspor",
-        "logo": "http://sltv-icon.cms-s.com/logo/flag/tr.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/135893",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: BEIN SPORTS 2 FHD",
-        "id": "trbeinsports2fhd",
+        "name": "TR: BEIN SPORTS 2 SD",
+        "id": "trbeinsports2sd",
         "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_2.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/7595",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/371296",
         "categories": [
             "tr spor"
         ],
         "country": ""
     },
     {
-        "name": "TR: BEIN SPORTS 4 SD",
-        "id": "trbeinsports4sd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_4.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/294663",
+        "name": "TR: BEIN SPORTS 2 HD",
+        "id": "trbeinsports2hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_2.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/631",
         "categories": [
             "tr spor"
         ],
         "country": ""
     },
     {
-        "name": "TR: BEIN SPORTS 4 HD",
-        "id": "trbeinsports4hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_4.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/123298",
+        "name": "TR: BEIN SPORTS 3 SD",
+        "id": "trbeinsports3sd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_sports_3.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/431382",
         "categories": [
             "tr spor"
         ],
         "country": ""
     },
     {
-        "name": "TR: S SPORT 2 HD",
-        "id": "trssport2hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/s_spor_2.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/193396",
+        "name": "TR: BEIN SPORTS 5 HD",
+        "id": "trbeinsports5hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/beinSports5.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/434729",
         "categories": [
             "tr spor"
         ],
         "country": ""
     },
     {
-        "name": "TR: S SPORT 2 FHD",
-        "id": "trssport2fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/s_spor_2.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/299043",
+        "name": "TR: SPOR SMART 2 FHD",
+        "id": "trsporsmart2fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/spor_smart2.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/236111",
         "categories": [
             "tr spor"
         ],
         "country": ""
     },
     {
-        "name": "TR: TABII SPOR 3 HD",
-        "id": "trtabiispor3hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tabiiSpor3.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/540209",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TABII SPOR 4 FHD",
-        "id": "trtabiispor4fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tabiiSpor4.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/537638",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TABII SPOR 5 HD",
-        "id": "trtabiispor5hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tabiiSpor5.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/540207",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TIVIBU SPOR 2 FHD",
-        "id": "trtivibuspor2fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tivibuSpor2.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/198443",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: SIFIR TV HD",
-        "id": "trsifirtvhd",
-        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/sifirtv.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/625505",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: GS TV HD",
-        "id": "trgstvhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/gs_tv.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/2626",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: FB TV",
-        "id": "trfbtv",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/fb_tv.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/2028",
-        "categories": [
-            "tr spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TAY TV",
-        "id": "trtaytv",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tay_tv.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/129265",
+        "name": "TR: TABII SPOR 1 HD",
+        "id": "trtabiispor1hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tabiiSpor1.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/540211",
         "categories": [
             "tr spor"
         ],

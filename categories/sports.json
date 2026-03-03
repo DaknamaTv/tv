@@ -320,6 +320,26 @@
         "country": "IN"
     },
     {
+        "name": "Sony Sports Ten 2",
+        "id": "SonySportsTen2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 5",
+        "id": "SonySportsTen5.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Hard Knocks",
         "id": "HardKnocks.ca",
         "logo": "https://i.imgur.com/nt9B6jx.png",
@@ -461,6 +481,16 @@
         "country": "VN"
     },
     {
+        "name": "HTV Sports",
+        "id": "HTVSports.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "Equidia",
         "id": "Equidia.fr",
         "logo": "https://i.imgur.com/QPpbRcZ.png",
@@ -551,16 +581,6 @@
             "sports"
         ],
         "country": "SE"
-    },
-    {
-        "name": "Viaplay TV",
-        "id": "ViaplayTV.fi",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg",
-        "url": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true",
-        "categories": [
-            "sports"
-        ],
-        "country": "FI"
     },
     {
         "name": "Monterrico TV",
@@ -771,16 +791,6 @@
             "sports"
         ],
         "country": "MN"
-    },
-    {
-        "name": "Belarus-5",
-        "id": "Belarus5.by",
-        "logo": "https://i.imgur.com/NJsRFud.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "BY"
     },
     {
         "name": "Alkass Five",

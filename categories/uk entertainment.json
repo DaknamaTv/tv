@@ -1,79 +1,9 @@
 [
     {
-        "name": "UK: ITV 2 FHD",
-        "id": "ukitv2fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/uk/itv_uk_2_hd.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/15049",
-        "categories": [
-            "uk entertainment"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK: ITV 4 HD",
-        "id": "ukitv4hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/uk/itv_uk_4.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/1266",
-        "categories": [
-            "uk entertainment"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK: BBC ONE NORTHERN IRELAND",
-        "id": "ukbbconenorthernireland",
-        "logo": "http://sltv-icon.cms-s.com/logo/uk/bbc_one_hd.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/150648",
-        "categories": [
-            "uk entertainment"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK: HGTV",
-        "id": "ukhgtv",
-        "logo": "http://sltv-icon.cms-s.com/logo/UK/HGTV-logo-2015-.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/14993",
-        "categories": [
-            "uk entertainment"
-        ],
-        "country": ""
-    },
-    {
         "name": "UK: BBC ONE EAST HD",
         "id": "ukbbconeeasthd",
         "logo": "",
         "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/636589",
-        "categories": [
-            "uk entertainment"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK: BBC ONE Y&L HD",
-        "id": "ukbbconeylhd",
-        "logo": "",
-        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/636584",
-        "categories": [
-            "uk entertainment"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK: QTV RELIGIOUS",
-        "id": "ukqtvreligious",
-        "logo": "",
-        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/636558",
-        "categories": [
-            "uk entertainment"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK: ITV 1 FHD",
-        "id": "ukitv1fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/uk/itv_uk.png",
-        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/15050",
         "categories": [
             "uk entertainment"
         ],
@@ -90,30 +20,10 @@
         "country": ""
     },
     {
-        "name": "UK: ITV 3 FHD",
-        "id": "ukitv3fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/uk/itv_uk_3_hd.png",
-        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/15048",
-        "categories": [
-            "uk entertainment"
-        ],
-        "country": ""
-    },
-    {
         "name": "UK: BBC ONE HD",
         "id": "ukbbconehd",
         "logo": "http://sltv-icon.cms-s.com/logo/uk/bbc_one.png",
         "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/1251",
-        "categories": [
-            "uk entertainment"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK: BBC FOUR FHD",
-        "id": "ukbbcfourfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/uk/bbc_four_uk_hd.png",
-        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/15051",
         "categories": [
             "uk entertainment"
         ],
@@ -130,26 +40,6 @@
         "country": ""
     },
     {
-        "name": "UK: COMEDY CENTRAL",
-        "id": "ukcomedycentral",
-        "logo": "http://sltv-icon.cms-s.com/logo/uk/comedy_central_us.png",
-        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/207605",
-        "categories": [
-            "uk entertainment"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK: COMEDY EXTRA HD",
-        "id": "ukcomedyextrahd",
-        "logo": "http://sltv-icon.cms-s.com/logo/uk/comedy_central_extra_uk.png",
-        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/198452",
-        "categories": [
-            "uk entertainment"
-        ],
-        "country": ""
-    },
-    {
         "name": "UK: EDEN",
         "id": "ukeden",
         "logo": "http://sltv-icon.cms-s.com/logo/uk/eden_uktv_hd.png",
@@ -160,20 +50,240 @@
         "country": ""
     },
     {
-        "name": "UK: DW (ENGLISH)",
-        "id": "ukdwenglish",
-        "logo": "http://sltv-icon.cms-s.com/logo/2021mixlogo/dw.png",
-        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/313450",
+        "name": "UK: BBC ONE NI HD",
+        "id": "ukbbconenihd",
+        "logo": "",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/636586",
         "categories": [
             "uk entertainment"
         ],
         "country": ""
     },
     {
-        "name": "UK: GOD CHANNEL",
-        "id": "ukgodchannel",
-        "logo": "http://sltv-icon.cms-s.com/logo/UK/god_tv_uk.png",
-        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/313449",
+        "name": "UK: FAITH UK",
+        "id": "ukfaithuk",
+        "logo": "",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/636557",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: ITV 2 +1",
+        "id": "ukitv21",
+        "logo": "http://sltv-icon.cms-s.com/logo/uk/itv_uk_2_hd.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/150642",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: ITV 4 +1",
+        "id": "ukitv41",
+        "logo": "http://sltv-icon.cms-s.com/logo/uk/itv_uk_4_hd.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/150637",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: ITV BE",
+        "id": "ukitvbe",
+        "logo": "http://sltv-icon.cms-s.com/logo/uk/itv_uk_be.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/133849",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: BBC THREE/CBBC FHD",
+        "id": "ukbbcthreecbbcfhd",
+        "logo": "http://pic.qw1234.org/logos/tn_bbc3.jpg",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/15052",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: BBC FOUR HD",
+        "id": "ukbbcfourhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/uk/bbc_four_uk.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/1254",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: BBC ONE SCOTLAND",
+        "id": "ukbbconescotland",
+        "logo": "http://sltv-icon.cms-s.com/logo/uk/bbc_one_hd.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/150655",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: 5 ACTION",
+        "id": "uk5action",
+        "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1036.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/207611",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: 5 STAR +1",
+        "id": "uk5star1",
+        "logo": "http://pic.qw1234.org/logos/tn_5star.jpg",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/207609",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: 5 USA +1",
+        "id": "uk5usa1",
+        "logo": "http://sltv-icon.cms-s.com/logo/UK/5-usa-uk.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/15031",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: COLORS HD",
+        "id": "ukcolorshd",
+        "logo": "https://i.ytimg.com/vi/O89RYbbtbFE/maxresdefault.jpg",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/15010",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: COMEDY EXTRA",
+        "id": "ukcomedyextra",
+        "logo": "http://sltv-icon.cms-s.com/logo/uk/comedy_central_extra_uk.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/207604",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: GOLD HD",
+        "id": "ukgoldhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/uk/gold_uktv.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/8564",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: ALIBI SD",
+        "id": "ukalibisd",
+        "logo": "http://sltv-icon.cms-s.com/logo/uk/alibi_uktv_uk.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/207607",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: DAVE HD",
+        "id": "ukdavehd",
+        "logo": "http://sltv-icon.cms-s.com/logo/uk/dave_uktv.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/15042",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: DRAMA HD",
+        "id": "ukdramahd",
+        "logo": "http://sltv-icon.cms-s.com/logo/uk/drama_uktv.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/150649",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: FOOD NETWORK  +1",
+        "id": "ukfoodnetwork1",
+        "logo": "http://sltv-icon.cms-s.com/logo/GREECE/foodNetwork.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/209251",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: PICK",
+        "id": "ukpick",
+        "logo": "http://sltv-icon.cms-s.com/logo/UK/pick.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/210596",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: DMAX HD",
+        "id": "ukdmaxhd",
+        "logo": "http://pic.qw1234.org/logos/tn_dmax.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/209244",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: CBS REALITY FHD",
+        "id": "ukcbsrealityfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/uk/cbs_reality.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/15024",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: QVC",
+        "id": "ukqvc",
+        "logo": "http://sltv-icon.cms-s.com/logo/uk/qvc_uk.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/199509",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: AMC HD",
+        "id": "ukamchd",
+        "logo": "http://sltv-icon.cms-s.com/logo/UK/amc-us.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/339179",
+        "categories": [
+            "uk entertainment"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: SONY TV UK",
+        "id": "uksonytvuk",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/sony_channel.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/445152",
         "categories": [
             "uk entertainment"
         ],

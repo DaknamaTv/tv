@@ -1,39 +1,49 @@
 [
     {
-        "name": "DK: NAT GEO WILD FHD",
-        "id": "dknatgeowildfhd",
+        "name": "DK: TV 2 HD",
+        "id": "dktv2hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/skandinavian/denmark/TV_2.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/7474",
+        "categories": [
+            "dk danmark"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DK: TV2 NEWS HD",
+        "id": "dktv2newshd",
+        "logo": "http://sltv-icon.cms-s.com/logo/skandinavian/denmark/tv2_news.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/589626",
+        "categories": [
+            "dk danmark"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DK: TV3+ FHD",
+        "id": "dktv3fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/SCANDINAVIAN/TV3PLUSHD.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/7470",
+        "categories": [
+            "dk danmark"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DK: KANAL 5 HD",
+        "id": "dkkanal5hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/skandinavian/denmark/kanal5_dk_hd.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/7475",
+        "categories": [
+            "dk danmark"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DK: NAT GEO WILD HD",
+        "id": "dknatgeowildhd",
         "logo": "http://sltv-icon.cms-s.com/logo/SCANDINAVIAN/NATGEOWILDHD.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/238270",
-        "categories": [
-            "dk danmark"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DK: TLC HD",
-        "id": "dktlchd",
-        "logo": "http://sltv-icon.cms-s.com/logo/skandinavian/denmark/tlc_dk.png",
-        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/135767",
-        "categories": [
-            "dk danmark"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DK: ANIMAL PLANET HD",
-        "id": "dkanimalplanethd",
-        "logo": "http://sltv-icon.cms-s.com/logo/skandinavian/denmark/animal_planet_scan.png",
-        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/122996",
-        "categories": [
-            "dk danmark"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DK: ID INVESTIGATION DISCOVERY HD",
-        "id": "dkidinvestigationdiscoveryhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/all/investigation.png",
-        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/149550",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/224557",
         "categories": [
             "dk danmark"
         ],

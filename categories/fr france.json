@@ -1,229 +1,49 @@
 [
     {
-        "name": "FR: TF1 4K ( LIVE EVENTS )",
-        "id": "frtf14kliveevents",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/TF1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/449199",
+        "name": "FR: FRANCE 3 NOA",
+        "id": "frfrance3noa",
+        "logo": "https://static.actu.fr/uploads/2018/09/3-NoA-la-cha%C3%AEne-tv-100-Nouvelle-Aquitaine-YouTube-Google-Chrome.jpg",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/379577",
         "categories": [
             "fr france"
         ],
         "country": ""
     },
     {
-        "name": "FR: TF1+1 HD",
-        "id": "frtf11hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/TF1+1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218641",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: TMC FHD",
-        "id": "frtmcfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/TMC.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/29955",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: TV BREIZH FHD",
-        "id": "frtvbreizhfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/TVBREIZH.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/384431",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: E! ENTERTAINMENT HD",
-        "id": "freentertainmenthd",
-        "logo": "http://sltv-icon.cms-s.com/logo/2021mixlogo/e.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/3999",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: SYFY HD",
-        "id": "frsyfyhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/sky_syfy.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/1238",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: SYFY FHD",
-        "id": "frsyfyfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/sky_syfy.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218638",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: RMC LIFE FHD",
-        "id": "frrmclifefhd",
-        "logo": "https://sltv-icon.cms-s.com/logo/franceT-220x132/RMC LIFE.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/642663",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CLIQUE TV FHD",
-        "id": "frcliquetvfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CLIQUE.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/218596",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: NOVELAS TV HD",
-        "id": "frnovelastvhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/NOVELAS.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/262678",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: PARIS PREMIERE FHD",
-        "id": "frparispremierefhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/PARISPREMIERE.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/384430",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: FRANCE 4 HD",
-        "id": "frfrance4hd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/FRANCE4HD.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/343",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: M6 FHD",
-        "id": "frm6fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/M6HD.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/29962",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: 6TER FHD",
-        "id": "fr6terfhd",
+        "name": "FR: 6TER HD",
+        "id": "fr6terhd",
         "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/6TER.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/29954",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/366",
         "categories": [
             "fr france"
         ],
         "country": ""
     },
     {
-        "name": "FR: COMEDY CENTRAL  HD",
-        "id": "frcomedycentralhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/COMMEDYCENTRAL.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/165280",
+        "name": "FR: TMC+1 FHD",
+        "id": "frtmc1fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/TMC.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/218644",
         "categories": [
             "fr france"
         ],
         "country": ""
     },
     {
-        "name": "FR: LUCKY JACK HD",
-        "id": "frluckyjackhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/LUCKYJACK.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/187836",
+        "name": "FR: NOVO 19 HD",
+        "id": "frnovo19hd",
+        "logo": "https://additimedia.ouest-france.fr/wp-content/uploads/2025/08/logo-novo19-v2.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/642627",
         "categories": [
             "fr france"
         ],
         "country": ""
     },
     {
-        "name": "FR: GOURMAND TV HD",
-        "id": "frgourmandtvhd",
-        "logo": "https://sf1.viepratique.fr/wp-content/uploads/sites/2/2014/08/Sans-titre-2.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/490909",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: L'EQUIPE HD",
-        "id": "frlequipehd",
-        "logo": "https://sltv-icon.cms-s.com/logo/franceT-220x132/L'EQUIPE.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/642629",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: TEVA HD",
-        "id": "frtevahd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/TEVA.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/2545",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: TEVA FHD",
-        "id": "frtevafhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/TEVAHD.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/473988",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CSTAR HD",
-        "id": "frcstarhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CSTAR.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/1950",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: CSTAR FHD",
-        "id": "frcstarfhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CSTAR.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/134233",
-        "categories": [
-            "fr france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: RTL 9 FHD",
-        "id": "frrtl9fhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/RTL9HD.png",
-        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/218634",
+        "name": "FR: TFX FHD",
+        "id": "frtfxfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/TFX.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/29956",
         "categories": [
             "fr france"
         ],

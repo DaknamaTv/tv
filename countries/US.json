@@ -2871,7 +2871,7 @@
     {
         "name": "MovieSphere",
         "id": "MovieSphere.us",
-        "logo": "https://i.imgur.com/h1ejU90.png",
+        "logo": "https://i.imgur.com/0sfk3yp.png",
         "url": "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8",
         "categories": [
             "movies"
@@ -4504,16 +4504,6 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/WHBQ_%282015%29.svg",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8",
         "categories": [],
-        "country": "US"
-    },
-    {
-        "name": "OCN TV",
-        "id": "OCNTV.us",
-        "logo": "https://i.imgur.com/iSB5Obl.png",
-        "url": "https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8",
-        "categories": [
-            "religious"
-        ],
         "country": "US"
     },
     {
@@ -9361,16 +9351,6 @@
         "country": "US"
     },
     {
-        "name": "AMGA TV",
-        "id": "AMGATV.us",
-        "logo": "https://i.imgur.com/NTlC6e7.png",
-        "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Lego Channel",
         "id": "LegoChannel.us",
         "logo": "https://i.imgur.com/xePwW13.png",
@@ -9644,6 +9624,56 @@
         "url": "https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CitiCABLE",
+        "id": "CitiCABLE.us",
+        "logo": "https://i.imgur.com/Y1qRHnC.png",
+        "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/torrance/G0057_005/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "C-SPAN 2",
+        "id": "CSPAN2.us",
+        "logo": "https://i.imgur.com/9B6XIQC.png",
+        "url": "https://tvpass.org/live/CSPAN2/sd",
+        "categories": [
+            "legislative"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Duck Hunting TV",
+        "id": "DuckHuntingTV.us",
+        "logo": "https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png",
+        "url": "https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8",
+        "categories": [
+            "outdoor"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "JBS",
+        "id": "JBS.us",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
+        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV MTV Classic",
+        "id": "PlutoTVMTVClassic.us",
+        "logo": "https://i.imgur.com/NPavpts.png",
+        "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "US"
     }

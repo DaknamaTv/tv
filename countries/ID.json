@@ -513,16 +513,6 @@
         "country": "ID"
     },
     {
-        "name": "I Am Channel",
-        "id": "IAmChannel.id",
-        "logo": "https://i.imgur.com/Gg6OcGT.png",
-        "url": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "TV Tabalong",
         "id": "TVTabalong.id",
         "logo": "https://i.imgur.com/2YhDH98.png",
@@ -817,16 +807,6 @@
         "country": "ID"
     },
     {
-        "name": "Fajar TV",
-        "id": "FajarTV.id",
-        "logo": "https://i.imgur.com/mkuXxRK.png",
-        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "MBG TV",
         "id": "MBGTV.id",
         "logo": "https://i.imgur.com/t7GsFJN.jpeg",
@@ -857,6 +837,42 @@
         "id": "SultraTV.id",
         "logo": "https://i.imgur.com/cmpbNJz.png",
         "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Inspira TV",
+        "id": "InspiraTV.id",
+        "logo": "https://i.imgur.com/BF5orkg.png",
+        "url": "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Jogja TV",
+        "id": "JogjaTV.id",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
+        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "UGTV",
+        "id": "UGTV.id",
+        "logo": "https://i.imgur.com/iEKDH26.png",
+        "url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Wesal TV",
+        "id": "WesalTV.id",
+        "logo": "https://i.imgur.com/Uv8RWks.png",
+        "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
         "categories": [],
         "country": "ID"
     }

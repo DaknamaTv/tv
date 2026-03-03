@@ -1191,5 +1191,25 @@
         "url": "https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8",
         "categories": [],
         "country": "DE"
+    },
+    {
+        "name": "PRO 7 FHD",
+        "id": "PRO7FHD.de",
+        "logo": "http://sltv-logo.cms-s.com/logo/germanynew/pro_7.png",
+        "url": "http://xsoft25.online:8080/batuhanozturk/AmPkEg2ErA/208869",
+        "categories": [
+            "[de] ▶️ deutschland"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "N24 DOKU",
+        "id": "N24DOKU.de",
+        "logo": "http://sltv-logo.cms-s.com/logo/germanynew/n24_doku.png",
+        "url": "http://xsoft25.online:8080/batuhanozturk/AmPkEg2ErA/208997",
+        "categories": [
+            "[de] ▶️ doku"
+        ],
+        "country": "DE"
     }
 ]

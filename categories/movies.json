@@ -922,6 +922,46 @@
         "country": "IN"
     },
     {
+        "name": "&pictures",
+        "id": "Andpictures.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png",
+        "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "&prive HD",
+        "id": "AndpriveHD.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png",
+        "url": "http://103.229.254.25:7001/play/a03f/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Pix",
+        "id": "SonyPix.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a0ed/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Gold Select",
+        "id": "StarGoldSelect.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Discover Film",
         "id": "DiscoverFilm.uk",
         "logo": "https://i.imgur.com/oMnpsQ5.png",
@@ -1105,16 +1145,6 @@
         "country": "CO"
     },
     {
-        "name": "Hero",
-        "id": "Hero.fi",
-        "logo": "https://i.imgur.com/4t5JQLY.png",
-        "url": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true",
-        "categories": [
-            "movies"
-        ],
-        "country": "FI"
-    },
-    {
         "name": "Komsan TV",
         "id": "KomsanTV.kh",
         "logo": "https://i.imgur.com/SNTf2r3.png",
@@ -1144,6 +1174,16 @@
             "music"
         ],
         "country": "PY"
+    },
+    {
+        "name": "Rai Movie",
+        "id": "RaiMovie.it",
+        "logo": "https://i.imgur.com/0FjxXU9.png",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
+        "categories": [
+            "movies"
+        ],
+        "country": "IT"
     },
     {
         "name": "Grjngo Western Movies",
@@ -1421,7 +1461,7 @@
     {
         "name": "MovieSphere",
         "id": "MovieSphere.us",
-        "logo": "https://i.imgur.com/h1ejU90.png",
+        "logo": "https://i.imgur.com/0sfk3yp.png",
         "url": "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8",
         "categories": [
             "movies"

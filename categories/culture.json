@@ -386,6 +386,19 @@
         "country": "DO"
     },
     {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "zenith",
         "id": "zenith.fr",
         "logo": "https://znth.tv/static/site_app/thy%20logo.svg",
@@ -421,16 +434,6 @@
         "id": "AfrocultureTV.ci",
         "logo": "https://i.imgur.com/bjaZ3kO.png",
         "url": "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CI"
-    },
-    {
-        "name": "A+ Ivoire",
-        "id": "APlusIvoire.ci",
-        "logo": "https://i.imgur.com/yOW0vyP.png",
-        "url": "http://69.64.57.208/atv/playlist.m3u8",
         "categories": [
             "culture"
         ],
@@ -883,6 +886,17 @@
             "documentary",
             "movies",
             "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Catamarca TV",
+        "id": "CatamarcaTV.ar",
+        "logo": "https://i.imgur.com/CEuPoqG.png",
+        "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
+        "categories": [
+            "culture",
+            "news"
         ],
         "country": "AR"
     },
