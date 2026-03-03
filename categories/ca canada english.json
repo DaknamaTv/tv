@@ -50,16 +50,6 @@
         "country": ""
     },
     {
-        "name": "CA: VISION",
-        "id": "cavision",
-        "logo": "https://sltv-icon.cms-s.com/logo/canada25/VISION.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/563638",
-        "categories": [
-            "ca canada english"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA: HBO 1 HD",
         "id": "cahbo1hd",
         "logo": "http://sltv-icon.cms-s.com/logo/2021mixlogo/hbo.png",
@@ -110,16 +100,6 @@
         "country": ""
     },
     {
-        "name": "CA: FAMILY JR",
-        "id": "cafamilyjr",
-        "logo": "https://sltv-icon.cms-s.com/logo/canada25/FAMILY JR.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/563564",
-        "categories": [
-            "ca canada english"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA: YTV WEST",
         "id": "caytvwest",
         "logo": "https://sltv-icon.cms-s.com/logo/canada25/YTV WEST.png",
@@ -134,16 +114,6 @@
         "id": "cacalgarywranglers",
         "logo": "https://sltv-icon.cms-s.com/logo/canada25/CALGARY WRANGLERS.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/563443",
-        "categories": [
-            "ca canada english"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: - CHICAGO WOLVES",
-        "id": "cachicagowolves",
-        "logo": "https://sltv-icon.cms-s.com/logo/canada25/CHICAGO WOLVES.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/563441",
         "categories": [
             "ca canada english"
         ],
@@ -250,16 +220,6 @@
         "country": ""
     },
     {
-        "name": "CA: BOOMERANG HD",
-        "id": "caboomeranghd",
-        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/boomerang.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/263152",
-        "categories": [
-            "ca canada english"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA: COOKING CHANNEL HD",
         "id": "cacookingchannelhd",
         "logo": "https://sltv-icon.cms-s.com/logo/canada25/COOKING CHANNEL.png",
@@ -294,6 +254,186 @@
         "id": "caglobalvancouverhd",
         "logo": "https://sltv-icon.cms-s.com/logo/canada25/GLOBAL TORONTO.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/263227",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: NBC WEST",
+        "id": "canbcwest",
+        "logo": "http://sltv-icon.cms-s.com/logo/USA/NBC.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563676",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CITY MONTREAL",
+        "id": "cacitymontreal",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/CITY TV.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563675",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CTV LETHBRIDGE",
+        "id": "cactvlethbridge",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563669",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CTV VANCOUVER",
+        "id": "cactvvancouver",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/CTV NEWS NETWORK.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563660",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CNN INTERNATIONAL",
+        "id": "cacnninternational",
+        "logo": "http://sltv-icon.cms-s.com/logo/Italy/cnn_international_global.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563627",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CBC NEWS HD",
+        "id": "cacbcnewshd",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/CBC HALIFAX.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563626",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: FOX NEWS",
+        "id": "cafoxnews",
+        "logo": "http://sltv-icon.cms-s.com/logo/USA/FOXNEWSHD.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563620",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: TELETOON EAST",
+        "id": "cateletooneast",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/TELETOON EAST.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563563",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: - ABBOTSFORD CANUCKS",
+        "id": "caabbotsfordcanucks",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/ABBOTSFORD CANUCKS.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563447",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: - BELLEVILLE SENATORS",
+        "id": "cabellevillesenators",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/BELLEVILLE SENATORS.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563445",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CANA KIDS BLIPPI HD",
+        "id": "cacanakidsblippihd",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/BLIPPI.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563555",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CANA KIDS BLOOPIES HD",
+        "id": "cacanakidsbloopieshd",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/BLOOPIES.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563554",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CANA KIDS MASHA & BEAR HD",
+        "id": "cacanakidsmashabearhd",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/MASHA & BEAR.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563538",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CANA KIDS PEPPA PIG HD",
+        "id": "cacanakidspeppapighd",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/peppa-wutz.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563529",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: NAT GEO WILD HD",
+        "id": "canatgeowildhd",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/national_geo_wild.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/563521",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: - COACHELLA VALLEY FIREBIRDS",
+        "id": "cacoachellavalleyfirebirds",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/COACHELLA%20VALLEY%20FIREBIRDS.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/563439",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: - HERSHEY BEARS",
+        "id": "cahersheybears",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/HERSHEY-BEARS.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/563434",
+        "categories": [
+            "ca canada english"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: - TUCSON ROADRUNNERS",
+        "id": "catucsonroadrunners",
+        "logo": "https://sltv-icon.cms-s.com/logo/canada25/TUCSON-ROADRUNNERS.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/563418",
         "categories": [
             "ca canada english"
         ],

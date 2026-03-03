@@ -226,16 +226,6 @@
         "country": "EC"
     },
     {
-        "name": "Magica Tv",
-        "id": "MagicaTv.ec",
-        "logo": "https://i.imgur.com/h4FQuIz.jpg",
-        "url": "https://magicatv.4pu.com/hls/stream.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Clic TV",
         "id": "ClicTV.ec",
         "logo": "https://i.imgur.com/bvSLm9U.png",
@@ -296,16 +286,6 @@
         "id": "GM7Digital.ec",
         "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3708-294x165-FFFFFF.jpg",
         "url": "https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "Telemar",
-        "id": "Telemar.ec",
-        "logo": "https://i.imgur.com/0vX9oJF.png",
-        "url": "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8",
         "categories": [
             "general"
         ],
@@ -544,6 +524,16 @@
         "id": "RTRTV.ec",
         "logo": "https://i.imgur.com/dvP2yqB.png",
         "url": "https://tv3ecuador.site/hls/stream/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "RTV",
+        "id": "RTV.ec",
+        "logo": "https://i.imgur.com/DzxGHRZ.png",
+        "url": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8",
         "categories": [
             "general"
         ],

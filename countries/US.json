@@ -8,14 +8,6 @@
         "country": "US"
     },
     {
-        "name": "WPXX-DT1",
-        "id": "WPXXDT1.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",
-        "url": "http://104.255.88.155/ion/index.m3u8",
-        "categories": [],
-        "country": "US"
-    },
-    {
         "name": "CBN News",
         "id": "CBNNews.us",
         "logo": "https://i.imgur.com/9f9YMsA.png",
@@ -301,16 +293,6 @@
         "id": "RTHTV2Gospel.us",
         "logo": "https://i.imgur.com/4z0FiEA.png",
         "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Radio Tele Sentinel",
-        "id": "RadioTeleSentinel.us",
-        "logo": "https://i.imgur.com/hy3BJxj.png",
-        "url": "https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -9022,16 +9004,6 @@
         "country": "US"
     },
     {
-        "name": "Duck Hunting TV",
-        "id": "DuckHuntingTV.us",
-        "logo": "https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png",
-        "url": "https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
         "name": "WGN-DT1",
         "id": "WGNDT1.us",
         "logo": "https://i.imgur.com/gvHrpnf.png",
@@ -9648,10 +9620,28 @@
         "country": "US"
     },
     {
-        "name": "Fox News Channel",
-        "id": "FoxNewsChannel.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
-        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
+        "name": "Little Guyana TV",
+        "id": "LittleGuyanaTV.us",
+        "logo": "https://i.imgur.com/b475xOT.jpg",
+        "url": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TBN Armenia",
+        "id": "TBNArmenia.us",
+        "logo": "https://i.imgur.com/U5XsT3j.png",
+        "url": "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8",
+        "categories": [],
+        "country": "US"
+    },
+    {
+        "name": "WSOC Now",
+        "id": "WSOCNow.us",
+        "logo": "https://i.imgur.com/tUb1mdc.png",
+        "url": "https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8",
         "categories": [
             "news"
         ],

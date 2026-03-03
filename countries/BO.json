@@ -134,18 +134,6 @@
         "country": "BO"
     },
     {
-        "name": "Unifranz",
-        "id": "Unifranz.bo",
-        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
-        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
-        "categories": [
-            "education",
-            "entertainment",
-            "news"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "CEACOM TV",
         "id": "CEACOMTV.bo",
         "logo": "https://i.imgur.com/hutdRfk.png",
@@ -201,6 +189,16 @@
         "id": "UPPTV.bo",
         "logo": "https://i.ibb.co/Kwvbyr0/unnamed.jpg",
         "url": "https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Bolivision",
+        "id": "Bolivision.bo",
+        "logo": "https://i.imgur.com/U98Z5zn.png",
+        "url": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8",
         "categories": [
             "general"
         ],

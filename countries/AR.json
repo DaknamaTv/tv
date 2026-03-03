@@ -549,17 +549,6 @@
         "country": "AR"
     },
     {
-        "name": "Catamarca TV",
-        "id": "CatamarcaTV.ar",
-        "logo": "https://i.imgur.com/CEuPoqG.png",
-        "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
-        "categories": [
-            "culture",
-            "news"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 2 de Ushuaia",
         "id": "Canal2deUshuaia.ar",
         "logo": "https://i.ibb.co/q5NPdK2/canal2-logo.png",
@@ -618,16 +607,6 @@
         "country": "AR"
     },
     {
-        "name": "Panc TV",
-        "id": "PancTV.ar",
-        "logo": "https://i.imgur.com/u1dnEVv.png",
-        "url": "https://panel.host-live.com:19360/20004/20004.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "AlternaTV",
         "id": "AlternaTV.ar",
         "logo": "https://tv.alterna.ar/alternatv.png",
@@ -638,16 +617,6 @@
             "entertainment",
             "documentary",
             "movies",
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Bayres TV",
-        "id": "BayresTV.ar",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png",
-        "url": "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8",
-        "categories": [
             "general"
         ],
         "country": "AR"
@@ -677,14 +646,6 @@
         "id": "Canal11delaCosta.ar",
         "logo": "https://i.imgur.com/yYExcq1.jpg",
         "url": "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
-        "name": "Canal 5 Santa Fe",
-        "id": "Canal5SantaFe.ar",
-        "logo": "https://i.imgur.com/WX0esjQ.png",
-        "url": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8",
         "categories": [],
         "country": "AR"
     },
@@ -757,6 +718,44 @@
         "url": "https://tv.streaming.com.bo/atvargentina/index.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 13 Jujuy",
+        "id": "Canal13Jujuy.ar",
+        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
+        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 3 Las Heras",
+        "id": "Canal3LasHeras.ar",
+        "logo": "https://i.imgur.com/bd2afET.png",
+        "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Ciudad Magazine",
+        "id": "CiudadMagazine.ar",
+        "logo": "https://i.imgur.com/V1xZV72.png",
+        "url": "https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "El Trece",
+        "id": "ElTrece.ar",
+        "logo": "https://i.imgur.com/TrgBAdA.png",
+        "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "AR"
     }

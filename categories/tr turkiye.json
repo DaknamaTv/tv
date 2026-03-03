@@ -70,30 +70,10 @@
         "country": ""
     },
     {
-        "name": "TR: KANAL 12",
-        "id": "trkanal12",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/kanal_12.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/309508",
-        "categories": [
-            "tr turkiye"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: TV 41 (KOCAELI)",
         "id": "trtv41kocaeli",
         "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tv_41.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/5966",
-        "categories": [
-            "tr turkiye"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: CAN TEMPO TV",
-        "id": "trcantempotv",
-        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/CAN TEMPO TV.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/643898",
         "categories": [
             "tr turkiye"
         ],
@@ -134,16 +114,6 @@
         "id": "trtv85fhd",
         "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tv_8-5.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/128279",
-        "categories": [
-            "tr turkiye"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: BEYAZ TV HD",
-        "id": "trbeyaztvhd",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/beyaz.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/123347",
         "categories": [
             "tr turkiye"
         ],
@@ -250,30 +220,10 @@
         "country": ""
     },
     {
-        "name": "TR: HRT AKDENIZ TV (HATAY)",
-        "id": "trhrtakdeniztvhatay",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/hrt_akdeniz.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/150037",
-        "categories": [
-            "tr turkiye"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: KON TV (KONYA)",
         "id": "trkontvkonya",
         "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/kon_tv.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/1106",
-        "categories": [
-            "tr turkiye"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: KANAL 23 (ELAZIG)",
-        "id": "trkanal23elazig",
-        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/kanal_23_rtv.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/123353",
         "categories": [
             "tr turkiye"
         ],
@@ -334,6 +284,326 @@
         "id": "trgozdetv",
         "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/GOZDE TV.png",
         "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/643886",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: ULUSAL MOZAIK HD",
+        "id": "trulusalmozaikhd",
+        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/mozaikUlusal.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/624300",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: KANAL D HD",
+        "id": "trkanaldhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/kanald.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/209443",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: KANAL 7 HD",
+        "id": "trkanal7hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/kanal_7.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/224",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: KANAL D FHD",
+        "id": "trkanaldfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/kanald.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/187763",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: NOW TV FHD",
+        "id": "trnowtvfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/nowTv.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/187760",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: A2 FHD",
+        "id": "tra2fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/a_2.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/128278",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TLC HD",
+        "id": "trtlchd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tlc.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/11970",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TRT TURK HD",
+        "id": "trtrtturkhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/trt_turk.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/318",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TEK RUMELI TV",
+        "id": "trtekrumelitv",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tekRumeli.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/332555",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: YOL TV HD",
+        "id": "tryoltvhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/yol_tv.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/2119",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: AS TV (BURSA)",
+        "id": "trastvbursa",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/as_tv_bursa.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/2116",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: BRTV B KRDNIZ (KARABÜK)",
+        "id": "trbrtvbkrdnizkarabk",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/brtvBRKdz.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/202211",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TV 52 (ORDU)",
+        "id": "trtv52ordu",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tv52_ordu.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/237995",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: CAY TV (RIZE)",
+        "id": "trcaytvrize",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/cay_tv.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/273",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: MERCAN TV (ADIYAMAN)",
+        "id": "trmercantvadiyaman",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/mercanTv.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/459076",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: ADA TV (KIBRIS)",
+        "id": "tradatvkibris",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/ada_tv.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/7438",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: KIBRIS GENC TV",
+        "id": "trkibrisgenctv",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/kinris_genc_tv.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/7439",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: KADIRGA TV",
+        "id": "trkadirgatv",
+        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/kadirga_Tv.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/598936",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: VAN65 ORT",
+        "id": "trvan65ort",
+        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/VAN65 ORT.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/643888",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: GZT HD",
+        "id": "trgzthd",
+        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/GZT.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/643883",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: ONS TV",
+        "id": "tronstv",
+        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/onsTV.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/598934",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TYT TURK",
+        "id": "trtytturk",
+        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/tytTurk.png",
+        "url": "http://hd-max.org:8080/eyjAXNNKEH/NWri8pmpcJ/598933",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TV 8 HD",
+        "id": "trtv8hd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tv_8.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/2586",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TEVE 2 FHD",
+        "id": "trteve2fhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/teve2.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/434163",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: ATV AVRUPA HD",
+        "id": "tratvavrupahd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/atv_avrupa.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/7958",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: SHOW TURK HD",
+        "id": "trshowturkhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/show_turk.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/3344",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TRT AVAZ HD",
+        "id": "trtrtavazhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/trt_avaz.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/3625",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: SAT7 TURK",
+        "id": "trsat7turk",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/sat_7_turk.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/94551",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: KOY TV",
+        "id": "trkoytv",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/koy_tv.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/1066",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TV 264 HD (SAKARYA)",
+        "id": "trtv264hdsakarya",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tv264_sakarya.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/259867",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TV42 (KONYA)",
+        "id": "trtv42konya",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/tv42.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/238468",
+        "categories": [
+            "tr turkiye"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: GRT TV (GAGAVUZCA)",
+        "id": "trgrttvgagavuzca",
+        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/grt_tv.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/643885",
         "categories": [
             "tr turkiye"
         ],

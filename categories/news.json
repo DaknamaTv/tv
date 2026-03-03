@@ -754,16 +754,6 @@
         "country": "PR"
     },
     {
-        "name": "First Channel News",
-        "id": "FirstChannelNews.am",
-        "logo": "https://i.imgur.com/RlYJUH4.png",
-        "url": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "AM"
-    },
-    {
         "name": "News 7 Tamil",
         "id": "News7Tamil.in",
         "logo": "https://i.imgur.com/UjlbR4o.png",
@@ -2477,16 +2467,6 @@
         "country": "IN"
     },
     {
-        "name": "VBC News",
-        "id": "VBCNews.in",
-        "logo": "https://i.imgur.com/SvXCjha.png",
-        "url": "https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "22Scope News",
         "id": "22ScopeNews.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
@@ -2708,16 +2688,6 @@
         "country": "IN"
     },
     {
-        "name": "JK 24x7 News",
-        "id": "JK24x7News.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png",
-        "url": "https://live.gulistannews.in/hls/jk.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Prudent Media",
         "id": "PrudentMedia.in",
         "logo": "https://i.imgur.com/DG0x4UD.png",
@@ -2732,6 +2702,16 @@
         "id": "SunNews.in",
         "logo": "https://dtil.tmsimg.com/assets/s143877_ld_h15_aa.png",
         "url": "http://111.88.78.21:8000/play/a0ys/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Gulistan News",
+        "id": "GulistanNews.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png",
+        "url": "https://live.gulistannews.in/hls/gul.m3u8",
         "categories": [
             "news"
         ],
@@ -2949,16 +2929,6 @@
         "country": "HN"
     },
     {
-        "name": "Guardian Talk Radio",
-        "id": "GuardianTalkRadio.bs",
-        "logo": "https://i.imgur.com/o3cWUwL.png",
-        "url": "https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BS"
-    },
-    {
         "name": "Puranoticia TV",
         "id": "PuranoticiaTV.cl",
         "logo": "https://i.imgur.com/NklUi6Y.png",
@@ -3089,6 +3059,16 @@
         "country": "DO"
     },
     {
+        "name": "Noticias 16",
+        "id": "Noticias16.do",
+        "logo": "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png",
+        "url": "https://mlb.essastream.com:8081/noticias16/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Radio Ancon",
         "id": "RadioAncon.pa",
         "logo": "https://i.imgur.com/xum8PNe.jpg",
@@ -3116,19 +3096,6 @@
         "categories": [
             "news",
             "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
         ],
         "country": "VN"
     },
@@ -3406,18 +3373,6 @@
         "country": "BO"
     },
     {
-        "name": "Unifranz",
-        "id": "Unifranz.bo",
-        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
-        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
-        "categories": [
-            "education",
-            "entertainment",
-            "news"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "CEACOM TV",
         "id": "CEACOMTV.bo",
         "logo": "https://i.imgur.com/hutdRfk.png",
@@ -3539,6 +3494,16 @@
             "news"
         ],
         "country": "LA"
+    },
+    {
+        "name": "TV Jadran",
+        "id": "TVJadran.hr",
+        "logo": "https://i.imgur.com/UWMHnOG.png",
+        "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "HR"
     },
     {
         "name": "Welat TV",
@@ -3773,10 +3738,10 @@
         "country": "PY"
     },
     {
-        "name": "4Dmas Noticias TV",
-        "id": "4DmasNoticiasTV.py",
-        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "name": "C9N",
+        "id": "C9N.py",
+        "logo": "https://i.imgur.com/Cp4zJ7O.png",
+        "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
         "categories": [
             "news"
         ],
@@ -3869,6 +3834,17 @@
         "logo": "https://i.imgur.com/86JYRVH.png",
         "url": "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8",
         "categories": [
+            "news"
+        ],
+        "country": "MD"
+    },
+    {
+        "name": "PRO TV Chisinau",
+        "id": "PROTVChisinau.md",
+        "logo": "https://i.imgur.com/X5PYRxF.png",
+        "url": "https://stream.protv.md/live/sursa-1/index.m3u8",
+        "categories": [
+            "general",
             "news"
         ],
         "country": "MD"
@@ -4481,6 +4457,16 @@
         "id": "TVSimSaoMateus.br",
         "logo": "https://i.imgur.com/t5oUK3C.png",
         "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Sim Colatina",
+        "id": "TVSimColatina.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -5454,10 +5440,10 @@
         "country": "US"
     },
     {
-        "name": "Fox News Channel",
-        "id": "FoxNewsChannel.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
-        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
+        "name": "WSOC Now",
+        "id": "WSOCNow.us",
+        "logo": "https://i.imgur.com/tUb1mdc.png",
+        "url": "https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -5472,36 +5458,6 @@
             "news"
         ],
         "country": "MM"
-    },
-    {
-        "name": "TV West",
-        "id": "TVWest.ug",
-        "logo": "https://i.imgur.com/EiJzkIz.png",
-        "url": "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "UG"
-    },
-    {
-        "name": "Bukedde TV 1",
-        "id": "BukeddeTV1.ug",
-        "logo": "https://i.imgur.com/HFq5QlJ.png",
-        "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "UG"
-    },
-    {
-        "name": "Wan Luo TV",
-        "id": "WanLuoTV.ug",
-        "logo": "https://i.imgur.com/4PUUp3E.png",
-        "url": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "UG"
     },
     {
         "name": "Canal E",
@@ -5520,17 +5476,6 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",
         "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8",
         "categories": [
-            "news"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Catamarca TV",
-        "id": "CatamarcaTV.ar",
-        "logo": "https://i.imgur.com/CEuPoqG.png",
-        "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
-        "categories": [
-            "culture",
             "news"
         ],
         "country": "AR"

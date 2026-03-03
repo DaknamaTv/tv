@@ -60,16 +60,6 @@
         "country": ""
     },
     {
-        "name": "DE: |WOW| SKY SPORT NEWS",
-        "id": "dewowskysportnews",
-        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/sky_sport_news.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633873",
-        "categories": [
-            "de wow tv"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: |WOW| SKY SPORT TENNIS",
         "id": "dewowskysporttennis",
         "logo": "https://sltv-icon.cms-s.com/logo/germanynew/skySportTennis.png",
@@ -80,10 +70,20 @@
         "country": ""
     },
     {
-        "name": "DE: |WOW| SKY SPORT BUNDESLIGA 1",
-        "id": "dewowskysportbundesliga1",
-        "logo": "http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_1.png",
-        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/633865",
+        "name": "DE: |WOW| SYFY",
+        "id": "dewowsyfy",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/sky_syfy.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/633884",
+        "categories": [
+            "de wow tv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: |WOW| WARNERTV SERIE",
+        "id": "dewowwarnertvserie",
+        "logo": "https://sltv-icon.cms-s.com/logo/germanynew/WarnerTV_Serie.png",
+        "url": "http://hd-max.org:8080/serdaravrupa/gHG1cd77trv14/633882",
         "categories": [
             "de wow tv"
         ],

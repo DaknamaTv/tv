@@ -386,17 +386,15 @@
         "country": "DO"
     },
     {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "name": "zenith",
+        "id": "zenith.fr",
+        "logo": "https://znth.tv/static/site_app/thy%20logo.svg",
+        "url": "https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8",
         "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
+            "general",
+            "culture"
         ],
-        "country": "VN"
+        "country": "FR"
     },
     {
         "name": "Trishul Broadcasting Network",
@@ -720,6 +718,16 @@
         "country": "MN"
     },
     {
+        "name": "Belarus-3",
+        "id": "Belarus3.by",
+        "logo": "https://i.imgur.com/JkcDycn.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "BY"
+    },
+    {
         "name": "EBS",
         "id": "EBS.us",
         "logo": "https://i.imgur.com/zqbK2IB.png",
@@ -862,17 +870,6 @@
             "culture"
         ],
         "country": "CG"
-    },
-    {
-        "name": "Catamarca TV",
-        "id": "CatamarcaTV.ar",
-        "logo": "https://i.imgur.com/CEuPoqG.png",
-        "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
-        "categories": [
-            "culture",
-            "news"
-        ],
-        "country": "AR"
     },
     {
         "name": "AlternaTV",

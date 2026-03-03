@@ -50,16 +50,6 @@
         "country": "RW"
     },
     {
-        "name": "B+ TV",
-        "id": "BPlusTV.rw",
-        "logo": "https://i.ibb.co/WzLwj3X/IMG-20230703-155036.jpg",
-        "url": "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "RW"
-    },
-    {
         "name": "Tal TV",
         "id": "TalTV.ne",
         "logo": "https://i.imgur.com/KWMP0t1.png",
@@ -287,16 +277,6 @@
         "id": "BonceTV.cw",
         "logo": "https://i.imgur.com/7cVkllH.png",
         "url": "https://seswa.bonce.tv/hls/bonceswa.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CW"
-    },
-    {
-        "name": "Nos Pais",
-        "id": "NosPais.cw",
-        "logo": "https://i.imgur.com/ZUob2uZ.png",
-        "url": "https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1423,6 +1403,16 @@
         "country": "IN"
     },
     {
+        "name": "Oli TV",
+        "id": "OliTV.in",
+        "logo": "https://i.ibb.co/XfvTQyJn/main-removebg-preview.png",
+        "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "MHZ",
         "id": "MHZ.ca",
         "logo": "https://i.imgur.com/a5fw83n.jpg",
@@ -1477,6 +1467,16 @@
         "id": "SooriyanTV.ca",
         "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
         "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "5AAB TV",
+        "id": "5AABTV.ca",
+        "logo": "https://i.imgur.com/jrGrfof.png",
+        "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1788,16 +1788,6 @@
         "country": "DO"
     },
     {
-        "name": "R&E TV",
-        "id": "RETV.do",
-        "logo": "https://i.imgur.com/HpKQYp3.png",
-        "url": "https://live.ryetv.net/livelan/stream.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Telemax",
         "id": "Telemax.do",
         "logo": "https://i.imgur.com/QvKmjvV.png",
@@ -1949,19 +1939,6 @@
         "country": "VN"
     },
     {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "DNTV",
         "id": "DNTV.ci",
         "logo": "https://i.imgur.com/Pw1ifln.png",
@@ -2032,16 +2009,6 @@
         "country": "EC"
     },
     {
-        "name": "Magica Tv",
-        "id": "MagicaTv.ec",
-        "logo": "https://i.imgur.com/h4FQuIz.jpg",
-        "url": "https://magicatv.4pu.com/hls/stream.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Clic TV",
         "id": "ClicTV.ec",
         "logo": "https://i.imgur.com/bvSLm9U.png",
@@ -2091,18 +2058,6 @@
             "entertainment"
         ],
         "country": "UZ"
-    },
-    {
-        "name": "Unifranz",
-        "id": "Unifranz.bo",
-        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
-        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
-        "categories": [
-            "education",
-            "entertainment",
-            "news"
-        ],
-        "country": "BO"
     },
     {
         "name": "Kingsview TV",
@@ -2174,6 +2129,16 @@
             "entertainment"
         ],
         "country": "LA"
+    },
+    {
+        "name": "TV Nova",
+        "id": "TVNova.hr",
+        "logo": "https://i.imgur.com/gFjJ7YB.png",
+        "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "HR"
     },
     {
         "name": "Canica TV",
@@ -2862,6 +2827,16 @@
             "entertainment"
         ],
         "country": "NA"
+    },
+    {
+        "name": "Belarus-2",
+        "id": "Belarus2.by",
+        "logo": "https://i.imgur.com/BpEHpPS.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BY"
     },
     {
         "name": "Impact Network",
@@ -3716,16 +3691,6 @@
         "id": "afrobeattv.ug",
         "logo": "",
         "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "UG"
-    },
-    {
-        "name": "Bukedde TV 2",
-        "id": "BukeddeTV2.ug",
-        "logo": "https://i.imgur.com/ukwPZeY.png",
-        "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
         "categories": [
             "entertainment"
         ],

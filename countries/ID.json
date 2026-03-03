@@ -771,14 +771,6 @@
         "country": "ID"
     },
     {
-        "name": "UGTV",
-        "id": "UGTV.id",
-        "logo": "https://i.imgur.com/iEKDH26.png",
-        "url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Batam TV",
         "id": "BatamTV.id",
         "logo": "https://i.imgur.com/lo7YXnW.png",
@@ -809,16 +801,6 @@
         "country": "ID"
     },
     {
-        "name": "Jogja TV",
-        "id": "JogjaTV.id",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
-        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Riau TV",
         "id": "RiauTV.id",
         "logo": "https://i.imgur.com/1g8FtJi.png",
@@ -831,6 +813,50 @@
         "id": "SangajiTV.id",
         "logo": "https://i.imgur.com/4rTNT8F.png",
         "url": "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Fajar TV",
+        "id": "FajarTV.id",
+        "logo": "https://i.imgur.com/mkuXxRK.png",
+        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "MBG TV",
+        "id": "MBGTV.id",
+        "logo": "https://i.imgur.com/t7GsFJN.jpeg",
+        "url": "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8",
+        "categories": [
+            "legislative"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Selaparang TV",
+        "id": "SelaparangTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png",
+        "url": "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Semarang TV",
+        "id": "SemarangTV.id",
+        "logo": "https://i.imgur.com/KFC2WSB.png",
+        "url": "http://116.254.112.74/hls/cakralive.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Sultra TV",
+        "id": "SultraTV.id",
+        "logo": "https://i.imgur.com/cmpbNJz.png",
+        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
         "categories": [],
         "country": "ID"
     }

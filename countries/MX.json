@@ -710,16 +710,6 @@
         "country": "MX"
     },
     {
-        "name": "XHMNL-TDT",
-        "id": "XHMNLTDT.mx",
-        "logo": "https://i.imgur.com/9qL4LJF.png",
-        "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Alcance TV",
         "id": "AlcanceTV.mx",
         "logo": "https://i.imgur.com/5nYjRlb.png",
@@ -786,10 +776,10 @@
         "country": "MX"
     },
     {
-        "name": "California Medios TV",
-        "id": "CaliforniaMediosTV.mx",
-        "logo": "https://i.imgur.com/IDvpRNI.png",
-        "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
+        "name": "IMRyT",
+        "id": "IMRyT.mx",
+        "logo": "https://i.imgur.com/D91O6ka.png",
+        "url": "https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8",
         "categories": [
             "general"
         ],

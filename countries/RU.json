@@ -2134,14 +2134,6 @@
         "country": "RU"
     },
     {
-        "name": "Univer TV",
-        "id": "UniverTV.ru",
-        "logo": "https://i.imgur.com/r3u0mxr.png",
-        "url": "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8",
-        "categories": [],
-        "country": "RU"
-    },
-    {
         "name": "NTM",
         "id": "NTM.ru",
         "logo": "https://i.imgur.com/AH50pGT.png",
@@ -2747,6 +2739,16 @@
         "url": "http://31.148.48.15/Zhara/index.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Tsargrad TV",
+        "id": "TsargradTV.ru",
+        "logo": "https://i.imgur.com/34RINpb.png",
+        "url": "https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=is_mLq_kjPYLsOJ4qj85tw&e=2070278263&scheme=https",
+        "categories": [
+            "religious"
         ],
         "country": "RU"
     }

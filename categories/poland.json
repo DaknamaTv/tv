@@ -540,16 +540,6 @@
         "country": ""
     },
     {
-        "name": "PL: CBS REALITY HD",
-        "id": "plcbsrealityhd",
-        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/7922.jpg?60316",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309869",
-        "categories": [
-            "poland"
-        ],
-        "country": ""
-    },
-    {
         "name": "PL: DISCO POLO MUSIC",
         "id": "pldiscopolomusic",
         "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/2368.jpg?41547",
@@ -794,6 +784,26 @@
         "id": "plredcarpettvhd",
         "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9863.jpg?61612",
         "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309836",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: AXN SPIN HD",
+        "id": "plaxnspinhd",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c3/Axn_spin_pl.png/revision/latest?cb=20120817201055",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17164.ts",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: Kino Polska Muzyka",
+        "id": "plkinopolskamuzyka",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nDHyexAoAqh4fwTUlugQKSrLyoa3jiu8NyTzzswylJJQ=s900-c-k-c0x00ffffff-no-rj",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17216.ts",
         "categories": [
             "poland"
         ],
