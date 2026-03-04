@@ -1,49 +1,59 @@
 [
     {
-        "name": "Continuum",
-        "id": "continuum",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1c8909c9-e161-4bca-afd4-649b7486a01b/Continuum_Channel_Logo_White.png",
-        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66ce3ef09ac0b1441b19ca2b.m3u8",
+        "name": "ACL Cornhole TV",
+        "id": "aclcornholetv",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png",
+        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63504925a97bd70eaef54f01.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Four in a Bed",
-        "id": "fourinabed",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/25ed8833-43c9-4e98-b4e0-ffa3b0dadf89/FourInABed_Logo_Jack_ArcherRDX.png",
-        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66e8d7600a1c525933947792.m3u8",
+        "name": "NEW KFOOD",
+        "id": "newkfood",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b9f5a3d60e5dd29263c7ac.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Hit List",
-        "id": "hitlist",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/d6d559f3-6a3d-4ce0-839e-55681e4a7928/Hit_List.png",
-        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-61aaa014784a2161d3caf7fd.m3u8",
+        "name": "PickleTV",
+        "id": "pickletv",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
+        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-63ec0b739866d8d2120ac759.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "PeliMex",
-        "id": "pelimex",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/fc750061-c748-4016-83e0-9f56a40a493c/Pelimex_red_logo_RDXC2.png",
-        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-67db3546d66f778a752f7eaa.m3u8",
+        "name": "Pop Adult",
+        "id": "popadult",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62ee7992271f393d2d9f709c.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "XITE Hip-Hop Evolution",
-        "id": "xitehiphopevolution",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ded154a4-17ee-4e40-b7dc-cb3dc5696a9d/xitehiphopevolution_logo_light_-_Arlette_FiranRDX.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68894b6e10df0c242e4136cc.m3u8",
+        "name": "Prime Suspect",
+        "id": "primesuspect",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b5f799b0-c898-42ad-b8d6-d7053640991d/FilmRise_PrimeSuspect_Logo_WhiteRDX.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6674b780f04cf4bb9233c918.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Surf Cinema",
+        "id": "surfcinema",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
+        "url": "https://jmp2.uk/plex-6430aa45fc3be5947780904e-656fbbd6dbcce28c3a41741b.m3u8",
         "categories": [
             "plex-all"
         ],

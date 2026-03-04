@@ -42,7 +42,7 @@
     {
         "name": "DD Kisan",
         "id": "DDKisan.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540",
         "url": "https://cdn-6.pishow.tv/live/9/master.m3u8",
         "categories": [
             "education",
@@ -89,6 +89,16 @@
             "outdoor"
         ],
         "country": "CO"
+    },
+    {
+        "name": "ARDB TV",
+        "id": "ARDBTV.kh",
+        "logo": "https://i.imgur.com/yOncWla.png",
+        "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+        "categories": [
+            "outdoor"
+        ],
+        "country": "KH"
     },
     {
         "name": "InWild",

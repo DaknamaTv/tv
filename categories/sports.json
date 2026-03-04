@@ -242,7 +242,7 @@
     {
         "name": "Star Sports 2 Tamil",
         "id": "StarSports2Tamil.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158352_ld_h15_ab.png",
+        "logo": "https://dtil.tmsimg.com/assets/s158352_ld_h15_ab.png?lock=720x540",
         "url": "http://103.229.254.25:7001/play/a0dc/index.m3u8",
         "categories": [
             "sports"
@@ -252,7 +252,7 @@
     {
         "name": "Star Sports 2 Hindi",
         "id": "StarSports2Hindi.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540",
         "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
         "categories": [
             "sports"
@@ -262,7 +262,7 @@
     {
         "name": "Sony Sports Ten 3 Hindi",
         "id": "SonySportsTen3Hindi.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
         "url": "http://103.229.254.25:7001/play/a09q/index.m3u8",
         "categories": [
             "sports"
@@ -272,7 +272,7 @@
     {
         "name": "Sony Sports Ten 1",
         "id": "SonySportsTen1.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
         "url": "http://103.121.6.5:8000/play/a05w/index.m3u8",
         "categories": [
             "sports"
@@ -292,7 +292,7 @@
     {
         "name": "Star Sports 2",
         "id": "StarSports2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540",
         "url": "http://103.121.6.5:8000/play/a05u/index.m3u8",
         "categories": [
             "sports"
@@ -322,7 +322,7 @@
     {
         "name": "Sony Sports Ten 2",
         "id": "SonySportsTen2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
         "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
         "categories": [
             "sports"
@@ -332,7 +332,7 @@
     {
         "name": "Sony Sports Ten 5",
         "id": "SonySportsTen5.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
         "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
         "categories": [
             "sports"
@@ -420,16 +420,6 @@
         "country": "CL"
     },
     {
-        "name": "Multivision Sports",
-        "id": "MultivisionSports.gt",
-        "logo": "https://i.imgur.com/wLjSSo2.jpg",
-        "url": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "GT"
-    },
-    {
         "name": "SOS Kanal Plus",
         "id": "SOSKanalPlus.rs",
         "logo": "https://i.imgur.com/9SD40uH.png",
@@ -477,6 +467,16 @@
         "categories": [
             "sports",
             "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "HTV Sports",
+        "id": "HTVSports.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "VN"
     },

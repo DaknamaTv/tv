@@ -50,16 +50,6 @@
         "country": "AU"
     },
     {
-        "name": "A2i Music",
-        "id": "A2iMusic.sn",
-        "logo": "https://i.imgur.com/Fykhzxh.jpg",
-        "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "SN"
-    },
-    {
         "name": "TeleMusik Senegal",
         "id": "TeleMusikSenegal.sn",
         "logo": "https://i.imgur.com/dPAPLsd.png",
@@ -718,7 +708,7 @@
     {
         "name": "Music India",
         "id": "MusicIndia.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540",
         "url": "https://cdn-2.pishow.tv/live/226/master.m3u8",
         "categories": [
             "music"
@@ -738,7 +728,7 @@
     {
         "name": "9X Jhakaas",
         "id": "9XJhakaas.in",
-        "logo": "https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540",
         "url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
         "categories": [
             "music"
@@ -758,7 +748,7 @@
     {
         "name": "Raj Musix Telugu",
         "id": "RajMusixTelugu.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png?lock=720x540",
         "url": "https://cdn-1.pishow.tv/live/1213/master.m3u8",
         "categories": [
             "music"
@@ -768,7 +758,7 @@
     {
         "name": "PTC Chakde",
         "id": "PTCChakde.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143681_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143681_ld_h15_aa.png?lock=720x540",
         "url": "https://cdn-1.pishow.tv/live/449/master.m3u8",
         "categories": [
             "music"
@@ -778,7 +768,7 @@
     {
         "name": "PTC Music",
         "id": "PTCMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143682_ld_h15_ab.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143682_ld_h15_ab.png?lock=720x540",
         "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8",
         "categories": [
             "music"
@@ -788,7 +778,7 @@
     {
         "name": "Sangeet Bhojpuri",
         "id": "SangeetBhojpuri.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540",
         "url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
         "categories": [
             "music"
@@ -818,7 +808,7 @@
     {
         "name": "Public Music",
         "id": "PublicMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540",
         "url": "https://cdn-3.pishow.tv/live/441/master.m3u8",
         "categories": [
             "music"
@@ -868,7 +858,7 @@
     {
         "name": "Zoom",
         "id": "Zoom.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540",
         "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
         "categories": [
             "music"
@@ -888,7 +878,7 @@
     {
         "name": "9XM",
         "id": "9XM.in",
-        "logo": "https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540",
         "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
         "categories": [
             "music"
@@ -898,7 +888,7 @@
     {
         "name": "Mh 1 Music",
         "id": "Mh1Music.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540",
         "url": "https://mumt04.tangotv.in/MHONE/index.m3u8",
         "categories": [
             "music"
@@ -908,7 +898,7 @@
     {
         "name": "Raj Musix Malayalam",
         "id": "RajMusixMalayalam.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143706_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143706_ld_h15_aa.png?lock=720x540",
         "url": "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8",
         "categories": [
             "music"
@@ -918,7 +908,7 @@
     {
         "name": "Sun Music",
         "id": "SunMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s145427_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z1CL8.png?lock=720x540",
         "url": "http://15.235.144.106:14055",
         "categories": [
             "music"
@@ -948,7 +938,7 @@
     {
         "name": "Songdew TV",
         "id": "SongdewTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540",
         "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
         "categories": [
             "music"
@@ -968,7 +958,7 @@
     {
         "name": "9X Tashan",
         "id": "9XTashan.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540",
         "url": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
         "categories": [
             "music"
@@ -988,7 +978,7 @@
     {
         "name": "Tarang Music",
         "id": "TarangMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143926_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143926_ld_h15_aa.png?lock=720x540",
         "url": "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8",
         "categories": [
             "music"
@@ -1028,7 +1018,7 @@
     {
         "name": "Sun Life",
         "id": "SunLife.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143873_ld_h15_ab.png",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z1JE4.png?lock=720x540",
         "url": "http://111.88.78.21:8000/play/a0z3/index.m3u8",
         "categories": [
             "entertainment",
@@ -1039,7 +1029,7 @@
     {
         "name": "Vijay Takkar",
         "id": "VijayTakkar.in",
-        "logo": "https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540",
         "url": "http://111.88.78.21:8000/play/a0xx/index.m3u8",
         "categories": [
             "music"
@@ -1049,7 +1039,7 @@
     {
         "name": "Isai Aruvi",
         "id": "IsaiAruvi.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540",
         "url": "http://111.88.78.21:8000/play/a0wn/index.m3u8",
         "categories": [
             "music"
@@ -1550,6 +1540,16 @@
         "country": "BG"
     },
     {
+        "name": "DSTV",
+        "id": "DSTV.bg",
+        "logo": "https://i.imgur.com/YMgzzkf.png",
+        "url": "http://46.249.95.140:8081/hls/data.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BG"
+    },
+    {
         "name": "Radio Hit FM TV",
         "id": "RadioHitFMTV.rs",
         "logo": "https://i.imgur.com/gP2OT4S.png",
@@ -1728,36 +1728,6 @@
             "music"
         ],
         "country": "PA"
-    },
-    {
-        "name": "Fabulosa Estereo 100.5 FM",
-        "id": "FabulosaEstereo1005FM.pa",
-        "logo": "https://i.imgur.com/YFmzkOp.png",
-        "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PA"
-    },
-    {
-        "name": "Tropi Q 99.7 FM",
-        "id": "TropiQ997FM.pa",
-        "logo": "https://i.imgur.com/5rPdHhb.png",
-        "url": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PA"
-    },
-    {
-        "name": "Flex Studio Radio TV",
-        "id": "FlexStudioRadioTV.bz",
-        "logo": "https://i.imgur.com/tZjqtxd.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BZ"
     },
     {
         "name": "Melody",
@@ -2818,6 +2788,26 @@
         "country": "LB"
     },
     {
+        "name": "OneFM",
+        "id": "OneFM.lb",
+        "logo": "https://i.ibb.co/Vp2G9wTz/onefmlb.png",
+        "url": "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "LB"
+    },
+    {
+        "name": "One TV",
+        "id": "OneTV.lb",
+        "logo": "https://i.imgur.com/O4DuR9G.png",
+        "url": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "LB"
+    },
+    {
         "name": "Mosaique FM",
         "id": "MosaiqueFM.tn",
         "logo": "https://i.imgur.com/GDUykah.png",
@@ -3129,6 +3119,16 @@
             "music"
         ],
         "country": "PH"
+    },
+    {
+        "name": "Melody FM",
+        "id": "MelodyFM.jo",
+        "logo": "https://i.imgur.com/J8omcNz.png",
+        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "JO"
     },
     {
         "name": "Couleur 3",
@@ -3953,6 +3953,16 @@
         "country": "PT"
     },
     {
+        "name": "NPC Radio e TV",
+        "id": "NPCRadioeTV.pt",
+        "logo": "https://i.imgur.com/mw1lYWE.png",
+        "url": "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PT"
+    },
+    {
         "name": "D3 TV",
         "id": "D3TV.ml",
         "logo": "https://i.imgur.com/uFEIBtB.png",
@@ -4177,6 +4187,16 @@
         "id": "SuperTV.ro",
         "logo": "https://i.imgur.com/pzxUE0O.png",
         "url": "http://iptv.supertv.ro:8000/play/a001/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Tele7music",
+        "id": "Tele7music.ro",
+        "logo": "https://i.imgur.com/11b5W8u.png",
+        "url": "https://live.tele7music.ro/hls/stream/index.m3u8",
         "categories": [
             "music"
         ],

@@ -1446,16 +1446,6 @@
         "country": "IT"
     },
     {
-        "name": "PREMUIM CALCIO 4",
-        "id": "PREMUIMCALCIO4.it",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406072",
-        "categories": [
-            "italy"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "PREMUIM CALCIO 5",
         "id": "PREMUIMCALCIO5.it",
         "logo": "",
@@ -1470,26 +1460,6 @@
         "id": "PREMUIMCALCIO6.it",
         "logo": "",
         "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406070",
-        "categories": [
-            "italy"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "PREMIUM CALCIO 2",
-        "id": "PREMIUMCALCIO2.it",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406067",
-        "categories": [
-            "italy"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "PREMIUM CALCIO 4",
-        "id": "PREMIUMCALCIO4.it",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406066",
         "categories": [
             "italy"
         ],
@@ -1623,6 +1593,16 @@
         "url": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8",
         "categories": [
             "religious"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Onda TV",
+        "id": "OndaTV.it",
+        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg",
+        "url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "IT"
     }

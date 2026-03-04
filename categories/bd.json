@@ -210,16 +210,6 @@
         "country": ""
     },
     {
-        "name": "SonySab",
-        "id": "sonysab",
-        "logo": "",
-        "url": "http://217.20.112.199:8888/sabtvhd/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Nat Geo HD",
         "id": "natgeohd",
         "logo": "",
@@ -1790,16 +1780,6 @@
         "country": ""
     },
     {
-        "name": "Sony Sports Ten 3 HD",
-        "id": "sonysportsten3hd",
-        "logo": "",
-        "url": "http://103.229.254.25:7001/play/a0eg/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "ATN AFG",
         "id": "atnafg",
         "logo": "",
@@ -2510,16 +2490,6 @@
         "country": ""
     },
     {
-        "name": "Colors",
-        "id": "colors",
-        "logo": "",
-        "url": "http://217.20.112.199:8888/ColorsHD/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "ARY Digital",
         "id": "arydigital",
         "logo": "",
@@ -2530,10 +2500,10 @@
         "country": ""
     },
     {
-        "name": "TNS Sports-3",
-        "id": "tnssports3",
+        "name": "Azan TV",
+        "id": "azantv",
         "logo": "",
-        "url": "https://7pal.short.gy/tntspts3",
+        "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
         "categories": [
             "bd"
         ],

@@ -284,16 +284,6 @@
         "country": "PE"
     },
     {
-        "name": "AsiriTV",
-        "id": "AsiriTV.pe",
-        "logo": "https://i.imgur.com/7bGVFBa.png",
-        "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Telecolor Yurimaguas",
         "id": "TelecolorYurimaguas.pe",
         "logo": "https://i.imgur.com/Ug6XNIU.png",
@@ -440,26 +430,6 @@
         "country": "PE"
     },
     {
-        "name": "ATV+",
-        "id": "ATVPlus.pe",
-        "logo": "https://i.imgur.com/fY9256H.png",
-        "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "ATV Sur",
-        "id": "ATVSur.pe",
-        "logo": "https://i.imgur.com/LnyVa5H.png",
-        "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Miel TV",
         "id": "MielTV.pe",
         "logo": "https://i.imgur.com/dPSFrCs.png",
@@ -467,14 +437,6 @@
         "categories": [
             "music"
         ],
-        "country": "PE"
-    },
-    {
-        "name": "Senal Peru TV",
-        "id": "SenalPeruTV.pe",
-        "logo": "https://i.imgur.com/1q0R6R9.png",
-        "url": "https://livestream.perucast.com/hls/stream.m3u8",
-        "categories": [],
         "country": "PE"
     },
     {
@@ -525,6 +487,14 @@
         "categories": [
             "news"
         ],
+        "country": "PE"
+    },
+    {
+        "name": "Teleselva",
+        "id": "Teleselva.pe",
+        "logo": "https://i.imgur.com/cu7hTn8.png",
+        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
+        "categories": [],
         "country": "PE"
     }
 ]

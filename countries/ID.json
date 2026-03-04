@@ -237,16 +237,6 @@
         "country": "ID"
     },
     {
-        "name": "Duta TV",
-        "id": "DutaTV.id",
-        "logo": "https://i.imgur.com/B4JW54M.png",
-        "url": "https://dutatv.siar.us/dutatv/live/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Caruban TV",
         "id": "CarubanTV.id",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png",
@@ -295,14 +285,6 @@
         "id": "TawafTV.id",
         "logo": "https://i.postimg.cc/VvVgb6dN/logo-tawaf.png",
         "url": "https://tvstreamcast.com/tawaftv.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "UBTV Brawijaya",
-        "id": "UBTVBrawijaya.id",
-        "logo": "https://i.imgur.com/BQIi7ko.png",
-        "url": "https://ubmedcom.siar.us/live/ubmedcom.m3u8",
         "categories": [],
         "country": "ID"
     },
@@ -735,16 +717,6 @@
         "country": "ID"
     },
     {
-        "name": "Jek TV",
-        "id": "JekTV.id",
-        "logo": "https://i.imgur.com/wh75d1f.png",
-        "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Batam TV",
         "id": "BatamTV.id",
         "logo": "https://i.imgur.com/lo7YXnW.png",
@@ -779,14 +751,6 @@
         "id": "RiauTV.id",
         "logo": "https://i.imgur.com/1g8FtJi.png",
         "url": "http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "Sangaji TV",
-        "id": "SangajiTV.id",
-        "logo": "https://i.imgur.com/4rTNT8F.png",
-        "url": "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8",
         "categories": [],
         "country": "ID"
     },
@@ -827,29 +791,11 @@
         "country": "ID"
     },
     {
-        "name": "UGTV",
-        "id": "UGTV.id",
-        "logo": "https://i.imgur.com/iEKDH26.png",
-        "url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Wesal TV",
         "id": "WesalTV.id",
         "logo": "https://i.imgur.com/Uv8RWks.png",
         "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
         "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "Fajar TV",
-        "id": "FajarTV.id",
-        "logo": "https://i.imgur.com/mkuXxRK.png",
-        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
         "country": "ID"
     },
     {
@@ -867,6 +813,40 @@
         "id": "TimorTV.id",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png",
         "url": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Astha TV",
+        "id": "AsthaTV.id",
+        "logo": "https://astha.garuda.tv/assets/logo-DLGyXEGO.png",
+        "url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Jogja TV",
+        "id": "JogjaTV.id",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
+        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "PKTV",
+        "id": "PKTV.id",
+        "logo": "https://i.imgur.com/mldv8Sf.png",
+        "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "RRI Net",
+        "id": "RRINet.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/2560px-RRI_NET_2023.svg.png",
+        "url": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
         "categories": [],
         "country": "ID"
     }
