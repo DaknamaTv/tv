@@ -1690,16 +1690,6 @@
         "country": ""
     },
     {
-        "name": "JalshaMovies HD",
-        "id": "jalshamovieshd",
-        "logo": "",
-        "url": "http://103.229.254.25:7001/play/a0dt/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "StarSports 2 HD",
         "id": "starsports2hd",
         "logo": "",
@@ -2390,40 +2380,10 @@
         "country": ""
     },
     {
-        "name": "ASTRO SPORTS PLUS",
-        "id": "astrosportsplus",
-        "logo": "",
-        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Astro SPORTS Primier",
         "id": "astrosportsprimier",
         "logo": "",
         "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sunnah Tv",
-        "id": "sunnahtv",
-        "logo": "",
-        "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AL SUNNAH TV",
-        "id": "alsunnahtv",
-        "logo": "",
-        "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
         "categories": [
             "bd"
         ],
@@ -2454,6 +2414,76 @@
         "id": "deshebideshe",
         "logo": "https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",
         "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Animal Planet HD",
+        "id": "animalplanethd",
+        "logo": "https://s3.aynaott.com/storage/18d95033c5d53fc3b159141a842fdeac",
+        "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "discovery science",
+        "id": "discoveryscience",
+        "logo": "https://tvassets.roarzone.info/images/discoveryscience.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/index.m3u8?token=adc7a8df8295db8dbcd3f6ca6acdd8df7b6dc8d7-8b40ee8d213d86595b15075705c8319c-1772713231-1772709631",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "cartoon network hd",
+        "id": "cartoonnetworkhd",
+        "logo": "https://tvassets.roarzone.info/images/cartoon-network-hd.webp",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/cartoon-network-hd/index.m3u8?token=ef517559b769fe92d1498ea968d3d9a08dc9bc18-11a4fae5310d4e975247447363b08fc2-1772713231-1772709631",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "channel s",
+        "id": "channels",
+        "logo": "https://tvassets.roarzone.info/images/channel-s.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8?token=4c86e315d8b4837c3b1eb9671c56533bbcd51ae3-bf57dac367791f8182e0ca6f43c594d1-1772713231-1772709631",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "asian tv",
+        "id": "asiantv",
+        "logo": "https://tvassets.roarzone.info/images/62.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8?token=a86084b8bac7deef75971d1400a38bb44b8cb483-64667d08b97f3f68f02453411aac26fb-1772713231-1772709631",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ICC World Cup 2026",
+        "id": "iccworldcup2026",
+        "logo": "",
+        "url": "https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTV",
+        "id": "rtv",
+        "logo": "",
+        "url": "http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8",
         "categories": [
             "bd"
         ],

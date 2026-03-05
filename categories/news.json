@@ -210,6 +210,16 @@
         "country": "TR"
     },
     {
+        "name": "Finans Turk TV",
+        "id": "FinansTurkTV.tr",
+        "logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
+        "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "Kapaz TV",
         "id": "KapazTV.az",
         "logo": "https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/512px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png",
@@ -420,6 +430,16 @@
             "news"
         ],
         "country": "CR"
+    },
+    {
+        "name": "Monaco Info",
+        "id": "MonacoInfo.mc",
+        "logo": "https://i.imgur.com/FPyPaL1.png",
+        "url": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "MC"
     },
     {
         "name": "Visir",
@@ -2468,16 +2488,6 @@
         "country": "IN"
     },
     {
-        "name": "Moon TV",
-        "id": "MoonTV.in",
-        "logo": "https://i.imgur.com/3l25EZI.png",
-        "url": "https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Prudent Media",
         "id": "PrudentMedia.in",
         "logo": "https://i.imgur.com/DG0x4UD.png",
@@ -2518,10 +2528,30 @@
         "country": "IN"
     },
     {
-        "name": "RDX Goa",
-        "id": "RDXGoa.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
-        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+        "name": "Gulistan News",
+        "id": "GulistanNews.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540",
+        "url": "https://live.gulistannews.in/hls/gul.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "High News",
+        "id": "HighNews.in",
+        "logo": "https://pbs.twimg.com/profile_images/1104268476858937351/USUT4ykS_400x400.png",
+        "url": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "JK 24x7 News",
+        "id": "JK24x7News.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540",
+        "url": "https://live.gulistannews.in/hls/jk.m3u8",
         "categories": [
             "news"
         ],
@@ -2910,6 +2940,30 @@
         "country": "VN"
     },
     {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "VTV",
         "id": "VTV.mv",
         "logo": "https://i.imgur.com/6bY9Umo.png",
@@ -3246,6 +3300,16 @@
         "country": "NG"
     },
     {
+        "name": "Advocate Broadcasting Network",
+        "id": "AdvocateBroadcastingNetwork.ng",
+        "logo": "https://i.imgur.com/ZkBEAp7.png",
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "NG"
+    },
+    {
         "name": "CTi News",
         "id": "CTiNews.tw",
         "logo": "https://i.imgur.com/FZONZEr.png",
@@ -3300,16 +3364,6 @@
         "id": "WelatTV.sy",
         "logo": "https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4",
         "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "SY"
-    },
-    {
-        "name": "Alalam News Channel Syria",
-        "id": "AlalamNewsChannelSyria.sy",
-        "logo": "https://i.imgur.com/WQKYPKD.png",
-        "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
         "categories": [
             "news"
         ],
@@ -3382,16 +3436,6 @@
         "id": "TOLOnews.af",
         "logo": "https://i.imgur.com/oxaHaTq.png",
         "url": "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "AF"
-    },
-    {
-        "name": "Chekad TV",
-        "id": "ChekadTV.af",
-        "logo": "https://i.imgur.com/dPTJY5M.png",
-        "url": "https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8",
         "categories": [
             "news"
         ],
@@ -3512,6 +3556,16 @@
         "id": "SucesoTV.py",
         "logo": "https://i.imgur.com/BwRNes1.png",
         "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "4Dmas Noticias TV",
+        "id": "4DmasNoticiasTV.py",
+        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -3791,6 +3845,16 @@
         "country": "IT"
     },
     {
+        "name": "Telegela 647",
+        "id": "Telegela647.it",
+        "logo": "https://i.imgur.com/ppkX45f.png",
+        "url": "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IT"
+    },
+    {
         "name": "Nachrichten 360",
         "id": "Nachrichten360.de",
         "logo": "https://i.imgur.com/CwxYslK.png",
@@ -4046,16 +4110,6 @@
         "country": "PH"
     },
     {
-        "name": "Al Mamlaka TV",
-        "id": "AlMamlakaTV.jo",
-        "logo": "https://i.imgur.com/UeTseMV.png",
-        "url": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "JO"
-    },
-    {
         "name": "Alhaqeqa Aldawlia",
         "id": "AlhaqeqaAldawlia.jo",
         "logo": "https://www.lyngsat.com/logo/tv/aa/alhaqeqa-aldawlia-jo.png",
@@ -4191,40 +4245,10 @@
         "country": "BR"
     },
     {
-        "name": "TCM 10 HD",
-        "id": "TCM10HD.br",
-        "logo": "https://i.imgur.com/aMuMVvB.png",
-        "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Sim Sao Mateus",
         "id": "TVSimSaoMateus.br",
         "logo": "https://i.imgur.com/t5oUK3C.png",
         "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Sim Colatina",
-        "id": "TVSimColatina.br",
-        "logo": "https://i.imgur.com/t5oUK3C.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Sim Cachoeiro",
-        "id": "TVSimCachoeiro.br",
-        "logo": "https://i.imgur.com/t5oUK3C.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
         "categories": [
             "news"
         ],

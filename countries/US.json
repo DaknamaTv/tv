@@ -9311,16 +9311,6 @@
         "country": "US"
     },
     {
-        "name": "Teve Vida Network",
-        "id": "TeveVidaNetwork.us",
-        "logo": "https://i.imgur.com/lCpf5P1.png",
-        "url": "https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TVS Women Sports",
         "id": "TVSWomenSports.us",
         "logo": "https://i.imgur.com/8hC4PfF.png",
@@ -9993,6 +9983,56 @@
         "url": "https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8",
         "categories": [
             "religious"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "JBS",
+        "id": "JBS.us",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
+        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "KVEA-DT1",
+        "id": "KVEADT1.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+        "url": "http://104.238.205.28:9090/278661_.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Little Guyana TV",
+        "id": "LittleGuyanaTV.us",
+        "logo": "https://i.imgur.com/b475xOT.jpg",
+        "url": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "NFL RedZone",
+        "id": "NFLRedZone.us",
+        "logo": "https://i.imgur.com/5lPqQj5.png",
+        "url": "https://tvpass.org/live/NFLRedZone/sd",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Television Network",
+        "id": "TVSTelevisionNetwork.us",
+        "logo": "",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "US"
     }

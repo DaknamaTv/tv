@@ -811,16 +811,6 @@
         "country": "DO"
     },
     {
-        "name": "Larivision TV",
-        "id": "LarivisionTV.do",
-        "logo": "https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png",
-        "url": "https://live.larimartv.net/livelan/stream.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Miavision TV",
         "id": "MiavisionTV.do",
         "logo": "https://imgur.com/Bbcrjvs.png",
@@ -875,16 +865,6 @@
         "id": "SenalDigitalTV.do",
         "logo": "https://imgur.com/KGqUu1X.jpg",
         "url": "https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Telecanal 12",
-        "id": "Telecanal12.do",
-        "logo": "https://i.imgur.com/90cTK8S.png",
-        "url": "https://mlb.essastream.com:8081/telecanal12/tracks-v1a1/mono.m3u8",
         "categories": [
             "general"
         ],
@@ -1031,16 +1011,6 @@
         "country": "DO"
     },
     {
-        "name": "MorroTV",
-        "id": "MorroTV.do",
-        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3759-294x165-FFFFFF.jpg",
-        "url": "https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Nitida TV",
         "id": "NitidaTV.do",
         "logo": "https://i.imgur.com/z9JkxcM.png",
@@ -1126,16 +1096,6 @@
         "id": "RomanaTVCanal42.do",
         "logo": "https://i.imgur.com/EXnsmhx.png",
         "url": "https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Telealtura",
-        "id": "Telealtura.do",
-        "logo": "https://i.imgur.com/Ql2eaP0.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/codificador7/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1332,32 +1292,12 @@
         "country": "DO"
     },
     {
-        "name": "Canal 56",
-        "id": "Canal56.do",
-        "logo": "https://i.imgur.com/HcLs5eM.png",
-        "url": "https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Super7FM",
         "id": "Super7FM.do",
         "logo": "https://i.imgur.com/TJEqwZo.png",
         "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Tele Dominicana TV",
-        "id": "TeleDominicanaTV.do",
-        "logo": "https://dominicanchannels.com/wp-content/uploads/teledominicana.png",
-        "url": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "DO"
     },
@@ -1556,16 +1496,6 @@
         "id": "CascaraTV.do",
         "logo": "https://i.imgur.com/DEUR7mB.png",
         "url": "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Codigo TV",
-        "id": "CodigoTV.do",
-        "logo": "https://imgur.com/DbjywI3.png",
-        "url": "https://mlb.essastream.com:8081/codigotv/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1872,16 +1802,6 @@
         "country": "DO"
     },
     {
-        "name": "TV Higuey Digital",
-        "id": "TVHigueyDigital.do",
-        "logo": "https://i.imgur.com/ptQyOMi.png",
-        "url": "https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "JPD TV",
         "id": "JPDTV.do",
         "logo": "https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png",
@@ -1936,6 +1856,56 @@
         "id": "VTVCanal32.do",
         "logo": "https://i.imgur.com/qjm4B0J.png",
         "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Delta TV Canal 50",
+        "id": "DeltaTVCanal50.do",
+        "logo": "https://imgur.com/Z1K1tyl.jpg",
+        "url": "https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Enntivision",
+        "id": "Enntivision.do",
+        "logo": "https://i.imgur.com/nePOFZW.png",
+        "url": "https://mlb.essastream.com:8081/enntivision/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "FRATA TV",
+        "id": "FRATATV.do",
+        "logo": "https://i.imgur.com/VxeTREd.png",
+        "url": "https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Pula TV",
+        "id": "PulaTV.do",
+        "logo": "https://i.imgur.com/8gSLJ2f.png",
+        "url": "https://fox.hostlagarto.com:8081/pulatv/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Tenarenses TV",
+        "id": "TenarensesTV.do",
+        "logo": "https://i.imgur.com/cPIgs0v.png",
+        "url": "https://mlb.essastream.com:8081/tenarensestvrd/playlist.m3u8",
         "categories": [
             "general"
         ],

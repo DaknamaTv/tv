@@ -260,16 +260,6 @@
         "country": "VE"
     },
     {
-        "name": "Fortuna TV",
-        "id": "FortunaTV.ve",
-        "logo": "https://i.imgur.com/RPiTPnK.png",
-        "url": "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Alcance TV",
         "id": "AlcanceTV.ve",
         "logo": "https://i.imgur.com/veeuqS1.png",
@@ -384,6 +374,36 @@
         "id": "TVS.ve",
         "logo": "https://i.imgur.com/J8ztiAN.png",
         "url": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Canal Once",
+        "id": "CanalOnce.ve",
+        "logo": "https://i.imgur.com/puM9ASa.png",
+        "url": "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Portuguesa Television",
+        "id": "PortuguesaTelevision.ve",
+        "logo": "https://i.imgur.com/jHUSfGz.png",
+        "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "TAM TV",
+        "id": "TAMTV.ve",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
+        "url": "https://tv.webtuya.com:3726/live/tammeridalive.m3u8",
         "categories": [
             "general"
         ],

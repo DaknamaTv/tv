@@ -1790,16 +1790,6 @@
         "country": ""
     },
     {
-        "name": "Geb Tv (KBPX LD5) (1080p)",
-        "id": "gebtvkbpxld51080p",
-        "logo": "",
-        "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
         "name": "The Ohio Channel (WVIZ DT-2)",
         "id": "theohiochannelwvizdt2",
         "logo": "",
@@ -1990,20 +1980,20 @@
         "country": ""
     },
     {
-        "name": "AssyriaSat (720p) [Not 24/7]",
-        "id": "assyriasat720pnot247",
+        "name": "Palm Beach County TV Channel 20 (Palm Beach County FL) (720p)",
+        "id": "palmbeachcountytvchannel20palmbeachcountyfl720p",
         "logo": "",
-        "url": "http://66.242.170.53/hls/live/temp/index.m3u8",
+        "url": "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8",
         "categories": [
             "us_local"
         ],
         "country": ""
     },
     {
-        "name": "Palm Beach County TV Channel 20 (Palm Beach County FL) (720p)",
-        "id": "palmbeachcountytvchannel20palmbeachcountyfl720p",
+        "name": "NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]",
+        "id": "nbc8limaohwliodt1720pnot247",
         "logo": "",
-        "url": "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8",
+        "url": "https://live.field59.com/wlio/wlio1/playlist.m3u8",
         "categories": [
             "us_local"
         ],

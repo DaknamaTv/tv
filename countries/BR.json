@@ -749,16 +749,6 @@
         "country": "BR"
     },
     {
-        "name": "TCM 10 HD",
-        "id": "TCM10HD.br",
-        "logo": "https://i.imgur.com/aMuMVvB.png",
-        "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TVC-Rio",
         "id": "TVCRio.br",
         "logo": "https://i.imgur.com/WDiikWv.png",
@@ -857,16 +847,6 @@
         "country": "BR"
     },
     {
-        "name": "Sertao TV",
-        "id": "SertaoTV.br",
-        "logo": "https://i.imgur.com/b5xOCsC.png",
-        "url": "http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Padre Cicero",
         "id": "TVPadreCicero.br",
         "logo": "https://i.imgur.com/Y7b29VG.png",
@@ -942,16 +922,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Vicosa",
-        "id": "TVVicosa.br",
-        "logo": "https://i.imgur.com/TZF55f9.png",
-        "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "VV8 TV",
         "id": "VV8TV.br",
         "logo": "https://i.imgur.com/TxHWAeD.png",
@@ -968,26 +938,6 @@
         "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
         "categories": [
             "shop"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Sim Colatina",
-        "id": "TVSimColatina.br",
-        "logo": "https://i.imgur.com/t5oUK3C.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Sim Cachoeiro",
-        "id": "TVSimCachoeiro.br",
-        "logo": "https://i.imgur.com/t5oUK3C.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "BR"
     },
@@ -1029,6 +979,33 @@
         "categories": [
             "general"
         ],
+        "country": "BR"
+    },
+    {
+        "name": "TVE Bahia",
+        "id": "TVEBahia.br",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png",
+        "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
+        "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "categories": [
+            "culture",
+            "education"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Sul Bahia",
+        "id": "TVSulBahia.br",
+        "logo": "https://i.imgur.com/qM6nMWm.png",
+        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
+        "categories": [],
         "country": "BR"
     }
 ]

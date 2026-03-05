@@ -1,5 +1,15 @@
 [
     {
+        "name": "2STV",
+        "id": "2STV.sn",
+        "logo": "https://i.imgur.com/WByVBZf.png",
+        "url": "http://69.64.57.208/2stv/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "SN"
+    },
+    {
         "name": "Natural TV",
         "id": "NaturalTV.tr",
         "logo": "https://i.imgur.com/rfcJ674.png",
@@ -85,18 +95,6 @@
             "culture"
         ],
         "country": "LU"
-    },
-    {
-        "name": "Manas TV",
-        "id": "ManasTV.kg",
-        "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
-        "url": "http://212.42.111.152:8080/hls/manas.m3u8",
-        "categories": [
-            "education",
-            "culture",
-            "entertainment"
-        ],
-        "country": "KG"
     },
     {
         "name": "Teatr",
@@ -196,6 +194,17 @@
         "id": "JayaPlus.in",
         "logo": "https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png?lock=720x540",
         "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
+        "categories": [
+            "culture",
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Jaya Max",
+        "id": "JayaMax.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540",
+        "url": "http://111.88.78.21:8000/play/a0wk/index.m3u8",
         "categories": [
             "culture",
             "entertainment"
@@ -373,6 +382,19 @@
             "culture"
         ],
         "country": "DO"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
     },
     {
         "name": "zenith",
@@ -682,6 +704,17 @@
         "categories": [
             "education",
             "culture"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "categories": [
+            "culture",
+            "education"
         ],
         "country": "BR"
     },
