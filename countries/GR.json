@@ -338,5 +338,15 @@
         "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
         "categories": [],
         "country": "GR"
+    },
+    {
+        "name": "Alert TV",
+        "id": "AlertTV.gr",
+        "logo": "https://i.imgur.com/xqa87lG.png",
+        "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "GR"
     }
 ]

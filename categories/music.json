@@ -10,6 +10,16 @@
         "country": "SX"
     },
     {
+        "name": "Play TV",
+        "id": "PlayTV.cm",
+        "logo": "https://i.imgur.com/1dmBqpf.png",
+        "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CM"
+    },
+    {
         "name": "Isango TV",
         "id": "IsangoTV.rw",
         "logo": "https://i.imgur.com/EfsHaMQ.png",
@@ -197,26 +207,6 @@
         "categories": [
             "music",
             "entertainment"
-        ],
-        "country": "CR"
-    },
-    {
-        "name": "SOY Plancha TV",
-        "id": "SOYPlanchaTV.cr",
-        "logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CR"
-    },
-    {
-        "name": "Vintage Music",
-        "id": "VintageMusic.cr",
-        "logo": "https://i.imgur.com/KImqYnN.jpeg",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "CR"
     },
@@ -1077,6 +1067,16 @@
         "country": "IN"
     },
     {
+        "name": "Marutam Music",
+        "id": "MarutamMusic.in",
+        "logo": "",
+        "url": "https://mntv.livebox.co.in/musichls/live.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Stingray Everything '80s",
         "id": "StingrayEverything80s.ca",
         "logo": "https://i.imgur.com/6E3wYrb.png",
@@ -1750,14 +1750,17 @@
         "country": "PA"
     },
     {
-        "name": "Flex Studio Radio TV",
-        "id": "FlexStudioRadioTV.bz",
-        "logo": "https://i.imgur.com/tZjqtxd.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8",
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
         "categories": [
-            "music"
+            "culture",
+            "entertainment",
+            "music",
+            "news"
         ],
-        "country": "BZ"
+        "country": "VN"
     },
     {
         "name": "Melody",
@@ -2280,6 +2283,16 @@
         "id": "AMC.af",
         "logo": "https://i.imgur.com/yj8RNnG.png",
         "url": "https://amchls.wns.live/hls/stream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "Kayhan TV",
+        "id": "KayhanTV.af",
+        "logo": "https://i.imgur.com/2MDjU7x.png",
+        "url": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -2859,16 +2872,6 @@
         "country": "ES"
     },
     {
-        "name": "STZ Telebista",
-        "id": "STZTelebista.es",
-        "logo": "https://i.imgur.com/rFQuAEv.png",
-        "url": "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Onda Valencia TV",
         "id": "OndaValenciaTV.es",
         "logo": "https://i.imgur.com/6HxLUQd.png",
@@ -2955,6 +2958,16 @@
         "id": "LiraTV.es",
         "logo": "https://i.imgur.com/hBswXYZ.png",
         "url": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Pequeradio",
+        "id": "Pequeradio.es",
+        "logo": "https://i.imgur.com/BNqZwxS.png",
+        "url": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8",
         "categories": [
             "music"
         ],
@@ -3595,16 +3608,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV MTV Classic",
-        "id": "PlutoTVMTVClassic.us",
-        "logo": "https://i.imgur.com/NPavpts.png",
-        "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Radio Realpolitik",
         "id": "RadioRealpolitik.ar",
         "logo": "https://i.imgur.com/L9KCdTX.png",
@@ -3665,6 +3668,16 @@
         "country": "AR"
     },
     {
+        "name": "Azahares Radiovisual Multimedia",
+        "id": "AzaharesRadiovisualMultimedia.ar",
+        "logo": "https://i.imgur.com/g1BFoSs.png",
+        "url": "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "Radio TV Sal One",
         "id": "RadioTVSalOne.cv",
         "logo": "https://i.imgur.com/pCz7ifY.jpg",
@@ -3719,6 +3732,26 @@
         "id": "TopEstradaTV.mk",
         "logo": "https://i.imgur.com/0Dh1FJZ.png",
         "url": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "MK"
+    },
+    {
+        "name": "Folk TV",
+        "id": "FolkTV.mk",
+        "logo": "https://i.imgur.com/4b9aZ9P.png",
+        "url": "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "MK"
+    },
+    {
+        "name": "Love TV",
+        "id": "LoveTV.mk",
+        "logo": "https://i.imgur.com/B8iaejQ.png",
+        "url": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8",
         "categories": [
             "music"
         ],
@@ -4142,6 +4175,16 @@
         "id": "SuperTV.ro",
         "logo": "https://i.imgur.com/pzxUE0O.png",
         "url": "http://iptv.supertv.ro:8000/play/a001/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Traditional TV",
+        "id": "TraditionalTV.ro",
+        "logo": "https://i.ibb.co/G5bNH48/Traditional-TV-HD.png",
+        "url": "http://83.103.149.75:8085/udp/239.30.0.9:4000",
         "categories": [
             "music"
         ],

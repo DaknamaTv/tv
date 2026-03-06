@@ -2729,5 +2729,25 @@
             "music"
         ],
         "country": "RU"
+    },
+    {
+        "name": "Channel-16",
+        "id": "Channel16.ru",
+        "logo": "https://i.imgur.com/7tNDKHe.png",
+        "url": "http://serv25.vintera.tv:8081/test/k16/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Duma TV",
+        "id": "DumaTV.ru",
+        "logo": "https://i.imgur.com/JvlO3PU.png",
+        "url": "https://dumatv.iptv2022.com/playlist.m3u8",
+        "categories": [
+            "legislative"
+        ],
+        "country": "RU"
     }
 ]

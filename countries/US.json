@@ -8834,16 +8834,6 @@
         "country": "US"
     },
     {
-        "name": "TeleMIX",
-        "id": "TeleMIX.us",
-        "logo": "https://i.ibb.co/HpX99Ks/unnamed.jpg",
-        "url": "https://haititivi.com/haiti/telemix1/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "NBA TV",
         "id": "NBATV.us",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",
@@ -9351,16 +9341,6 @@
         "country": "US"
     },
     {
-        "name": "PBC Tapesh TV",
-        "id": "PBCTapeshTV.us",
-        "logo": "https://i.imgur.com/50JzsmH.png",
-        "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Global Buddhist Network",
         "id": "GlobalBuddhistNetwork.us",
         "logo": "https://i.imgur.com/fU0ZhKD.png",
@@ -9467,14 +9447,6 @@
         "country": "US"
     },
     {
-        "name": "Real America's Voice",
-        "id": "RealAmericasVoice.us",
-        "logo": "https://i.imgur.com/l7tmTjX.png",
-        "url": "https://jmp2.uk/stvp-USBB1900002KF",
-        "categories": [],
-        "country": "US"
-    },
-    {
         "name": "True Crime Network",
         "id": "TrueCrimeNetwork.us",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/512px-True_Crime_Network_logo.svg.png",
@@ -9555,16 +9527,6 @@
         "url": "https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "AMGA TV",
-        "id": "AMGATV.us",
-        "logo": "https://i.imgur.com/NTlC6e7.png",
-        "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "US"
     },
@@ -9987,16 +9949,6 @@
         "country": "US"
     },
     {
-        "name": "Little Guyana TV",
-        "id": "LittleGuyanaTV.us",
-        "logo": "https://i.imgur.com/b475xOT.jpg",
-        "url": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "NFL RedZone",
         "id": "NFLRedZone.us",
         "logo": "https://i.imgur.com/5lPqQj5.png",
@@ -10007,12 +9959,40 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV MTV Classic",
-        "id": "PlutoTVMTVClassic.us",
-        "logo": "https://i.imgur.com/NPavpts.png",
-        "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+        "name": "Real America's Voice",
+        "id": "RealAmericasVoice.us",
+        "logo": "https://i.imgur.com/l7tmTjX.png",
+        "url": "https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8",
+        "categories": [],
+        "country": "US"
+    },
+    {
+        "name": "Teve Vida Network",
+        "id": "TeveVidaNetwork.us",
+        "logo": "https://i.imgur.com/lCpf5P1.png",
+        "url": "https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8",
         "categories": [
-            "music"
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Mainstreet",
+        "id": "TVSMainstreet.us",
+        "logo": "https://i.imgur.com/N9nQpnP.png",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TVS Television Network",
+        "id": "TVSTelevisionNetwork.us",
+        "logo": "",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "US"
     }

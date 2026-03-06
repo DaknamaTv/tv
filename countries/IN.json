@@ -2363,16 +2363,6 @@
         "country": "IN"
     },
     {
-        "name": "Roja TV",
-        "id": "RojaTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png",
-        "url": "https://live.rojatv.cloud/rojatv/rojatv/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "ANN News",
         "id": "ANNNews.in",
         "logo": "https://asianewsnetwork.net/wp-content/uploads/2020/03/cropped-LOGO-NEW.png",
@@ -3562,16 +3552,6 @@
         "country": "IN"
     },
     {
-        "name": "Dharsan TV",
-        "id": "DharsanTV.in",
-        "logo": "https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ",
-        "url": "https://galaxyott.live/hls/dharshantv.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Suriyan TV",
         "id": "SuriyanTV.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png",
@@ -3910,16 +3890,6 @@
         "url": "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8",
         "categories": [
             "culture"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Bada Khabar",
-        "id": "BadaKhabar.in",
-        "logo": "https://i.imgur.com/XiwygDJ.png",
-        "url": "https://stream.ashokadigital.net/badakhabar/badakhabar/index.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "IN"
     },
@@ -4773,16 +4743,6 @@
         "country": "IN"
     },
     {
-        "name": "Sony Sports Ten 2",
-        "id": "SonySportsTen2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony Sports Ten 5",
         "id": "SonySportsTen5.in",
         "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
@@ -4868,16 +4828,6 @@
         "id": "StarJalsha.in",
         "logo": "https://dtil.tmsimg.com/assets/s143819_ld_h15_aa.png?lock=720x540",
         "url": "http://103.161.153.165:8000/play/a00w/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sun Bangla",
-        "id": "SunBangla.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0506.png?lock=720x540",
-        "url": "http://103.161.153.165:8000/play/a03k/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -4975,16 +4925,6 @@
         "country": "IN"
     },
     {
-        "name": "Roja Movies",
-        "id": "RojaMovies.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
-        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony BBC Earth",
         "id": "SonyBBCEarth.in",
         "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
@@ -5032,16 +4972,6 @@
         "categories": [
             "news",
             "culture"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Goa365",
-        "id": "Goa365.in",
-        "logo": "https://www.goa365.tv/images/GOA-365-Logo.jpg",
-        "url": "https://ktismaservers.in:3086/live/goa365live.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "IN"
     },
@@ -5113,6 +5043,86 @@
         "categories": [
             "classic",
             "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "APN",
+        "id": "APN.in",
+        "logo": "https://i.imgur.com/RhkbhZD.png",
+        "url": "https://mumt01.tangotv.in/APN/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Gulistan News",
+        "id": "GulistanNews.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540",
+        "url": "https://live.gulistannews.in/hls/gul.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "JK 24x7 News",
+        "id": "JK24x7News.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540",
+        "url": "https://live.gulistannews.in/hls/jk.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Marutam Music",
+        "id": "MarutamMusic.in",
+        "logo": "",
+        "url": "https://mntv.livebox.co.in/musichls/live.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Marutam TV",
+        "id": "MarutamTV.in",
+        "logo": "https://i.imgur.com/cFNw4Af.png",
+        "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "RDX Goa",
+        "id": "RDXGoa.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
+        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "VBC News",
+        "id": "VBCNews.in",
+        "logo": "https://i.imgur.com/SvXCjha.png",
+        "url": "https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zainabia Channel",
+        "id": "ZainabiaChannel.in",
+        "logo": "",
+        "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "IN"
     }

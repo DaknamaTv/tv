@@ -911,16 +911,6 @@
         "country": "IN"
     },
     {
-        "name": "Roja Movies",
-        "id": "RojaMovies.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
-        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Jalsha Movies",
         "id": "JalshaMovies.in",
         "logo": "https://dtil.tmsimg.com/assets/s143219_ld_h15_aa.png?lock=720x540",
@@ -1010,16 +1000,6 @@
             "movies"
         ],
         "country": "GT"
-    },
-    {
-        "name": "Boreal",
-        "id": "Boreal.do",
-        "logo": "https://i.imgur.com/KSquHTG.png",
-        "url": "https://mlb.essastream.com:8081/borealtelevision/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "DO"
     },
     {
         "name": "Filmax",
@@ -1123,6 +1103,16 @@
             "general"
         ],
         "country": "CO"
+    },
+    {
+        "name": "Hero",
+        "id": "Hero.fi",
+        "logo": "https://i.imgur.com/4t5JQLY.png",
+        "url": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true",
+        "categories": [
+            "movies"
+        ],
+        "country": "FI"
     },
     {
         "name": "Komsan TV",

@@ -590,46 +590,6 @@
         "country": ""
     },
     {
-        "name": "PSN 1 Sports",
-        "id": "psn1sports",
-        "logo": "https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9",
-        "url": "https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PSN 4 Sports",
-        "id": "psn4sports",
-        "logo": "https://s3.aynaott.com/storage/bcfc4d063ae30626ae0ffe998c74c272",
-        "url": "https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PSN 5 Sports",
-        "id": "psn5sports",
-        "logo": "https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508",
-        "url": "https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PSN 2 Sports",
-        "id": "psn2sports",
-        "logo": "https://s3.aynaott.com/storage/a6a66023b1ce294c3d0e8ebf256fa5f7",
-        "url": "https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "News Nation",
         "id": "newsnation",
         "logo": "https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0",
@@ -2060,16 +2020,6 @@
         "country": ""
     },
     {
-        "name": "ekattor tv",
-        "id": "ekattortv",
-        "logo": "https://tvassets.roarzone.info/images/11.png",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/ekattor-tv/index.m3u8?token=f2bf39ea3e97cdd2fcdb8020bb4462b8b6e0506f-6f3108c318284b0f9a73689320b97aaa-1771958651-1771955051",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "independent tv",
         "id": "independenttv",
         "logo": "https://tvassets.roarzone.info/images/12.png",
@@ -2290,16 +2240,6 @@
         "country": ""
     },
     {
-        "name": "ATN Music",
-        "id": "atnmusic",
-        "logo": "",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "[BD] Dhaka FM",
         "id": "bddhakafm",
         "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/wC7c-JQBv9knK3AHFjbi/posters/c288512c-17aa-4ba2-b2d5-4e7b1b729d88.webp",
@@ -2480,20 +2420,40 @@
         "country": ""
     },
     {
-        "name": "TNS Sports-1",
-        "id": "tnssports1",
+        "name": "AL SUNNAH TV",
+        "id": "alsunnahtv",
         "logo": "",
-        "url": "https://7pal.short.gy/tntspts1",
+        "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
         "categories": [
             "bd"
         ],
         "country": ""
     },
     {
-        "name": "AL SUNNAH TV",
-        "id": "alsunnahtv",
+        "name": "Dhoom Music",
+        "id": "dhoommusic",
         "logo": "",
-        "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
+        "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Star Ustsab Movies",
+        "id": "starustsabmovies",
+        "logo": "",
+        "url": "http://103.175.73.12:8080/live/42/42_0.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-3",
+        "id": "tnssports3",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts3",
         "categories": [
             "bd"
         ],

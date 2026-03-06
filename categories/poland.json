@@ -560,16 +560,6 @@
         "country": ""
     },
     {
-        "name": "PL: H2 HD",
-        "id": "plh2hd",
-        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9715.jpg?19115",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309857",
-        "categories": [
-            "poland"
-        ],
-        "country": ""
-    },
-    {
         "name": "PL: Disney Channel HD",
         "id": "pldisneychannelhd",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR965YmFGMfM0s7yWEyF4j5q1fBOrnFBIli-TkFIKZegX3SIqh_4PTL6YYMpuoWCL60bUQ&usqp=CAU",
@@ -604,6 +594,16 @@
         "id": "plcanalsport2hd",
         "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/6332.jpg?6448",
         "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309900",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: teleTOON  HD",
+        "id": "plteletoonhd",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMY1CLxYc8cjUSzKnRozfipo4BbhJ3sJbFWnR19zJElr3YngRJ8SugI3WBQjNr55EpaQ&usqp=CAU",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17258.ts",
         "categories": [
             "poland"
         ],

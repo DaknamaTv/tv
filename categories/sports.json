@@ -90,6 +90,16 @@
         "country": "VE"
     },
     {
+        "name": "Meridiano TV",
+        "id": "MeridianoTV.ve",
+        "logo": "https://i.imgur.com/I6gsUqD.png",
+        "url": "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "VE"
+    },
+    {
         "name": "Football",
         "id": "Football.ru",
         "logo": "https://i.imgur.com/pEuaZVx.png",
@@ -310,16 +320,6 @@
         "country": "IN"
     },
     {
-        "name": "Sony Sports Ten 2",
-        "id": "SonySportsTen2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony Sports Ten 5",
         "id": "SonySportsTen5.in",
         "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
@@ -531,16 +531,6 @@
             "sports"
         ],
         "country": "CI"
-    },
-    {
-        "name": "M4 Sport",
-        "id": "M4Sport.hu",
-        "logo": "https://i.imgur.com/TQ4uJZk.png",
-        "url": "http://88.212.15.19/live/m4_hun/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "HU"
     },
     {
         "name": "FTV",
@@ -1382,6 +1372,16 @@
             "sports"
         ],
         "country": "US"
+    },
+    {
+        "name": "M-Net Sport",
+        "id": "MNetSport.mk",
+        "logo": "https://i.imgur.com/7k8ar1Z.png",
+        "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "MK"
     },
     {
         "name": "InTrouble",

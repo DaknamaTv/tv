@@ -772,5 +772,23 @@
         "url": "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8",
         "categories": [],
         "country": "AR"
+    },
+    {
+        "name": "Azahares Radiovisual Multimedia",
+        "id": "AzaharesRadiovisualMultimedia.ar",
+        "logo": "https://i.imgur.com/g1BFoSs.png",
+        "url": "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 79 Puan",
+        "id": "Canal79Puan.ar",
+        "logo": "https://i.imgur.com/HYuSqJy.png",
+        "url": "https://streamconex.com:19360/puan/puan.m3u8",
+        "categories": [],
+        "country": "AR"
     }
 ]

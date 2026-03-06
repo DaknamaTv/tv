@@ -1,199 +1,69 @@
 [
     {
-        "name": "A Touch of Frost",
-        "id": "atouchoffrost",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/43848ac4-62a9-4cdc-ace0-e15661a2e748/FilmRise_TouchOfFrostA_Logo_WhiteRDX.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6674b595f04cf4bb9233c914.m3u8",
+        "name": "123GO!",
+        "id": "123go",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png",
+        "url": "https://jmp2.uk/plex-6430aa45fc3be5947780904e-63eecb32ac23d1ee072087cb.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Camp Spoopy",
-        "id": "campspoopy",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png",
-        "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-6164a963766ab4f9f57e81b1.m3u8",
+        "name": "Euro Hits",
+        "id": "eurohits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png",
+        "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-62ee74af52f7d73061eec491.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Cesar's Pack Leader TV",
-        "id": "cesarspackleadertv",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e24d3a4c-4948-4155-82c5-b7eec0fa50b8/Cesar_Logo_Transparent_WHTRDX.png",
-        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-693cbba358076a970420f597.m3u8",
+        "name": "Hasbro Legends",
+        "id": "hasbrolegends",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/3f7bd94d-a610-44a5-b895-609f409644e9/PLEX_Logo_Light_Mode_WHT_TEXT_-_lucas_arechaga.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-69153a4be449c6fdde65a65d.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Classic Rock",
-        "id": "classicrock",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png",
-        "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-61aaa0cc784a2161d3caf7ff.m3u8",
+        "name": "Jubao",
+        "id": "jubao",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e14f2078-3820-466e-8b9f-41fb618a7ce6/jubao_logo_dark_-_Ali_Clausenrdx_1500x1000.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-639baa971a12420ff66ae7b1.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Fifth Gear (UK)",
-        "id": "fifthgearuk",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2355a75e-cc71-4f8c-89bb-69587e8e4fc6/5thcd2457359e3d9e7c617b0296c36feb09OG_RDX_Color.png",
-        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-64106a1075be345a863fe0d7.m3u8",
+        "name": "PickleTV",
+        "id": "pickletv",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
+        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-63ec0b739866d8d2120ac759.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Flashback 70s",
-        "id": "flashback70s",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/32c9c7ca-8544-4434-92c5-9a5dd9577746/flashback_70srdx.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62f15810a3ffe928ef806c75.m3u8",
+        "name": "Remember the ‘80s",
+        "id": "rememberthe80s",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png",
+        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61aa9f50784a2161d3caf7fb.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "FreeTV Familia",
-        "id": "freetvfamilia",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png",
-        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60240f57676235002df19f49.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FTF Sports",
-        "id": "ftfsports",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png",
-        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-605a309dc5acdc002c7a20aa.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Hip-Hop/R&B",
-        "id": "hiphoprb",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png",
-        "url": "https://jmp2.uk/plex-6430aa45fc3be5947780904e-62ee7ae2271f393d2d9f709e.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Horror Stories",
-        "id": "horrorstories",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3d71d16f-e5cb-4f46-a91e-bc8a0d37030b/HorrorStories_plex_dark_1500x1000.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66b136d2a9ef8c41ec0841ae.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "More U",
-        "id": "moreu",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png",
-        "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-6112a9139894c8002c6cb87f.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Movieitaly Channel",
-        "id": "movieitalychannel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Music Legends",
-        "id": "musiclegends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NEW KFOOD",
-        "id": "newkfood",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png",
-        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-68b9f5a3d60e5dd29263c7ac.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PeliMex",
-        "id": "pelimex",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/fc750061-c748-4016-83e0-9f56a40a493c/Pelimex_red_logo_RDXC2.png",
-        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-67db3546d66f778a752f7eaa.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Popular Science",
-        "id": "popularscience",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png",
-        "url": "https://jmp2.uk/plex-6430aa45fc3be5947780904e-656fb850cb7e8e6a9bc3f36e.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Racing America",
-        "id": "racingamerica",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png",
-        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-61a945156547ba4d6d238dc9.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The Kids in the Hall",
-        "id": "thekidsinthehall",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-670858335b42d01c9391e325.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The Sherlock Holmes Channel",
-        "id": "thesherlockholmeschannel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c69f7df3-5f6d-4fa2-b111-0f96df7b7a07/SherlockHolmesChannelThe_Logo_White.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ce3fc059062698a13c39e1.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Watch it SCREAM",
-        "id": "watchitscream",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/945765a1-a848-4105-bf4d-5c27192e79ed/WatchitScream_logo_dark.png",
-        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-621671d05abdd3d5556a1baf.m3u8",
+        "name": "The Spa",
+        "id": "thespa",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png",
+        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62f11395586633e88e3a3274.m3u8",
         "categories": [
             "plex-all"
         ],
