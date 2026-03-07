@@ -142,6 +142,16 @@
         "country": "IN"
     },
     {
+        "name": "Sony BBC Earth",
+        "id": "SonyBBCEarth.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
+        "url": "http://111.88.78.21:8000/play/a0uh/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "BBC Earth",
         "id": "BBCEarth.uk",
         "logo": "https://i.imgur.com/nGSsUd4.png",
@@ -211,6 +221,18 @@
             "documentary"
         ],
         "country": "UZ"
+    },
+    {
+        "name": "UMSA TVU Internacional",
+        "id": "UMSATVUInternacional.bo",
+        "logo": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
+        "url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "education",
+            "science",
+            "documentary"
+        ],
+        "country": "BO"
     },
     {
         "name": "CNA Originals",

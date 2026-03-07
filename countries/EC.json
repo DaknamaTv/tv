@@ -156,16 +156,6 @@
         "country": "EC"
     },
     {
-        "name": "Radio Alegria 98.5 FM",
-        "id": "RadioAlegria985FM.ec",
-        "logo": "https://i.imgur.com/N00aS3x.png",
-        "url": "https://video.compuwebecuador.com:3880/stream/play.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "TV Color Canal 36",
         "id": "TVColorCanal36.ec",
         "logo": "https://i.imgur.com/QJW6khK.jpg",
@@ -222,16 +212,6 @@
         "url": "https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "Loreto TV",
-        "id": "LoretoTV.ec",
-        "logo": "https://i.imgur.com/3qGSAT3.png",
-        "url": "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "EC"
     },
@@ -318,16 +298,6 @@
         "url": "https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "El Sol Network TV",
-        "id": "ElSolNetworkTV.ec",
-        "logo": "https://i.imgur.com/TIH3zlP.png",
-        "url": "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "EC"
     },
@@ -510,16 +480,6 @@
         "country": "EC"
     },
     {
-        "name": "Educa TV",
-        "id": "EducaTV.ec",
-        "logo": "https://i.imgur.com/lY9Bx2u.png",
-        "url": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Magica Tv",
         "id": "MagicaTv.ec",
         "logo": "https://i.imgur.com/h4FQuIz.jpg",
@@ -560,32 +520,12 @@
         "country": "EC"
     },
     {
-        "name": "Radio Monumental TV",
-        "id": "RadioMonumentalTV.ec",
-        "logo": "https://i.imgur.com/a97MaV2.png",
-        "url": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Vos y TV",
         "id": "VosyTV.ec",
         "logo": "https://i.imgur.com/294FDCB.png",
         "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
         "categories": [
             "music"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "Telemar",
-        "id": "Telemar.ec",
-        "logo": "https://i.imgur.com/0vX9oJF.png",
-        "url": "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "EC"
     }

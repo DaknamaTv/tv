@@ -30,16 +30,6 @@
         "country": "CM"
     },
     {
-        "name": "TR24 Television",
-        "id": "TR24Television.cm",
-        "logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
-        "url": "https://stream.it-innov.com/tr24/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CM"
-    },
-    {
         "name": "KC2",
         "id": "KC2.rw",
         "logo": "https://i.imgur.com/PsYPzNc.png",
@@ -249,18 +239,6 @@
             "entertainment"
         ],
         "country": "LU"
-    },
-    {
-        "name": "Manas TV",
-        "id": "ManasTV.kg",
-        "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
-        "url": "http://212.42.111.152:8080/hls/manas.m3u8",
-        "categories": [
-            "education",
-            "culture",
-            "entertainment"
-        ],
-        "country": "KG"
     },
     {
         "name": "Lanet.TV",
@@ -1010,16 +988,6 @@
         "country": "IN"
     },
     {
-        "name": "Sony Aath",
-        "id": "SonyAath.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540",
-        "url": "http://103.229.254.25:7001/play/a07a/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony SAB",
         "id": "SonySAB.in",
         "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
@@ -1342,16 +1310,6 @@
         "country": "IN"
     },
     {
-        "name": "Star Jalsha",
-        "id": "StarJalsha.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143819_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.161.153.165:8000/play/a00w/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Asianet",
         "id": "Asianet.in",
         "logo": "https://dtil.tmsimg.com/assets/s142673_ld_h15_aa.png?lock=720x540",
@@ -1392,20 +1350,41 @@
         "country": "IN"
     },
     {
-        "name": "Sun Bangla",
-        "id": "SunBangla.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0506.png?lock=720x540",
-        "url": "http://103.161.153.165:8000/play/a03k/index.m3u8",
+        "name": "Swantham",
+        "id": "Swantham.in",
+        "logo": "https://i.imgur.com/ye6v4GP.png",
+        "url": "http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8",
         "categories": [
             "entertainment"
         ],
         "country": "IN"
     },
     {
-        "name": "Swantham",
-        "id": "Swantham.in",
-        "logo": "https://i.imgur.com/ye6v4GP.png",
-        "url": "http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8",
+        "name": "Jaya Max",
+        "id": "JayaMax.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540",
+        "url": "http://111.88.78.21:8000/play/a0wk/index.m3u8",
+        "categories": [
+            "culture",
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Marutam TV",
+        "id": "MarutamTV.in",
+        "logo": "https://i.imgur.com/cFNw4Af.png",
+        "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "MTV",
+        "id": "MTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
+        "url": "http://111.88.78.21:8000/play/a0r4/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1583,26 +1562,6 @@
         "country": "HN"
     },
     {
-        "name": "TV Centro 27.2 HD",
-        "id": "TVCentro272HD.hn",
-        "logo": "https://i.imgur.com/Wo2scQf.jpg",
-        "url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "HN"
-    },
-    {
-        "name": "Radio Omega TV",
-        "id": "RadioOmegaTV.hn",
-        "logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
-        "url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "HN"
-    },
-    {
         "name": "Island Luck TV",
         "id": "IslandLuckTV.bs",
         "logo": "https://i.imgur.com/P0gDN5n.png",
@@ -1691,16 +1650,6 @@
         "id": "MaxivisionTV.gt",
         "logo": "https://i.imgur.com/UC8WrEN.jpg",
         "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "GT"
-    },
-    {
-        "name": "SAS TV",
-        "id": "SASTV.gt",
-        "logo": "https://i.imgur.com/VShjB3o.png",
-        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1905,16 +1854,6 @@
             "entertainment"
         ],
         "country": "DO"
-    },
-    {
-        "name": "Hispania TV",
-        "id": "HispaniaTV.pa",
-        "logo": "https://i.imgur.com/647WCF8.png",
-        "url": "https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PA"
     },
     {
         "name": "Dong Nai TV 2",
@@ -2846,16 +2785,6 @@
         "country": "MN"
     },
     {
-        "name": "Belarus-2",
-        "id": "Belarus2.by",
-        "logo": "https://i.imgur.com/BpEHpPS.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BY"
-    },
-    {
         "name": "Impact Network",
         "id": "ImpactNetwork.us",
         "logo": "https://i.imgur.com/57NH9sS.png",
@@ -3704,6 +3633,16 @@
         "country": "US"
     },
     {
+        "name": "WWON-TV Channel 48",
+        "id": "WWONTVChannel48.us",
+        "logo": "https://i.imgur.com/l4qHAq6.png",
+        "url": "https://tv2.fastcast4u.com:3943/stream/play.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
         "name": "Fortune TV",
         "id": "FortuneTV.mm",
         "logo": "https://i.imgur.com/MM5evnD.png",
@@ -3728,16 +3667,6 @@
         "id": "afrobeattv.ug",
         "logo": "",
         "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "UG"
-    },
-    {
-        "name": "FORT TV",
-        "id": "FORTTV.ug",
-        "logo": "https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png",
-        "url": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8",
         "categories": [
             "entertainment"
         ],

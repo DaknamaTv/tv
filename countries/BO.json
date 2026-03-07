@@ -137,16 +137,6 @@
         "country": "BO"
     },
     {
-        "name": "Palenque TV",
-        "id": "PalenqueTV.bo",
-        "logo": "https://i.imgur.com/wAIBvaO.png",
-        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Bolivision",
         "id": "Bolivision.bo",
         "logo": "https://i.imgur.com/U98Z5zn.png",
@@ -165,22 +155,24 @@
         "country": "BO"
     },
     {
-        "name": "UPP TV",
-        "id": "UPPTV.bo",
-        "logo": "https://i.ibb.co/Kwvbyr0/unnamed.jpg",
-        "url": "https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "VTV Canal 17",
         "id": "VTVCanal17.bo",
         "logo": "https://i.imgur.com/TUhFzql.png",
         "url": "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8",
         "categories": [
             "religious"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "UMSA TVU Internacional",
+        "id": "UMSATVUInternacional.bo",
+        "logo": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
+        "url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "education",
+            "science",
+            "documentary"
         ],
         "country": "BO"
     }
