@@ -30,6 +30,16 @@
         "country": "CM"
     },
     {
+        "name": "TR24 Television",
+        "id": "TR24Television.cm",
+        "logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
+        "url": "https://stream.it-innov.com/tr24/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CM"
+    },
+    {
         "name": "KC2",
         "id": "KC2.rw",
         "logo": "https://i.imgur.com/PsYPzNc.png",
@@ -261,6 +271,26 @@
             "entertainment"
         ],
         "country": "UA"
+    },
+    {
+        "name": "Bonce TV",
+        "id": "BonceTV.cw",
+        "logo": "https://i.imgur.com/7cVkllH.png",
+        "url": "https://seswa.bonce.tv/hls/bonceswa.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CW"
+    },
+    {
+        "name": "Nos Pais",
+        "id": "NosPais.cw",
+        "logo": "https://i.imgur.com/ZUob2uZ.png",
+        "url": "https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CW"
     },
     {
         "name": "OTV",
@@ -1221,16 +1251,6 @@
         "country": "IN"
     },
     {
-        "name": "Star Maa Gold",
-        "id": "StarMaaGold.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143822_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.121.6.5:8000/play/a063/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Star Pravah",
         "id": "StarPravah.in",
         "logo": "https://dtil.tmsimg.com/assets/s143834_ld_h15_aa.png?lock=720x540",
@@ -1352,27 +1372,6 @@
         "country": "IN"
     },
     {
-        "name": "Jaya Max",
-        "id": "JayaMax.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0wk/index.m3u8",
-        "categories": [
-            "culture",
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "MTV",
-        "id": "MTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0r4/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Colors Bangla",
         "id": "ColorsBangla.in",
         "logo": "https://dtil.tmsimg.com/assets/s158145_ld_h15_aa.png?lock=720x540",
@@ -1383,10 +1382,30 @@
         "country": "IN"
     },
     {
-        "name": "Marutam TV",
-        "id": "MarutamTV.in",
-        "logo": "https://i.imgur.com/cFNw4Af.png",
-        "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
+        "name": "Roja TV",
+        "id": "RojaTV.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png",
+        "url": "https://live.rojatv.cloud/rojatv/rojatv/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sun Bangla",
+        "id": "SunBangla.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0506.png?lock=720x540",
+        "url": "http://103.161.153.165:8000/play/a03k/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Swantham",
+        "id": "Swantham.in",
+        "logo": "https://i.imgur.com/ye6v4GP.png",
+        "url": "http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1574,6 +1593,16 @@
         "country": "HN"
     },
     {
+        "name": "Radio Omega TV",
+        "id": "RadioOmegaTV.hn",
+        "logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
+        "url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "HN"
+    },
+    {
         "name": "Island Luck TV",
         "id": "IslandLuckTV.bs",
         "logo": "https://i.imgur.com/P0gDN5n.png",
@@ -1662,6 +1691,16 @@
         "id": "MaxivisionTV.gt",
         "logo": "https://i.imgur.com/UC8WrEN.jpg",
         "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "GT"
+    },
+    {
+        "name": "SAS TV",
+        "id": "SASTV.gt",
+        "logo": "https://i.imgur.com/VShjB3o.png",
+        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1858,6 +1897,16 @@
         "country": "DO"
     },
     {
+        "name": "Cibaena TV",
+        "id": "CibaenaTV.do",
+        "logo": "https://i.imgur.com/iHjdckl.png",
+        "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Hispania TV",
         "id": "HispaniaTV.pa",
         "logo": "https://i.imgur.com/647WCF8.png",
@@ -1895,19 +1944,6 @@
         "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
         ],
         "country": "VN"
     },
@@ -2810,6 +2846,16 @@
         "country": "MN"
     },
     {
+        "name": "Belarus-2",
+        "id": "Belarus2.by",
+        "logo": "https://i.imgur.com/BpEHpPS.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BY"
+    },
+    {
         "name": "Impact Network",
         "id": "ImpactNetwork.us",
         "logo": "https://i.imgur.com/57NH9sS.png",
@@ -3537,16 +3583,6 @@
         "country": "US"
     },
     {
-        "name": "WWON-TV Channel 48",
-        "id": "WWONTVChannel48.us",
-        "logo": "https://i.imgur.com/l4qHAq6.png",
-        "url": "https://tv2.fastcast4u.com:3943/stream/play.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Justice Central TV",
         "id": "JusticeCentralTV.us",
         "logo": "https://i.imgur.com/peuHszg.png",
@@ -3658,6 +3694,16 @@
         "country": "US"
     },
     {
+        "name": "TeleMIX",
+        "id": "TeleMIX.us",
+        "logo": "https://i.ibb.co/HpX99Ks/unnamed.jpg",
+        "url": "https://haititivi.com/haiti/telemix1/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
         "name": "Fortune TV",
         "id": "FortuneTV.mm",
         "logo": "https://i.imgur.com/MM5evnD.png",
@@ -3738,6 +3784,21 @@
         "country": "AR"
     },
     {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "BEATTV",
         "id": "BEATTV.nl",
         "logo": "https://i.imgur.com/egK33Dj.png",
@@ -3783,16 +3844,6 @@
         "id": "MaLive.nl",
         "logo": "https://i.imgur.com/0Vzg2OR.png",
         "url": "https://live.salto.nl/hls/malive_high.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "SBS6 Classics",
-        "id": "SBS6Classics.nl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
-        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
         "categories": [
             "entertainment"
         ],

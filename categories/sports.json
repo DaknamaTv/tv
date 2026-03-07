@@ -270,40 +270,10 @@
         "country": "IN"
     },
     {
-        "name": "Sony Sports Ten 1",
-        "id": "SonySportsTen1.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.121.6.5:8000/play/a05w/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Star Sports 1 Telugu",
         "id": "StarSports1Telugu.in",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TELUGU_HD/images/LOGO_HD/image.png",
         "url": "http://111.88.78.21:8000/play/a0vc/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports 2",
-        "id": "StarSports2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.121.6.5:8000/play/a05u/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports 3",
-        "id": "StarSports3.in",
-        "logo": "https://i.imgur.com/dbp2Mig.png",
-        "url": "http://103.121.6.5:8000/play/a05y/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -324,6 +294,16 @@
         "id": "SonySportsTen5.in",
         "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
         "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 2",
+        "id": "SonySportsTen2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -434,16 +414,6 @@
         "id": "CDNDeportes.do",
         "logo": "https://i.imgur.com/yU5LqTL.png",
         "url": "http://200.125.170.122:8000/play/a03j/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Colimdo TV",
-        "id": "ColimdoTV.do",
-        "logo": "https://i.imgur.com/ZeUgLCa.png",
-        "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
         "categories": [
             "sports"
         ],
@@ -671,16 +641,6 @@
             "sports"
         ],
         "country": "DE"
-    },
-    {
-        "name": "Tigo Sports",
-        "id": "TigoSports.sv",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
-        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "SV"
     },
     {
         "name": "Gol Classics",
@@ -1358,16 +1318,6 @@
         "id": "RacerSelect.us",
         "logo": "https://i.imgur.com/CurtYvn.png",
         "url": "https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "NFL RedZone",
-        "id": "NFLRedZone.us",
-        "logo": "https://i.imgur.com/5lPqQj5.png",
-        "url": "https://tvpass.org/live/NFLRedZone/sd",
         "categories": [
             "sports"
         ],

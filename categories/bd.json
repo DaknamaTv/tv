@@ -2458,5 +2458,45 @@
             "bd"
         ],
         "country": ""
+    },
+    {
+        "name": "ekattor tv",
+        "id": "ekattortv",
+        "logo": "https://tvassets.roarzone.info/images/11.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/ekattor-tv/index.m3u8?token=99073de16cc3e961a7e4ad65fbcc993b908fcaf1-d70d06cbf8d3fac534f10e08f0cb1185-1772841469-1772837869",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Madani Tv",
+        "id": "madanitv",
+        "logo": "",
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-2",
+        "id": "tnssports2",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts2",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-1",
+        "id": "tnssports1",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts1",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
     }
 ]

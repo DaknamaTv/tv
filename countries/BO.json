@@ -1,17 +1,5 @@
 [
     {
-        "name": "UMSA TVU Internacional",
-        "id": "UMSATVUInternacional.bo",
-        "logo": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
-        "url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "education",
-            "science",
-            "documentary"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Red CCTV",
         "id": "RedCCTV.bo",
         "logo": "https://i.imgur.com/YC5FRmq.png",
@@ -156,14 +144,6 @@
         "categories": [
             "general"
         ],
-        "country": "BO"
-    },
-    {
-        "name": "Cadena A",
-        "id": "CadenaA.bo",
-        "logo": "https://i.imgur.com/BxQPPAA.png",
-        "url": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
-        "categories": [],
         "country": "BO"
     },
     {

@@ -1,69 +1,99 @@
 [
     {
-        "name": "123GO!",
-        "id": "123go",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png",
-        "url": "https://jmp2.uk/plex-6430aa45fc3be5947780904e-63eecb32ac23d1ee072087cb.m3u8",
+        "name": "Beyond Belief",
+        "id": "beyondbelief",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1837808e-79a1-439e-9ae2-ff9c4b200b81/FilmRise_BeyondBelief_Logo_Whiterdx.png",
+        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-64f101b1c4b308f2fe3e7c0c.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Euro Hits",
-        "id": "eurohits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png",
-        "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-62ee74af52f7d73061eec491.m3u8",
+        "name": "Dick Van Dyke",
+        "id": "dickvandyke",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/03fe73df-6585-49b7-bdd5-5ea605c4086f/FilmRise_DickVanDykeShow_Logo_Color.png",
+        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-6449369eb3ff17382cae5801.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Hasbro Legends",
-        "id": "hasbrolegends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3f7bd94d-a610-44a5-b895-609f409644e9/PLEX_Logo_Light_Mode_WHT_TEXT_-_lucas_arechaga.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-69153a4be449c6fdde65a65d.m3u8",
+        "name": "Don't Tell The Bride",
+        "id": "donttellthebride",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dd9af438-b087-47c9-bd15-d7900fffb640/Plex_LogoWhite_-_Simon_Tuquabo.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-635847d0d3a668f1cafc1f9d.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Jubao",
-        "id": "jubao",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e14f2078-3820-466e-8b9f-41fb618a7ce6/jubao_logo_dark_-_Ali_Clausenrdx_1500x1000.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-639baa971a12420ff66ae7b1.m3u8",
+        "name": "Made In Hollywood",
+        "id": "madeinhollywood",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png",
+        "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-60db63d29ec966002c9ea6f0.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "PickleTV",
-        "id": "pickletv",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
-        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-63ec0b739866d8d2120ac759.m3u8",
+        "name": "Movieitaly Channel",
+        "id": "movieitalychannel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png",
+        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65d90ec99c7a6da8c3ce57eb.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Remember the ‘80s",
-        "id": "rememberthe80s",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png",
-        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61aa9f50784a2161d3caf7fb.m3u8",
+        "name": "The Great British Competition Channel",
+        "id": "thegreatbritishcompetitionchannel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/db71d5d3-f073-4893-a501-59f832539cad/GBCC_Logo-White_h1000_-_Moira_GrahamRDX.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-698a78e0d77c25ac0d681bbb.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "The Spa",
-        "id": "thespa",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png",
-        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62f11395586633e88e3a3274.m3u8",
+        "name": "The Kids in the Hall",
+        "id": "thekidsinthehall",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-670858335b42d01c9391e325.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Trailers From Hell",
+        "id": "trailersfromhell",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png",
+        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-61d738b5a7b7c7f703418514.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Travel Escapes",
+        "id": "travelescapes",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/2e3834bc-2b60-4394-b403-57b82868af86/travel_escapes_WHITE_Bryan_Mcdaid.png",
+        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64e437ba7ef2bf9f66b42615.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "World Billiards TV",
+        "id": "worldbilliardstv",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/55d069fe-0219-447a-a712-e3ecaed26241/_Plex__WBT_Logo_Dark_Mode.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b9f334fc12601028c5651e.m3u8",
         "categories": [
             "plex-all"
         ],
