@@ -1902,16 +1902,6 @@
         "country": "RU"
     },
     {
-        "name": "City Eden Recepty Gurmana",
-        "id": "CityEdenReceptyGurmana.ru",
-        "logo": "https://i.imgur.com/wR0pvRc.png",
-        "url": "https://cityeden.catcast.tv/content/47516/index.m3u8",
-        "categories": [
-            "cooking"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "City Eden Sirtaki TV",
         "id": "CityEdenSirtakiTV.ru",
         "logo": "https://i.imgur.com/V3MTfyc.png",
@@ -2702,21 +2692,21 @@
         "country": "RU"
     },
     {
-        "name": "Novyi Russkii",
-        "id": "NovyiRusskii.ru",
-        "logo": "https://i.imgur.com/iuRSScH.png",
-        "url": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "TKR",
         "id": "TKR.ru",
         "logo": "https://i.imgur.com/VqtPB7L.png",
         "url": "http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8",
         "categories": [],
+        "country": "RU"
+    },
+    {
+        "name": "DanceHits80",
+        "id": "DanceHits80.ru",
+        "logo": "https://i.imgur.com/uMw3kks.png",
+        "url": "http://dancehits80.denvs.ru:8080/index.m3u8",
+        "categories": [
+            "music"
+        ],
         "country": "RU"
     }
 ]

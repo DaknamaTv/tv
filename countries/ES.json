@@ -1417,11 +1417,13 @@
         "country": "ES"
     },
     {
-        "name": "Canal Donana",
-        "id": "CanalDonana.es",
-        "logo": "https://i.imgur.com/0WrKIxm.png",
-        "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
-        "categories": [],
+        "name": "BCN Gospel TV",
+        "id": "BCNGospelTV.es",
+        "logo": "https://i.imgur.com/ZKAnehs.png",
+        "url": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "ES"
     }
 ]

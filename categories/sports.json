@@ -310,6 +310,36 @@
         "country": "IN"
     },
     {
+        "name": "Sony Sports Ten 1",
+        "id": "SonySportsTen1.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.121.6.5:8000/play/a05w/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 2",
+        "id": "StarSports2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.121.6.5:8000/play/a05u/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 3",
+        "id": "StarSports3.in",
+        "logo": "https://i.imgur.com/dbp2Mig.png",
+        "url": "http://103.121.6.5:8000/play/a05y/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Hard Knocks",
         "id": "HardKnocks.ca",
         "logo": "https://i.imgur.com/nt9B6jx.png",
@@ -447,16 +477,6 @@
         "categories": [
             "sports",
             "entertainment"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "HTV Sports",
-        "id": "HTVSports.vn",
-        "logo": "",
-        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "sports"
         ],
         "country": "VN"
     },

@@ -519,16 +519,6 @@
         "country": "BR"
     },
     {
-        "name": "EUTV",
-        "id": "EUTV.br",
-        "logo": "https://i.imgur.com/8PxpamC.png",
-        "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "IMPD TV Worldwide",
         "id": "IMPDTVWorldwide.br",
         "logo": "https://i.imgur.com/9dW3AUQ.png",
@@ -648,16 +638,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Grande Natal",
-        "id": "TVGrandeNatal.br",
-        "logo": "https://i.imgur.com/MTuErdw.png",
-        "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "RIT TV",
         "id": "RITTV.br",
         "logo": "https://i.imgur.com/Unjs1wi.png",
@@ -757,16 +737,6 @@
         "country": "BR"
     },
     {
-        "name": "RBATV",
-        "id": "RBATV.br",
-        "logo": "https://i.imgur.com/ZWFxlU1.png",
-        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Aparecida",
         "id": "TVAparecida.br",
         "logo": "https://i.imgur.com/kxrja0X.png",
@@ -825,17 +795,6 @@
         "country": "BR"
     },
     {
-        "name": "Unisul TV",
-        "id": "UnisulTV.br",
-        "logo": "https://i.imgur.com/N0TvAFz.png",
-        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
-        "categories": [
-            "education",
-            "culture"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "ISTV",
         "id": "ISTV.br",
         "logo": "https://i.imgur.com/RUKVrOH.png",
@@ -853,14 +812,6 @@
         "categories": [
             "music"
         ],
-        "country": "BR"
-    },
-    {
-        "name": "Canal 25 Jundiai",
-        "id": "Canal25Jundiai.br",
-        "logo": "https://i.imgur.com/7igGMwH.png",
-        "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-        "categories": [],
         "country": "BR"
     },
     {
@@ -904,25 +855,6 @@
         "country": "BR"
     },
     {
-        "name": "TVE Bahia",
-        "id": "TVEBahia.br",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png",
-        "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Sul Bahia",
         "id": "TVSulBahia.br",
         "logo": "https://i.imgur.com/qM6nMWm.png",
@@ -937,16 +869,6 @@
         "url": "http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TCM 10 HD",
-        "id": "TCM10HD.br",
-        "logo": "https://i.imgur.com/aMuMVvB.png",
-        "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "BR"
     },
@@ -1005,6 +927,54 @@
         "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Boas Novas",
+        "id": "BoasNovas.br",
+        "logo": "https://i.imgur.com/ZqhizdP.png",
+        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
+        "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "Canal 38",
+        "id": "Canal38.br",
+        "logo": "https://i.imgur.com/co7TCWC.png",
+        "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Cultura Para",
+        "id": "CulturaPara.br",
+        "logo": "https://i.imgur.com/5jPEI5c.png",
+        "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Arapuan",
+        "id": "TVArapuan.br",
+        "logo": "https://i.imgur.com/3395A2h.png",
+        "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Difusora Leste",
+        "id": "TVDifusoraLeste.br",
+        "logo": "https://i.imgur.com/hEd25Cr.png",
+        "url": "https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "BR"
     }
