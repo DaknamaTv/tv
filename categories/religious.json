@@ -90,16 +90,6 @@
         "country": "IR"
     },
     {
-        "name": "RasoulallahTv",
-        "id": "RasoulallahTv.ir",
-        "logo": "https://i.imgur.com/Jh5ADee.png",
-        "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IR"
-    },
-    {
         "name": "Assirat TV",
         "id": "AssiratTV.ir",
         "logo": "https://i.imgur.com/ps4Gtj0.png",
@@ -488,6 +478,16 @@
         "id": "LGDTelevision.ve",
         "logo": "https://i.imgur.com/a9E0DTY.jpeg",
         "url": "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Alcance TV",
+        "id": "AlcanceTV.ve",
+        "logo": "https://i.imgur.com/veeuqS1.png",
+        "url": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
         "categories": [
             "religious"
         ],
@@ -1297,16 +1297,6 @@
         "country": "IN"
     },
     {
-        "name": "Harvest USA",
-        "id": "HarvestUSA.in",
-        "logo": "https://www.lyngsat.com/logo/tv/hh/harvest_tv_in_usa.png",
-        "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "SVBC",
         "id": "SVBC.in",
         "logo": "https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540",
@@ -1687,6 +1677,16 @@
         "country": "SI"
     },
     {
+        "name": "CNA",
+        "id": "CNA.dz",
+        "logo": "https://i.imgur.com/Ki3ySUE.png",
+        "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "DZ"
+    },
+    {
         "name": "Light Channel",
         "id": "LightChannel.bg",
         "logo": "https://i.imgur.com/S3Fbf8T.png",
@@ -1887,6 +1887,16 @@
         "country": "DO"
     },
     {
+        "name": "La Voz de Maria",
+        "id": "LaVozdeMaria.do",
+        "logo": "https://i.imgur.com/Zv8CxZX.png",
+        "url": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "TV Famille",
         "id": "TVFamille.mq",
         "logo": "https://i.imgur.com/Kbfihk5.png",
@@ -2018,16 +2028,6 @@
         "country": "PK"
     },
     {
-        "name": "God Stands TV",
-        "id": "GodStandsTV.pk",
-        "logo": "https://i.imgur.com/EO6cYUI.png",
-        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "EMCI TV Europe",
         "id": "EMCITVEurope.fr",
         "logo": "https://i.imgur.com/KagDKKB.png",
@@ -2133,16 +2133,6 @@
         "id": "RadioTele4VEH.ht",
         "logo": "https://i.imgur.com/AnOjqaS.png",
         "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "HT"
-    },
-    {
-        "name": "Radio Tele Full Gospel",
-        "id": "RadioTeleFullGospel.ht",
-        "logo": "https://i.imgur.com/WbwIp9y.jpeg",
-        "url": "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2263,16 +2253,6 @@
         "id": "MarjaeyatTVPersian.iq",
         "logo": "https://i.imgur.com/fCj05f0.png",
         "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "FarmodaTV",
-        "id": "FarmodaTV.iq",
-        "logo": "https://i.imgur.com/x4KCQlH.png",
-        "url": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -3023,16 +3003,6 @@
         "country": "CD"
     },
     {
-        "name": "Compassion TV",
-        "id": "CompassionTV.cd",
-        "logo": "https://i.imgur.com/lfoUsyR.jpeg",
-        "url": "https://tnt-television.com/COMPASSION_FM/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CD"
-    },
-    {
         "name": "TV Leon de Juda",
         "id": "TVLeondeJuda.sv",
         "logo": "https://i.imgur.com/ZUCppwi.png",
@@ -3163,16 +3133,6 @@
         "country": "ZA"
     },
     {
-        "name": "Kabbalah for the People Israel",
-        "id": "KabbalahforthePeopleIsrael.il",
-        "logo": "https://i.imgur.com/VxAHOgr.png",
-        "url": "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IL"
-    },
-    {
         "name": "EWTN Espana",
         "id": "EWTNEspana.es",
         "logo": "https://i.imgur.com/KvpMbkd.png",
@@ -3284,6 +3244,16 @@
         "country": "NZ"
     },
     {
+        "name": "Assadissa",
+        "id": "Assadissa.ma",
+        "logo": "https://freebox.cdn.scw.iliad.fr/medium_Assadissa_f8b25de821.png",
+        "url": "http://5.253.46.190:8000/play/a0ed/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "MA"
+    },
+    {
         "name": "CCTN 47",
         "id": "CCTN47.ph",
         "logo": "https://i.imgur.com/IFpAmvW.png",
@@ -3332,36 +3302,6 @@
             "religious"
         ],
         "country": "CH"
-    },
-    {
-        "name": "RTV Pendimi",
-        "id": "RTVPendimi.ch",
-        "logo": "https://i.ibb.co/tD48GMD/RTV-Pendimi.png",
-        "url": "https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CH"
-    },
-    {
-        "name": "Gospel Cartoon",
-        "id": "GospelCartoon.br",
-        "logo": "https://i.imgur.com/yxjPno5.png",
-        "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Gospel Movie TV",
-        "id": "GospelMovieTV.br",
-        "logo": "https://i.imgur.com/cQN3nWt.png",
-        "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BR"
     },
     {
         "name": "Novo Tempo",
@@ -4486,16 +4426,6 @@
         "id": "ArkTV.ug",
         "logo": "https://i.imgur.com/yCHNZXD.png",
         "url": "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "UG"
-    },
-    {
-        "name": "Praise Jesus Tower TV",
-        "id": "PraiseJesusTowerTV.ug",
-        "logo": "https://i.imgur.com/KT4qIve.png",
-        "url": "https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8",
         "categories": [
             "religious"
         ],

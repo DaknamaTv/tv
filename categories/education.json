@@ -124,16 +124,6 @@
         "country": "KR"
     },
     {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Doctor",
         "id": "Doctor.ru",
         "logo": "https://i.imgur.com/VNirxxn.png",
@@ -255,6 +245,16 @@
             "education"
         ],
         "country": "HN"
+    },
+    {
+        "name": "TV7",
+        "id": "TV7.dz",
+        "logo": "https://i.imgur.com/40rR4hD.png",
+        "url": "http://5.253.46.190:8000/play/a0eq/index.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "DZ"
     },
     {
         "name": "TV Maya",
@@ -694,12 +694,13 @@
         "country": "BR"
     },
     {
-        "name": "ISTV",
-        "id": "ISTV.br",
-        "logo": "https://i.imgur.com/RUKVrOH.png",
-        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+        "name": "Unisul TV",
+        "id": "UnisulTV.br",
+        "logo": "https://i.imgur.com/N0TvAFz.png",
+        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
         "categories": [
-            "education"
+            "education",
+            "culture"
         ],
         "country": "BR"
     },
@@ -1037,16 +1038,6 @@
         "id": "TVUJAT.mx",
         "logo": "https://i.imgur.com/4demWOi.png",
         "url": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "XHMNL-TDT",
-        "id": "XHMNLTDT.mx",
-        "logo": "https://i.imgur.com/9qL4LJF.png",
-        "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
         "categories": [
             "education"
         ],

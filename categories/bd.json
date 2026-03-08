@@ -1900,16 +1900,6 @@
         "country": ""
     },
     {
-        "name": "discovery hd",
-        "id": "discoveryhd",
-        "logo": "https://tvassets.roarzone.info/images/43.png",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=fb62dce680e8254702a9b5c3636d48b075b65080-737e32c0d5cc03e54d9ffb7fd7a508f8-1771958651-1771955051",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "discovery hd investigation",
         "id": "discoveryhdinvestigation",
         "logo": "https://tvassets.roarzone.info/images/discoveryhdInvestigation.png",
@@ -2370,16 +2360,6 @@
         "country": ""
     },
     {
-        "name": "ASTRO SPORTS PLUS",
-        "id": "astrosportsplus",
-        "logo": "",
-        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sunnah Tv",
         "id": "sunnahtv",
         "logo": "",
@@ -2470,10 +2450,50 @@
         "country": ""
     },
     {
-        "name": "ATN Music",
-        "id": "atnmusic",
+        "name": "STAR SL 1",
+        "id": "starsl1",
         "logo": "",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+        "url": "http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "STAR SL 2 HD",
+        "id": "starsl2hd",
+        "logo": "",
+        "url": "http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "G-Serise",
+        "id": "gserise",
+        "logo": "",
+        "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-1",
+        "id": "tnssports1",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts1",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-2",
+        "id": "tnssports2",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts2",
         "categories": [
             "bd"
         ],

@@ -412,16 +412,6 @@
         "country": "PE"
     },
     {
-        "name": "La Fabulosa TV",
-        "id": "LaFabulosaTV.pe",
-        "logo": "https://i.imgur.com/GjME5H0.png",
-        "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Top TV",
         "id": "TopTV.pe",
         "logo": "https://i.imgur.com/tiNvihZ.png",
@@ -505,6 +495,24 @@
         "logo": "https://i.imgur.com/cu7hTn8.png",
         "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
         "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "Controversia TV",
+        "id": "ControversiaTV.pe",
+        "logo": "https://i.imgur.com/X7cPyP2.png",
+        "url": "https://live.obslivestream.com/controversiatv/index.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "Via Altomayo",
+        "id": "ViaAltomayo.pe",
+        "logo": "https://i.imgur.com/aJ4XExn.png",
+        "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "PE"
     }
 ]

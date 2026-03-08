@@ -350,16 +350,6 @@
         "country": "DO"
     },
     {
-        "name": "Bellavision",
-        "id": "Bellavision.do",
-        "logo": "https://i.imgur.com/XqQ3kCs.png",
-        "url": "https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Digital Vision 63",
         "id": "DigitalVision63.do",
         "logo": "https://i.imgur.com/FQkLIMR.png",
@@ -841,26 +831,6 @@
         "country": "DO"
     },
     {
-        "name": "Ahora TV",
-        "id": "AhoraTV.do",
-        "logo": "https://i.imgur.com/dyJyuXc.png",
-        "url": "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Canal Catorce",
-        "id": "CanalCatorce.do",
-        "logo": "https://i.imgur.com/iKLGBbA.png",
-        "url": "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Caoba TV Radio",
         "id": "CaobaTVRadio.do",
         "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg",
@@ -877,16 +847,6 @@
         "url": "http://200.125.170.122:8000/play/a03j/index.m3u8",
         "categories": [
             "sports"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "entelevision",
-        "id": "entelevision.do",
-        "logo": "https://i.imgur.com/gVtLpMD.png",
-        "url": "https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "DO"
     },
@@ -1112,16 +1072,6 @@
         "country": "DO"
     },
     {
-        "name": "GH Television",
-        "id": "GHTelevision.do",
-        "logo": "https://i.imgur.com/xhkiiO3.png",
-        "url": "https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Hilando Fino TV",
         "id": "HilandoFinoTV.do",
         "logo": "https://i.imgur.com/E7ta6g8.png",
@@ -1138,26 +1088,6 @@
         "url": "https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "TV Daja",
-        "id": "TVDaja.do",
-        "logo": "https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png",
-        "url": "https://mlb.essastream.com:8081/dajatv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Super7FM",
-        "id": "Super7FM.do",
-        "logo": "https://i.imgur.com/TJEqwZo.png",
-        "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "DO"
     },
@@ -1492,26 +1422,6 @@
         "country": "DO"
     },
     {
-        "name": "Canal Multivision",
-        "id": "CanalMultivision.do",
-        "logo": "https://i.imgur.com/puOrL7B.jpg",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "La Sultana del Este TV",
-        "id": "LaSultanadelEsteTV.do",
-        "logo": "https://i.imgur.com/UNiyOvd.png",
-        "url": "https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Notisur TV",
         "id": "NotisurTV.do",
         "logo": "https://rdomint.com/images/station/300.jpg",
@@ -1822,16 +1732,6 @@
         "country": "DO"
     },
     {
-        "name": "Simavision Canal 18",
-        "id": "SimavisionCanal18.do",
-        "logo": "https://i.imgur.com/io9o30K.jpg",
-        "url": "https://soportedvb.click:3668/live/simavisiontvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Vega Teve",
         "id": "VegaTeve.do",
         "logo": "https://i.imgur.com/jiyMOZx.png",
@@ -1922,10 +1822,70 @@
         "country": "DO"
     },
     {
-        "name": "Zonavision TV",
-        "id": "ZonavisionTV.do",
-        "logo": "https://imgur.com/B3PrrMH.png",
-        "url": "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8",
+        "name": "Anime Zone TV",
+        "id": "AnimeZoneTV.do",
+        "logo": "https://i.imgur.com/AHaXlCh.png",
+        "url": "http://animezonetv.net/hls/stream.m3u8",
+        "categories": [
+            "animation"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Del Pueblo TV",
+        "id": "DelPuebloTV.do",
+        "logo": "https://imgur.com/Pw7ZUT1.jpg",
+        "url": "https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Guaymate TV",
+        "id": "GuaymateTV.do",
+        "logo": "https://i.imgur.com/PBgQi9a.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "La Voz de Maria",
+        "id": "LaVozdeMaria.do",
+        "logo": "https://i.imgur.com/Zv8CxZX.png",
+        "url": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Telecomercio TV",
+        "id": "TelecomercioTV.do",
+        "logo": "https://imgur.com/FtV5TCs.jpg",
+        "url": "https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "TVO",
+        "id": "TVO.do",
+        "logo": "https://i.imgur.com/MhloaFB.png",
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "VTV Canal 32",
+        "id": "VTVCanal32.do",
+        "logo": "https://i.imgur.com/qjm4B0J.png",
+        "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8",
         "categories": [
             "general"
         ],

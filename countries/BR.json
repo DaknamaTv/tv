@@ -10,66 +10,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Series",
-        "id": "TVSeries.br",
-        "logo": "https://i.imgur.com/Ff5mj0o.png",
-        "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Curuca",
-        "id": "TVCuruca.br",
-        "logo": "https://i.imgur.com/JdCKNZ4.png",
-        "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Gospel Cartoon",
-        "id": "GospelCartoon.br",
-        "logo": "https://i.imgur.com/yxjPno5.png",
-        "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Loading",
-        "id": "Loading.br",
-        "logo": "https://i.imgur.com/R0aflu1.png",
-        "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Classique TV",
-        "id": "ClassiqueTV.br",
-        "logo": "https://i.imgur.com/rHxcraT.png",
-        "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Gospel Movie TV",
-        "id": "GospelMovieTV.br",
-        "logo": "https://i.imgur.com/cQN3nWt.png",
-        "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Jovem Pan News",
         "id": "JovemPanNews.br",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",
@@ -795,16 +735,6 @@
         "country": "BR"
     },
     {
-        "name": "ISTV",
-        "id": "ISTV.br",
-        "logo": "https://i.imgur.com/RUKVrOH.png",
-        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "KpopTV Play",
         "id": "KpopTVPlay.br",
         "logo": "https://i.imgur.com/Tf0vweF.png",
@@ -975,6 +905,55 @@
         "url": "https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Canal 25 Jundiai",
+        "id": "Canal25Jundiai.br",
+        "logo": "https://i.imgur.com/7igGMwH.png",
+        "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+        "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "EUTV",
+        "id": "EUTV.br",
+        "logo": "https://i.imgur.com/8PxpamC.png",
+        "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TCM 10 HD",
+        "id": "TCM10HD.br",
+        "logo": "https://i.imgur.com/aMuMVvB.png",
+        "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Grande Natal",
+        "id": "TVGrandeNatal.br",
+        "logo": "https://i.imgur.com/MTuErdw.png",
+        "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Unisul TV",
+        "id": "UnisulTV.br",
+        "logo": "https://i.imgur.com/N0TvAFz.png",
+        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
+        "categories": [
+            "education",
+            "culture"
         ],
         "country": "BR"
     }
