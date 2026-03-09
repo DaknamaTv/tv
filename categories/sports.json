@@ -270,26 +270,6 @@
         "country": "IN"
     },
     {
-        "name": "Star Sports 1 Telugu",
-        "id": "StarSports1Telugu.in",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TELUGU_HD/images/LOGO_HD/image.png",
-        "url": "http://111.88.78.21:8000/play/a0vc/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports 1 Tamil",
-        "id": "StarSports1Tamil.in",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL_HD/images/LOGO_HD/image.png",
-        "url": "http://111.88.78.21:8000/play/a0to/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony Sports Ten 5",
         "id": "SonySportsTen5.in",
         "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
@@ -334,6 +314,86 @@
         "id": "StarSports3.in",
         "logo": "https://i.imgur.com/dbp2Mig.png",
         "url": "http://103.121.6.5:8000/play/a05y/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 1",
+        "id": "StarSports1.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 1 Hindi",
+        "id": "StarSports1Hindi.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143838_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0415/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 1 Kannada",
+        "id": "StarSports1Kannada.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143840_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0420/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 1 Tamil",
+        "id": "StarSports1Tamil.in",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL_HD/images/LOGO_HD/image.png",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 1 Telugu",
+        "id": "StarSports1Telugu.in",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TELUGU_HD/images/LOGO_HD/image.png",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 2 Kannada",
+        "id": "StarSports2Kannada.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143847_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0422/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 2 Telugu",
+        "id": "StarSports2Telugu.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158351_ld_h15_ab.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports Khel",
+        "id": "StarSportsKhel.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143809_ld_h15_ab.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0423/master.m3u8",
         "categories": [
             "sports"
         ],
@@ -683,16 +743,6 @@
         "country": "DE"
     },
     {
-        "name": "Tigo Sports",
-        "id": "TigoSports.sv",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
-        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "SV"
-    },
-    {
         "name": "Gol Classics",
         "id": "GolClassics.es",
         "logo": "https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75",
@@ -781,6 +831,16 @@
             "sports"
         ],
         "country": "MN"
+    },
+    {
+        "name": "Belarus-5",
+        "id": "Belarus5.by",
+        "logo": "https://i.imgur.com/NJsRFud.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BY"
     },
     {
         "name": "Alkass Five",

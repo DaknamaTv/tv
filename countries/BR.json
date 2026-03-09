@@ -539,14 +539,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Guara",
-        "id": "TVGuara.br",
-        "logo": "https://i.imgur.com/8PErNBT.png",
-        "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "TV Paraense",
         "id": "TVParaense.br",
         "logo": "https://duckduckgo.com/i/e408ea02.png",
@@ -821,26 +813,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Futuro",
-        "id": "TVFuturo.br",
-        "logo": "https://i.imgur.com/xonrNBf.png",
-        "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TVNBN",
-        "id": "TVNBN.br",
-        "logo": "https://i.imgur.com/zoHBxn1.png",
-        "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Sim Cachoeiro",
         "id": "TVSimCachoeiro.br",
         "logo": "https://i.imgur.com/t5oUK3C.png",
@@ -954,6 +926,86 @@
         "categories": [
             "education",
             "culture"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Classique TV",
+        "id": "ClassiqueTV.br",
+        "logo": "https://i.imgur.com/rHxcraT.png",
+        "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Gospel Cartoon",
+        "id": "GospelCartoon.br",
+        "logo": "https://i.imgur.com/yxjPno5.png",
+        "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Gospel Movie TV",
+        "id": "GospelMovieTV.br",
+        "logo": "https://i.imgur.com/cQN3nWt.png",
+        "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "ISTV",
+        "id": "ISTV.br",
+        "logo": "https://i.imgur.com/RUKVrOH.png",
+        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Loading",
+        "id": "Loading.br",
+        "logo": "https://i.imgur.com/R0aflu1.png",
+        "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "RBATV",
+        "id": "RBATV.br",
+        "logo": "https://i.imgur.com/ZWFxlU1.png",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Curuca",
+        "id": "TVCuruca.br",
+        "logo": "https://i.imgur.com/JdCKNZ4.png",
+        "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Series",
+        "id": "TVSeries.br",
+        "logo": "https://i.imgur.com/Ff5mj0o.png",
+        "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+        "categories": [
+            "series"
         ],
         "country": "BR"
     }

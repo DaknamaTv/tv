@@ -309,16 +309,6 @@
         "country": "US"
     },
     {
-        "name": "Radio Tele Puissance",
-        "id": "RadioTelePuissance.us",
-        "logo": "https://i.imgur.com/ZLPwJug.png",
-        "url": "https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Dare To Dream Network",
         "id": "DareToDreamNetwork.us",
         "logo": "https://i.imgur.com/oNUpXA9.png",
@@ -355,16 +345,6 @@
         "url": "https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "WVCU-LP",
-        "id": "WVCULP.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0f/WVCU-LP_2015.PNG",
-        "url": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "US"
     },
@@ -7737,16 +7717,6 @@
         "country": "US"
     },
     {
-        "name": "BPX TV Radio",
-        "id": "BPXTVRadio.us",
-        "logo": "https://i.imgur.com/86VXni8.jpeg",
-        "url": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Extrema TV",
         "id": "ExtremaTV.us",
         "logo": "https://i.imgur.com/Z1QVkqu.png",
@@ -7790,16 +7760,6 @@
         "categories": [
             "news",
             "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "HMI PROMZ NEWS",
-        "id": "HMIPROMZNEWS.us",
-        "logo": "https://i.imgur.com/gwPaw3v.png",
-        "url": "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "US"
     },
@@ -8910,14 +8870,6 @@
         "country": "US"
     },
     {
-        "name": "Celebrity Scene TV",
-        "id": "CelebritySceneTV.us",
-        "logo": "https://i.imgur.com/n36jriB.png",
-        "url": "https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8",
-        "categories": [],
-        "country": "US"
-    },
-    {
         "name": "Lacrosse TV",
         "id": "LacrosseTV.us",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj",
@@ -9223,16 +9175,6 @@
         "id": "WHPSCD2.us",
         "logo": "https://i.imgur.com/KW1iQ5W.png",
         "url": "https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ABC",
-        "id": "ABC.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "url": "http://41.205.93.154/ABC/index.m3u8",
         "categories": [
             "general"
         ],
@@ -9901,16 +9843,6 @@
         "country": "US"
     },
     {
-        "name": "Little Guyana TV",
-        "id": "LittleGuyanaTV.us",
-        "logo": "https://i.imgur.com/b475xOT.jpg",
-        "url": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TeleMIX",
         "id": "TeleMIX.us",
         "logo": "https://i.ibb.co/HpX99Ks/unnamed.jpg",
@@ -9945,16 +9877,6 @@
         "id": "AMGATV.us",
         "logo": "https://i.imgur.com/NTlC6e7.png",
         "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "PBC Tapesh TV",
-        "id": "PBCTapeshTV.us",
-        "logo": "https://i.imgur.com/50JzsmH.png",
-        "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -10009,6 +9931,56 @@
         "url": "https://tv2.fastcast4u.com:3943/stream/play.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CAN TV19",
+        "id": "CANTV19.us",
+        "logo": "https://i.imgur.com/PUQtIa3.png",
+        "url": "https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CAN TV21",
+        "id": "CANTV21.us",
+        "logo": "https://i.imgur.com/KP5bCYr.png",
+        "url": "https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CAN TV27",
+        "id": "CANTV27.us",
+        "logo": "https://i.imgur.com/43EpWsD.png",
+        "url": "https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CAN TV36",
+        "id": "CANTV36.us",
+        "logo": "https://i.imgur.com/43EpWsD.png",
+        "url": "https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV MTV Classic",
+        "id": "PlutoTVMTVClassic.us",
+        "logo": "https://i.imgur.com/NPavpts.png",
+        "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "US"
     }

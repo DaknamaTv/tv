@@ -10,16 +10,6 @@
         "country": "YE"
     },
     {
-        "name": "Afrique54 TV",
-        "id": "Afrique54TV.cm",
-        "logo": "https://i.imgur.com/WIaRpiS.png",
-        "url": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CM"
-    },
-    {
         "name": "6PR",
         "id": "6PR.au",
         "logo": "https://i.imgur.com/Q9iCxg1.png",
@@ -407,6 +397,16 @@
         "url": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8",
         "categories": [
             "legislative",
+            "news"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "Gugbang TV",
+        "id": "GugbangTV.kr",
+        "logo": "https://i.imgur.com/f1tz5fg.png",
+        "url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8",
+        "categories": [
             "news"
         ],
         "country": "KR"
@@ -2367,16 +2367,6 @@
         "country": "IN"
     },
     {
-        "name": "Sun News",
-        "id": "SunNews.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0MBD.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0ys/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Gujarat First",
         "id": "GujaratFirst.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png",
@@ -2448,30 +2438,90 @@
         "country": "IN"
     },
     {
-        "name": "Goa365",
-        "id": "Goa365.in",
-        "logo": "https://www.goa365.tv/images/GOA-365-Logo.jpg",
-        "url": "https://ktismaservers.in:3086/live/goa365live.m3u8",
+        "name": "Chardikla Time TV",
+        "id": "ChardiklaTimeTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142736_ld_h15_aa.png?lock=720x540",
+        "url": "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
         "categories": [
             "news"
         ],
         "country": "IN"
     },
     {
-        "name": "Gulistan News",
-        "id": "GulistanNews.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540",
-        "url": "https://live.gulistannews.in/hls/gul.m3u8",
+        "name": "DY 365",
+        "id": "DY365.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540",
+        "url": "https://mumt04.tangotv.in/DY365/index.m3u8",
         "categories": [
             "news"
         ],
         "country": "IN"
     },
     {
-        "name": "JK 24x7 News",
-        "id": "JK24x7News.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540",
-        "url": "https://live.gulistannews.in/hls/jk.m3u8",
+        "name": "Guarantee News",
+        "id": "GuaranteeNews.in",
+        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYZzbGJ7ViZA/company-logo_200_200/company-logo_200_200/0/1728031377890?e=2147483647&v=beta&t=bIsZgNUCcg0M_-Zqeu5wKYgBt_1-pI798X9lP5CxhTM",
+        "url": "https://guaranteenews.in:8443/live/gnews/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "News 24",
+        "id": "News24.in",
+        "logo": "https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540",
+        "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Northeast Live",
+        "id": "NortheastLive.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143633_ld_h15_aa.png?lock=720x540",
+        "url": "https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Bharat",
+        "id": "StarBharat.in",
+        "logo": "https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0388/master.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sun News",
+        "id": "SunNews.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0MBD.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0565/master.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Times Now World",
+        "id": "TimesNowWorld.in",
+        "logo": "https://dtil.tmsimg.com/assets/s144008_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0124/master.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "VBC News",
+        "id": "VBCNews.in",
+        "logo": "https://i.imgur.com/SvXCjha.png",
+        "url": "https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -2779,16 +2829,6 @@
         "country": "DO"
     },
     {
-        "name": "Carivision",
-        "id": "Carivision.do",
-        "logo": "https://i.imgur.com/XjGb2UM.png",
-        "url": "https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Television del Este",
         "id": "TelevisiondelEste.do",
         "logo": "https://i.imgur.com/mmjbcGr.png",
@@ -2829,6 +2869,16 @@
         "country": "DO"
     },
     {
+        "name": "RNN",
+        "id": "RNN.do",
+        "logo": "https://i.imgur.com/12Z9qPw.png",
+        "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Love Television",
         "id": "LoveTelevision.bz",
         "logo": "https://i.imgur.com/nT3Wxr6.png",
@@ -2843,30 +2893,6 @@
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Vinh Long TV 1",
-        "id": "VinhLongTV1.vn",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -3280,16 +3306,6 @@
         "country": "SY"
     },
     {
-        "name": "Alalam News Channel Syria",
-        "id": "AlalamNewsChannelSyria.sy",
-        "logo": "https://i.imgur.com/WQKYPKD.png",
-        "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "SY"
-    },
-    {
         "name": "February Channel",
         "id": "FebruaryChannel.ly",
         "logo": "https://i.imgur.com/WdMIpsA.png",
@@ -3506,6 +3522,16 @@
         "id": "NablusTV.ps",
         "logo": "https://i.imgur.com/GoLhaDK.png",
         "url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PS"
+    },
+    {
+        "name": "Palestine Today",
+        "id": "PalestineToday.ps",
+        "logo": "https://i.imgur.com/BS8XXug.png",
+        "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -3849,6 +3875,16 @@
         "id": "AlManar.lb",
         "logo": "https://i.imgur.com/sOQLV7L.png",
         "url": "https://edge.fastpublish.me/live/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "LB"
+    },
+    {
+        "name": "Palestine Al Yawm",
+        "id": "PalestineAlYawm.lb",
+        "logo": "https://i.imgur.com/n8dSgx4.png",
+        "url": "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8",
         "categories": [
             "news"
         ],
@@ -4255,6 +4291,16 @@
             "news"
         ],
         "country": "MN"
+    },
+    {
+        "name": "NBC 2",
+        "id": "NBC2.na",
+        "logo": "https://i.imgur.com/A6jxUvU.png",
+        "url": "https://hls2.nbcplus.na/hls/high_nbc2.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "NA"
     },
     {
         "name": "News 24",

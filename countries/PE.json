@@ -186,16 +186,6 @@
         "country": "PE"
     },
     {
-        "name": "Autentica Television",
-        "id": "AutenticaTelevision.pe",
-        "logo": "https://i.imgur.com/bEJK3RN.png",
-        "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Ovacion TV",
         "id": "OvacionTV.pe",
         "logo": "https://i.imgur.com/7Xndgxk.png",
@@ -384,14 +374,6 @@
         "country": "PE"
     },
     {
-        "name": "RN Television",
-        "id": "RNTelevision.pe",
-        "logo": "https://i.imgur.com/oFGiW7u.png",
-        "url": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
-        "categories": [],
-        "country": "PE"
-    },
-    {
         "name": "Miel TV",
         "id": "MielTV.pe",
         "logo": "https://i.imgur.com/dPSFrCs.png",
@@ -513,6 +495,24 @@
         "categories": [
             "general"
         ],
+        "country": "PE"
+    },
+    {
+        "name": "La Fabulosa TV",
+        "id": "LaFabulosaTV.pe",
+        "logo": "https://i.imgur.com/GjME5H0.png",
+        "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Uranio TV",
+        "id": "UranioTV.pe",
+        "logo": "https://i.imgur.com/EeNpfIr.png",
+        "url": "https://live.obslivestream.com/uraniotv/index.m3u8",
+        "categories": [],
         "country": "PE"
     }
 ]

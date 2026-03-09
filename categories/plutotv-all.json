@@ -1,15 +1,5 @@
 [
     {
-        "name": "Cine comedia",
-        "id": "cinecomedia",
-        "logo": "https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG_1757954361053.png",
-        "url": "https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Cine Amor",
         "id": "cineamor",
         "logo": "https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG_1757957531383.png",
@@ -24,26 +14,6 @@
         "id": "betvisionaries",
         "logo": "https://images.pluto.tv/channels/663946c1b18d700008d9c168/colorLogoPNG_1759338795452.png",
         "url": "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Sharks",
-        "id": "plutotvsharks",
-        "logo": "https://images.pluto.tv/channels/669526d232e25300084bb47b/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-669526d232e25300084bb47b.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Inuyasha",
-        "id": "inuyasha",
-        "logo": "https://images.pluto.tv/channels/67c63b90a20c0399a381b816/colorLogoPNG_1745441127472.png",
-        "url": "https://jmp2.uk/plu-67c63b90a20c0399a381b816.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -90,86 +60,6 @@
         "country": ""
     },
     {
-        "name": "Dynastin",
-        "id": "dynastin",
-        "logo": "https://images.pluto.tv/channels/68f0fb155d6fb43948165d32/colorLogoPNG_1762758211490.png",
-        "url": "https://jmp2.uk/plu-68f0fb155d6fb43948165d32.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BET Classics",
-        "id": "betclassics",
-        "logo": "https://images.pluto.tv/channels/60f85644a9493e0007a1f035/colorLogoPNG_1759339662769.png",
-        "url": "https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Unsolved Mysteries with Dennis Farina",
-        "id": "unsolvedmysterieswithdennisfarina",
-        "logo": "https://images.pluto.tv/channels/68e3c37c19f32ffa27bae948/colorLogoPNG_1759849488643.png",
-        "url": "https://jmp2.uk/plu-68e3c37c19f32ffa27bae948.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Wrestling Central",
-        "id": "wrestlingcentral",
-        "logo": "https://images.pluto.tv/channels/68c85164b7af374ee483210f/colorLogoPNG_1760475182481.png",
-        "url": "https://jmp2.uk/plu-68c85164b7af374ee483210f.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Weird or What? With William Shatner",
-        "id": "weirdorwhatwithwilliamshatner",
-        "logo": "https://images.pluto.tv/channels/65819f83a620e300080f692a/colorLogoPNG_1764171950040.png",
-        "url": "https://jmp2.uk/plu-65819f83a620e300080f692a.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The Yellow Couch with Jeremy Lynch",
-        "id": "theyellowcouchwithjeremylynch",
-        "logo": "https://images.pluto.tv/channels/68e8ffee9d1d49e672fe790f/colorLogoPNG_1761768607111.png",
-        "url": "https://jmp2.uk/plu-68e8ffee9d1d49e672fe790f.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Million Dollar Listing",
-        "id": "milliondollarlisting",
-        "logo": "https://images.pluto.tv/channels/677fb3432952c1163bf1a539/colorLogoPNG_1761664837789.png",
-        "url": "https://jmp2.uk/plu-677fb3432952c1163bf1a539.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Comedy Central Roast",
-        "id": "comedycentralroast",
-        "logo": "https://images.pluto.tv/channels/6641fd41b18d700008e7e2b8/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "BET Throwbacks",
         "id": "betthrowbacks",
         "logo": "https://images.pluto.tv/channels/61326275b3c86a00078e4833/colorLogoPNG_1759340015358.png",
@@ -190,80 +80,10 @@
         "country": ""
     },
     {
-        "name": "Hawaii Five-O",
-        "id": "hawaiifiveo",
-        "logo": "https://images.pluto.tv/channels/68503d3bc692373f0158c43f/colorLogoPNG_1752574984915.png",
-        "url": "https://jmp2.uk/plu-68503d3bc692373f0158c43f.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Monkey",
-        "id": "monkey",
-        "logo": "https://images.pluto.tv/channels/68e3c18130ee729844af1fca/colorLogoPNG_1761732782669.png",
-        "url": "https://jmp2.uk/plu-68e3c18130ee729844af1fca.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV PetrolHeads",
-        "id": "plutotvpetrolheads",
-        "logo": "https://images.pluto.tv/channels/65a7b0814a10d800085ff2df/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The Smurfs",
-        "id": "thesmurfs",
-        "logo": "https://images.pluto.tv/channels/68b5a97fc8ef6afa31138718/colorLogoPNG_1760380526292.png",
-        "url": "https://jmp2.uk/plu-68b5a97fc8ef6afa31138718.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "That's 80s",
         "id": "thats80s",
         "logo": "https://images.pluto.tv/channels/6490254fd2c47c00083a5743/colorLogoPNG_1771233599160.png",
         "url": "https://jmp2.uk/plu-6490254fd2c47c00083a5743.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Dominance FC TV",
-        "id": "dominancefctv",
-        "logo": "https://images.pluto.tv/channels/685aa802fb6023de7cc56357/colorLogoPNG_1750772661273.png",
-        "url": "https://jmp2.uk/plu-685aa802fb6023de7cc56357.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Wrestling Legends TV",
-        "id": "wrestlinglegendstv",
-        "logo": "https://images.pluto.tv/channels/68c820525ec82769fdfcd104/colorLogoPNG_1765359753710.png",
-        "url": "https://jmp2.uk/plu-68c820525ec82769fdfcd104.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Monster High",
-        "id": "monsterhigh",
-        "logo": "https://images.pluto.tv/channels/68e8fe3bcba140ddfe903677/colorLogoPNG_1761210192673.png",
-        "url": "https://jmp2.uk/plu-68e8fe3bcba140ddfe903677.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -280,60 +100,10 @@
         "country": ""
     },
     {
-        "name": "Cherif",
-        "id": "cherif",
-        "logo": "https://images.pluto.tv/channels/66d71c656b63480008cf0427/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66d71c656b63480008cf0427.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Los misterios de Murdoch",
-        "id": "losmisteriosdemurdoch",
-        "logo": "https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/colorLogoPNG_1764691773450.png",
-        "url": "https://jmp2.uk/plu-6682bd9b8768aa0008f25be5.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Los Gipsy Kings",
-        "id": "losgipsykings",
-        "logo": "https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/colorLogoPNG_1759420523581.png",
-        "url": "https://jmp2.uk/plu-68adc3fdd8f7693ae347a63a.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Pluto TV Impacto",
         "id": "plutotvimpacto",
         "logo": "https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png",
         "url": "https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Ubeat lite",
-        "id": "ubeatlite",
-        "logo": "https://images.pluto.tv/channels/66448a5a8ce31100086ae45e/colorLogoPNG_1747991179448.png",
-        "url": "https://jmp2.uk/plu-66448a5a8ce31100086ae45e.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Gasolina",
-        "id": "plutotvgasolina",
-        "logo": "https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/colorLogoPNG_1747382175081.png",
-        "url": "https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -360,40 +130,10 @@
         "country": ""
     },
     {
-        "name": "Lupin",
-        "id": "lupin",
-        "logo": "https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/colorLogoPNG_1754485275244.png",
-        "url": "https://jmp2.uk/plu-683457e5f59cc6a13212fce4.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Metal Rocks",
         "id": "metalrocks",
         "logo": "https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/colorLogoPNG_1756372280523.png",
         "url": "https://jmp2.uk/plu-686cd8bb9d079f48dbbdfecb.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Los Pitufos",
-        "id": "lospitufos",
-        "logo": "https://images.pluto.tv/channels/68d27949793c71d988ca624c/colorLogoPNG_1760370849099.png",
-        "url": "https://jmp2.uk/plu-68d27949793c71d988ca624c.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Heidi",
-        "id": "heidi",
-        "logo": "https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png",
-        "url": "https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -420,160 +160,10 @@
         "country": ""
     },
     {
-        "name": "Scare Tactics",
-        "id": "scaretactics",
-        "logo": "https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/colorLogoPNG_1756936023452.png",
-        "url": "https://jmp2.uk/plu-6874ad2f3484d60732267ba8.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Classic TV Variety",
-        "id": "plutotvclassictvvariety",
-        "logo": "https://images.pluto.tv/channels/68d25c623175a2780d051d3a/colorLogoPNG_1758809678864.png",
-        "url": "https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto Classic Movie Westerns",
-        "id": "plutoclassicmoviewesterns",
-        "logo": "https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV FBI",
-        "id": "plutotvfbi",
-        "logo": "https://images.pluto.tv/channels/693adae77f21340ef9746f56/colorLogoPNG_1767879898099.png",
-        "url": "https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The X-Files",
-        "id": "thexfiles",
-        "logo": "https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png",
-        "url": "https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "APTN Beyond",
-        "id": "aptnbeyond",
-        "logo": "https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png",
-        "url": "https://jmp2.uk/plu-68b9afd66985e192657a2b7f.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "CBC News British Columbia",
         "id": "cbcnewsbritishcolumbia",
         "logo": "https://images.pluto.tv/channels/66a8f01914a2bb00084dd86c/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-66a8f01914a2bb00084dd86c.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Anthony Bourdain: Parts Unknown",
-        "id": "anthonybourdainpartsunknown",
-        "logo": "https://images.pluto.tv/channels/69173ce8abd4703b27f71d44/colorLogoPNG_1763174482983.png",
-        "url": "https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rock Channel",
-        "id": "rockchannel",
-        "logo": "https://images.pluto.tv/channels/64a28c62d609b60008ca4933/colorLogoPNG_1758270375136.png",
-        "url": "https://jmp2.uk/plu-64a28c62d609b60008ca4933.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Ferne Galaxien",
-        "id": "plutotvfernegalaxien",
-        "logo": "https://images.pluto.tv/channels/68ada46d5190a45dc9c45af1/colorLogoPNG_1759128462324.png",
-        "url": "https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Missions",
-        "id": "missions",
-        "logo": "https://images.pluto.tv/channels/6824539e1295f98347e95242/colorLogoPNG_1756201073402.png",
-        "url": "https://jmp2.uk/plu-6824539e1295f98347e95242.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "McLeods Töchter",
-        "id": "mcleodstchter",
-        "logo": "https://images.pluto.tv/channels/66c6fcfc6838ee00085beb1a/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Nordic Crime",
-        "id": "plutotvnordiccrime",
-        "logo": "https://images.pluto.tv/channels/67d984408d8dc3d7754dccf2/colorLogoPNG_1746817551952.png",
-        "url": "https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Deutsche Comedy",
-        "id": "plutotvdeutschecomedy",
-        "logo": "https://images.pluto.tv/channels/6672f49f61a39900089db68e/colorLogoPNG_1748857141516.png",
-        "url": "https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Thriller",
-        "id": "plutotvthriller",
-        "logo": "https://images.pluto.tv/channels/5e1efdbf90ba3e0009d99082/colorLogoPNG_1761807540430.png",
-        "url": "https://jmp2.uk/plu-5e1efdbf90ba3e0009d99082.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Adult Animation",
-        "id": "plutotvadultanimation",
-        "logo": "https://images.pluto.tv/channels/67f68bd2135aeda9ddf0ef54/colorLogoPNG_1746816413112.png",
-        "url": "https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -590,100 +180,10 @@
         "country": ""
     },
     {
-        "name": "Liebe Sünde",
-        "id": "liebesnde",
-        "logo": "https://images.pluto.tv/channels/68d276ce59fd82da32267d0d/colorLogoPNG_1763647481975.png",
-        "url": "https://jmp2.uk/plu-68d276ce59fd82da32267d0d.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Europäische Krimis",
-        "id": "plutotveuropischekrimis",
-        "logo": "https://images.pluto.tv/channels/68b176c2a4841127a8ed1ade/colorLogoPNG_1760724753068.png",
-        "url": "https://jmp2.uk/plu-68b176c2a4841127a8ed1ade.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Reportagen",
-        "id": "plutotvreportagen",
-        "logo": "https://images.pluto.tv/channels/68ada3edf84960586ad31c7d/colorLogoPNG_1760078189640.png",
-        "url": "https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Anime: Fantasy",
-        "id": "plutotvanimefantasy",
-        "logo": "https://images.pluto.tv/channels/67fe495d9ebfe4142424b7a7/colorLogoPNG_1746817524304.png",
-        "url": "https://jmp2.uk/plu-67fe495d9ebfe4142424b7a7.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Western Serien",
-        "id": "plutotvwesternserien",
-        "logo": "https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png",
-        "url": "https://jmp2.uk/plu-682453215c646751955e1204.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sea Patrol",
-        "id": "seapatrol",
-        "logo": "https://images.pluto.tv/channels/688735087b2cf33d01a2d411/colorLogoPNG_1757918762968.png",
-        "url": "https://jmp2.uk/plu-688735087b2cf33d01a2d411.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KultKrimi: Küstenwache",
-        "id": "kultkrimikstenwache",
-        "logo": "https://images.pluto.tv/channels/67ebbdced2832b463faa1e79/colorLogoPNG_1745819408443.png",
-        "url": "https://jmp2.uk/plu-67ebbdced2832b463faa1e79.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BIG BROTHER CLASSIC",
-        "id": "bigbrotherclassic",
-        "logo": "https://images.pluto.tv/channels/663e09e4b18d700008e48dcf/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Nickelodeon Teen",
         "id": "nickelodeonteen",
         "logo": "https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG_1750753617970.png",
         "url": "https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Filmes de Luta",
-        "id": "plutotvfilmesdeluta",
-        "logo": "https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png",
-        "url": "https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -710,80 +210,10 @@
         "country": ""
     },
     {
-        "name": "Adrenalina Pura TV",
-        "id": "adrenalinapuratv",
-        "logo": "https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Filmes Aventura",
-        "id": "plutotvfilmesaventura",
-        "logo": "https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "A Caçadora de Relíquias",
-        "id": "acaadoraderelquias",
-        "logo": "https://images.pluto.tv/channels/67e59a6557487a8b7fe73e23/colorLogoPNG_1745618050777.png",
-        "url": "https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Charmed: Jovens Bruxas",
-        "id": "charmedjovensbruxas",
-        "logo": "https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/colorLogoPNG_1747333127716.png",
-        "url": "https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Jornada nas Estrelas - A Nova Geração",
-        "id": "jornadanasestrelasanovagerao",
-        "logo": "https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png",
-        "url": "https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Jornada nas Estrelas - Deep Space Nine",
-        "id": "jornadanasestrelasdeepspacenine",
-        "logo": "https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png",
-        "url": "https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "A Feiticeira",
         "id": "afeiticeira",
         "logo": "https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Diff’rent Strokes Arnold",
-        "id": "diffrentstrokesarnold",
-        "logo": "https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -800,26 +230,6 @@
         "country": ""
     },
     {
-        "name": "Inspetor Bugiganga",
-        "id": "inspetorbugiganga",
-        "logo": "https://images.pluto.tv/channels/69162648d03565d6c8c8df97/colorLogoPNG_1769479138027.png",
-        "url": "https://jmp2.uk/plu-69162648d03565d6c8c8df97.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MasterChef Brasil Profissionais",
-        "id": "masterchefbrasilprofissionais",
-        "logo": "https://images.pluto.tv/channels/681110afc188aa63faa147e0/colorLogoPNG_1749226372857.png",
-        "url": "https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Mais MasterChef Brasil",
         "id": "maismasterchefbrasil",
         "logo": "https://images.pluto.tv/channels/681111be5e0764e297fb200e/colorLogoPNG_1749582970597.png",
@@ -830,50 +240,10 @@
         "country": ""
     },
     {
-        "name": "TikTok Radio Brasil",
-        "id": "tiktokradiobrasil",
-        "logo": "https://images.pluto.tv/channels/63dac32bda711800088a2ba3/colorLogoPNG_1758347017431.png",
-        "url": "https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Pluto TV História",
         "id": "plutotvhistria",
         "logo": "https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG_1754405659295.png",
         "url": "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Policial",
-        "id": "plutotvpolicial",
-        "logo": "https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SFT Combat",
-        "id": "sftcombat",
-        "logo": "https://images.pluto.tv/channels/6660b636cb3ea10008429c6a/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6660b636cb3ea10008429c6a.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Salon Line",
-        "id": "salonline",
-        "logo": "https://images.pluto.tv/channels/66a7d0e0cd0d310008448610/colorLogoPNG_1748628256459.png",
-        "url": "https://jmp2.uk/plu-66a7d0e0cd0d310008448610.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -940,16 +310,6 @@
         "country": ""
     },
     {
-        "name": "Mi Bella Genio",
-        "id": "mibellagenio",
-        "logo": "https://images.pluto.tv/channels/68ffc086a530e036bc8f0305/colorLogoPNG_1762795921468.png",
-        "url": "https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Popeye",
         "id": "popeye",
         "logo": "https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png",
@@ -980,50 +340,10 @@
         "country": ""
     },
     {
-        "name": "Sony One Shark Tank México",
-        "id": "sonyonesharktankmxico",
-        "logo": "https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png",
-        "url": "https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Shockwave",
-        "id": "shockwave",
-        "logo": "https://images.pluto.tv/channels/68b784d03e17b7676a0378f7/colorLogoPNG_1760108955019.png",
-        "url": "https://jmp2.uk/plu-68b784d03e17b7676a0378f7.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "ADN Noticias",
         "id": "adnnoticias",
         "logo": "https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG_1761233566409.png",
         "url": "https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Claro Sports Mexico",
-        "id": "clarosportsmexico",
-        "logo": "https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG_1770389965710.png",
-        "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bromas Gags - Just for Laughs",
-        "id": "bromasgagsjustforlaughs",
-        "logo": "https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -1050,16 +370,6 @@
         "country": ""
     },
     {
-        "name": "Pluto TV Estilo de Vida",
-        "id": "plutotvestilodevida",
-        "logo": "https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png",
-        "url": "https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Dulce by elGourmet",
         "id": "dulcebyelgourmet",
         "logo": "https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG_1756447016242.png",
@@ -1070,30 +380,10 @@
         "country": ""
     },
     {
-        "name": "Plato del Dia by elGourmet",
-        "id": "platodeldiabyelgourmet",
-        "logo": "https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG_1756396393218.png",
-        "url": "https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Hey Arnold!",
         "id": "heyarnold",
         "logo": "https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Avatar: La Leyenda de Aang",
-        "id": "avatarlaleyendadeaang",
-        "logo": "https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -1170,16 +460,6 @@
         "country": ""
     },
     {
-        "name": "Azteca Deportes Network",
-        "id": "aztecadeportesnetwork",
-        "logo": "https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Tastemade Viajes",
         "id": "tastemadeviajes",
         "logo": "https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png",
@@ -1190,60 +470,10 @@
         "country": ""
     },
     {
-        "name": "Concert Channel",
-        "id": "concertchannel",
-        "logo": "https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png",
-        "url": "https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Diane femme flic",
-        "id": "dianefemmeflic",
-        "logo": "https://images.pluto.tv/channels/6671b26836a2f90008d9333c/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6671b26836a2f90008d9333c.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Pluto TV 2010's Classics",
         "id": "plutotv2010sclassics",
         "logo": "https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV 90's Classics",
-        "id": "plutotv90sclassics",
-        "logo": "https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Tout le monde déteste Chris",
-        "id": "toutlemondedtestechris",
-        "logo": "https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png",
-        "url": "https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Nina",
-        "id": "nina",
-        "logo": "https://images.pluto.tv/channels/692ec6d82329c10c5166f436/colorLogoPNG_1771598181775.png",
-        "url": "https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -1270,40 +500,10 @@
         "country": ""
     },
     {
-        "name": "Ciné Sci-Fi by Pluto TV",
-        "id": "cinscifibyplutotv",
-        "logo": "https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Ciné Horreur by Pluto TV",
-        "id": "cinhorreurbyplutotv",
-        "logo": "https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png",
-        "url": "https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Ciné au féminin by Pluto TV",
         "id": "cinaufmininbyplutotv",
         "logo": "https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1772442347546.png",
         "url": "https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Ciné Rétro by Pluto TV",
-        "id": "cinrtrobyplutotv",
-        "logo": "https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png",
-        "url": "https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -1320,50 +520,10 @@
         "country": ""
     },
     {
-        "name": "True Crime by Pluto TV",
-        "id": "truecrimebyplutotv",
-        "logo": "https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pêche à haut risque",
-        "id": "pchehautrisque",
-        "logo": "https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Les Schtroumpfs",
         "id": "lesschtroumpfs",
         "logo": "https://images.pluto.tv/channels/68b16d2282862c1f067dc763/colorLogoPNG_1760383270761.png",
         "url": "https://jmp2.uk/plu-68b16d2282862c1f067dc763.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Mattel Junior",
-        "id": "matteljunior",
-        "logo": "https://images.pluto.tv/channels/686e74b0e48af72bc266e798/colorLogoPNG_1765806081318.png",
-        "url": "https://jmp2.uk/plu-686e74b0e48af72bc266e798.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The Musketeers",
-        "id": "themusketeers",
-        "logo": "https://images.pluto.tv/channels/64fee60130ab3300084d9157/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-64fee60130ab3300084d9157.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -1380,50 +540,10 @@
         "country": ""
     },
     {
-        "name": "Le sorelle McLeod",
-        "id": "lesorellemcleod",
-        "logo": "https://images.pluto.tv/channels/60a2837f8154ab0007c4dcdf/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Pluto TV Notti di Passione",
         "id": "plutotvnottidipassione",
         "logo": "https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png",
         "url": "https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Notti di Crimine",
-        "id": "plutotvnottidicrimine",
-        "logo": "https://images.pluto.tv/channels/6911c9b88caba6f046c5ca8f/colorLogoPNG_1766041133171.png",
-        "url": "https://jmp2.uk/plu-6911c9b88caba6f046c5ca8f.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Mai dire sì",
-        "id": "maidires",
-        "logo": "https://images.pluto.tv/channels/6349279ed5023700078f2bc2/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6349279ed5023700078f2bc2.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Flashpoint",
-        "id": "flashpoint",
-        "logo": "https://images.pluto.tv/channels/66d7120815d2c60008cec006/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66d7120815d2c60008cec006.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -1450,16 +570,6 @@
         "country": ""
     },
     {
-        "name": "Pluto TV Alberto Sordi",
-        "id": "plutotvalbertosordi",
-        "logo": "https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Pluto TV Film Storici",
         "id": "plutotvfilmstorici",
         "logo": "https://images.pluto.tv/channels/68750875759366af05a151ce/colorLogoPNG_1756144116606.png",
@@ -1480,80 +590,10 @@
         "country": ""
     },
     {
-        "name": "Pluto TV Serie Sci-Fi",
-        "id": "plutotvseriescifi",
-        "logo": "https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png",
-        "url": "https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Scherzi e risate",
-        "id": "plutotvscherzierisate",
-        "logo": "https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Super! Cartoni Animati",
-        "id": "supercartonianimati",
-        "logo": "https://images.pluto.tv/channels/6093f6f8351eb0000754afb8/colorLogoPNG_1749626196712.png",
-        "url": "https://jmp2.uk/plu-6093f6f8351eb0000754afb8.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Gormiti",
-        "id": "gormiti",
-        "logo": "https://images.pluto.tv/channels/66a8c64814a2bb00084d09d6/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66a8c64814a2bb00084d09d6.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Winx Club",
-        "id": "winxclub",
-        "logo": "https://images.pluto.tv/channels/67851bd7d648bf0008c00bc2/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-67851bd7d648bf0008c00bc2.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Viaggi",
-        "id": "plutotvviaggi",
-        "logo": "https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Pluto TV Storia",
         "id": "plutotvstoria",
         "logo": "https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Dr. Quinn Medicine Woman",
-        "id": "drquinnmedicinewoman",
-        "logo": "https://images.pluto.tv/channels/68f0f7571d26140175255e43/colorLogoPNG_1762768410794.png",
-        "url": "https://jmp2.uk/plu-68f0f7571d26140175255e43.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -1590,76 +630,6 @@
         "country": ""
     },
     {
-        "name": "Luksusfellen",
-        "id": "luksusfellen",
-        "logo": "https://images.pluto.tv/channels/61c1e060197fe600073c1ffb/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c1e060197fe600073c1ffb.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "South Park Armageddon",
-        "id": "southparkarmageddon",
-        "logo": "https://images.pluto.tv/channels/660bff5724e1d000085b7c07/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "South Park Halloween",
-        "id": "southparkhalloween",
-        "logo": "https://images.pluto.tv/channels/6501c7ea9201e80008bb17b9/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6501c7ea9201e80008bb17b9.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Sport",
-        "id": "plutotvsport",
-        "logo": "https://images.pluto.tv/channels/6357f33cb51d2d00077927c6/colorLogoPNG_1746816938002.png",
-        "url": "https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Jakt är Jakt",
-        "id": "jaktrjakt",
-        "logo": "https://images.pluto.tv/channels/62e7ba25be69bc0007b77fdc/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-62e7ba25be69bc0007b77fdc.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pixel.tv",
-        "id": "pixeltv",
-        "logo": "https://images.pluto.tv/channels/66bb374ba4ee27000841a62c/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Star Trek Movies",
-        "id": "startrekmovies",
-        "logo": "https://images.pluto.tv/channels/6400c228498393000878a9b7/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Pluto TV Bud & Terence",
         "id": "plutotvbudterence",
         "logo": "https://images.pluto.tv/channels/65b916ec3af63d00084c5841/colorLogoPNG.png",
@@ -1670,110 +640,10 @@
         "country": ""
     },
     {
-        "name": "NonStop Kung Fu",
-        "id": "nonstopkungfu",
-        "logo": "https://images.pluto.tv/channels/6728d30cdaad7f000881d979/colorLogoPNG_1732097480344.png",
-        "url": "https://jmp2.uk/plu-6728d30cdaad7f000881d979.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Komedie",
-        "id": "plutotvkomedie",
-        "logo": "https://images.pluto.tv/channels/61c1e3a679a4390007c78136/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Romantikk",
-        "id": "plutotvromantikk",
-        "logo": "https://images.pluto.tv/channels/63a19bb5e6914b000721b5c0/colorLogoPNG_1767773376618.png",
-        "url": "https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Unga Mammor",
         "id": "ungamammor",
         "logo": "https://images.pluto.tv/channels/61c1e1c445b45d0007aad03e/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Jersey Shore Family Vacation",
-        "id": "jerseyshorefamilyvacation",
-        "logo": "https://images.pluto.tv/channels/6728c87cc7626f0008b28149/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6728c87cc7626f0008b28149.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Tareq Taylor's Nordic Cookery",
-        "id": "tareqtaylorsnordiccookery",
-        "logo": "https://images.pluto.tv/channels/63c95451d3485c0007734f55/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-63c95451d3485c0007734f55.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Wild West",
-        "id": "plutotvwildwest",
-        "logo": "https://images.pluto.tv/channels/68c01785b3900870ec7480e4/colorLogoPNG_1761916453250.png",
-        "url": "https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Beauty and the Beast",
-        "id": "beautyandthebeast",
-        "logo": "https://images.pluto.tv/channels/6512d36ca765070008836eac/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6512d36ca765070008836eac.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Overnaturlig",
-        "id": "plutotvovernaturlig",
-        "logo": "https://images.pluto.tv/channels/61c1e74354d923000731bf7c/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The Daily Show",
-        "id": "thedailyshow",
-        "logo": "https://images.pluto.tv/channels/65c0973311ced7000808d255/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Crime Scene Solvers",
-        "id": "crimescenesolvers",
-        "logo": "https://images.pluto.tv/channels/6426900ea3ade70008ffcb20/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6426900ea3ade70008ffcb20.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -1810,16 +680,6 @@
         "country": ""
     },
     {
-        "name": "Man with a Plan",
-        "id": "manwithaplan",
-        "logo": "https://images.pluto.tv/channels/6825eeeeb19ce6d4a34ebb2a/colorLogoPNG_1747316618902.png",
-        "url": "https://jmp2.uk/plu-6825eeeeb19ce6d4a34ebb2a.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Everybody Hates Chris",
         "id": "everybodyhateschris",
         "logo": "https://images.pluto.tv/channels/697b5be36dc3c71eb14d728a/colorLogoPNG_1769692239258.png",
@@ -1830,60 +690,10 @@
         "country": ""
     },
     {
-        "name": "Paradise Hotel",
-        "id": "paradisehotel",
-        "logo": "https://images.pluto.tv/channels/61c18e1e0cd4cc00076bc4b3/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Best of Paradise Hotel: Finalveckan",
-        "id": "bestofparadisehotelfinalveckan",
-        "logo": "https://images.pluto.tv/channels/65e97d41f7f0af0008da2543/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65e97d41f7f0af0008da2543.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Best of Paradise Hotel: Pandoras Ask",
-        "id": "bestofparadisehotelpandorasask",
-        "logo": "https://images.pluto.tv/channels/65e97d760d456100082da660/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65e97d760d456100082da660.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "The Nanny",
         "id": "thenanny",
         "logo": "https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-6391df52d146a40007c265f3.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "South Park Rockin' Out",
-        "id": "southparkrockinout",
-        "logo": "https://images.pluto.tv/channels/664f13aff9992200084a3532/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "South Park: Holiday Collection",
-        "id": "southparkholidaycollection",
-        "logo": "https://images.pluto.tv/channels/66fcee79565d3a00088ac033/colorLogoPNG_1732002389202.png",
-        "url": "https://jmp2.uk/plu-66fcee79565d3a00088ac033.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -1910,60 +720,10 @@
         "country": ""
     },
     {
-        "name": "Pluto TV John Wayne",
-        "id": "plutotvjohnwayne",
-        "logo": "https://images.pluto.tv/channels/655caaaac0fc8800086f5d99/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Komedi",
-        "id": "plutotvkomedi",
-        "logo": "https://images.pluto.tv/channels/61c0b36d18447e000717d686/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Viafree Movies",
-        "id": "viafreemovies",
-        "logo": "https://images.pluto.tv/channels/62f64ec9eb1045000728cad6/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Britain's Next Top Model",
-        "id": "britainsnexttopmodel",
-        "logo": "https://images.pluto.tv/channels/67a09e5921af38000808900a/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-67a09e5921af38000808900a.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Camp Kulinaris",
         "id": "campkulinaris",
         "logo": "https://images.pluto.tv/channels/6400bf66dff38e00083f4ee8/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Trucking Hell",
-        "id": "truckinghell",
-        "logo": "https://images.pluto.tv/channels/64e771cc28cec7000889ce39/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-64e771cc28cec7000889ce39.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -1990,30 +750,10 @@
         "country": ""
     },
     {
-        "name": "True crime från Viaplay",
-        "id": "truecrimefrnviaplay",
-        "logo": "https://images.pluto.tv/channels/645cb7857cb4b1000859c57c/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Chappelle's Show",
         "id": "chappellesshow",
         "logo": "https://images.pluto.tv/channels/65e9783b0d456100082d9e05/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-65e9783b0d456100082d9e05.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Skål",
-        "id": "skl",
-        "logo": "https://images.pluto.tv/channels/64188b8483f58900083bc954/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-64188b8483f58900083bc954.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -2030,30 +770,10 @@
         "country": ""
     },
     {
-        "name": "Forsidefruer",
-        "id": "forsidefruer",
-        "logo": "https://images.pluto.tv/channels/61c19dcefbb4b50007d242e1/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Paradise",
         "id": "paradise",
         "logo": "https://images.pluto.tv/channels/629e095e511d4b00070c9f44/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Luksusfælden",
-        "id": "luksusflden",
-        "logo": "https://images.pluto.tv/channels/61c19b7785706b00072d421a/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c19b7785706b00072d421a.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -2080,80 +800,10 @@
         "country": ""
     },
     {
-        "name": "Den gode gerning",
-        "id": "dengodegerning",
-        "logo": "https://images.pluto.tv/channels/689a0ab0f4af1aaca24530ae/colorLogoPNG-1757332399265.png",
-        "url": "https://jmp2.uk/plu-689a0ab0f4af1aaca24530ae.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "For lækker til love",
-        "id": "forlkkertillove",
-        "logo": "https://images.pluto.tv/channels/6272511cb389bb0007b30b09/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Mit plastikmareridt",
         "id": "mitplastikmareridt",
         "logo": "https://images.pluto.tv/channels/643814ef479f6400086ff043/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-643814ef479f6400086ff043.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Top Gear Classics",
-        "id": "topgearclassics",
-        "logo": "https://images.pluto.tv/channels/660d6360c8311c0008b8a7c6/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-660d6360c8311c0008b8a7c6.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "3point.dk",
-        "id": "3pointdk",
-        "logo": "https://images.pluto.tv/channels/65b915780cb1a1000889b837/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65b915780cb1a1000889b837.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kvart i Bold",
-        "id": "kvartibold",
-        "logo": "https://images.pluto.tv/channels/657c0954dfed030008d82ea1/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-657c0954dfed030008d82ea1.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DFB Play TV",
-        "id": "dfbplaytv",
-        "logo": "https://images.pluto.tv/channels/66461eb33d173b000805ecd3/colorLogoPNG_1769414804838.png",
-        "url": "https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NCIS: Det bedste med Tony & Ziva",
-        "id": "ncisdetbedstemedtonyziva",
-        "logo": "https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png",
-        "url": "https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8",
         "categories": [
             "plutotv-all"
         ],
@@ -2170,76 +820,6 @@
         "country": ""
     },
     {
-        "name": "Pluto TV Kultfilm",
-        "id": "plutotvkultfilm",
-        "logo": "https://images.pluto.tv/channels/63dbe7ed51f5d000083e9499/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pluto TV Harlequin",
-        "id": "plutotvharlequin",
-        "logo": "https://images.pluto.tv/channels/68c01afa3efb41cd9759dafb/colorLogoPNG_1770018342774.png",
-        "url": "https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Dallas Cowboys Cheerleaders",
-        "id": "dallascowboyscheerleaders",
-        "logo": "https://images.pluto.tv/channels/64e87c6b28cec700088ceb55/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Celeb Reality",
-        "id": "celebreality",
-        "logo": "https://images.pluto.tv/channels/65788076b228b7000843fc9a/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65788076b228b7000843fc9a.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Best of MTV",
-        "id": "bestofmtv",
-        "logo": "https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png",
-        "url": "https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Ridiculousness - Nye afsnit",
-        "id": "ridiculousnessnyeafsnit",
-        "logo": "https://images.pluto.tv/channels/68dfa160cc3c6cd90404d798/colorLogoPNG_1762543256959.png",
-        "url": "https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The Hills",
-        "id": "thehills",
-        "logo": "https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8",
-        "categories": [
-            "plutotv-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "MasterChef Danmarks største madtalenter",
         "id": "masterchefdanmarksstrstemadtalenter",
         "logo": "https://images.pluto.tv/channels/61c19edbf535220007075c4e/colorLogoPNG.png",
@@ -2250,40 +830,980 @@
         "country": ""
     },
     {
-        "name": "Skønne ombygninger",
-        "id": "sknneombygninger",
-        "logo": "https://images.pluto.tv/channels/61c19d329b8260000744331b/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8",
+        "name": "BET Comedy Movies",
+        "id": "betcomedymovies",
+        "logo": "https://images.pluto.tv/channels/68c32d88f56983aba40052bd/colorLogoPNG_1759246622596.png",
+        "url": "https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8",
         "categories": [
             "plutotv-all"
         ],
         "country": ""
     },
     {
-        "name": "Koch'en på toppen",
-        "id": "kochenptoppen",
-        "logo": "https://images.pluto.tv/channels/660d667519ca71000849a1e1/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8",
+        "name": "Tony Robbins Network",
+        "id": "tonyrobbinsnetwork",
+        "logo": "https://images.pluto.tv/channels/68757effdf333e336be1e49f/colorLogoPNG_1754963877109.png",
+        "url": "https://jmp2.uk/plu-68757effdf333e336be1e49f.m3u8",
         "categories": [
             "plutotv-all"
         ],
         "country": ""
     },
     {
-        "name": "Det sene show med Christian Fuhlendorff",
-        "id": "detseneshowmedchristianfuhlendorff",
-        "logo": "https://images.pluto.tv/channels/660d6bc10cd4630008f4a25a/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8",
+        "name": "Beyond the Gates",
+        "id": "beyondthegates",
+        "logo": "https://images.pluto.tv/channels/687ff00ff6bc08130f16ab81/colorLogoPNG_1755074273752.png",
+        "url": "https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8",
         "categories": [
             "plutotv-all"
         ],
         "country": ""
     },
     {
-        "name": "Smølferne",
-        "id": "smlferne",
-        "logo": "https://images.pluto.tv/channels/68adb066f7d7f0a9b9ff5d32/colorLogoPNG_1760363216935.png",
-        "url": "https://jmp2.uk/plu-68adb066f7d7f0a9b9ff5d32.m3u8",
+        "name": "Cine Crimen",
+        "id": "cinecrimen",
+        "logo": "https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/colorLogoPNG_1751915821493.png",
+        "url": "https://jmp2.uk/plu-686c1c873ffa5e0c91a85938.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "60 Days in Jail",
+        "id": "60daysinjail",
+        "logo": "https://images.pluto.tv/channels/68c8203efef6d8a2a6f13906/colorLogoPNG_1765385204159.png",
+        "url": "https://jmp2.uk/plu-68c8203efef6d8a2a6f13906.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Mona The Vampire",
+        "id": "monathevampire",
+        "logo": "https://images.pluto.tv/channels/694178a8026be6e9d3ea7d7a/colorLogoPNG_1767865545603.png",
+        "url": "https://jmp2.uk/plu-694178a8026be6e9d3ea7d7a.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Curzon",
+        "id": "curzon",
+        "logo": "https://images.pluto.tv/channels/68b5a7b69ac85c428f54c441/colorLogoPNG_1762359402221.png",
+        "url": "https://jmp2.uk/plu-68b5a7b69ac85c428f54c441.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV 80's Action",
+        "id": "plutotv80saction",
+        "logo": "https://images.pluto.tv/channels/66d717d2abec540008ba7ec4/colorLogoPNG_1731066705631.png",
+        "url": "https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Touched by an Angel",
+        "id": "touchedbyanangel",
+        "logo": "https://images.pluto.tv/channels/68504098f212bedacf63a7e1/colorLogoPNG_1752724700982.png",
+        "url": "https://jmp2.uk/plu-68504098f212bedacf63a7e1.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Fantasy & Horror",
+        "id": "plutotvfantasyhorror",
+        "logo": "https://images.pluto.tv/channels/685041d936c9361b1921c26c/colorLogoPNG_1753696741486.png",
+        "url": "https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Murdertown",
+        "id": "murdertown",
+        "logo": "https://images.pluto.tv/channels/69038c2ee0e0c5f8208c033a/colorLogoPNG_1764182053634.png",
+        "url": "https://jmp2.uk/plu-69038c2ee0e0c5f8208c033a.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV American True Crime",
+        "id": "plutotvamericantruecrime",
+        "logo": "https://images.pluto.tv/channels/692ebafce72f03e07e7df985/colorLogoPNG_1768902223754.png",
+        "url": "https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "The Real Housewives",
+        "id": "therealhousewives",
+        "logo": "https://images.pluto.tv/channels/677fb115a4af36ad50113e56/colorLogoPNG_1761690347032.png",
+        "url": "https://jmp2.uk/plu-677fb115a4af36ad50113e56.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Chaos on Cam",
+        "id": "chaosoncam",
+        "logo": "https://images.pluto.tv/channels/68c8202f5ec82769fdfcd0a2/colorLogoPNG_1765877993411.png",
+        "url": "https://jmp2.uk/plu-68c8202f5ec82769fdfcd0a2.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Top Gear: Celebrities",
+        "id": "topgearcelebrities",
+        "logo": "https://images.pluto.tv/channels/697a33faf5c44526a1271d55/colorLogoPNG_1770305660204.png",
+        "url": "https://jmp2.uk/plu-697a33faf5c44526a1271d55.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Los caballeros del Zodiaco",
+        "id": "loscaballerosdelzodiaco",
+        "logo": "https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/colorLogoPNG_1758616347633.png",
+        "url": "https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV British Comedy",
+        "id": "plutotvbritishcomedy",
+        "logo": "https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoPNG_1745597179027.png",
+        "url": "https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Star Trek: Animation",
+        "id": "plutotvstartrekanimation",
+        "logo": "https://images.pluto.tv/channels/69492467ae33e24d916e56cf/colorLogoPNG_1770896970638.png",
+        "url": "https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Snooker 900",
+        "id": "plutotvsnooker900",
+        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+        "url": "https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Heiße Nächte Retro",
+        "id": "plutotvheienchteretro",
+        "logo": "https://images.pluto.tv/channels/664f10c4f9992200084a2f47/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-664f10c4f9992200084a2f47.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Profiling Paris",
+        "id": "profilingparis",
+        "logo": "https://images.pluto.tv/channels/67d984c989788ef7f058b084/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nickelodeon Classics",
+        "id": "nickelodeonclassics",
+        "logo": "https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png",
+        "url": "https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CNNi",
+        "id": "cnni",
+        "logo": "https://images.pluto.tv/channels/66c45b1803e3b20008d8c200/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66c45b1803e3b20008d8c200.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Jornada nas Estrelas - Voyager",
+        "id": "jornadanasestrelasvoyager",
+        "logo": "https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png",
+        "url": "https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Os Smurfs",
+        "id": "ossmurfs",
+        "logo": "https://images.pluto.tv/channels/68b88ae1943f6fb1fb2ad749/colorLogoPNG_1762273919644.png",
+        "url": "https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Aliens",
+        "id": "plutotvaliens",
+        "logo": "https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png",
+        "url": "https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Times Brasil | CNBC",
+        "id": "timesbrasilcnbc",
+        "logo": "https://images.pluto.tv/channels/679a973a97782f0008ff4bb6/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PORTATV",
+        "id": "portatv",
+        "logo": "https://images.pluto.tv/channels/69440d0611f6c6384ab78306/colorLogoPNG_1769608175167.png",
+        "url": "https://jmp2.uk/plu-69440d0611f6c6384ab78306.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pegadinhas - Just for Laughs",
+        "id": "pegadinhasjustforlaughs",
+        "logo": "https://images.pluto.tv/channels/67802a22a5d8215f99dcee30/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-67802a22a5d8215f99dcee30.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Novelas de Otros Continentes",
+        "id": "plutotvnovelasdeotroscontinentes",
+        "logo": "https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png",
+        "url": "https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Amor y Mentiras",
+        "id": "plutotvamorymentiras",
+        "logo": "https://images.pluto.tv/channels/698a45156dc3c71eb1ba6599/colorLogoPNG_1771861302998.png",
+        "url": "https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Canal Claro",
+        "id": "canalclaro",
+        "logo": "https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png",
+        "url": "https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Tastemade Hogar",
+        "id": "tastemadehogar",
+        "logo": "https://images.pluto.tv/channels/68b887c2e77777498226a0de/colorLogoPNG_1759784264793.png",
+        "url": "https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TikTok Radio en Español",
+        "id": "tiktokradioenespaol",
+        "logo": "https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png",
+        "url": "https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Flynn Carson et The Outpost",
+        "id": "flynncarsonettheoutpost",
+        "logo": "https://images.pluto.tv/channels/68d292d554c61bfff220a635/colorLogoPNG_1761761926608.png",
+        "url": "https://jmp2.uk/plu-68d292d554c61bfff220a635.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Séries Girls Club by Pluto TV",
+        "id": "sriesgirlsclubbyplutotv",
+        "logo": "https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1772442205837.png",
+        "url": "https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Ciné Romance by Pluto TV: Regards de femmes",
+        "id": "cinromancebyplutotvregardsdefemmes",
+        "logo": "https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1772442286267.png",
+        "url": "https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Ciné Western by Pluto TV",
+        "id": "cinwesternbyplutotv",
+        "logo": "https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png",
+        "url": "https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Enquêtes Criminelles",
+        "id": "enqutescriminelles",
+        "logo": "https://images.pluto.tv/channels/66f55d0b5e4a6e0008c2b920/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66f55d0b5e4a6e0008c2b920.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Zone Interdite",
+        "id": "zoneinterdite",
+        "logo": "https://images.pluto.tv/channels/66f55cf2483d460008f68746/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Juste pour Rire GAGS",
+        "id": "justepourriregags",
+        "logo": "https://images.pluto.tv/channels/60afa1508284e60007163c08/colorLogoPNG_1746816067794.png",
+        "url": "https://jmp2.uk/plu-60afa1508284e60007163c08.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "The Intern",
+        "id": "theintern",
+        "logo": "https://images.pluto.tv/channels/69664afedcbf5c784492e422/colorLogoPNG_1772434734016.png",
+        "url": "https://jmp2.uk/plu-69664afedcbf5c784492e422.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Tandem",
+        "id": "tandem",
+        "logo": "https://images.pluto.tv/channels/66a8c8b3d2d50d000821fc4c/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66a8c8b3d2d50d000821fc4c.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Alice Nevers",
+        "id": "alicenevers",
+        "logo": "https://images.pluto.tv/channels/66d9aa4315d2c60008d4ac40/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66d9aa4315d2c60008d4ac40.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Shore",
+        "id": "plutotvshore",
+        "logo": "https://images.pluto.tv/channels/67e3b0d2443f0671bc8a1297/colorLogoPNG_1747721158520.png",
+        "url": "https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "16 Anni e Incinta",
+        "id": "16annieincinta",
+        "logo": "https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Notti di Terrore",
+        "id": "plutotvnottiditerrore",
+        "logo": "https://images.pluto.tv/channels/6911c8dd8caba6f046c5c5d5/colorLogoPNG_1766041208757.png",
+        "url": "https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sulle tracce del crimine",
+        "id": "sulletraccedelcrimine",
+        "logo": "https://images.pluto.tv/channels/66d9a98961dbf00008efb5fc/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66d9a98961dbf00008efb5fc.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Serie Crime",
+        "id": "plutotvseriecrime",
+        "logo": "https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG_1750402183051.png",
+        "url": "https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Christmas tutto l'anno",
+        "id": "plutotvchristmastuttolanno",
+        "logo": "https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1770018716998.png",
+        "url": "https://jmp2.uk/plu-612e05b885183d0007958101.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Dive Italiane",
+        "id": "plutotvdiveitaliane",
+        "logo": "https://images.pluto.tv/channels/6875080e3484d607323641f8/colorLogoPNG_1755261736890.png",
+        "url": "https://jmp2.uk/plu-6875080e3484d607323641f8.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Cinema Poliziottesco",
+        "id": "cinemapoliziottesco",
+        "logo": "https://images.pluto.tv/channels/671754d8e482950008962aaf/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Cinema Orientale",
+        "id": "plutotvcinemaorientale",
+        "logo": "https://images.pluto.tv/channels/6786235bd648bf0008c2780a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sanctuary",
+        "id": "sanctuary",
+        "logo": "https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Il Testimone",
+        "id": "iltestimone",
+        "logo": "https://images.pluto.tv/channels/61fbd3f0733df400076c9a2d/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "I Puffi",
+        "id": "ipuffi",
+        "logo": "https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/colorLogoPNG_1759447100016.png",
+        "url": "https://jmp2.uk/plu-68adb5853efb41cd97ce413d.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "America's Next Top Model",
+        "id": "americasnexttopmodel",
+        "logo": "https://images.pluto.tv/channels/6464cd7c7cb4b100086c71c9/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6464cd7c7cb4b100086c71c9.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "7th Heaven",
+        "id": "7thheaven",
+        "logo": "https://images.pluto.tv/channels/6728ca75529ac9000830ab14/colorLogoPNG_1733013720652.png",
+        "url": "https://jmp2.uk/plu-6728ca75529ac9000830ab14.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Numb3rs",
+        "id": "numb3rs",
+        "logo": "https://images.pluto.tv/channels/63dbe78051f5d000083e9249/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hoarders & Dirty Home Rescue",
+        "id": "hoardersdirtyhomerescue",
+        "logo": "https://images.pluto.tv/channels/64e7708a44fe100009c89007/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-64e7708a44fe100009c89007.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Skjønnhetsfellen Danmark",
+        "id": "skjnnhetsfellendanmark",
+        "logo": "https://images.pluto.tv/channels/643810f2e8a4aa0008ccf575/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hundehviskeren",
+        "id": "hundehviskeren",
+        "logo": "https://images.pluto.tv/channels/6501ad3a98020f0008503dba/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6501ad3a98020f0008503dba.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Ridiculousness - Nye episoder",
+        "id": "ridiculousnessnyeepisoder",
+        "logo": "https://images.pluto.tv/channels/68dfa1a7fae18f8db6218222/colorLogoPNG_1762510989212.png",
+        "url": "https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Broad City",
+        "id": "broadcity",
+        "logo": "https://images.pluto.tv/channels/65cba778ec452d0008acbe86/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65cba778ec452d0008acbe86.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Best of Paradise Hotel: Kyssar & kärlek",
+        "id": "bestofparadisehotelkyssarkrlek",
+        "logo": "https://images.pluto.tv/channels/65b1077e0d9ab40008245b20/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65b1077e0d9ab40008245b20.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Frusna Vägar",
+        "id": "frusnavgar",
+        "logo": "https://images.pluto.tv/channels/61c19099bf8c520007a93cff/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Handboll Highlights",
+        "id": "plutotvhandbollhighlights",
+        "logo": "https://images.pluto.tv/channels/68dfa3e2cc3c6cd904052c41/colorLogoPNG_1761838923264.png",
+        "url": "https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Lyxfällan Danmark",
+        "id": "lyxfllandanmark",
+        "logo": "https://images.pluto.tv/channels/61c19165decece0007e9b2f3/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Jade Fever",
+        "id": "jadefever",
+        "logo": "https://images.pluto.tv/channels/660d6b3caec9680008f8debe/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-660d6b3caec9680008f8debe.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Casualty 24/7",
+        "id": "casualty247",
+        "logo": "https://images.pluto.tv/channels/64e771819c1e39000848df0c/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-64e771819c1e39000848df0c.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Mannen som talar med hundar",
+        "id": "mannensomtalarmedhundar",
+        "logo": "https://images.pluto.tv/channels/6501ae4998020f00085040ed/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6501ae4998020f00085040ed.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Ridiculousness - Nya avsnitt",
+        "id": "ridiculousnessnyaavsnitt",
+        "logo": "https://images.pluto.tv/channels/68dfa1e7fae18f8db6218703/colorLogoPNG_1762543429004.png",
+        "url": "https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Ex On The Beach",
+        "id": "exonthebeach",
+        "logo": "https://images.pluto.tv/channels/61c09072a09bbe00078f5692/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Buying Blind Denmark",
+        "id": "buyingblinddenmark",
+        "logo": "https://images.pluto.tv/channels/63c6a7544faf1c0007b496d7/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SvampBob Fyrkant",
+        "id": "svampbobfyrkant",
+        "logo": "https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Smurfarna",
+        "id": "smurfarna",
+        "logo": "https://images.pluto.tv/channels/68adb11bf84960586ad4aae4/colorLogoPNG_1760363370184.png",
+        "url": "https://jmp2.uk/plu-68adb11bf84960586ad4aae4.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Tecknat",
+        "id": "plutotvtecknat",
+        "logo": "https://images.pluto.tv/channels/61c0b6f028e94c000782684a/colorLogoPNG_1749627909756.png",
+        "url": "https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Reno 911",
+        "id": "reno911",
+        "logo": "https://images.pluto.tv/channels/65e9781a2873090008b48d8a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Key & Peele",
+        "id": "keypeele",
+        "logo": "https://images.pluto.tv/channels/65cba798d77d450008d056e5/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65cba798d77d450008d056e5.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "The Nanny & Mr Sheffield - A Fine Romance",
+        "id": "thenannymrsheffieldafineromance",
+        "logo": "https://images.pluto.tv/channels/686d01ad94a028da3aaca6b3/colorLogoPNG_1759145085675.png",
+        "url": "https://jmp2.uk/plu-686d01ad94a028da3aaca6b3.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "De unge mødre",
+        "id": "deungemdre",
+        "logo": "https://images.pluto.tv/channels/69172a4fcf4a1101befdd894/colorLogoPNG_1770030924752.png",
+        "url": "https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Robinson Ekspeditionen",
+        "id": "robinsonekspeditionen",
+        "logo": "https://images.pluto.tv/channels/63a42df60cc44a0007dd47f8/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Den gule sofa med Allan Sindberg",
+        "id": "dengulesofamedallansindberg",
+        "logo": "https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "På Tur",
+        "id": "ptur",
+        "logo": "https://images.pluto.tv/channels/65649791954b020008d09565/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65649791954b020008d09565.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Reality Awards",
+        "id": "realityawards",
+        "logo": "https://images.pluto.tv/channels/692ec3a76f84242a60f75f59/colorLogoPNG_1766133823688.png",
+        "url": "https://jmp2.uk/plu-692ec3a76f84242a60f75f59.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Robert Prisen",
+        "id": "robertprisen",
+        "logo": "https://images.pluto.tv/channels/692ec3f475169f09b5c0a8b3/colorLogoPNG_1766052484579.png",
+        "url": "https://jmp2.uk/plu-692ec3f475169f09b5c0a8b3.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PodRadio på Pluto TV",
+        "id": "podradiopplutotv",
+        "logo": "https://images.pluto.tv/channels/67f79fdb3481170e68c0bc38/colorLogoPNG_1748943874109.png",
+        "url": "https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Retake E-sport Live",
+        "id": "retakeesportlive",
+        "logo": "https://images.pluto.tv/channels/66fd1338ec9d6d00081e0443/colorLogoPNG_1730999680019.png",
+        "url": "https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BET25 Live+",
+        "id": "bet25live",
+        "logo": "https://images.pluto.tv/channels/675c0762f433320008707f68/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-675c0762f433320008707f68.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Håndbold Highlights",
+        "id": "plutotvhndboldhighlights",
+        "logo": "https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png",
+        "url": "https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Mediano TV",
+        "id": "medianotv",
+        "logo": "https://images.pluto.tv/channels/66952e1ed512590008867b5a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66952e1ed512590008867b5a.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NCIS: Los Angeles",
+        "id": "ncislosangeles",
+        "logo": "https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NCIS: Det bedste med Gibbs",
+        "id": "ncisdetbedstemedgibbs",
+        "logo": "https://images.pluto.tv/channels/6901d952ec12c3c759fdc7cd/colorLogoPNG_1763121346503.png",
+        "url": "https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Med kniven for struben",
+        "id": "medknivenforstruben",
+        "logo": "https://images.pluto.tv/channels/63e3b33e8795f300087e6a46/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Ungdomsserier",
+        "id": "plutotvungdomsserier",
+        "logo": "https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png",
+        "url": "https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Juniorklubben",
+        "id": "plutotvjuniorklubben",
+        "logo": "https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png",
+        "url": "https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Tegnefilm",
+        "id": "plutotvtegnefilm",
+        "logo": "https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png",
+        "url": "https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8",
+        "categories": [
+            "plutotv-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sams Bar",
+        "id": "samsbar",
+        "logo": "https://images.pluto.tv/channels/63e3b2cba99571000887a6ce/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63e3b2cba99571000887a6ce.m3u8",
         "categories": [
             "plutotv-all"
         ],

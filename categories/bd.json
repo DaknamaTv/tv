@@ -1700,26 +1700,6 @@
         "country": ""
     },
     {
-        "name": "HUB-SPORTS",
-        "id": "hubsports",
-        "logo": "",
-        "url": "https://mysouq1.com/live/76631957/10205687/675823.ts",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Willow",
-        "id": "willow",
-        "logo": "",
-        "url": "https://mysouq1.com/live/76631957/10205687/675819.ts",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "DBC",
         "id": "dbc",
         "logo": "",
@@ -1734,16 +1714,6 @@
         "id": "gazitv",
         "logo": "",
         "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PTV-SPORTS",
-        "id": "ptvsports",
-        "logo": "",
-        "url": "https://mysouq1.com/live/76631957/10205687/676664.ts",
         "categories": [
             "bd"
         ],
@@ -1910,16 +1880,6 @@
         "country": ""
     },
     {
-        "name": "zee bangla",
-        "id": "zeebangla",
-        "logo": "https://tvassets.roarzone.info/images/34.png",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla/index.m3u8?token=18507ab64ff0bb83d07b6d4901f7734f49ea301b-ae65a9883146ccc56a9a40c51cbcd331-1771958651-1771955051",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "zee bangla cinema",
         "id": "zeebanglacinema",
         "logo": "https://tvassets.roarzone.info/images/29.png",
@@ -1984,16 +1944,6 @@
         "id": "anandatv",
         "logo": "https://tvassets.roarzone.info/images/16.png",
         "url": "https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8?token=168a78dcafcc5206656f52197be8fac571cf4f24-3246ec73ece160cd1c291e65f70e728e-1771958651-1771955051",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "bangla tv",
-        "id": "banglatv",
-        "logo": "https://tvassets.roarzone.info/images/19.png",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8?token=09c107a1fa64254d367a6a5665aa0f4aa8a59efa-5907c263eeb4b6d3611f751710f5a850-1771958651-1771955051",
         "categories": [
             "bd"
         ],
@@ -2320,16 +2270,6 @@
         "country": ""
     },
     {
-        "name": "channel s",
-        "id": "channels",
-        "logo": "https://tvassets.roarzone.info/images/channel-s.png",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8?token=4c86e315d8b4837c3b1eb9671c56533bbcd51ae3-bf57dac367791f8182e0ca6f43c594d1-1772713231-1772709631",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "asian tv",
         "id": "asiantv",
         "logo": "https://tvassets.roarzone.info/images/62.png",
@@ -2400,16 +2340,6 @@
         "country": ""
     },
     {
-        "name": "Dhoom Music",
-        "id": "dhoommusic",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Star Ustsab Movies",
         "id": "starustsabmovies",
         "logo": "",
@@ -2430,40 +2360,10 @@
         "country": ""
     },
     {
-        "name": "ekattor tv",
-        "id": "ekattortv",
-        "logo": "https://tvassets.roarzone.info/images/11.png",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/ekattor-tv/index.m3u8?token=99073de16cc3e961a7e4ad65fbcc993b908fcaf1-d70d06cbf8d3fac534f10e08f0cb1185-1772841469-1772837869",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Madani Tv",
         "id": "madanitv",
         "logo": "",
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "STAR SL 1",
-        "id": "starsl1",
-        "logo": "",
-        "url": "http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "STAR SL 2 HD",
-        "id": "starsl2hd",
-        "logo": "",
-        "url": "http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8",
         "categories": [
             "bd"
         ],
@@ -2494,6 +2394,46 @@
         "id": "tnssports2",
         "logo": "",
         "url": "https://7pal.short.gy/tntspts2",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ASTRO SPORTS PLUS",
+        "id": "astrosportsplus",
+        "logo": "",
+        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BTV News",
+        "id": "btvnews",
+        "logo": "",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Channel-16",
+        "id": "channel16",
+        "logo": "",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARY Digital",
+        "id": "arydigital",
+        "logo": "",
+        "url": "https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v1a1/mono.ts.m3u8",
         "categories": [
             "bd"
         ],

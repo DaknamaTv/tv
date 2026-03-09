@@ -30,6 +30,16 @@
         "country": "CM"
     },
     {
+        "name": "TR24 Television",
+        "id": "TR24Television.cm",
+        "logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
+        "url": "https://stream.it-innov.com/tr24/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CM"
+    },
+    {
         "name": "KC2",
         "id": "KC2.rw",
         "logo": "https://i.imgur.com/PsYPzNc.png",
@@ -181,6 +191,16 @@
         "country": "NI"
     },
     {
+        "name": "TV Vitoria",
+        "id": "TVVitoria.mz",
+        "logo": "https://i.imgur.com/HlWzzfj.png",
+        "url": "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "MZ"
+    },
+    {
         "name": "Balkan Radio Salzburg",
         "id": "BalkanRadioSalzburg.at",
         "logo": "https://i.imgur.com/UDyxgXf.png",
@@ -219,6 +239,18 @@
             "entertainment"
         ],
         "country": "LU"
+    },
+    {
+        "name": "Manas TV",
+        "id": "ManasTV.kg",
+        "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
+        "url": "http://212.42.111.152:8080/hls/manas.m3u8",
+        "categories": [
+            "education",
+            "culture",
+            "entertainment"
+        ],
+        "country": "KG"
     },
     {
         "name": "Lanet.TV",
@@ -1098,147 +1130,6 @@
         "country": "IN"
     },
     {
-        "name": "Adithya TV",
-        "id": "AdithyaTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z1V12.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0zk/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Asianet Plus",
-        "id": "AsianetPlus.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0z4/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Marathi",
-        "id": "SonyMarathi.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0u5/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Kiran",
-        "id": "StarKiran.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0ph/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Maa",
-        "id": "StarMaa.in",
-        "logo": "https://dtil.tmsimg.com/assets/s179620_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0pb/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Pravah",
-        "id": "StarPravah.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143834_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0rq/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Suvarna",
-        "id": "StarSuvarna.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143853_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0zd/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sun Life",
-        "id": "SunLife.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z1JE4.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0z3/index.m3u8",
-        "categories": [
-            "entertainment",
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Udaya TV",
-        "id": "UdayaTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s145430_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0xv/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Zee Kannada",
-        "id": "ZeeKannada.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S209.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0ze/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Zee Marathi",
-        "id": "ZeeMarathi.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233VCK.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0rt/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Zee Telugu",
-        "id": "ZeeTelugu.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S99J.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0tn/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Zee Yuva",
-        "id": "ZeeYuva.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S9FG.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0yt/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Asianet",
-        "id": "Asianet.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142673_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0pf/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Dabangg",
         "id": "Dabangg.in",
         "logo": "https://i.imgur.com/6ChpxLy.png",
@@ -1269,31 +1160,10 @@
         "country": "IN"
     },
     {
-        "name": "Jaya Max",
-        "id": "JayaMax.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0wk/index.m3u8",
-        "categories": [
-            "culture",
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Marutam TV",
         "id": "MarutamTV.in",
         "logo": "https://i.imgur.com/cFNw4Af.png",
         "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "MTV",
-        "id": "MTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0r4/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1391,30 +1261,10 @@
         "country": "IN"
     },
     {
-        "name": "Star Vijay",
-        "id": "StarVijay.in",
-        "logo": "https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a11b/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sun Bangla",
         "id": "SunBangla.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0506.png?lock=720x540",
         "url": "http://103.161.153.165:8000/play/a03k/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Zee Tamil",
-        "id": "ZeeTamil.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0xw/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1435,6 +1285,288 @@
         "id": "ZeeBangla.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540",
         "url": "http://103.161.153.165:8000/play/zeebnhd/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Adithya TV",
+        "id": "AdithyaTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z1V12.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0571/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Asianet",
+        "id": "Asianet.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142673_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0474/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Asianet Plus",
+        "id": "AsianetPlus.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0475/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Dangal 2",
+        "id": "Dangal2.in",
+        "logo": "https://i.imgur.com/BEr1r7L.png",
+        "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Jaya Max",
+        "id": "JayaMax.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0313/master.m3u8",
+        "categories": [
+            "culture",
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "MTV",
+        "id": "MTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0397/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Nazara",
+        "id": "Nazara.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158303_ld_h15_aa.png?lock=720x540",
+        "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Marathi",
+        "id": "SonyMarathi.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0382/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Pal",
+        "id": "SonyPal.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0383/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Maa",
+        "id": "StarMaa.in",
+        "logo": "https://dtil.tmsimg.com/assets/s179620_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0478/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Pravah",
+        "id": "StarPravah.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143834_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0466/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Suvarna",
+        "id": "StarSuvarna.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143853_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0483/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Utsav",
+        "id": "StarUtsav.in",
+        "logo": "https://dtil.tmsimg.com/assets/s159132_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0310/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Vijay",
+        "id": "StarVijay.in",
+        "logo": "https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0469/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sun Life",
+        "id": "SunLife.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z1JE4.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0585/master.m3u8",
+        "categories": [
+            "entertainment",
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sun Marathi",
+        "id": "SunMarathi.in",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MARATHI_HD/images/LOGO_HD/image.png",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0577/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sun Neo",
+        "id": "SunNeo.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z06B5.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0581/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Surya TV",
+        "id": "SuryaTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s149281_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0566/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Udaya TV",
+        "id": "UdayaTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s145430_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0569/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Kannada",
+        "id": "ZeeKannada.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S209.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0514/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Keralam",
+        "id": "ZeeKeralam.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00239LE2.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0559/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Marathi",
+        "id": "ZeeMarathi.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233VCK.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0525/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Punjabi",
+        "id": "ZeePunjabi.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022JG14.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0560/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Sarthak",
+        "id": "ZeeSarthak.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00239YNG.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0555/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Tamil",
+        "id": "ZeeTamil.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0535/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Telugu",
+        "id": "ZeeTelugu.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S99J.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0537/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee TV",
+        "id": "ZeeTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Yuva",
+        "id": "ZeeYuva.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S9FG.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0510/master.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1612,6 +1744,16 @@
         "country": "HN"
     },
     {
+        "name": "TV Centro 27.2 HD",
+        "id": "TVCentro272HD.hn",
+        "logo": "https://i.imgur.com/Wo2scQf.jpg",
+        "url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "HN"
+    },
+    {
         "name": "Island Luck TV",
         "id": "IslandLuckTV.bs",
         "logo": "https://i.imgur.com/P0gDN5n.png",
@@ -1720,6 +1862,16 @@
         "id": "MaxivisionTV.gt",
         "logo": "https://i.imgur.com/UC8WrEN.jpg",
         "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "GT"
+    },
+    {
+        "name": "SAS TV",
+        "id": "SASTV.gt",
+        "logo": "https://i.imgur.com/VShjB3o.png",
+        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1906,6 +2058,36 @@
         "country": "DO"
     },
     {
+        "name": "Bellavision",
+        "id": "Bellavision.do",
+        "logo": "https://i.imgur.com/XqQ3kCs.png",
+        "url": "https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Super7FM",
+        "id": "Super7FM.do",
+        "logo": "https://i.imgur.com/TJEqwZo.png",
+        "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Yunavision",
+        "id": "Yunavision.do",
+        "logo": "https://i.imgur.com/YjceEv5.png",
+        "url": "https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Hispania TV",
         "id": "HispaniaTV.pa",
         "logo": "https://i.imgur.com/647WCF8.png",
@@ -1943,19 +2125,6 @@
         "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
         ],
         "country": "VN"
     },
@@ -2218,16 +2387,6 @@
         "id": "UltraCasanareTV.co",
         "logo": "https://i.imgur.com/1voWgLI.png",
         "url": "https://eu1.servers10.com:8081/8072/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Canal Nets",
-        "id": "CanalNets.co",
-        "logo": "https://i.imgur.com/edaAexc.png",
-        "url": "https://video.ejeserver.com/live/nets.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2803,6 +2962,26 @@
         "id": "TVGrandeNatal.br",
         "logo": "https://i.imgur.com/MTuErdw.png",
         "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Loading",
+        "id": "Loading.br",
+        "logo": "https://i.imgur.com/R0aflu1.png",
+        "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Curuca",
+        "id": "TVCuruca.br",
+        "logo": "https://i.imgur.com/JdCKNZ4.png",
+        "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3848,16 +4027,6 @@
         "id": "MaLive.nl",
         "logo": "https://i.imgur.com/0Vzg2OR.png",
         "url": "https://live.salto.nl/hls/malive_high.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "SBS6 Classics",
-        "id": "SBS6Classics.nl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
-        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
         "categories": [
             "entertainment"
         ],

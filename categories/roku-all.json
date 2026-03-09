@@ -10,26 +10,6 @@
         "country": ""
     },
     {
-        "name": "ÚNICA TV",
-        "id": "nicatv",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/427be38e736e5c6e92bd1cec086e941a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763491674042_LOGO_uNICATV-HUD-HORIZONTALefefef.png",
-        "url": "https://jmp2.uk/rok-427be38e736e5c6e92bd1cec086e941a.m3u8",
-        "categories": [
-            "roku-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "N+ Univision 24/7",
-        "id": "nunivision247",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5a28fbf15c135b51b3638e8bd02d6577/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1772737218229_NMasUnivision247_RokuHUD_260x147_White.png",
-        "url": "https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8",
-        "categories": [
-            "roku-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Tennis+",
         "id": "tennis",
         "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/c938a72f44eca56206b4b585ab01cad5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763502607268_MR-25-027Tennis_Plus_Roku_HUD_260x147px.png",
@@ -40,10 +20,100 @@
         "country": ""
     },
     {
-        "name": "Swerve Women’s Sports",
-        "id": "swervewomenssports",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/51dea927355343df5a6f26545d07adc8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1764599519489_Swerve_Womens_Sports_260x147_Info_HUD_Channel_Identifier.png",
-        "url": "https://jmp2.uk/rok-51dea927355343df5a6f26545d07adc8.m3u8",
+        "name": "Esports Edge",
+        "id": "esportsedge",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8f7350535325c7fad29cb140ef240ed7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748009508329_HUD-Logo-Centered.png",
+        "url": "https://jmp2.uk/rok-8f7350535325c7fad29cb140ef240ed7.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "For The Fans",
+        "id": "forthefans",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/e0970e3e4ea951689b1a15f64b091cb1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657584599992_Updated_260x147_CenterWhite_FTFSports.png",
+        "url": "https://jmp2.uk/rok-e0970e3e4ea951689b1a15f64b091cb1.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CHGO Sports",
+        "id": "chgosports",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/b238edf1869657abb47970bc9b7bfce1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1720447133788_Roku_HUD_CHGO.png",
+        "url": "https://jmp2.uk/rok-b238edf1869657abb47970bc9b7bfce1.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Lifetime Love & Drama",
+        "id": "lifetimelovedrama",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8d8befc9060e861eb1bdd5b21c0403b3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748881675113_LMLDHUD_logo_efefef_center_aligned_260x147.png",
+        "url": "https://jmp2.uk/rok-8d8befc9060e861eb1bdd5b21c0403b3.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "About K-Content by CJ ENM",
+        "id": "aboutkcontentbycjenm",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ed1ad60fa9a05f34bf5d4e8b09460d6b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1665780149983_INFO_HUD_72dpi_copy.png",
+        "url": "https://jmp2.uk/rok-ed1ad60fa9a05f34bf5d4e8b09460d6b.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sensical Gaming",
+        "id": "sensicalgaming",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ac7629367b3f5fae93753623469c440d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1667323738009_Sensical_Gaming_Logo_EFEFEF-CENTER.png",
+        "url": "https://jmp2.uk/rok-ac7629367b3f5fae93753623469c440d.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "This Old House Shorts",
+        "id": "thisoldhouseshorts",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ccfcc3307fa908684a95bf9643b1b935/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1754514295581_TOHShorts_InfoHUD_Mono.png",
+        "url": "https://jmp2.uk/rok-ccfcc3307fa908684a95bf9643b1b935.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "First 48",
+        "id": "first48",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/add7a09bd437e6598057a7c7fc55a81d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746567479217_The_First_48_by_AE_HUD_Center_Align_Light_Gray_260x147.png",
+        "url": "https://jmp2.uk/rok-add7a09bd437e6598057a7c7fc55a81d.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Reelz Famous and Infamous",
+        "id": "reelzfamousandinfamous",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8abbea29b86a5a5da299c7ef2e288cab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1733326414482_ReelzFI_260x147_v1.png",
+        "url": "https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sobreviví",
+        "id": "sobreviv",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/e4a278e5f27cc0c97aae4ddbefdbc5e6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765924286648_ISBA-LATAM_HUD_logo_260x147.png",
+        "url": "https://jmp2.uk/rok-e4a278e5f27cc0c97aae4ddbefdbc5e6.m3u8",
         "categories": [
             "roku-all"
         ],

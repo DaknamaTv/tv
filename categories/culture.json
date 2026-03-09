@@ -97,6 +97,18 @@
         "country": "LU"
     },
     {
+        "name": "Manas TV",
+        "id": "ManasTV.kg",
+        "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
+        "url": "http://212.42.111.152:8080/hls/manas.m3u8",
+        "categories": [
+            "education",
+            "culture",
+            "entertainment"
+        ],
+        "country": "KG"
+    },
+    {
         "name": "Teatr",
         "id": "Teatr.ru",
         "logo": "https://i.imgur.com/nc2ijCH.png",
@@ -190,10 +202,10 @@
         "country": "IN"
     },
     {
-        "name": "Jaya Max",
-        "id": "JayaMax.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0wk/index.m3u8",
+        "name": "Jaya TV",
+        "id": "JayaTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143228_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8",
         "categories": [
             "culture",
             "entertainment"
@@ -201,10 +213,10 @@
         "country": "IN"
     },
     {
-        "name": "Jaya TV",
-        "id": "JayaTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143228_ld_h15_aa.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8",
+        "name": "Jaya Max",
+        "id": "JayaMax.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0313/master.m3u8",
         "categories": [
             "culture",
             "entertainment"
@@ -324,16 +336,6 @@
         "country": "CL"
     },
     {
-        "name": "Chiloe Red 25",
-        "id": "ChiloeRed25.cl",
-        "logo": "https://i.imgur.com/3tqrImm.png",
-        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Holvoet TV",
         "id": "HolvoetTV.cl",
         "logo": "https://i.imgur.com/9JKRO3R.png",
@@ -384,19 +386,6 @@
         "country": "DO"
     },
     {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "zenith",
         "id": "zenith.fr",
         "logo": "https://znth.tv/static/site_app/thy%20logo.svg",
@@ -426,16 +415,6 @@
             "culture"
         ],
         "country": "SR"
-    },
-    {
-        "name": "Afro Magic Channel",
-        "id": "AfroMagicChannel.ci",
-        "logo": "https://i.imgur.com/yQzXErU.png",
-        "url": "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CI"
     },
     {
         "name": "Afroculture TV",
@@ -511,31 +490,10 @@
         "country": "BO"
     },
     {
-        "name": "Superscreen TV",
-        "id": "SuperscreenTV.ng",
-        "logo": "https://i.imgur.com/uTNmSWE.png",
-        "url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
-        "categories": [
-            "culture",
-            "family"
-        ],
-        "country": "NG"
-    },
-    {
         "name": "Qausain TV",
         "id": "QausainTV.ng",
         "logo": "https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png",
         "url": "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "NG"
-    },
-    {
-        "name": "Nigbati",
-        "id": "Nigbati.ng",
-        "logo": "https://www.lyngsat.com/logo/tv/nn/nigbati-ng.png",
-        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8",
         "categories": [
             "culture"
         ],
@@ -748,6 +706,16 @@
             "culture"
         ],
         "country": "MN"
+    },
+    {
+        "name": "Belarus-3",
+        "id": "Belarus3.by",
+        "logo": "https://i.imgur.com/JkcDycn.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "BY"
     },
     {
         "name": "EBS",
