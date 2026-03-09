@@ -571,16 +571,6 @@
         "country": "AR"
     },
     {
-        "name": "ATV Argentina",
-        "id": "ATVArgentina.ar",
-        "logo": "https://i.ibb.co/rMBVDmZ/atvargentina-x1.png",
-        "url": "https://tv.streaming.com.bo/atvargentina/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 3 Las Heras",
         "id": "Canal3LasHeras.ar",
         "logo": "https://i.imgur.com/bd2afET.png",
@@ -760,6 +750,26 @@
         "logo": "https://i.imgur.com/8xqYg4C.png",
         "url": "https://media.neuquen.gov.ar/rtn/television/media.m3u8",
         "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Azahares Radiovisual Multimedia",
+        "id": "AzaharesRadiovisualMultimedia.ar",
+        "logo": "https://i.imgur.com/g1BFoSs.png",
+        "url": "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 13 Jujuy",
+        "id": "Canal13Jujuy.ar",
+        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
+        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
+        "categories": [
+            "religious"
+        ],
         "country": "AR"
     }
 ]

@@ -1,89 +1,9 @@
 [
     {
-        "name": "123GO!",
-        "id": "123go",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png",
-        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-63eecb32ac23d1ee072087cb.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "AfroLandTV",
         "id": "afrolandtv",
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png",
         "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-60e737a4ebef9d002c4d0a0c.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Dateline",
-        "id": "dateline",
-        "logo": "https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4edb090c44538616547b7a5eba9a264f.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd19.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Deal Zone Presented By History",
-        "id": "dealzonepresentedbyhistory",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2a3961e6-acb1-410e-89ea-9e37226e231f/Deal_Zone_by_HISTORY_STACKED_COLOR_RDX2.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63c9724c5feb7b9655cb1950.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Dude Perfect",
-        "id": "dudeperfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68d7f9b53b1f329cea126993.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Glewed TV",
-        "id": "glewedtv",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png",
-        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-5eea605474085f0040ddc76d.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Hip-Hop/R&B",
-        "id": "hiphoprb",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png",
-        "url": "https://jmp2.uk/plex-6430aa45fc3be5947780904e-62ee7ae2271f393d2d9f709e.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Historias de Corazón",
-        "id": "historiasdecorazn",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7720edee-5e05-4391-b46b-94579db1bf73/HDC_logo_light_-_Jordan_Warkol.png",
-        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69791422623bdf0fc9bc3ea6.m3u8",
-        "categories": [
-            "plex-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "No Reservations",
-        "id": "noreservations",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/71ad0c57-33d2-4085-a852-c76966ccab43/NoReservations_Logo_Dark_1500x1000.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66b141e2a9ef8c41ec0841b2.m3u8",
         "categories": [
             "plex-all"
         ],
@@ -110,20 +30,170 @@
         "country": ""
     },
     {
-        "name": "Sports Illustrated TV",
-        "id": "sportsillustratedtv",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
-        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-6216ae22c3bbca2de8704f65.m3u8",
+        "name": "5-Minute Crafts",
+        "id": "5minutecrafts",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png",
+        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-63894c1965b848bf2c8a7800.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Watch it SCREAM",
-        "id": "watchitscream",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/945765a1-a848-4105-bf4d-5c27192e79ed/WatchitScream_logo_dark.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8",
+        "name": "Flashback 70s",
+        "id": "flashback70s",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/32c9c7ca-8544-4434-92c5-9a5dd9577746/flashback_70srdx.png",
+        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-62f15810a3ffe928ef806c75.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Ice Pilots NWT",
+        "id": "icepilotsnwt",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/2c49fafe-3ddd-443d-bdaa-c2ad358146cf/channel_logo_1500x1000_light.png.png",
+        "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-666e1820ce73ed6023b55a11.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Music Legends",
+        "id": "musiclegends",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
+        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-6196c8c01d310bf925e02615.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NEW KFOOD",
+        "id": "newkfood",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png",
+        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-68b9f5a3d60e5dd29263c7ac.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PickleTV",
+        "id": "pickletv",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
+        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63ec0b739866d8d2120ac759.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SLOPES",
+        "id": "slopes",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-616df1be2cf008a748c8cb53.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Surf Cinema",
+        "id": "surfcinema",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "The Great British Competition Channel",
+        "id": "thegreatbritishcompetitionchannel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/db71d5d3-f073-4893-a501-59f832539cad/GBCC_Logo-White_h1000_-_Moira_GrahamRDX.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-698a78e0d77c25ac0d681bbb.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "The Spa",
+        "id": "thespa",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png",
+        "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-62f11395586633e88e3a3274.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Today's K-Pop",
+        "id": "todayskpop",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png",
+        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-62ee6eae271f393d2d9f7096.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Trailers From Hell",
+        "id": "trailersfromhell",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png",
+        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-61d738b5a7b7c7f703418514.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Travel Escapes",
+        "id": "travelescapes",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/2e3834bc-2b60-4394-b403-57b82868af86/travel_escapes_WHITE_Bryan_Mcdaid.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64e437ba7ef2bf9f66b42615.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Unbeaten",
+        "id": "unbeaten",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e98b8325-c421-44e7-81c8-0b6a2c4f7505/Unbeaten_logo_dark_-_Sam_Neazi.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-633239caa6615514fb78ecf3.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "World Surf League 24/7",
+        "id": "worldsurfleague247",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png",
+        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-652875586425fdb1f32d2169.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Y2K",
+        "id": "y2k",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/ca8ce15a-6f58-4602-9d8c-d66bb894d7a2/Y2K.png",
+        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62ee72cc271f393d2d9f7098.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Éxitos del Momento",
+        "id": "xitosdelmomento",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png",
+        "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-62efba6588a16bb7d6b6fb58.m3u8",
         "categories": [
             "plex-all"
         ],

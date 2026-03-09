@@ -308,16 +308,6 @@
         "country": "IN"
     },
     {
-        "name": "Nick HD+",
-        "id": "NickHDPlus.in",
-        "logo": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
-        "url": "http://116.90.120.128:8000/play/a0i3/index.m3u88",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Nickelodeon",
         "id": "Nickelodeon.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9BJ.png?lock=720x540",
@@ -426,6 +416,16 @@
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0410/master.m3u8",
         "categories": [
             "animation",
+            "kids"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Nick HD+",
+        "id": "NickHDPlus.in",
+        "logo": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0450/master.m3u8",
+        "categories": [
             "kids"
         ],
         "country": "IN"

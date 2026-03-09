@@ -290,16 +290,6 @@
         "country": ""
     },
     {
-        "name": "PL: NATIONAL GEOGRAPHIC HD",
-        "id": "plnationalgeographichd",
-        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/616.png?34589",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309877",
-        "categories": [
-            "poland"
-        ],
-        "country": ""
-    },
-    {
         "name": "PL : Romance TV",
         "id": "plromancetv",
         "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9862.jpg?54612",
@@ -444,6 +434,176 @@
         "id": "plcanalsport2hd",
         "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/6332.jpg?6448",
         "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309900",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: CANAL+ SERIALE HD",
+        "id": "plcanalserialehd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/8505.jpg?79415",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309937",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: Canal+ Extra 1",
+        "id": "plcanalextra1",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/308006",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: Canal+ Extra 2",
+        "id": "plcanalextra2",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/308005",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: Canal+ Extra 5",
+        "id": "plcanalextra5",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/308002",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: Canal+ Extra 6",
+        "id": "plcanalextra6",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/308003",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: CANAL+ Now",
+        "id": "plcanalnow",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/e78640bbfdfd6682aaecaf43c138d5f5.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/122183",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: Novelas+",
+        "id": "plnovelas",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-04/44ba9e0550a40247e7f9328535dfb544.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/276492",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: Polonia 1",
+        "id": "plpolonia1",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-06/c57a1054106de8213c8c37518933d987.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/276494",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TV Kujawy",
+        "id": "pltvkujawy",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-07/3f489d772a26b8f839d962d3c4a8b84f.jpg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/41798",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TVN Zycie Jak w Bajce",
+        "id": "pltvnzyciejakwbajce",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/304732",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TVP 3 Gorzow",
+        "id": "pltvp3gorzow",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-09/fc8e38db56564b561a20f8e8d8918a58.jpg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299787",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TVP 3 Kielce",
+        "id": "pltvp3kielce",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-09/477133361bf27254ebe01a14b6eb57fe.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299785",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TVP 3 Lublin",
+        "id": "pltvp3lublin",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-09/8c25f75db452a9b80ce95a4e8248a343.jpeg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299784",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TVP 3 Olsztyn",
+        "id": "pltvp3olsztyn",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-09/470f70a725dc3bfdad669fa0fd8c3081.jpg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299783",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TVP 3 Opole",
+        "id": "pltvp3opole",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-09/150d746a9dc10928ab03228bf8a54f3b.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299779",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TVP 3 Szczecin",
+        "id": "pltvp3szczecin",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-09/189d714ee217fdb8bb3dd12b2bad0752.jpeg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299781",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TVP 3 Warszawa",
+        "id": "pltvp3warszawa",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/137a1339b4766198379d29b494663f32.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/25582",
         "categories": [
             "poland"
         ],

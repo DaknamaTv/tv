@@ -20,96 +20,6 @@
         "country": ""
     },
     {
-        "name": "SW: 3+ HD",
-        "id": "sw3hd",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/308216",
-        "categories": [
-            "switzerland"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SW: 5+ HD",
-        "id": "sw5hd",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/308214",
-        "categories": [
-            "switzerland"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SW: Telebasel FHD",
-        "id": "swtelebaselfhd",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/308206",
-        "categories": [
-            "switzerland"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SW: S1 HD",
-        "id": "sws1hd",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/308202",
-        "categories": [
-            "switzerland"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SW: Tele M1 FHD",
-        "id": "swtelem1fhd",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/308200",
-        "categories": [
-            "switzerland"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SW: TVO FHD",
-        "id": "swtvofhd",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/308198",
-        "categories": [
-            "switzerland"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SW: Leman bleu",
-        "id": "swlemanbleu",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/308195",
-        "categories": [
-            "switzerland"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SW: RSI La 1 HD",
-        "id": "swrsila1hd",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/308190",
-        "categories": [
-            "switzerland"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SW: RSI La 2 HD",
-        "id": "swrsila2hd",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/308187",
-        "categories": [
-            "switzerland"
-        ],
-        "country": ""
-    },
-    {
         "name": "SW: MY SPORTS 3 FHD  [MULTI-AUDIO]",
         "id": "swmysports3fhdmultiaudio",
         "logo": "",
@@ -134,6 +44,76 @@
         "id": "swmysports7fhdmultiaudio",
         "logo": "",
         "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/308177",
+        "categories": [
+            "switzerland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: Blue Action",
+        "id": "chblueaction",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/6c93c103ed7b29a26e3caee1711fdd86.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/14254",
+        "categories": [
+            "switzerland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: Blue Prime",
+        "id": "chblueprime",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/84ac75683edfcf51ee4754f362783e1a.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/2813",
+        "categories": [
+            "switzerland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: Blue Stars",
+        "id": "chbluestars",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/9ecbfa73cb25e4f4472270bfc6cc7020.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/151504",
+        "categories": [
+            "switzerland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: Die Neue Zeit TV",
+        "id": "chdieneuezeittv",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/552c8d1c96ed5d6e2a2ec73806b31bdb.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/24302",
+        "categories": [
+            "switzerland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: Leman Bleu",
+        "id": "chlemanbleu",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2025-07/2d9cf62ae763b73ebf8b1cbe2c1d20d7.svg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/23673",
+        "categories": [
+            "switzerland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: V Film Premiere",
+        "id": "chvfilmpremiere",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-12/32e1f8665d4a201d40690885fd718a9a.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/151716",
+        "categories": [
+            "switzerland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CH: Wetter TV",
+        "id": "chwettertv",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-07/59b37716b8d6708c8d117d4a4edfa49f.jpg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/283865",
         "categories": [
             "switzerland"
         ],

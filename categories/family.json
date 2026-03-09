@@ -56,17 +56,6 @@
         "country": "RU"
     },
     {
-        "name": "Telenovisa43",
-        "id": "Telenovisa43.do",
-        "logo": "https://i.imgur.com/iHvf3bR.png",
-        "url": "https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "general",
-            "family"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "TV Famille",
         "id": "TVFamille.mq",
         "logo": "https://i.imgur.com/Kbfihk5.png",
@@ -106,6 +95,17 @@
             "family"
         ],
         "country": "IQ"
+    },
+    {
+        "name": "Superscreen TV",
+        "id": "SuperscreenTV.ng",
+        "logo": "https://i.imgur.com/uTNmSWE.png",
+        "url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
+        "categories": [
+            "culture",
+            "family"
+        ],
+        "country": "NG"
     },
     {
         "name": "MCI Television",
@@ -217,16 +217,6 @@
         "id": "AMGTV.us",
         "logo": "https://i.imgur.com/m5Anun9.png",
         "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
-        "categories": [
-            "family"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "6 Wise Tv",
-        "id": "6WiseTv.us",
-        "logo": "https://jrlist70.pages.dev/list/wise.png",
-        "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
         "categories": [
             "family"
         ],

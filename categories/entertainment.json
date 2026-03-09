@@ -1241,40 +1241,10 @@
         "country": "IN"
     },
     {
-        "name": "Star Jalsha",
-        "id": "StarJalsha.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143819_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.161.153.165:8000/play/a00w/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Star Maa Gold",
         "id": "StarMaaGold.in",
         "logo": "https://dtil.tmsimg.com/assets/s143822_ld_h15_aa.png?lock=720x540",
         "url": "http://103.121.6.5:8000/play/a063/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sun Bangla",
-        "id": "SunBangla.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0506.png?lock=720x540",
-        "url": "http://103.161.153.165:8000/play/a03k/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Oli TV",
-        "id": "OliTV.in",
-        "logo": "https://i.ibb.co/XfvTQyJn/main-removebg-preview.png",
-        "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1567,6 +1537,36 @@
         "id": "ZeeYuva.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S9FG.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0510/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Jalsha",
+        "id": "StarJalsha.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143819_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0462/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sun Bangla",
+        "id": "SunBangla.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0506.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0580/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Swantham",
+        "id": "Swantham.in",
+        "logo": "https://i.imgur.com/ye6v4GP.png",
+        "url": "http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1868,30 +1868,10 @@
         "country": "GT"
     },
     {
-        "name": "SAS TV",
-        "id": "SASTV.gt",
-        "logo": "https://i.imgur.com/VShjB3o.png",
-        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "GT"
-    },
-    {
         "name": "Turismo HD",
         "id": "TurismoHD.do",
         "logo": "https://gia.tv/streams/pptv/208343.jpg",
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "HTV Live",
-        "id": "HTVLive.do",
-        "logo": "https://i.imgur.com/0WBsAin.png",
-        "url": "https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1938,26 +1918,6 @@
         "country": "DO"
     },
     {
-        "name": "Telemax",
-        "id": "Telemax.do",
-        "logo": "https://i.imgur.com/QvKmjvV.png",
-        "url": "https://mlb.essastream.com:8081/telemax/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "COCO TV",
-        "id": "COCOTV.do",
-        "logo": "https://i.imgur.com/CnAc7jU.png",
-        "url": "https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Nitida TV",
         "id": "NitidaTV.do",
         "logo": "https://i.imgur.com/z9JkxcM.png",
@@ -1972,16 +1932,6 @@
         "id": "GiTelevision.do",
         "logo": "https://i.imgur.com/br9TNG8.png",
         "url": "https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Pronems TV",
-        "id": "PronemsTV.do",
-        "logo": "https://i.imgur.com/a9ORO1G.png",
-        "url": "https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2008,36 +1958,6 @@
         "country": "DO"
     },
     {
-        "name": "R&E TV",
-        "id": "RETV.do",
-        "logo": "https://i.imgur.com/HpKQYp3.png",
-        "url": "https://live.ryetv.net/livelan/stream.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "TVS",
-        "id": "TVS.do",
-        "logo": "https://i.imgur.com/a2YX1oj.jpg",
-        "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Pula TV",
-        "id": "PulaTV.do",
-        "logo": "https://i.imgur.com/8gSLJ2f.png",
-        "url": "https://fox.hostlagarto.com:8081/pulatv/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Antena 21",
         "id": "Antena21.do",
         "logo": "https://i.imgur.com/QE0XWLh.png",
@@ -2052,16 +1972,6 @@
         "id": "CibaenaTV.do",
         "logo": "https://i.imgur.com/iHjdckl.png",
         "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Bellavision",
-        "id": "Bellavision.do",
-        "logo": "https://i.imgur.com/XqQ3kCs.png",
-        "url": "https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2125,6 +2035,19 @@
         "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
         ],
         "country": "VN"
     },
@@ -2290,16 +2213,6 @@
         "country": "TW"
     },
     {
-        "name": "Channel U",
-        "id": "ChannelU.sg",
-        "logo": "https://i.imgur.com/9MzEjoY.png",
-        "url": "https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "SG"
-    },
-    {
         "name": "KCM",
         "id": "KCM.sg",
         "logo": "https://img1.wsimg.com/isteam/ip/31e9f2fb-aa91-4437-b7ce-f34ad0f7e457/blob-c09ea31.png",
@@ -2397,6 +2310,16 @@
         "id": "TeveColombia.co",
         "logo": "https://i.imgur.com/vPwiJTw.png",
         "url": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Canal Nets",
+        "id": "CanalNets.co",
+        "logo": "https://i.imgur.com/edaAexc.png",
+        "url": "https://video.ejeserver.com/live/nets.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3019,16 +2942,6 @@
         "country": "MN"
     },
     {
-        "name": "Belarus-2",
-        "id": "Belarus2.by",
-        "logo": "https://i.imgur.com/BpEHpPS.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BY"
-    },
-    {
         "name": "Impact Network",
         "id": "ImpactNetwork.us",
         "logo": "https://i.imgur.com/57NH9sS.png",
@@ -3247,16 +3160,6 @@
         "id": "KFTRDT1.us",
         "logo": "https://i.imgur.com/e3Z2wzG.png",
         "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Merit Street",
-        "id": "MeritStreet.us",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1d/Merit_Street_Media_2024_1.svg/revision/latest/scale-to-width-down/512",
-        "url": "https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3887,6 +3790,16 @@
         "country": "US"
     },
     {
+        "name": "Merit Street",
+        "id": "MeritStreet.us",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1d/Merit_Street_Media_2024_1.svg/revision/latest/scale-to-width-down/512",
+        "url": "https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
         "name": "Fortune TV",
         "id": "FortuneTV.mm",
         "logo": "https://i.imgur.com/MM5evnD.png",
@@ -4027,6 +3940,16 @@
         "id": "MaLive.nl",
         "logo": "https://i.imgur.com/0Vzg2OR.png",
         "url": "https://live.salto.nl/hls/malive_high.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "SBS6 Classics",
+        "id": "SBS6Classics.nl",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
+        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
         "categories": [
             "entertainment"
         ],

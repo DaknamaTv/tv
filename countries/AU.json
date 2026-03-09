@@ -71,16 +71,6 @@
         "country": "AU"
     },
     {
-        "name": "TVSN Jewellery",
-        "id": "TVSNJewellery.au",
-        "logo": "https://i.imgur.com/lmoAFm3.png",
-        "url": "https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8",
-        "categories": [
-            "shop"
-        ],
-        "country": "AU"
-    },
-    {
         "name": "TVSN Beauty",
         "id": "TVSNBeauty.au",
         "logo": "https://i.imgur.com/lmoAFm3.png",
@@ -256,6 +246,66 @@
         "id": "ABCTV.au",
         "logo": "https://i.imgur.com/DPVQSjM.png",
         "url": "https://c.mjh.nz/abc-wa.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AU"
+    },
+    {
+        "name": "ABC NEWS",
+        "id": "ABCNEWS.au",
+        "logo": "",
+        "url": "https://datahub11.com:443/live/XPveRqwtA8/only8dish/415348.ts",
+        "categories": [
+            "general"
+        ],
+        "country": "AU"
+    },
+    {
+        "name": "SBS VICELAND HD",
+        "id": "SBSVICELANDHD.au",
+        "logo": "",
+        "url": "https://datahub11.com:443/live/XPveRqwtA8/only8dish/415361.ts",
+        "categories": [
+            "general"
+        ],
+        "country": "AU"
+    },
+    {
+        "name": "Sky Racing #1 HD",
+        "id": "SkyRacing1HD.au",
+        "logo": "",
+        "url": "https://datahub11.com:443/live/XPveRqwtA8/only8dish/415368.ts",
+        "categories": [
+            "general"
+        ],
+        "country": "AU"
+    },
+    {
+        "name": "FOX Sports 503 HD",
+        "id": "FOXSports503HD.au",
+        "logo": "",
+        "url": "https://datahub11.com:443/live/XPveRqwtA8/only8dish/415536.ts",
+        "categories": [
+            "general"
+        ],
+        "country": "AU"
+    },
+    {
+        "name": "FOX Sports 504 HD",
+        "id": "FOXSports504HD.au",
+        "logo": "",
+        "url": "https://datahub11.com:443/live/XPveRqwtA8/only8dish/415537.ts",
+        "categories": [
+            "general"
+        ],
+        "country": "AU"
+    },
+    {
+        "name": "FOX Sports 505 HD",
+        "id": "FOXSports505HD.au",
+        "logo": "",
+        "url": "https://datahub11.com:443/live/XPveRqwtA8/only8dish/415538.ts",
         "categories": [
             "general"
         ],

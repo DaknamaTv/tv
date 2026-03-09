@@ -10,30 +10,10 @@
         "country": ""
     },
     {
-        "name": "DIGI Sport 1 HU",
-        "id": "digisport1hu",
-        "logo": "https://static.epg.best/hu/DigiSport1.hu.png",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9511",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
         "name": "FEM3 HU",
         "id": "fem3hu",
         "logo": "https://static.epg.best/hu/Fem3.hu.png",
         "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9438",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fix TV HD HU",
-        "id": "fixtvhdhu",
-        "logo": "https://static.epg.best/hu/Fix.hu.png",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/3596",
         "categories": [
             "hungary"
         ],
@@ -64,16 +44,6 @@
         "id": "digisport3hu",
         "logo": "https://static.epg.best/hu/DigiSport3.hu.png",
         "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9509",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Discovery Channel HU",
-        "id": "discoverychannelhu",
-        "logo": "https://static.epg.best/hu/DiscoveryChannel.hu.png",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9508",
         "categories": [
             "hungary"
         ],
@@ -124,26 +94,6 @@
         "id": "m5hu",
         "logo": "https://static.epg.best/hu/m5.hu.png",
         "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9434",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Viasat History HU",
-        "id": "viasathistoryhu",
-        "logo": "http://tugapt.com/picons/viasathistoryse.png",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9459",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SONY MOVIE HU",
-        "id": "sonymoviehu",
-        "logo": "https://static.epg.best/hu/SonyMovieChannel.hu.png",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/79206",
         "categories": [
             "hungary"
         ],
@@ -224,6 +174,176 @@
         "id": "huatv",
         "logo": "https://w7.pngwing.com/pngs/244/881/png-transparent-atv-commercial-broadcasting-television-logo-others-miscellaneous-television-text.png",
         "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310968",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Apostol TV",
+        "id": "huapostoltv",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/878e66e549f2b47149b505629c178ed9.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/90660",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: EWTN",
+        "id": "huewtn",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/e069cd9a6cf26ba6984e5277b93e9238.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/57543",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Hir TV",
+        "id": "huhirtv",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/0e73eebdae7e35f1a51f67aad799d518.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/72626",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Kanizsa TV",
+        "id": "hukanizsatv",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307497",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Kecskemeti TV",
+        "id": "hukecskemetitv",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-10/69a64760d84532d359c56536f0ab0ee5.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/147234",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Light Channel",
+        "id": "hulightchannel",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-04/f7a8e971d5e60abf355ac9c7487bd917.jpg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/145982",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Makói Városi TV",
+        "id": "humakivrositv",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-08/88a931ad3a4e12a400d43ade05ed0c45.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299416",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Oroszlányi Városi Televízió",
+        "id": "huoroszlnyivrositelevzi",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307499",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Ozone TV",
+        "id": "huozonetv",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/7bbc6e1d4aac7fd7f9addd397650f0cf.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/77787",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: SIXO TV",
+        "id": "husixotv",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307502",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Tatai TV",
+        "id": "hutataitv",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307504",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: TelePaks",
+        "id": "hutelepaks",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307505",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Trimedio TV",
+        "id": "hutrimediotv",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307506",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: TV 4",
+        "id": "hutv4",
+        "logo": "http://s3.i3ns.net/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/95649",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: TV7 Bekescsaba",
+        "id": "hutv7bekescsaba",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/87ae8afc8a20bde34473cd3a22b313c5.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/286668",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Vásárhelyi Televízió",
+        "id": "huvsrhelyitelevzi",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307508",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Zalaegerszeg",
+        "id": "huzalaegerszeg",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307511",
         "categories": [
             "hungary"
         ],
