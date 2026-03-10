@@ -200,16 +200,6 @@
         "country": ""
     },
     {
-        "name": "AE: OSN Movies",
-        "id": "aeosnmovies",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-08/707369d142759ce85beb612528cb19e9.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/22109",
-        "categories": [
-            "uae ➾ movie"
-        ],
-        "country": ""
-    },
-    {
         "name": "AE: OSN Movies Disney",
         "id": "aeosnmoviesdisney",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/4e657d6816f75e73b1bf7e7f0db83f51.png",
@@ -454,6 +444,36 @@
         "id": "aezeealwan",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/768bbbbd8f50f8cca82e02df8513ce58.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/1207",
+        "categories": [
+            "uae ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AE: Alfa Cinema 2",
+        "id": "aealfacinema2",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/d033a39a847efed3b751b051e8a71aa0.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/2877",
+        "categories": [
+            "uae ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AE: Reel PX Family",
+        "id": "aereelpxfamily",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-01/3c02f051ae9bd2fd647c6f7a30c8d2c8.jpg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/297203",
+        "categories": [
+            "uae ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AE: Fox Action Movies",
+        "id": "aefoxactionmovies",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/0292f66b956734c5d4758cf4220e3519.png",
+        "url": "http://013tv.com:8080/umer.zia660/e7388412/2831",
         "categories": [
             "uae ➾ movie"
         ],

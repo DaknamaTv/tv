@@ -1680,16 +1680,6 @@
         "country": ""
     },
     {
-        "name": "DE: Stern Filme 8",
-        "id": "desternfilme8",
-        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/298622",
-        "categories": [
-            "de ➾ movie"
-        ],
-        "country": ""
-    },
-    {
         "name": "DE: Stern Filme 9",
         "id": "desternfilme9",
         "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
@@ -1754,6 +1744,56 @@
         "id": "dezoey101",
         "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307921",
+        "categories": [
+            "de ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Cinedome Filmax Leonardo DiCaprio",
+        "id": "decinedomefilmaxleonardodicaprio",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/280053",
+        "categories": [
+            "de ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Cinedome Filmax Marvel",
+        "id": "decinedomefilmaxmarvel",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/280096",
+        "categories": [
+            "de ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Cinedome Marvel",
+        "id": "decinedomemarvel",
+        "logo": "http://s3.i3ns.net/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/168930",
+        "categories": [
+            "de ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Comedy Central",
+        "id": "decomedycentral",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/a8a5d7198419e91a163c9bfa9bfca1bb.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/1670",
+        "categories": [
+            "de ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Netflix Fantasy",
+        "id": "denetflixfantasy",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2025-12/ef0b72bb2d041b31d3ae752b09e91e68.jpg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/308581",
         "categories": [
             "de ➾ movie"
         ],

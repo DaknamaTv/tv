@@ -60,16 +60,6 @@
         "country": ""
     },
     {
-        "name": "ZA: CANAL+ Sport 360",
-        "id": "zacanalsport360",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-01/802c45fdf3f60818630503f4e8d58246.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/297379",
-        "categories": [
-            "south africa ➾ sports"
-        ],
-        "country": ""
-    },
-    {
         "name": "ZA: Canal+ Sport 4",
         "id": "zacanalsport4",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-01/72ce68d0cf533451413b2e196e0e9eec.png",
@@ -130,20 +120,30 @@
         "country": ""
     },
     {
-        "name": "ZA: SuperSport Maximo 2",
-        "id": "zasupersportmaximo2",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-12/715810570a7c4bd3a7af597a9c7886b2.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/297476",
+        "name": "ZA: SuperSport Motorsport",
+        "id": "zasupersportmotorsport",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/11638",
         "categories": [
             "south africa ➾ sports"
         ],
         "country": ""
     },
     {
-        "name": "ZA: SuperSport Motorsport",
-        "id": "zasupersportmotorsport",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/11638",
+        "name": "ZA: CANAL+ Premier League",
+        "id": "zacanalpremierleague",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/c3de2632d14e7fa3ab5145cb9e455c55.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/297425",
+        "categories": [
+            "south africa ➾ sports"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ZA: SuperSport Cricket",
+        "id": "zasupersportcricket",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/11637",
         "categories": [
             "south africa ➾ sports"
         ],

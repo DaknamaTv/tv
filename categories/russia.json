@@ -760,16 +760,6 @@
         "country": ""
     },
     {
-        "name": "RU: Viju TV 1000 Rosskoe (TV 1000 Русское кино)",
-        "id": "ruvijutv1000rosskoetv1000",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-06/f0c07652391cb48c2938e41340921b91.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299024",
-        "categories": [
-            "russia"
-        ],
-        "country": ""
-    },
-    {
         "name": "RU: Viju+ MEGAHIT",
         "id": "ruvijumegahit",
         "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
@@ -914,6 +904,26 @@
         "id": "ru8686",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-10/e269e489dc1ce049db22e2c72935bb62.jpg",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/300457",
+        "categories": [
+            "russia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RU: Tiji",
+        "id": "rutiji",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/6f1220559f045e407c07e94f05a7cfab.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/80268",
+        "categories": [
+            "russia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RU: BAIKAL Univer TV (БАЙКАЛ Универ ТВ)",
+        "id": "rubaikalunivertv",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/umer.zia660/e7388412/304591",
         "categories": [
             "russia"
         ],

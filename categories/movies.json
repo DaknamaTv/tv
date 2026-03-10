@@ -1252,6 +1252,16 @@
         "country": "IN"
     },
     {
+        "name": "&prive HD",
+        "id": "AndpriveHD.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540",
+        "url": "http://103.229.254.25:7001/play/a03f/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Discover Film",
         "id": "DiscoverFilm.uk",
         "logo": "https://i.imgur.com/oMnpsQ5.png",
@@ -1310,6 +1320,16 @@
             "movies"
         ],
         "country": "GT"
+    },
+    {
+        "name": "Boreal",
+        "id": "Boreal.do",
+        "logo": "https://i.imgur.com/KSquHTG.png",
+        "url": "https://mlb.essastream.com:8081/borealtelevision/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "DO"
     },
     {
         "name": "ScreamIN",
@@ -1446,6 +1466,16 @@
         "country": "PY"
     },
     {
+        "name": "Rai Movie",
+        "id": "RaiMovie.it",
+        "logo": "https://i.imgur.com/0FjxXU9.png",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
+        "categories": [
+            "movies"
+        ],
+        "country": "IT"
+    },
+    {
         "name": "Grjngo Western Movies",
         "id": "GrjngoWesternMovies.de",
         "logo": "https://i.imgur.com/wFqhK3p.png",
@@ -1454,16 +1484,6 @@
             "movies"
         ],
         "country": "DE"
-    },
-    {
-        "name": "Action 24",
-        "id": "Action24.gr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
-        "url": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "GR"
     },
     {
         "name": "MyTime Movie Network",
@@ -2366,21 +2386,6 @@
         "url": "https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8",
         "categories": [
             "movies"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "AlternaTV",
-        "id": "AlternaTV.ar",
-        "logo": "https://tv.alterna.ar/alternatv.png",
-        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
-        "categories": [
-            "music",
-            "culture",
-            "entertainment",
-            "documentary",
-            "movies",
-            "general"
         ],
         "country": "AR"
     },

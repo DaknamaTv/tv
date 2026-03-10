@@ -501,14 +501,6 @@
         "country": "ID"
     },
     {
-        "name": "PONTV",
-        "id": "PONTV.id",
-        "logo": "https://i.imgur.com/P5erWzm.png",
-        "url": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Jogja Istimewa TV",
         "id": "JogjaIstimewaTV.id",
         "logo": "https://i.imgur.com/VEqQfTu.png",
@@ -685,14 +677,6 @@
         "country": "ID"
     },
     {
-        "name": "Semarang TV",
-        "id": "SemarangTV.id",
-        "logo": "https://i.imgur.com/KFC2WSB.png",
-        "url": "http://116.254.112.74/hls/cakralive.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Inspira TV",
         "id": "InspiraTV.id",
         "logo": "https://i.imgur.com/BF5orkg.png",
@@ -853,13 +837,99 @@
         "country": "ID"
     },
     {
-        "name": "Jogja TV",
-        "id": "JogjaTV.id",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
-        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+        "name": "Al-Bahjah TV",
+        "id": "AlBahjahTV.id",
+        "logo": "https://i.imgur.com/52dlDZk.png",
+        "url": "http://202.150.161.117:8000/play/AlBahjahTV",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "BMS TV",
+        "id": "BMSTV.id",
+        "logo": "https://i.imgur.com/snMxng5.png",
+        "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Fajar TV",
+        "id": "FajarTV.id",
+        "logo": "https://i.imgur.com/mkuXxRK.png",
+        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "GTV",
+        "id": "GTV.id",
+        "logo": "https://i.imgur.com/jjuKnYs.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd",
         "categories": [
             "general"
         ],
+        "country": "ID"
+    },
+    {
+        "name": "IDX Channel",
+        "id": "IDXChannel.id",
+        "logo": "https://i.imgur.com/xPvrcsr.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd",
+        "categories": [
+            "business"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "iNews",
+        "id": "iNews.id",
+        "logo": "https://i.imgur.com/M2R3lfg.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd",
+        "categories": [
+            "news"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "MNCTV",
+        "id": "MNCTV.id",
+        "logo": "https://i.imgur.com/SK8pjQy.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "MTA TV",
+        "id": "MTATV.id",
+        "logo": "https://i.imgur.com/3kGs7k0.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Rinjani TV",
+        "id": "RinjaniTV.id",
+        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
+        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Sultra TV",
+        "id": "SultraTV.id",
+        "logo": "https://i.imgur.com/cmpbNJz.png",
+        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
+        "categories": [],
         "country": "ID"
     }
 ]

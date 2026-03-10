@@ -310,16 +310,6 @@
         "country": ""
     },
     {
-        "name": "FR: Netflix Drama",
-        "id": "frnetflixdrama",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2025-12/61c08c8521c4fea413df8dcbf0860f03.jpg",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/267785",
-        "categories": [
-            "france ➾ movie"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: Netflix Fantasique",
         "id": "frnetflixfantasique",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2025-12/0e3ba9ac1d327adec6e4edfb7086c8f7.jpg",
@@ -334,16 +324,6 @@
         "id": "frnetflixhorror",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2025-12/846a314477339545425622ca72cc8528.jpg",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/267787",
-        "categories": [
-            "france ➾ movie"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: Netflix Kids",
-        "id": "frnetflixkids",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2025-12/d33479539959bf05bafbb067f53d2d90.jpg",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/308836",
         "categories": [
             "france ➾ movie"
         ],
@@ -584,6 +564,16 @@
         "id": "frzyloscreamin",
         "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307906",
+        "categories": [
+            "france ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: Canal+ 4K Ultra",
+        "id": "frcanal4kultra",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-03/84fe5cc810139cdb353e74fc75c63210.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/302361",
         "categories": [
             "france ➾ movie"
         ],

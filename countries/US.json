@@ -3214,16 +3214,6 @@
         "country": "US"
     },
     {
-        "name": "Avang TV",
-        "id": "AvangTV.us",
-        "logo": "https://i.imgur.com/3I1n7fO.png",
-        "url": "https://hls.avang.live/hls/stream.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Radio y Television Marti",
         "id": "RadioyTelevisionMarti.us",
         "logo": "https://i.imgur.com/J2ZMa4g.png",
@@ -9131,16 +9121,6 @@
         "country": "US"
     },
     {
-        "name": "RJTV",
-        "id": "RJTV.us",
-        "logo": "https://i.imgur.com/a1zuW2C.png",
-        "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "WHPS-CD2",
         "id": "WHPSCD2.us",
         "logo": "https://i.imgur.com/KW1iQ5W.png",
@@ -9303,16 +9283,6 @@
         "url": "https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "CitiCABLE",
-        "id": "CitiCABLE.us",
-        "logo": "https://i.imgur.com/Y1qRHnC.png",
-        "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/torrance/G0057_005/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "US"
     },
@@ -9773,16 +9743,6 @@
         "country": "US"
     },
     {
-        "name": "TVS Television Network",
-        "id": "TVSTelevisionNetwork.us",
-        "logo": "",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TeleMIX",
         "id": "TeleMIX.us",
         "logo": "https://i.ibb.co/HpX99Ks/unnamed.jpg",
@@ -9817,16 +9777,6 @@
         "id": "AMGATV.us",
         "logo": "https://i.imgur.com/NTlC6e7.png",
         "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "KTVK-DT1",
-        "id": "KTVKDT1.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/512px-KTVK_logo.svg.png",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -9989,6 +9939,56 @@
         "url": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "6 Wise Tv",
+        "id": "6WiseTv.us",
+        "logo": "https://jrlist70.pages.dev/list/wise.png",
+        "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
+        "categories": [
+            "family"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "JBS",
+        "id": "JBS.us",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
+        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "NFL RedZone",
+        "id": "NFLRedZone.us",
+        "logo": "https://i.imgur.com/5lPqQj5.png",
+        "url": "https://tvpass.org/live/NFLRedZone/sd",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PBC Tapesh TV",
+        "id": "PBCTapeshTV.us",
+        "logo": "https://i.imgur.com/50JzsmH.png",
+        "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "W14DK-D5",
+        "id": "W14DKD5.us",
+        "logo": "https://i.imgur.com/D4mZ8ll.png",
+        "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "US"
     }

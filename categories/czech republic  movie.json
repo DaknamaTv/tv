@@ -90,16 +90,6 @@
         "country": ""
     },
     {
-        "name": "CZ: Filmbox Family",
-        "id": "czfilmboxfamily",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-03/0d88c6f46931933cd80af78f87c2231d.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/146937",
-        "categories": [
-            "czech republic ➾ movie"
-        ],
-        "country": ""
-    },
-    {
         "name": "CZ: FilmBox Premium",
         "id": "czfilmboxpremium",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/d8c81a92b36dec21365f2d79ea4305bf.png",
@@ -224,6 +214,16 @@
         "id": "czprimazoom",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/6edd0361c204cc2f9c190c87c49ab6a9.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/83397",
+        "categories": [
+            "czech republic ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CZ: Nova Action",
+        "id": "cznovaaction",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/d16e86bd378111fd8cf606807a181ec2.png",
+        "url": "http://013tv.com:8080/umer.zia660/e7388412/18409",
         "categories": [
             "czech republic ➾ movie"
         ],

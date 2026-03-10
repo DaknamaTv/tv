@@ -460,16 +460,6 @@
         "country": ""
     },
     {
-        "name": "US: ESPN 3",
-        "id": "usespn3",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/0fffb31df9ca2245144bf1fb772b641d.jpg",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/14816",
-        "categories": [
-            "usa ➾ sports"
-        ],
-        "country": ""
-    },
-    {
         "name": "US: ESPN News",
         "id": "usespnnews",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/563035a6fbe029b233bb53cdf2d3cbac.png",
@@ -760,16 +750,6 @@
         "country": ""
     },
     {
-        "name": "US: NBC Sports Chicago",
-        "id": "usnbcsportschicago",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-09/3902545c893fac9044ca2c59f40d4aa3.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/8490",
-        "categories": [
-            "usa ➾ sports"
-        ],
-        "country": ""
-    },
-    {
         "name": "US: NBC Sports Chicago Plus",
         "id": "usnbcsportschicagoplus",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/24e47bcbaf28dd5bf530e5fda9faac92.png",
@@ -1054,6 +1034,36 @@
         "id": "usxtremsports",
         "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/306958",
+        "categories": [
+            "usa ➾ sports"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: Bally Sports Florida",
+        "id": "usballysportsflorida",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-08/e1dd92a79b274d75c69d7dc4a440f0a4.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/296662",
+        "categories": [
+            "usa ➾ sports"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: Bally Sports North Minnesota",
+        "id": "usballysportsnorthminnesota",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-08/8054a122626d74fb4d831abd7fc7c6c4.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/296673",
+        "categories": [
+            "usa ➾ sports"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: NBA League Pass 1",
+        "id": "usnbaleaguepass1",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-06/0ce0e4f02e616c1ac3a6a94b8b322669.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/198961",
         "categories": [
             "usa ➾ sports"
         ],

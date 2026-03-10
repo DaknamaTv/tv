@@ -420,16 +420,6 @@
         "country": ""
     },
     {
-        "name": "IR: Avang TV",
-        "id": "iravangtv",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-01/fb14a65bd5041a4cb41c78da7a044c3a.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/287452",
-        "categories": [
-            "iran"
-        ],
-        "country": ""
-    },
-    {
         "name": "IR: Ayeneh TV",
         "id": "irayenehtv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2022-03/3c02d88e84a4bb06134cb99bf88b9d56.jpg",
@@ -1640,16 +1630,6 @@
         "country": ""
     },
     {
-        "name": "IR: Persiana Family",
-        "id": "irpersianafamily",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-11/7b5f08dac4cd71adc5210a5711e59c1d.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/225273",
-        "categories": [
-            "iran"
-        ],
-        "country": ""
-    },
-    {
         "name": "IR: Persiana Folk",
         "id": "irpersianafolk",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2024-11/e98ad39eeb50a562a08872b91b9df730.png",
@@ -1704,26 +1684,6 @@
         "id": "irpersianamusic",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2024-11/2220f0de7a178ff74c1bf36b334403d2.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/225266",
-        "categories": [
-            "iran"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IR: Persiana Nostalgia",
-        "id": "irpersiananostalgia",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-11/081218bf87c9c88d4bc4f5b5838ee089.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/225274",
-        "categories": [
-            "iran"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IR: Persiana One",
-        "id": "irpersianaone",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-11/61e4cf3af089454790bcbd0e5eb683ab.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/165039",
         "categories": [
             "iran"
         ],
@@ -1880,16 +1840,6 @@
         "country": ""
     },
     {
-        "name": "IR: Simaye Azadi",
-        "id": "irsimayeazadi",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-10/a316a8af4366b83df030f2ff558d1316.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/5398",
-        "categories": [
-            "iran"
-        ],
-        "country": ""
-    },
-    {
         "name": "IR: SL 1",
         "id": "irsl1",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/875c8f39e79df4d2594c1b8c97429217.png",
@@ -2004,6 +1954,46 @@
         "id": "iryourtime",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2020-07/4dee98cede143631f4052cd9ea1303a7.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/69538",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Hodhod Farsi TV",
+        "id": "irhodhodfarsitv",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-07/2f1d0533f93f069413b0eb237653c6b3.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/296713",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB Abadan",
+        "id": "iriribabadan",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-08/85562944f7a6c78c5dc9867eebe03c39",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/285275",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB Hamoon",
+        "id": "iriribhamoon",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-08/75e9de114ae1c2ace0dc1514cfe0ac3d",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/285268",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Tapesh",
+        "id": "irtapesh",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2020-07/4f2d81e2d2d4afca12483c40a77ad8fe.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/21944",
         "categories": [
             "iran"
         ],

@@ -150,16 +150,6 @@
         "country": "RU"
     },
     {
-        "name": "MMA-TV.com",
-        "id": "MMATVcom.ru",
-        "logo": "https://i.imgur.com/QhdxNsB.png",
-        "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Boks TV",
         "id": "BoksTV.ru",
         "logo": "https://i.imgur.com/R1UjyfX.png",
@@ -530,6 +520,16 @@
         "country": "DO"
     },
     {
+        "name": "Tour Spot TV",
+        "id": "TourSpotTV.do",
+        "logo": "https://imgur.com/khj869k.png",
+        "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Dong Nai TV 2",
         "id": "DongNaiTV2.vn",
         "logo": "https://i.imgur.com/tNKPSkO.png",
@@ -743,30 +743,10 @@
         "country": "DE"
     },
     {
-        "name": "Tigo Sports",
-        "id": "TigoSports.sv",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
-        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "SV"
-    },
-    {
         "name": "Gol Classics",
         "id": "GolClassics.es",
         "logo": "https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75",
         "url": "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "Teledeporte",
-        "id": "Teledeporte.es",
-        "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
-        "url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8",
         "categories": [
             "sports"
         ],
@@ -1442,6 +1422,36 @@
             "sports"
         ],
         "country": "US"
+    },
+    {
+        "name": "NFL RedZone",
+        "id": "NFLRedZone.us",
+        "logo": "https://i.imgur.com/5lPqQj5.png",
+        "url": "https://tvpass.org/live/NFLRedZone/sd",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "W14DK-D5",
+        "id": "W14DKD5.us",
+        "logo": "https://i.imgur.com/D4mZ8ll.png",
+        "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "M-Net Sport",
+        "id": "MNetSport.mk",
+        "logo": "https://i.imgur.com/7k8ar1Z.png",
+        "url": "https://live.mnet.mk/hls/mnet-sport.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "MK"
     },
     {
         "name": "InTrouble",

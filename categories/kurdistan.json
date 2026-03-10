@@ -310,16 +310,6 @@
         "country": ""
     },
     {
-        "name": "KU: EUROKURD",
-        "id": "kueurokurd",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-11/26c48282816be23503f72a4dd64d2adc.jpg",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/173120",
-        "categories": [
-            "kurdistan"
-        ],
-        "country": ""
-    },
-    {
         "name": "KU: Evin TV",
         "id": "kuevintv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2022-07/fc26ce08fbc6d4545571ea5651995036.jpeg",
@@ -624,16 +614,6 @@
         "id": "kukurdsatnews",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/93a7d40b8cebce3ebf916094a26297bc.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/811",
-        "categories": [
-            "kurdistan"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KU: Lawan TV",
-        "id": "kulawantv",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/8e3838d79f45cf26fdceda87526b5ee3.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/193408",
         "categories": [
             "kurdistan"
         ],
@@ -1210,16 +1190,6 @@
         "country": ""
     },
     {
-        "name": "KU: SADA",
-        "id": "kusada",
-        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/172547",
-        "categories": [
-            "kurdistan"
-        ],
-        "country": ""
-    },
-    {
         "name": "KU: Sahar TV",
         "id": "kusahartv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-11/d9f4b7dfeb5e8b2cea283c25da049eb6.png",
@@ -1464,6 +1434,56 @@
         "id": "kuzoom",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2025-08/5bde23d32015bf09e1b6528959ac9773.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307789",
+        "categories": [
+            "kurdistan"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KU: Aro Family",
+        "id": "kuarofamily",
+        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/300692",
+        "categories": [
+            "kurdistan"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KU: Dasinya Kids",
+        "id": "kudasinyakids",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-07/c39cd1c1eb4249fd8efe8b4134cd701c.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/24484",
+        "categories": [
+            "kurdistan"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KU: Dasinya Sport",
+        "id": "kudasinyasport",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-10/5e2959c7ee51bc319a09906d04c8882d.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/300279",
+        "categories": [
+            "kurdistan"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KU: Kani TV",
+        "id": "kukanitv",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-07/12e0fe2fe5f37cbc3f91cfff8fc3da1d.jpg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/24480",
+        "categories": [
+            "kurdistan"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KU: Sima",
+        "id": "kusima",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-07/2fe9333b3a87418e4af504eca9496df7.jpg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/14719",
         "categories": [
             "kurdistan"
         ],

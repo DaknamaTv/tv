@@ -650,16 +650,6 @@
         "country": ""
     },
     {
-        "name": "T SPORT HD",
-        "id": "tsporthd",
-        "logo": "",
-        "url": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "InTravel",
         "id": "intravel",
         "logo": "https://s3.aynaott.com/storage/b35e9c1bcde3e6876892a22f91a9c4b5",
@@ -1320,16 +1310,6 @@
         "country": ""
     },
     {
-        "name": "Bangla Radio",
-        "id": "banglaradio",
-        "logo": "https://s3.aynaott.com/storage/155b665c91fc74cf01b2b43d4b8c3e09",
-        "url": "https://apollo.ihostman.com:8002/stream?icy=https",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Star Sports-1 Hindi",
         "id": "starsports1hindi",
         "logo": "",
@@ -1970,16 +1950,6 @@
         "country": ""
     },
     {
-        "name": "movie bangla tv",
-        "id": "moviebanglatv",
-        "logo": "https://tvassets.roarzone.info/images/86.png",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/movie-bangla/index.m3u8?token=e5788f59cff7075e635514c266e16ea976786c53-b10fda5e70343640694e470dd0aae084-1771958651-1771955051",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "ekhon",
         "id": "ekhon",
         "logo": "https://tvassets.roarzone.info/images/ekhon-tv.jpg",
@@ -2200,16 +2170,6 @@
         "country": ""
     },
     {
-        "name": "Astro SPORTS Primier",
-        "id": "astrosportsprimier",
-        "logo": "",
-        "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Green TV",
         "id": "greentv",
         "logo": "",
@@ -2390,16 +2350,6 @@
         "country": ""
     },
     {
-        "name": "ASTRO SPORTS PLUS",
-        "id": "astrosportsplus",
-        "logo": "",
-        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "discovery hd",
         "id": "discoveryhd",
         "logo": "https://tvassets.roarzone.info/images/43.png",
@@ -2470,10 +2420,10 @@
         "country": ""
     },
     {
-        "name": "Dhoom Music",
-        "id": "dhoommusic",
+        "name": "ARY Digital",
+        "id": "arydigital",
         "logo": "",
-        "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
+        "url": "https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v1a1/mono.ts.m3u8",
         "categories": [
             "bd"
         ],

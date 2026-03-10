@@ -762,16 +762,6 @@
         "country": "ES"
     },
     {
-        "name": "Teledeporte",
-        "id": "Teledeporte.es",
-        "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
-        "url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Todo Novelas",
         "id": "TodoNovelas.es",
         "logo": "https://i.imgur.com/NuYwGok.png",
@@ -1028,16 +1018,6 @@
         "url": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "RTV Vida",
-        "id": "RTVVida.es",
-        "logo": "https://i.imgur.com/EqUfEAh.png",
-        "url": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "ES"
     },
@@ -1421,26 +1401,6 @@
         "id": "BCNGospelTV.es",
         "logo": "https://i.imgur.com/ZKAnehs.png",
         "url": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "Fibwi",
-        "id": "Fibwi.es",
-        "logo": "https://i.imgur.com/4vcGzcC.png",
-        "url": "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "TVR",
-        "id": "TVR.es",
-        "logo": "https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png",
-        "url": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8",
         "categories": [
             "general"
         ],

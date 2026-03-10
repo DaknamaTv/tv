@@ -20,6 +20,16 @@
         "country": "KR"
     },
     {
+        "name": "IDX Channel",
+        "id": "IDXChannel.id",
+        "logo": "https://i.imgur.com/xPvrcsr.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd",
+        "categories": [
+            "business"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "apart TV",
         "id": "apartTV.lu",
         "logo": "https://i.imgur.com/IBcMIcZ.png",
@@ -289,16 +299,6 @@
         "id": "AlephBusiness.ro",
         "logo": "https://i.imgur.com/IqvZBeo.png",
         "url": "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8",
-        "categories": [
-            "business"
-        ],
-        "country": "RO"
-    },
-    {
-        "name": "JOB TV",
-        "id": "JOBTV.ro",
-        "logo": "https://i.imgur.com/UzcZNe3.png",
-        "url": "https://jobtvserver.eu/hls/stream.m3u8",
         "categories": [
             "business"
         ],

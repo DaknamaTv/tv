@@ -290,16 +290,6 @@
         "country": ""
     },
     {
-        "name": "NL: OMROEP Hulst TV",
-        "id": "nlomroephulsttv",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/9125dec192f2e4768755b2f7c401b56f.jpg",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/287681",
-        "categories": [
-            "netherlands"
-        ],
-        "country": ""
-    },
-    {
         "name": "NL: OMROEP Tilburg",
         "id": "nlomroeptilburg",
         "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
@@ -424,16 +414,6 @@
         "id": "nlredboxdrama2",
         "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/168399",
-        "categories": [
-            "netherlands"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NL: Redbox DRAMATIC 1",
-        "id": "nlredboxdramatic1",
-        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/300446",
         "categories": [
             "netherlands"
         ],
@@ -764,6 +744,16 @@
         "id": "nlzo34",
         "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307930",
+        "categories": [
+            "netherlands"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NL: Redbox ANIMATIE 1",
+        "id": "nlredboxanimatie1",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/168398",
         "categories": [
             "netherlands"
         ],

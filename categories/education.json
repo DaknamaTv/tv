@@ -124,6 +124,16 @@
         "country": "KR"
     },
     {
+        "name": "Rinjani TV",
+        "id": "RinjaniTV.id",
+        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
+        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "Manas TV",
         "id": "ManasTV.kg",
         "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
@@ -1081,6 +1091,26 @@
         "id": "TVUJAT.mx",
         "logo": "https://i.imgur.com/4demWOi.png",
         "url": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "XHMNL-TDT",
+        "id": "XHMNLTDT.mx",
+        "logo": "https://i.imgur.com/9qL4LJF.png",
+        "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "XHUNES-TDT",
+        "id": "XHUNESTDT.mx",
+        "logo": "https://i.imgur.com/LbZkdca.png",
+        "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
         "categories": [
             "education"
         ],

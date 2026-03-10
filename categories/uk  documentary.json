@@ -20,16 +20,6 @@
         "country": ""
     },
     {
-        "name": "UK: Discovery H&H",
-        "id": "ukdiscoveryhh",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-05/59b460f06ce3699803cbb4a3d84ece1f.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/282757",
-        "categories": [
-            "uk ➾ documentary"
-        ],
-        "country": ""
-    },
-    {
         "name": "UK: Discovery History",
         "id": "ukdiscoveryhistory",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/b0e6338fdd9b3b61300bb3469f76e3b0.png",
@@ -44,16 +34,6 @@
         "id": "ukdiscoveryhistory1",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-08/dc89bc1e697113bf71d2525095140349.jpg",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299756",
-        "categories": [
-            "uk ➾ documentary"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UK: Discovery Sci",
-        "id": "ukdiscoverysci",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-07/4313043ba65ca16ab20dd8638da9b160.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/300573",
         "categories": [
             "uk ➾ documentary"
         ],
@@ -214,6 +194,26 @@
         "id": "ukyesterday1",
         "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/296270",
+        "categories": [
+            "uk ➾ documentary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: Crime+ Investigation",
+        "id": "ukcrimeinvestigation",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/5922afa182b23da0f8e8d980a104b42c.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/734",
+        "categories": [
+            "uk ➾ documentary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: True Crime",
+        "id": "uktruecrime",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-02/75d66d381bacf4cdbbd65ae6ae865cd2.svg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/63226",
         "categories": [
             "uk ➾ documentary"
         ],

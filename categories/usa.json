@@ -300,16 +300,6 @@
         "country": ""
     },
     {
-        "name": "US: ABC Omaha Nebraska KETV TV",
-        "id": "usabcomahanebraskaketvtv",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-01/0fe07b0c2159b3ce24c6d0f7395b3f5f.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/301507",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US: ABC Seattle Washington KOMO TV",
         "id": "usabcseattlewashingtonkomotv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-04/a8a50bcb0c0a4b05b6273f7001819f24.png",
@@ -324,16 +314,6 @@
         "id": "usabcspokanewashingtonkxlytv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-06/13a4ac77b6828e1d6093993d165bd825.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299108",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US: ABC Weslaco Texas KRGV TV",
-        "id": "usabcweslacotexaskrgvtv",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-06/3ed88453bb4c72dd2712f8c421d64ba5.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299126",
         "categories": [
             "usa"
         ],
@@ -510,30 +490,10 @@
         "country": ""
     },
     {
-        "name": "US: CBS Abilene Texas KTAB TV",
-        "id": "uscbsabilenetexasktabtv",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-12/5f73a70bfa083ca269803a701b22b3b9.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/306118",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US: CBS Austin Texas KEYE TV",
         "id": "uscbsaustintexaskeyetv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-06/93f900563f2b3b6e1edc1616b0194778.svg",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299116",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US: CBS Bangor Maine WABI-TV (WABI 5)",
-        "id": "uscbsbangormainewabitvwabi5",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-12/252698bc85090827969a7d797d81a2db.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/306209",
         "categories": [
             "usa"
         ],
@@ -950,16 +910,6 @@
         "country": ""
     },
     {
-        "name": "US: Music Choice Alternative",
-        "id": "usmusicchoicealternative",
-        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299719",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US: My Fredericksburg Texas KCWX TV",
         "id": "usmyfredericksburgtexaskcwxtv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-11/c2c91cb2ff38de80ad6d2d2b3677c007.png",
@@ -984,16 +934,6 @@
         "id": "usmytvsanantoniotxkcwxtv",
         "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307893",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US: NBC",
-        "id": "usnbc",
-        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/2743",
         "categories": [
             "usa"
         ],
@@ -1324,6 +1264,96 @@
         "id": "usyahoofinance",
         "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/282290",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: Cinemax Test",
+        "id": "uscinemaxtest",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/302373",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: Fox Business Network",
+        "id": "usfoxbusinessnetwork",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/201099",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: San Jose California KICU TV",
+        "id": "ussanjosecaliforniakicutv",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-06/7d1b765bd757b7109562062e8132dcd7.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/198129",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: CBS Tampas",
+        "id": "uscbstampas",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/umer.zia660/e7388412/82316",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: Investment Pitch",
+        "id": "usinvestmentpitch",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/umer.zia660/e7388412/301488",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: FreeRom HD",
+        "id": "freeform.us",
+        "logo": "",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/5234",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: Fusion",
+        "id": "fusion.us",
+        "logo": "",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/22901",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: FX HD",
+        "id": "fx (east).us",
+        "logo": "[",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/5231",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: Showtime Showcase",
+        "id": "showtime showcase (east).us",
+        "logo": "[",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/5402",
         "categories": [
             "usa"
         ],

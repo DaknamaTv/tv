@@ -200,16 +200,6 @@
         "country": ""
     },
     {
-        "name": "US: FilmRise Z Nation",
-        "id": "usfilmriseznation",
-        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307937",
-        "categories": [
-            "usa ➾ movie"
-        ],
-        "country": ""
-    },
-    {
         "name": "US: FX",
         "id": "usfx",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/e1f7476fbe35270653143a6a21389a85.png",
@@ -244,16 +234,6 @@
         "id": "usgacfamily",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-01/82093475f229278c34bb85f394522e95.svg",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/200075",
-        "categories": [
-            "usa ➾ movie"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US: Gravitas Movies",
-        "id": "usgravitasmovies",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-08/5ae9b59f43fe97054b01bf6701d69b85.jpeg",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/281943",
         "categories": [
             "usa ➾ movie"
         ],
@@ -494,16 +474,6 @@
         "id": "usshowtimeextreme",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/91d1636d38818d7397f8c2f1cd44790d.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/12036",
-        "categories": [
-            "usa ➾ movie"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US: Showtime Family Zone",
-        "id": "usshowtimefamilyzone",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/3c4f0b00a93b31f60ee2c0bb87de2d7f.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/16139",
         "categories": [
             "usa ➾ movie"
         ],
@@ -904,6 +874,46 @@
         "id": "uswetv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/8c8ea3f9f6d4ae957097d9c7a17027bb.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/6347",
+        "categories": [
+            "usa ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: AMC",
+        "id": "usamc",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/5bb3f9aa12c2cba0aa25e490840e57ba.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/751",
+        "categories": [
+            "usa ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: Folk TV",
+        "id": "usfolktv",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-06/6d4d9398798e17c19fdee8faae5e0027.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/197731",
+        "categories": [
+            "usa ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: Logo",
+        "id": "uslogo",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/166b30c3e10438645218c7be7e1dcaed.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/150607",
+        "categories": [
+            "usa ➾ movie"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: Starz Cinema",
+        "id": "usstarzcinema",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/c4b96c7068312d06a011d2b3f3fd42c6.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/767",
         "categories": [
             "usa ➾ movie"
         ],

@@ -659,16 +659,6 @@
         "country": "BR"
     },
     {
-        "name": "BDC TV",
-        "id": "BDCTV.br",
-        "logo": "https://i.imgur.com/6ckHV6k.jpeg",
-        "url": "https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Aparecida",
         "id": "TVAparecida.br",
         "logo": "https://i.imgur.com/kxrja0X.png",
@@ -767,14 +757,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Sul Bahia",
-        "id": "TVSulBahia.br",
-        "logo": "https://i.imgur.com/qM6nMWm.png",
-        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "Sertao TV",
         "id": "SertaoTV.br",
         "logo": "https://i.imgur.com/b5xOCsC.png",
@@ -823,30 +805,12 @@
         "country": "BR"
     },
     {
-        "name": "Boas Novas",
-        "id": "BoasNovas.br",
-        "logo": "https://i.imgur.com/ZqhizdP.png",
-        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "Canal 38",
         "id": "Canal38.br",
         "logo": "https://i.imgur.com/co7TCWC.png",
         "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Cultura Para",
-        "id": "CulturaPara.br",
-        "logo": "https://i.imgur.com/5jPEI5c.png",
-        "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "BR"
     },
@@ -1033,6 +997,26 @@
         "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Futuro",
+        "id": "TVFuturo.br",
+        "logo": "https://i.imgur.com/xonrNBf.png",
+        "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Sim Sao Mateus",
+        "id": "TVSimSaoMateus.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "BR"
     }

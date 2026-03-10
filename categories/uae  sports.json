@@ -10,16 +10,6 @@
         "country": ""
     },
     {
-        "name": "AE: Abu Dhabi Sports 2",
-        "id": "aeabudhabisports2",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/8a35d5aa933df9c7198e9bcaf798352e.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/1295",
-        "categories": [
-            "uae ➾ sports"
-        ],
-        "country": ""
-    },
-    {
         "name": "AE: Abu Dhabi Sports 3",
         "id": "aeabudhabisports3",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/4e6259d49c86aacaab2382ab04b6ad53.png",
@@ -124,6 +114,16 @@
         "id": "aeyastv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/92a0bf96d4ab9376e8d1e8750326186a.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/22009",
+        "categories": [
+            "uae ➾ sports"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AE: StarzPlay Criclife 1",
+        "id": "aestarzplaycriclife1",
+        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/umer.zia660/e7388412/297605",
         "categories": [
             "uae ➾ sports"
         ],

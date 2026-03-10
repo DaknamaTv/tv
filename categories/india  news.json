@@ -210,16 +210,6 @@
         "country": ""
     },
     {
-        "name": "IN: Gulistan News",
-        "id": "ingulistannews",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2025-10/5ced22029817e9bb11ac9e3243e755c4.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/193107",
-        "categories": [
-            "india ➾ news"
-        ],
-        "country": ""
-    },
-    {
         "name": "IN: IBC 24",
         "id": "inibc24",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-04/b5399c7a0b54fe37ba78bf4bf9448e5b.jpg",
@@ -424,16 +414,6 @@
         "id": "innews18malayalam",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2022-02/868f9af6f14d9f113a17eccd28a7655c.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/283926",
-        "categories": [
-            "india ➾ news"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IN: News 18 Punjab",
-        "id": "innews18punjab",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-07/c05f054b4189eb8fad513a19ca970078.jpeg",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/197949",
         "categories": [
             "india ➾ news"
         ],
@@ -874,6 +854,46 @@
         "id": "inzeeuttarpradeshuttarakhand",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2025-10/f1c22b19a3099bdb3d2f9e9765581bf3.svg",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/192971",
+        "categories": [
+            "india ➾ news"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IN: NDTV MPCG",
+        "id": "inndtvmpcg",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2025-02/d4b38c36a6bb62f7e8d2c9c4503237ec.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/306536",
+        "categories": [
+            "india ➾ news"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IN: News 18 Kannada",
+        "id": "innews18kannada",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-07/9a820c7972512f179fbfedff4a2d256a.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/193115",
+        "categories": [
+            "india ➾ news"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IN: Puthiya Thalaimurai",
+        "id": "inputhiyathalaimurai",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-02/10ee58a7d3bfab98c84935de70beef73.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/193035",
+        "categories": [
+            "india ➾ news"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IN: TV 9 Marathi",
+        "id": "intv9marathi",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/11adf97a1f11e433ee0133750c6f8eb5.svg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/193016",
         "categories": [
             "india ➾ news"
         ],

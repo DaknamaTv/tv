@@ -554,6 +554,16 @@
         "country": "ID"
     },
     {
+        "name": "iNews",
+        "id": "iNews.id",
+        "logo": "https://i.imgur.com/M2R3lfg.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd",
+        "categories": [
+            "news"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "Espreso TV",
         "id": "EspresoTV.ua",
         "logo": "https://i.imgur.com/xNatV8K.png",
@@ -2528,30 +2538,10 @@
         "country": "IN"
     },
     {
-        "name": "VBC News",
-        "id": "VBCNews.in",
-        "logo": "https://i.imgur.com/SvXCjha.png",
-        "url": "https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Bada Khabar",
         "id": "BadaKhabar.in",
         "logo": "https://i.imgur.com/XiwygDJ.png",
         "url": "https://stream.ashokadigital.net/badakhabar/badakhabar/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Goa365",
-        "id": "Goa365.in",
-        "logo": "https://www.goa365.tv/images/GOA-365-Logo.jpg",
-        "url": "https://ktismaservers.in:3086/live/goa365live.m3u8",
         "categories": [
             "news"
         ],
@@ -2889,6 +2879,56 @@
         "country": "DO"
     },
     {
+        "name": "Citrico TV",
+        "id": "CitricoTV.do",
+        "logo": "https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg",
+        "url": "https://mlb.essastream.com:8081/citricotv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Hermanas Mirabal TV",
+        "id": "HermanasMirabalTV.do",
+        "logo": "https://i.imgur.com/cbKgcGh.png",
+        "url": "https://fox.hostlagarto.com:8081/hmtv/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Noticias 16",
+        "id": "Noticias16.do",
+        "logo": "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png",
+        "url": "https://mlb.essastream.com:8081/noticias16/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "RDN",
+        "id": "RDN.do",
+        "logo": "https://i.imgur.com/x02CGSW.png",
+        "url": "https://mlb.essastream.com:8081/rdntv/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Television del Este",
+        "id": "TelevisiondelEste.do",
+        "logo": "https://i.imgur.com/mmjbcGr.png",
+        "url": "https://mlb.essastream.com:8081/televisiondeleste/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Radio Ancon",
         "id": "RadioAncon.pa",
         "logo": "https://i.imgur.com/xum8PNe.jpg",
@@ -2916,19 +2956,6 @@
         "categories": [
             "news",
             "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
         ],
         "country": "VN"
     },
@@ -4296,6 +4323,16 @@
         "country": "BR"
     },
     {
+        "name": "TV Sim Sao Mateus",
+        "id": "TVSimSaoMateus.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "ETV",
         "id": "ETV.mn",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/512px-ETV_Mongolia_logo.png",
@@ -4324,16 +4361,6 @@
             "news"
         ],
         "country": "MN"
-    },
-    {
-        "name": "NBC 2",
-        "id": "NBC2.na",
-        "logo": "https://i.imgur.com/A6jxUvU.png",
-        "url": "https://hls2.nbcplus.na/hls/high_nbc2.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "NA"
     },
     {
         "name": "News 24",

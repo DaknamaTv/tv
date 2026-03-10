@@ -540,16 +540,6 @@
         "country": ""
     },
     {
-        "name": "IT: MTV",
-        "id": "itmtv",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-10/c957f9f900c3468fc3497a351c7ac392.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/63276",
-        "categories": [
-            "italy"
-        ],
-        "country": ""
-    },
-    {
         "name": "IT: OL3 Radio",
         "id": "itol3radio",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2022-07/c0b370252566c8eb4295ea719e149aa5.png",
@@ -744,16 +734,6 @@
         "id": "itsteuropechannel",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-07/375ac841a7b567cc0d7841c1ef64de0f.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/299507",
-        "categories": [
-            "italy"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IT: Super TV Aristanis",
-        "id": "itsupertvaristanis",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-07/a02dd986c6537f72d01dd02bbc6df3ee.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/297041",
         "categories": [
             "italy"
         ],
@@ -1150,16 +1130,6 @@
         "country": ""
     },
     {
-        "name": "IT: Videolina",
-        "id": "itvideolina",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-07/fcb2436f8ad6dd747a98afa1ef679795.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/260367",
-        "categories": [
-            "italy"
-        ],
-        "country": ""
-    },
-    {
         "name": "IT: Videostar TV",
         "id": "itvideostartv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-07/5a109ae4585418eff566acad14c3c936.png",
@@ -1170,20 +1140,130 @@
         "country": ""
     },
     {
-        "name": "IT: VideoTolentino",
-        "id": "itvideotolentino",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-07/02a705e9a6716b14b07da7d8d5e3b355.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/173567",
+        "name": "IT: Yu-Gi-Oh! Italy",
+        "id": "ityugiohitaly",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307956",
         "categories": [
             "italy"
         ],
         "country": ""
     },
     {
-        "name": "IT: Yu-Gi-Oh! Italy",
-        "id": "ityugiohitaly",
-        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307956",
+        "name": "IT: Globus Television",
+        "id": "itglobustelevision",
+        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/74312",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: Rai 2 FHD",
+        "id": "rai2.it",
+        "logo": "",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/50163",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: Rai 3 FHD",
+        "id": "rai3.it",
+        "logo": "",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/50164",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: Rai 4 FHD",
+        "id": "rai4.it",
+        "logo": "",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/50165",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: Rai 5 FHD",
+        "id": "rai5.it",
+        "logo": "",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/50166",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: Italia 2 HD",
+        "id": "italia2.it",
+        "logo": "[",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/18716",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RSI LA 2 FHD",
+        "id": "rsila2.ch",
+        "logo": "",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/50171",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: La7 HD",
+        "id": "la7 hd.it",
+        "logo": "",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/18721",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: Canale 8 FHD",
+        "id": "tv8.it",
+        "logo": "",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/80541",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: Mediaset Italia 2 FHD",
+        "id": "mediaset italia2 hd.it",
+        "logo": "",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/80561",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: La 7 HD",
+        "id": "la7.it",
+        "logo": "[",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/983",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RSI La 1 HD",
+        "id": "rsi la 1 hd ch",
+        "logo": "",
+        "url": "http://supiptv.vip:8080/xg0kF4Uq/f685eCma/984",
         "categories": [
             "italy"
         ],

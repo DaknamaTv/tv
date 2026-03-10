@@ -330,16 +330,6 @@
         "country": ""
     },
     {
-        "name": "FR: CANALPLAY 15",
-        "id": "frcanalplay15",
-        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/146593",
-        "categories": [
-            "france"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: CANALPLAY 16",
         "id": "frcanalplay16",
         "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
@@ -754,6 +744,46 @@
         "id": "frxilamtv",
         "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307990",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: A LA CARTE 17",
+        "id": "fralacarte17",
+        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/225458",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: Canal Play 7",
+        "id": "frcanalplay7",
+        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/230",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: EmotionL",
+        "id": "fremotionl",
+        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/306159",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: TV Pitchoun",
+        "id": "frtvpitchoun",
+        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-12/14b28660a273142c7e67346c283aa251.jpg",
+        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/300844",
         "categories": [
             "france"
         ],
