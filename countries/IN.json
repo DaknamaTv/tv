@@ -1874,16 +1874,6 @@
         "country": "IN"
     },
     {
-        "name": "Janta TV",
-        "id": "JantaTV.in",
-        "logo": "https://i.imgur.com/0nKfwhV.png",
-        "url": "https://live.jswk.online/IK_RTPM/live/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "News18 Bihar Jharkhand",
         "id": "News18BiharJharkhand.in",
         "logo": "https://dtil.tmsimg.com/assets/s143608_ld_h9_aa.png?lock=720x540",
@@ -2709,16 +2699,6 @@
         "url": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Kite Victers",
-        "id": "KiteVicters.in",
-        "logo": "https://i.imgur.com/kj4OEsb.png",
-        "url": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
-        "categories": [
-            "education"
         ],
         "country": "IN"
     },
@@ -4053,16 +4033,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Music",
-        "id": "ZBMusic.in",
-        "logo": "https://i.imgur.com/k1nb8u1.jpeg",
-        "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Namdhari TV",
         "id": "NamdhariTV.in",
         "logo": "https://i.imgur.com/NalsXTo.png",
@@ -4473,16 +4443,6 @@
         "country": "IN"
     },
     {
-        "name": "Colors Super",
-        "id": "ColorsSuper.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158240_ld_h15_aa.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0484/master.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "ETV Bal Bharat",
         "id": "ETVBalBharat.in",
         "logo": "https://i.imgur.com/zsTxPV9.png",
@@ -4638,56 +4598,6 @@
         "id": "SonyEntertainmentTelevision.in",
         "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Sports Ten 1",
-        "id": "SonySportsTen1.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.121.6.5:8000/play/a05w/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Maa Gold",
-        "id": "StarMaaGold.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143822_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.121.6.5:8000/play/a063/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports 2",
-        "id": "StarSports2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.121.6.5:8000/play/a05u/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports 3",
-        "id": "StarSports3.in",
-        "logo": "https://i.imgur.com/dbp2Mig.png",
-        "url": "http://103.121.6.5:8000/play/a05y/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Zee Bangla",
-        "id": "ZeeBangla.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540",
-        "url": "http://103.161.153.165:8000/play/zeebnhd/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -5239,16 +5149,6 @@
         "id": "StarSports2Kannada.in",
         "logo": "https://dtil.tmsimg.com/assets/s143847_ld_h15_aa.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0422/master.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports 2 Telugu",
-        "id": "StarSports2Telugu.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158351_ld_h15_ab.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8",
         "categories": [
             "sports"
         ],
@@ -5843,6 +5743,126 @@
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0202/master.m3u8",
         "categories": [
             "travel"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "CCV",
+        "id": "CCV.in",
+        "logo": "https://i.imgur.com/4ss0KfA.png",
+        "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Goa365",
+        "id": "Goa365.in",
+        "logo": "https://www.goa365.tv/images/GOA-365-Logo.jpg",
+        "url": "https://ktismaservers.in:3086/live/goa365live.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Moon TV",
+        "id": "MoonTV.in",
+        "logo": "https://i.imgur.com/3l25EZI.png",
+        "url": "https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 1",
+        "id": "SonySportsTen1.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0369/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Maa Gold",
+        "id": "StarMaaGold.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143822_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0480/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 2",
+        "id": "StarSports2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0413/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 3",
+        "id": "StarSports3.in",
+        "logo": "https://i.imgur.com/dbp2Mig.png",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0414/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Steelbird Music",
+        "id": "SteelbirdMusic.in",
+        "logo": "https://i.imgur.com/Egijzx3.png",
+        "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Swantham",
+        "id": "Swantham.in",
+        "logo": "https://i.imgur.com/ye6v4GP.png",
+        "url": "http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Travelxp",
+        "id": "Travelxp.in",
+        "logo": "https://i.imgur.com/HUWEnc5.png",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0118/master.m3u8",
+        "categories": [
+            "travel"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "VBC News",
+        "id": "VBCNews.in",
+        "logo": "https://i.imgur.com/SvXCjha.png",
+        "url": "https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Bangla",
+        "id": "ZeeBangla.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0512/master.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "IN"
     }

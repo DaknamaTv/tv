@@ -50,26 +50,6 @@
         "country": ""
     },
     {
-        "name": "About K-Content by CJ ENM",
-        "id": "aboutkcontentbycjenm",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ed1ad60fa9a05f34bf5d4e8b09460d6b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1665780149983_INFO_HUD_72dpi_copy.png",
-        "url": "https://jmp2.uk/rok-ed1ad60fa9a05f34bf5d4e8b09460d6b.m3u8",
-        "categories": [
-            "roku-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sensical Gaming",
-        "id": "sensicalgaming",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ac7629367b3f5fae93753623469c440d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1667323738009_Sensical_Gaming_Logo_EFEFEF-CENTER.png",
-        "url": "https://jmp2.uk/rok-ac7629367b3f5fae93753623469c440d.m3u8",
-        "categories": [
-            "roku-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "This Old House Shorts",
         "id": "thisoldhouseshorts",
         "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ccfcc3307fa908684a95bf9643b1b935/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1754514295581_TOHShorts_InfoHUD_Mono.png",
@@ -110,10 +90,80 @@
         "country": ""
     },
     {
-        "name": "Cuando Los Angeles Caen",
-        "id": "cuandolosangelescaen",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/a61227fe8ede21ffc0e223763ccbe42f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1760152096030_CLAC_260X147_EFEFEF.png",
-        "url": "https://jmp2.uk/rok-a61227fe8ede21ffc0e223763ccbe42f.m3u8",
+        "name": "N+ Univision 24/7",
+        "id": "nunivision247",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5a28fbf15c135b51b3638e8bd02d6577/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1772737218229_NMasUnivision247_RokuHUD_260x147_White.png",
+        "url": "https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Homeful en Español",
+        "id": "homefulenespaol",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5dd7bdd7b320a81dd501cfac172db9c1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1762753422169_Homeful_Roku_ChannelAssets_Espanol_InfoHudLogo_260x147.png",
+        "url": "https://jmp2.uk/rok-5dd7bdd7b320a81dd501cfac172db9c1.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Vas O No Vas USA",
+        "id": "vasonovasusa",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/cdfd1ee39343a406984976d2687e894d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765921837825_DealOrNoDealUSA-LATAM_HUD_logo_260x147.png",
+        "url": "https://jmp2.uk/rok-cdfd1ee39343a406984976d2687e894d.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILMEX Comedia",
+        "id": "filmexcomedia",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8b2c97d22c7fed4d9d302a1796d5e009/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766446177723_FMXcom_HUD_WHITE.png",
+        "url": "https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV Amor",
+        "id": "tvamor",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/bdb3cb29453a137748dfaeadae2f9d2b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765320641655_jira-generated-image-static-b6689660-306d-406e-adcb-d123fd2f979c.png",
+        "url": "https://jmp2.uk/rok-bdb3cb29453a137748dfaeadae2f9d2b.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILMEX Acción",
+        "id": "filmexaccin",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/f53e794f65b781ff1a0d37843c704827/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766446354112_FMXac_HUD_WHITE.png",
+        "url": "https://jmp2.uk/rok-f53e794f65b781ff1a0d37843c704827.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Cine de Horror",
+        "id": "cinedehorror",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/308d792301e9897cbd41d0390abef68f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758347646934_Logo_Cine_de_horror_260-x-147px_color_efefef_alineado_al_borde_superior.png",
+        "url": "https://jmp2.uk/rok-308d792301e9897cbd41d0390abef68f.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Mi Raza",
+        "id": "miraza",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/1cec89adc1796217721b1ee2cb21255c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1764878529442_UHD_Logo_Mi_Raza_260x147.png",
+        "url": "https://jmp2.uk/rok-1cec89adc1796217721b1ee2cb21255c.m3u8",
         "categories": [
             "roku-all"
         ],

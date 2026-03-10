@@ -2340,26 +2340,6 @@
         "country": ""
     },
     {
-        "name": "TNS Sports-2",
-        "id": "tnssports2",
-        "logo": "",
-        "url": "https://7pal.short.gy/tntspts2",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "discovery hd",
-        "id": "discoveryhd",
-        "logo": "https://tvassets.roarzone.info/images/43.png",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=bced1a3a089e76ba396fc4f4bcf7513958d80d12-0d757d268d8c45552fee77ad512d6df8-1773055475-1773051875",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "zee bangla",
         "id": "zeebangla",
         "logo": "https://tvassets.roarzone.info/images/34.png",
@@ -2424,6 +2404,66 @@
         "id": "arydigital",
         "logo": "",
         "url": "https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v1a1/mono.ts.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "movie bangla tv",
+        "id": "moviebanglatv",
+        "logo": "https://tvassets.roarzone.info/images/86.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/movie-bangla/index.m3u8?token=cf2861677d78088e4ec7934fe6a06301fb959bcb-82f52cac0e9c1ef9434afb79ea67afdb-1773140855-1773137255",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ATN Music",
+        "id": "atnmusic",
+        "logo": "",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BTV News",
+        "id": "btvnews",
+        "logo": "",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Channel-16",
+        "id": "channel16",
+        "logo": "",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ASTRO SPORTS PLUS",
+        "id": "astrosportsplus",
+        "logo": "",
+        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Astro SPORTS Primier",
+        "id": "astrosportsprimier",
+        "logo": "",
+        "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
         "categories": [
             "bd"
         ],

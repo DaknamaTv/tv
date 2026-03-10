@@ -231,6 +231,26 @@
         "country": "CR"
     },
     {
+        "name": "Vintage Music",
+        "id": "VintageMusic.cr",
+        "logo": "https://i.imgur.com/KImqYnN.jpeg",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "VM Latino",
+        "id": "VMLatino.cr",
+        "logo": "https://i.imgur.com/Dvo1b82.png",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
         "name": "MuzzOne",
         "id": "MuzzOne.kz",
         "logo": "https://i.imgur.com/nHVABXh.png",
@@ -986,16 +1006,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Music",
-        "id": "ZBMusic.in",
-        "logo": "https://i.imgur.com/k1nb8u1.jpeg",
-        "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Mastiii",
         "id": "Mastiii.in",
         "logo": "https://i.imgur.com/lxgXHx4.png",
@@ -1081,6 +1091,16 @@
         "id": "MarutamMusic.in",
         "logo": "",
         "url": "https://mntv.livebox.co.in/musichls/live.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Steelbird Music",
+        "id": "SteelbirdMusic.in",
+        "logo": "https://i.imgur.com/Egijzx3.png",
+        "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
         "categories": [
             "music"
         ],
@@ -1768,6 +1788,19 @@
             "music"
         ],
         "country": "PA"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
     },
     {
         "name": "Melody",
@@ -2819,6 +2852,26 @@
         "country": "GR"
     },
     {
+        "name": "NRG 91",
+        "id": "NRG91.gr",
+        "logo": "https://i.imgur.com/1Zl1OJ5.png",
+        "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "GR"
+    },
+    {
+        "name": "NRG TV",
+        "id": "NRGTV.gr",
+        "logo": "https://i.imgur.com/1Zl1OJ5.png",
+        "url": "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "GR"
+    },
+    {
         "name": "Mosaique FM",
         "id": "MosaiqueFM.tn",
         "logo": "https://i.imgur.com/GDUykah.png",
@@ -2827,6 +2880,16 @@
             "music"
         ],
         "country": "TN"
+    },
+    {
+        "name": "BOKTV",
+        "id": "BOKTV.za",
+        "logo": "https://i.imgur.com/mcNjuuO.png",
+        "url": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "ZA"
     },
     {
         "name": "Radio Carnaval TV",
@@ -2956,6 +3019,16 @@
         "id": "STZTelebista.es",
         "logo": "https://i.imgur.com/rFQuAEv.png",
         "url": "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "RTV Vida",
+        "id": "RTVVida.es",
+        "logo": "https://i.imgur.com/EqUfEAh.png",
+        "url": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
         "categories": [
             "music"
         ],
@@ -3120,6 +3193,16 @@
             "music"
         ],
         "country": "PH"
+    },
+    {
+        "name": "Melody FM",
+        "id": "MelodyFM.jo",
+        "logo": "https://i.imgur.com/J8omcNz.png",
+        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "JO"
     },
     {
         "name": "Couleur 3",
@@ -3570,6 +3653,36 @@
         "id": "WVCULP.us",
         "logo": "https://upload.wikimedia.org/wikipedia/en/0/0f/WVCU-LP_2015.PNG",
         "url": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Avang TV",
+        "id": "AvangTV.us",
+        "logo": "https://i.imgur.com/3I1n7fO.png",
+        "url": "https://hls.avang.live/hls/stream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV MTV Classic",
+        "id": "PlutoTVMTVClassic.us",
+        "logo": "https://i.imgur.com/NPavpts.png",
+        "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "RJTV",
+        "id": "RJTV.us",
+        "logo": "https://i.imgur.com/a1zuW2C.png",
+        "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
         "categories": [
             "music"
         ],
@@ -4153,6 +4266,16 @@
         "id": "RockTV.ro",
         "logo": "https://i.imgur.com/VB88A5V.png",
         "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Tele7music",
+        "id": "Tele7music.ro",
+        "logo": "https://i.imgur.com/11b5W8u.png",
+        "url": "https://live.tele7music.ro/hls/stream/index.m3u8",
         "categories": [
             "music"
         ],

@@ -220,6 +220,16 @@
         "country": "RU"
     },
     {
+        "name": "MMA-TV.com",
+        "id": "MMATVcom.ru",
+        "logo": "https://i.imgur.com/QhdxNsB.png",
+        "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "DD Sports",
         "id": "DDSports.in",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
@@ -264,36 +274,6 @@
         "id": "SonySportsTen5.in",
         "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
         "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Sports Ten 1",
-        "id": "SonySportsTen1.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.121.6.5:8000/play/a05w/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports 2",
-        "id": "StarSports2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.121.6.5:8000/play/a05u/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports 3",
-        "id": "StarSports3.in",
-        "logo": "https://i.imgur.com/dbp2Mig.png",
-        "url": "http://103.121.6.5:8000/play/a05y/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -360,16 +340,6 @@
         "country": "IN"
     },
     {
-        "name": "Star Sports 2 Telugu",
-        "id": "StarSports2Telugu.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158351_ld_h15_ab.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Star Sports Khel",
         "id": "StarSportsKhel.in",
         "logo": "https://dtil.tmsimg.com/assets/s143809_ld_h15_ab.png?lock=720x540",
@@ -384,6 +354,36 @@
         "id": "SonySportsTen2.in",
         "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0365/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 1",
+        "id": "SonySportsTen1.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0369/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 2",
+        "id": "StarSports2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0413/master.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports 3",
+        "id": "StarSports3.in",
+        "logo": "https://i.imgur.com/dbp2Mig.png",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0414/master.m3u8",
         "categories": [
             "sports"
         ],
@@ -537,6 +537,16 @@
         "categories": [
             "sports",
             "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "HTV Sports",
+        "id": "HTVSports.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "VN"
     },
@@ -821,16 +831,6 @@
             "sports"
         ],
         "country": "MN"
-    },
-    {
-        "name": "Belarus-5",
-        "id": "Belarus5.by",
-        "logo": "https://i.imgur.com/NJsRFud.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "BY"
     },
     {
         "name": "Alkass Five",
@@ -1418,16 +1418,6 @@
         "id": "RacerSelect.us",
         "logo": "https://i.imgur.com/CurtYvn.png",
         "url": "https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "NFL RedZone",
-        "id": "NFLRedZone.us",
-        "logo": "https://i.imgur.com/5lPqQj5.png",
-        "url": "https://tvpass.org/live/NFLRedZone/sd",
         "categories": [
             "sports"
         ],
