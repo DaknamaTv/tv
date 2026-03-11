@@ -254,16 +254,6 @@
         "country": "RO"
     },
     {
-        "name": "Comedy Play",
-        "id": "ComedyPlay.ro",
-        "logo": "https://i.imgur.com/6kAeVOk.png",
-        "url": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8",
-        "categories": [
-            "comedy"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Hello Taste",
         "id": "HelloTaste.ro",
         "logo": "https://i.imgur.com/TdKO0er.png",
@@ -356,7 +346,7 @@
     {
         "name": "TVR Sport",
         "id": "TVRSport.ro",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/320px-TVR_Sport_Logo_2023.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png",
         "url": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8",
         "categories": [
             "general",
@@ -671,6 +661,16 @@
         "url": "https://live.tele7music.ro/hls/stream/index.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "JOB TV",
+        "id": "JOBTV.ro",
+        "logo": "https://i.imgur.com/UzcZNe3.png",
+        "url": "https://jobtvserver.eu/hls/stream.m3u8",
+        "categories": [
+            "business"
         ],
         "country": "RO"
     }

@@ -62,7 +62,7 @@
     {
         "name": "Cinema One",
         "id": "CinemaOne.ph",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd",
         "categories": [
             "movies"
@@ -82,7 +82,7 @@
     {
         "name": "Kapamilya Channel",
         "id": "KapamilyaChannel.ph",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/512px-Kapamilya_Channel_Logo_2020.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/960px-Kapamilya_Channel_Logo_2020.svg.png",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd",
         "categories": [
             "entertainment"
@@ -145,14 +145,6 @@
         "categories": [
             "religious"
         ],
-        "country": "PH"
-    },
-    {
-        "name": "PTV",
-        "id": "PTV.ph",
-        "logo": "https://i.imgur.com/MMccHNd.png",
-        "url": "https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8",
-        "categories": [],
         "country": "PH"
     }
 ]

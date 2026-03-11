@@ -1570,16 +1570,6 @@
         "country": ""
     },
     {
-        "name": "MaasrangaTV",
-        "id": "maasrangatv",
-        "logo": "",
-        "url": "https://playztv-apps.pages.dev/maasranga-tv/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Star Sports 1 Hindi HD",
         "id": "starsports1hindihd",
         "logo": "",
@@ -2080,16 +2070,6 @@
         "country": ""
     },
     {
-        "name": "Amazon SAT",
-        "id": "amazonsat",
-        "logo": "",
-        "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Ekushey TV",
         "id": "ekusheytv",
         "logo": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
@@ -2464,6 +2444,16 @@
         "id": "astrosportsprimier",
         "logo": "",
         "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "discovery hd",
+        "id": "discoveryhd",
+        "logo": "https://tvassets.roarzone.info/images/43.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=1a45d2e15f67a797ee688c668d1d700b26cf170a-95740fc4df4e81575a830675d9625777-1773188216-1773184616",
         "categories": [
             "bd"
         ],

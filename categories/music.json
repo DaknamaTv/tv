@@ -231,20 +231,20 @@
         "country": "CR"
     },
     {
-        "name": "Vintage Music",
-        "id": "VintageMusic.cr",
-        "logo": "https://i.imgur.com/KImqYnN.jpeg",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+        "name": "VM Latino",
+        "id": "VMLatino.cr",
+        "logo": "https://i.imgur.com/Dvo1b82.png",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
         "categories": [
             "music"
         ],
         "country": "CR"
     },
     {
-        "name": "VM Latino",
-        "id": "VMLatino.cr",
-        "logo": "https://i.imgur.com/Dvo1b82.png",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+        "name": "SOY Plancha TV",
+        "id": "SOYPlanchaTV.cr",
+        "logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -283,7 +283,7 @@
     {
         "name": "Hitradio O3",
         "id": "HitradioO3.at",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/512px-Hitradio_%C3%963.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png",
         "url": "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8",
         "categories": [
             "music"
@@ -299,16 +299,6 @@
             "music"
         ],
         "country": "AT"
-    },
-    {
-        "name": "Music Information Channel",
-        "id": "MusicInformationChannel.id",
-        "logo": "https://i.imgur.com/OUPGCWG.png",
-        "url": "https://mic.siar.us/mic/live/mic.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "ID"
     },
     {
         "name": "Lingkar TV",
@@ -361,6 +351,16 @@
             "music"
         ],
         "country": "EG"
+    },
+    {
+        "name": "VAM TV",
+        "id": "VAMTV.cw",
+        "logo": "https://i.imgur.com/CD1PffA.png",
+        "url": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CW"
     },
     {
         "name": "Gaan Bangla",
@@ -728,7 +728,7 @@
     {
         "name": "Music India",
         "id": "MusicIndia.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png",
         "url": "https://cdn-2.pishow.tv/live/226/master.m3u8",
         "categories": [
             "music"
@@ -738,7 +738,7 @@
     {
         "name": "Peppers TV",
         "id": "PeppersTV.in",
-        "logo": "https://i.imgur.com/5PyJj2n.png",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png",
         "url": "https://cdn-2.pishow.tv/live/1383/master.m3u8",
         "categories": [
             "music"
@@ -748,7 +748,7 @@
     {
         "name": "9X Jhakaas",
         "id": "9XJhakaas.in",
-        "logo": "https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png",
         "url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
         "categories": [
             "music"
@@ -758,7 +758,7 @@
     {
         "name": "Dhamaal",
         "id": "Dhamaal.in",
-        "logo": "https://i.imgur.com/J6D56EF.png",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png",
         "url": "https://cdn-1.pishow.tv/live/1291/master.m3u8",
         "categories": [
             "music"
@@ -768,7 +768,7 @@
     {
         "name": "Raj Musix Telugu",
         "id": "RajMusixTelugu.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143708_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png",
         "url": "https://cdn-1.pishow.tv/live/1213/master.m3u8",
         "categories": [
             "music"
@@ -778,7 +778,7 @@
     {
         "name": "PTC Chakde",
         "id": "PTCChakde.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143681_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Chak_De.png",
         "url": "https://cdn-1.pishow.tv/live/449/master.m3u8",
         "categories": [
             "music"
@@ -788,7 +788,7 @@
     {
         "name": "PTC Music",
         "id": "PTCMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143682_ld_h15_ab.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Music.png",
         "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8",
         "categories": [
             "music"
@@ -798,7 +798,7 @@
     {
         "name": "Sangeet Bhojpuri",
         "id": "SangeetBhojpuri.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png",
         "url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
         "categories": [
             "music"
@@ -828,7 +828,7 @@
     {
         "name": "Public Music",
         "id": "PublicMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Public_Music.png",
         "url": "https://cdn-3.pishow.tv/live/441/master.m3u8",
         "categories": [
             "music"
@@ -838,7 +838,7 @@
     {
         "name": "9X Jalwa",
         "id": "9XJalwa.in",
-        "logo": "https://i.imgur.com/qubgOi5.png",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9XJalwa.png",
         "url": "https://mumt03.tangotv.in/9XJALWA/index.m3u8",
         "categories": [
             "music"
@@ -858,7 +858,7 @@
     {
         "name": "Sana Plus",
         "id": "SanaPlus.in",
-        "logo": "https://i.imgur.com/N6tKUZv.png",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/sanaplus.png",
         "url": "https://galaxyott.live/hls/sanaplus.m3u8",
         "categories": [
             "music"
@@ -878,7 +878,7 @@
     {
         "name": "Zoom",
         "id": "Zoom.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png",
         "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
         "categories": [
             "music"
@@ -888,7 +888,7 @@
     {
         "name": "Balle Balle",
         "id": "BalleBalle.in",
-        "logo": "https://i.imgur.com/oxkkWH5.png",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
         "url": "https://mcncdndigital.com/balleballetv/index.m3u8",
         "categories": [
             "music"
@@ -898,7 +898,7 @@
     {
         "name": "9XM",
         "id": "9XM.in",
-        "logo": "https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xm.png",
         "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
         "categories": [
             "music"
@@ -918,7 +918,7 @@
     {
         "name": "Raj Musix Malayalam",
         "id": "RajMusixMalayalam.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143706_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png",
         "url": "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8",
         "categories": [
             "music"
@@ -928,7 +928,7 @@
     {
         "name": "Sun Music",
         "id": "SunMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z1CL8.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png",
         "url": "http://15.235.144.106:14055",
         "categories": [
             "music"
@@ -938,7 +938,7 @@
     {
         "name": "Insync",
         "id": "Insync.in",
-        "logo": "https://i.imgur.com/fAJdazJ.png",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png",
         "url": "https://mumt04.tangotv.in/INSYNC/index.m3u8",
         "categories": [
             "music"
@@ -948,18 +948,8 @@
     {
         "name": "Songdew TV",
         "id": "SongdewTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SongDew_TV.png",
         "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Tunes 6",
-        "id": "Tunes6.in",
-        "logo": "https://i.imgur.com/VUzMQ9S.png",
-        "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8",
         "categories": [
             "music"
         ],
@@ -968,7 +958,7 @@
     {
         "name": "9X Tashan",
         "id": "9XTashan.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xTashan.png",
         "url": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
         "categories": [
             "music"
@@ -988,7 +978,7 @@
     {
         "name": "Tarang Music",
         "id": "TarangMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143926_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tarang_Music.png",
         "url": "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8",
         "categories": [
             "music"
@@ -1038,7 +1028,7 @@
     {
         "name": "Sun Life",
         "id": "SunLife.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z1JE4.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0585/master.m3u8",
         "categories": [
             "entertainment",
@@ -1049,7 +1039,7 @@
     {
         "name": "Surya Music",
         "id": "SuryaMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143886_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0579/master.m3u8",
         "categories": [
             "music"
@@ -1059,7 +1049,7 @@
     {
         "name": "Udaya Music",
         "id": "UdayaMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s144041_ld_h9_ab.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Music.png",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0588/master.m3u8",
         "categories": [
             "music"
@@ -1099,8 +1089,28 @@
     {
         "name": "Steelbird Music",
         "id": "SteelbirdMusic.in",
-        "logo": "https://i.imgur.com/Egijzx3.png",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png",
         "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "B4U Music",
+        "id": "B4UMusic.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png",
+        "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "ZB Music",
+        "id": "ZBMusic.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png",
+        "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
         "categories": [
             "music"
         ],
@@ -1580,36 +1590,6 @@
         "country": "BG"
     },
     {
-        "name": "Radio Hit FM TV",
-        "id": "RadioHitFMTV.rs",
-        "logo": "https://i.imgur.com/gP2OT4S.png",
-        "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RS"
-    },
-    {
-        "name": "Radio Lola TV",
-        "id": "RadioLolaTV.rs",
-        "logo": "https://i.imgur.com/41eE8fl.png",
-        "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RS"
-    },
-    {
-        "name": "TDI Radio TV",
-        "id": "TDIRadioTV.rs",
-        "logo": "https://i.imgur.com/POdTmaD.png",
-        "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RS"
-    },
-    {
         "name": "Makao TV",
         "id": "MakaoTV.do",
         "logo": "https://i.imgur.com/asD5y7i.png",
@@ -1654,16 +1634,6 @@
         "id": "SiembraTV.do",
         "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg",
         "url": "https://streamunoapp.com:3809/live/siembratvlive.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Fuego TV",
-        "id": "FuegoTV.do",
-        "logo": "https://i.imgur.com/T9vWjeB.png",
-        "url": "https://streamunoapp.com:3553/live/cromtvlive.m3u8",
         "categories": [
             "music"
         ],
@@ -1790,17 +1760,24 @@
         "country": "PA"
     },
     {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "name": "Flex Studio Radio TV",
+        "id": "FlexStudioRadioTV.bz",
+        "logo": "https://i.imgur.com/tZjqtxd.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8",
         "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
+            "music"
         ],
-        "country": "VN"
+        "country": "BZ"
+    },
+    {
+        "name": "8XM",
+        "id": "8XM.pk",
+        "logo": "https://i.imgur.com/KLrfKRn.png",
+        "url": "http://115.42.65.142:9981/stream/channelid/582886861",
+        "categories": [
+            "music"
+        ],
+        "country": "PK"
     },
     {
         "name": "Melody",
@@ -2059,6 +2036,16 @@
         "id": "RadioMonumentalTV.ec",
         "logo": "https://i.imgur.com/a97MaV2.png",
         "url": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "Radio Alegria 98.5 FM",
+        "id": "RadioAlegria985FM.ec",
+        "logo": "https://i.imgur.com/N00aS3x.png",
+        "url": "https://video.compuwebecuador.com:3880/stream/play.m3u8",
         "categories": [
             "music"
         ],
@@ -2340,19 +2327,9 @@
         "country": "AF"
     },
     {
-        "name": "Kayhan TV",
-        "id": "KayhanTV.af",
-        "logo": "https://i.imgur.com/2MDjU7x.png",
-        "url": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "AF"
-    },
-    {
         "name": "YleX",
         "id": "YleX.fi",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/450px-YleX.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/960px-YleX.svg.png",
         "url": "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8",
         "categories": [
             "music"
@@ -2544,7 +2521,7 @@
     {
         "name": "Ocko",
         "id": "Ocko.cz",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
         "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
         "categories": [
             "music"
@@ -2654,7 +2631,7 @@
     {
         "name": "m2o TV",
         "id": "m2oTV.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png",
         "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8",
         "categories": [
             "music"
@@ -3005,16 +2982,6 @@
         "country": "ES"
     },
     {
-        "name": "Pequeradio",
-        "id": "Pequeradio.es",
-        "logo": "https://i.imgur.com/BNqZwxS.png",
-        "url": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "STZ Telebista",
         "id": "STZTelebista.es",
         "logo": "https://i.imgur.com/rFQuAEv.png",
@@ -3193,16 +3160,6 @@
             "music"
         ],
         "country": "PH"
-    },
-    {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
     },
     {
         "name": "Couleur 3",
@@ -3567,16 +3524,6 @@
         "country": "US"
     },
     {
-        "name": "Latin Zone",
-        "id": "LatinZone.us",
-        "logo": "https://i.imgur.com/duEDsne.png",
-        "url": "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "30A Music",
         "id": "30AMusic.us",
         "logo": "https://i.imgur.com/gNWg9tl.png",
@@ -3669,16 +3616,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV MTV Classic",
-        "id": "PlutoTVMTVClassic.us",
-        "logo": "https://i.imgur.com/NPavpts.png",
-        "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "RJTV",
         "id": "RJTV.us",
         "logo": "https://i.imgur.com/a1zuW2C.png",
@@ -3755,6 +3692,21 @@
         "url": "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
         ],
         "country": "AR"
     },
@@ -4040,16 +3992,6 @@
             "music"
         ],
         "country": "PT"
-    },
-    {
-        "name": "D3 TV",
-        "id": "D3TV.ml",
-        "logo": "https://i.imgur.com/uFEIBtB.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "ML"
     },
     {
         "name": "LRT Opus",

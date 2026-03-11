@@ -97,7 +97,7 @@
     {
         "name": "TVRI",
         "id": "TVRI.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
         "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
         "categories": [
             "general"
@@ -107,7 +107,7 @@
     {
         "name": "BTV",
         "id": "BTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
         "url": "https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8",
         "categories": [
             "news"
@@ -173,7 +173,7 @@
     {
         "name": "BN Channel",
         "id": "BNChannel.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/512px-BN_Channel.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png",
         "url": "https://flv.intechmedia.net/live/ch112.m3u8",
         "categories": [
             "news"
@@ -255,7 +255,7 @@
     {
         "name": "BeritaSatu English",
         "id": "BeritaSatuEnglish.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BeritaSatu_%28Flat%29.svg/2560px-BeritaSatu_%28Flat%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BeritaSatu_%28Flat%29.svg/960px-BeritaSatu_%28Flat%29.svg.png",
         "url": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8",
         "categories": [
             "news"
@@ -295,16 +295,6 @@
         "url": "https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Music Information Channel",
-        "id": "MusicInformationChannel.id",
-        "logo": "https://i.imgur.com/OUPGCWG.png",
-        "url": "https://mic.siar.us/mic/live/mic.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "ID"
     },
@@ -383,18 +373,8 @@
     {
         "name": "Jawa Pos TV",
         "id": "JawaPosTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
         "url": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Kilisuci TV",
-        "id": "KilisuciTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png",
-        "url": "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -419,7 +399,7 @@
     {
         "name": "ANTV",
         "id": "ANTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png",
         "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8",
         "categories": [
             "general"
@@ -439,7 +419,7 @@
     {
         "name": "Sindo News TV",
         "id": "SindoNewsTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/375px-SindoNewsTV_2023.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/960px-SindoNewsTV_2023.png",
         "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8",
         "categories": [
             "news"
@@ -449,7 +429,7 @@
     {
         "name": "tvOne",
         "id": "tvOne.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png",
         "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8",
         "categories": [],
         "country": "ID"
@@ -697,7 +677,7 @@
     {
         "name": "RRI Net",
         "id": "RRINet.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/2560px-RRI_NET_2023.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png",
         "url": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
         "categories": [],
         "country": "ID"
@@ -803,16 +783,6 @@
         "country": "ID"
     },
     {
-        "name": "DM TV Malang",
-        "id": "DMTVMalang.id",
-        "logo": "https://i.imgur.com/3iC41QX.png",
-        "url": "https://e.siar.us/live/dmtv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Al-Bahjah TV",
         "id": "AlBahjahTV.id",
         "logo": "https://i.imgur.com/52dlDZk.png",
@@ -891,16 +861,6 @@
         "country": "ID"
     },
     {
-        "name": "Jogja TV",
-        "id": "JogjaTV.id",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
-        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Semarang TV",
         "id": "SemarangTV.id",
         "logo": "https://i.imgur.com/KFC2WSB.png",
@@ -914,6 +874,73 @@
         "logo": "https://i.imgur.com/Uv8RWks.png",
         "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
         "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Fajar TV",
+        "id": "FajarTV.id",
+        "logo": "https://i.imgur.com/mkuXxRK.png",
+        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Nabawi TV",
+        "id": "NabawiTV.id",
+        "logo": "https://i.imgur.com/O8WONFB.png",
+        "url": "http://202.150.161.117:8000/play/NabawiTV",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "RCTI",
+        "id": "RCTI.id",
+        "logo": "https://i.imgur.com/iLFx8ia.png",
+        "url": "http://103.66.62.83:8000/play/a00v/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Sin Po TV",
+        "id": "SinPoTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd",
+        "categories": [
+            "news",
+            "sports"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Sultra TV",
+        "id": "SultraTV.id",
+        "logo": "https://i.imgur.com/cmpbNJz.png",
+        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "TV MUI",
+        "id": "TVMUI.id",
+        "logo": "https://i.imgur.com/vWtViyC.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "VTV",
+        "id": "VTV.id",
+        "logo": "https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png",
+        "url": "http://103.66.62.83:8000/play/a00c/index.m3u8",
+        "categories": [
+            "kids"
+        ],
         "country": "ID"
     }
 ]

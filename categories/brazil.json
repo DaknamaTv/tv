@@ -340,16 +340,6 @@
         "country": ""
     },
     {
-        "name": "BR: Record Nordeste",
-        "id": "brrecordnordeste",
-        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/umer.zia660/e7388412/14539",
-        "categories": [
-            "brazil"
-        ],
-        "country": ""
-    },
-    {
         "name": "BR: Record Rio",
         "id": "brrecordrio",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/2ce34669d13230c5f26496e10442eec7.png",
@@ -434,6 +424,36 @@
         "id": "brwarnertv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2020-08/a0d05e26a50d5cb1936f963ba580263e.png",
         "url": "http://013tv.com:8080/umer.zia660/e7388412/8825",
+        "categories": [
+            "brazil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BR: H2",
+        "id": "brh2",
+        "logo": "",
+        "url": "http://172.110.221.91:8080/bjDpJC6EpNaB/GWp69QUkgyLc/120690",
+        "categories": [
+            "brazil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BR: Discovery H&H",
+        "id": "brdiscoveryhh",
+        "logo": "",
+        "url": "http://172.110.221.91:8080/bjDpJC6EpNaB/GWp69QUkgyLc/120809",
+        "categories": [
+            "brazil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BR: FOX",
+        "id": "brfox",
+        "logo": "",
+        "url": "http://172.110.221.91:8080/bjDpJC6EpNaB/GWp69QUkgyLc/120810",
         "categories": [
             "brazil"
         ],

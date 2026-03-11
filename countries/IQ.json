@@ -92,7 +92,7 @@
     {
         "name": "Channel8",
         "id": "Channel8.iq",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png",
         "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
         "categories": [
             "news"
@@ -160,16 +160,6 @@
         "country": "IQ"
     },
     {
-        "name": "Marjaeyat TV Persian",
-        "id": "MarjaeyatTVPersian.iq",
-        "logo": "https://i.imgur.com/fCj05f0.png",
-        "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IQ"
-    },
-    {
         "name": "Avar TV",
         "id": "AvarTV.iq",
         "logo": "https://i.imgur.com/JazFBkW.jpeg",
@@ -224,6 +214,16 @@
         "url": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Afarin TV",
+        "id": "AfarinTV.iq",
+        "logo": "https://i.imgur.com/6MnXD7g.png",
+        "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+        "categories": [
+            "kids"
         ],
         "country": "IQ"
     }

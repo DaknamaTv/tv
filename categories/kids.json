@@ -2,7 +2,7 @@
     {
         "name": "ABC Entertains",
         "id": "ABCEntertains.au",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/512px-ABC_Entertains_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png",
         "url": "https://c.mjh.nz/abc-me.m3u8",
         "categories": [
             "education",
@@ -23,7 +23,7 @@
     {
         "name": "TRT Cocuk",
         "id": "TRTCocuk.tr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
         "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
         "categories": [
             "kids"
@@ -107,6 +107,16 @@
         "id": "BiznetKids.id",
         "logo": "https://i.imgur.com/J5QNqJ0.png",
         "url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "VTV",
+        "id": "VTV.id",
+        "logo": "https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png",
+        "url": "http://103.66.62.83:8000/play/a00c/index.m3u8",
         "categories": [
             "kids"
         ],
@@ -300,7 +310,7 @@
     {
         "name": "ZB Cartoon",
         "id": "ZBCartoon.in",
-        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png",
         "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
         "categories": [
             "kids"
@@ -331,7 +341,7 @@
     {
         "name": "Chintu TV",
         "id": "ChintuTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142737_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Chintu_TV.png",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0587/master.m3u8",
         "categories": [
             "animation",
@@ -352,7 +362,7 @@
     {
         "name": "Nick Jr.",
         "id": "NickJr.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0409/master.m3u8",
         "categories": [
             "kids"
@@ -392,7 +402,7 @@
     {
         "name": "Kochu TV",
         "id": "KochuTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143269_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kochu_TV.png",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0564/master.m3u8",
         "categories": [
             "kids"
@@ -402,7 +412,7 @@
     {
         "name": "Kushi TV",
         "id": "KushiTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143275_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kushi_TV.png",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0583/master.m3u8",
         "categories": [
             "kids"
@@ -423,7 +433,7 @@
     {
         "name": "Nick HD+",
         "id": "NickHDPlus.in",
-        "logo": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0450/master.m3u8",
         "categories": [
             "kids"
@@ -565,9 +575,19 @@
         "country": "DO"
     },
     {
+        "name": "Kids Zone",
+        "id": "KidsZone.pk",
+        "logo": "https://i.imgur.com/mJWBVH1.png",
+        "url": "http://103.250.28.74:8000/play/a04m/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "PK"
+    },
+    {
         "name": "Nickelodeon Junior",
         "id": "NickelodeonJunior.fr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/512px-Nickelodeon_Junior.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
         "url": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8",
         "categories": [
             "kids"
@@ -605,16 +625,6 @@
         "country": "FR"
     },
     {
-        "name": "TV Bahoriston",
-        "id": "TVBahoriston.tj",
-        "logo": "https://i.imgur.com/Dacai5z.png",
-        "url": "https://live.teleradiocom.tj/3/3m.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "TJ"
-    },
-    {
         "name": "Bolajon",
         "id": "Bolajon.uz",
         "logo": "https://i.imgur.com/s7o0ifu.png",
@@ -629,6 +639,16 @@
         "id": "AfarinBaxcha.iq",
         "logo": "https://afarin.tv/images/baxcha.png",
         "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Afarin TV",
+        "id": "AfarinTV.iq",
+        "logo": "https://i.imgur.com/6MnXD7g.png",
+        "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
         "categories": [
             "kids"
         ],
@@ -769,17 +789,6 @@
             "public"
         ],
         "country": "ES"
-    },
-    {
-        "name": "ETV 2",
-        "id": "ETV2.ee",
-        "logo": "https://i.imgur.com/fUjGHDa.png",
-        "url": "https://sb.err.ee/live/etv2.m3u8",
-        "categories": [
-            "kids",
-            "culture"
-        ],
-        "country": "EE"
     },
     {
         "name": "KidZone Max",
@@ -1294,7 +1303,7 @@
     {
         "name": "Nicktoons",
         "id": "Nicktoons.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/960px-Nicktoons_Network_logo_2009.svg.png",
         "url": "http://212.102.60.231/NICKTOONS/index.m3u8",
         "categories": [
             "kids"

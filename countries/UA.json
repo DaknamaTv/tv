@@ -52,7 +52,7 @@
     {
         "name": "FREEDOM",
         "id": "FREEDOM.ua",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",
         "url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
         "categories": [
             "news"
@@ -82,7 +82,7 @@
     {
         "name": "Channel 24",
         "id": "Channel24.ua",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
         "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
         "categories": [
             "news"
@@ -254,21 +254,21 @@
         "country": "UA"
     },
     {
-        "name": "Hope Channel Ukraine",
-        "id": "HopeChannelUkraine.ua",
-        "logo": "https://i.imgur.com/mUx2P29.png",
-        "url": "http://nadiya.home-net.com.ua/mob/mystream.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "UA"
-    },
-    {
         "name": "TVA",
         "id": "TVA.ua",
         "logo": "https://i.imgur.com/PtTQ5lv.png",
         "url": "http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
         "categories": [],
+        "country": "UA"
+    },
+    {
+        "name": "Izmail TV",
+        "id": "IzmailTV.ua",
+        "logo": "https://i.imgur.com/CxsUpGz.png",
+        "url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "UA"
     }
 ]

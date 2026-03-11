@@ -270,16 +270,6 @@
         "country": ""
     },
     {
-        "name": "IN: Fateh TV",
-        "id": "infatehtv",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/36c08329f92b63e561c74188676760ee.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/166370",
-        "categories": [
-            "india"
-        ],
-        "country": ""
-    },
-    {
         "name": "IN: Gaunda Punjab",
         "id": "ingaundapunjab",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-08/0cf910b0fecb4cc5c2a2d68c005f9c3a.png",
@@ -694,6 +684,16 @@
         "id": "inzeesalaam",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-10/1a9cb37d67ed921b22f8c47a0e045038.svg",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/16981",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "7Star TV",
+        "id": "7startv",
+        "logo": "https://cutt.ly/ZuLLW",
+        "url": "http://media.7starcloud.com:1935/live/7star/playlist.m3u8",
         "categories": [
             "india"
         ],

@@ -1130,16 +1130,6 @@
         "country": ""
     },
     {
-        "name": "ID: Smithsonian Channel",
-        "id": "idsmithsonianchannel",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png",
-        "url": "http://013tv.com:8080/umer.zia660/e7388412/264767",
-        "categories": [
-            "indonesia"
-        ],
-        "country": ""
-    },
-    {
         "name": "ID: Soccer Channel",
         "id": "idsoccerchannel",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2025-07/f19773eff583e3d56a966e2e9ec6f586.png",
@@ -1524,6 +1514,16 @@
         "id": "idzeebioskop",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png",
         "url": "http://013tv.com:8080/umer.zia660/e7388412/157584",
+        "categories": [
+            "indonesia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Musica Studios FHD",
+        "id": "musicastudiosfhd",
+        "logo": "https://pakar.co.id/storage/2019/08/Musica-Studio.png",
+        "url": "https://kister.net/mpl/yt2m3u8?w=@MusicaStudios",
         "categories": [
             "indonesia"
         ],

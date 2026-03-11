@@ -2,7 +2,7 @@
     {
         "name": "ABC Entertains",
         "id": "ABCEntertains.au",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/512px-ABC_Entertains_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png",
         "url": "https://c.mjh.nz/abc-me.m3u8",
         "categories": [
             "education",
@@ -56,7 +56,7 @@
     {
         "name": "EBS 2TV",
         "id": "EBS2TV.kr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png",
         "url": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
         "categories": [
             "education"
@@ -66,7 +66,7 @@
     {
         "name": "EBS 1TV",
         "id": "EBS1TV.kr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png",
         "url": "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8",
         "categories": [
             "education"
@@ -189,7 +189,7 @@
     {
         "name": "DD Kisan",
         "id": "DDKisan.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142789_ld_h9_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png",
         "url": "https://cdn-6.pishow.tv/live/9/master.m3u8",
         "categories": [
             "education",
@@ -212,6 +212,16 @@
         "id": "VyasChannel.in",
         "logo": "https://www.yupptv.com/seo_img/UGC_GEC_big.jpg",
         "url": "https://hls.media.nic.in/hls/live/vyas/vyas.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Kite Victers",
+        "id": "KiteVicters.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KITE_Victers.png",
+        "url": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
         "categories": [
             "education"
         ],
@@ -371,6 +381,18 @@
             "education",
             "science",
             "documentary"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Unifranz",
+        "id": "Unifranz.bo",
+        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
+        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
+        "categories": [
+            "education",
+            "entertainment",
+            "news"
         ],
         "country": "BO"
     },
@@ -628,7 +650,7 @@
     {
         "name": "Rai Scuola",
         "id": "RaiScuola.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png",
         "url": "http://78.130.250.2:8023/play/a04h/index.m3u8",
         "categories": [
             "education"
@@ -668,7 +690,7 @@
     {
         "name": "Curiosity Channel",
         "id": "CuriosityChannel.de",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/512px-Curiosity_Channel_Logo_2023.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6576c20fb3801200084786c9/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=bdd2b620-2d3a-4671-b8c1-46814844c83a&serverSideAds=false",
         "categories": [
             "education"
@@ -1076,20 +1098,20 @@
         "country": "MX"
     },
     {
-        "name": "XHMNL-TDT",
-        "id": "XHMNLTDT.mx",
-        "logo": "https://i.imgur.com/9qL4LJF.png",
-        "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
+        "name": "XHUNES-TDT",
+        "id": "XHUNESTDT.mx",
+        "logo": "https://i.imgur.com/LbZkdca.png",
+        "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
         "categories": [
             "education"
         ],
         "country": "MX"
     },
     {
-        "name": "XHUNES-TDT",
-        "id": "XHUNESTDT.mx",
-        "logo": "https://i.imgur.com/LbZkdca.png",
-        "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+        "name": "Tele UV",
+        "id": "TeleUV.mx",
+        "logo": "https://i.imgur.com/8MdUH69.jpeg",
+        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
         "categories": [
             "education"
         ],

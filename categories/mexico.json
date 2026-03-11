@@ -30,16 +30,6 @@
         "country": ""
     },
     {
-        "name": "MX: Distrito Comedia",
-        "id": "mxdistritocomedia",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/9571a3fe48be02335097c60e890617a4.png",
-        "url": "http://013tv.com:8080/umer.zia660/e7388412/9126",
-        "categories": [
-            "mexico"
-        ],
-        "country": ""
-    },
-    {
         "name": "MX: EWTN",
         "id": "mxewtn",
         "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
@@ -234,6 +224,16 @@
         "id": "mxvideorola",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/71a7875c91fc852e28a1c5f016604239.png",
         "url": "http://013tv.com:8080/umer.zia660/e7388412/290484",
+        "categories": [
+            "mexico"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MEX: DISNEY JR",
+        "id": "mexdisneyjr",
+        "logo": "",
+        "url": "http://172.110.221.91:8080/bjDpJC6EpNaB/GWp69QUkgyLc/120106",
         "categories": [
             "mexico"
         ],

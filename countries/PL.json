@@ -319,16 +319,6 @@
         "country": "PL"
     },
     {
-        "name": "Szlagier TV",
-        "id": "SzlagierTV.pl",
-        "logo": "https://i.imgur.com/VQk19Ng.png",
-        "url": "https://vefgpbwcjjjbxfng.naszatv.pl/tracks-v1a1/mono.ts.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "Radio RAM",
         "id": "RadioRAM.pl",
         "logo": "https://i.ibb.co/LXbchP5q/logo-1.png",
@@ -383,7 +373,7 @@
     {
         "name": "TVP Polonia",
         "id": "TVPPolonia.pl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/512px-TVP_Polonia_Logo_2020.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png",
         "url": "https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8",
         "categories": [],
         "country": "PL"
@@ -479,7 +469,7 @@
     {
         "name": "TVP HD",
         "id": "TVPHD.pl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/512px-TVP_HD_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/960px-TVP_HD_logo.svg.png",
         "url": "http://78.130.250.2:8023/play/a03a/index.m3u8",
         "categories": [],
         "country": "PL"
@@ -566,10 +556,28 @@
     {
         "name": "TV Toya",
         "id": "TVToya.pl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_TOYA_Nowe_Logo_od_2014.svg/512px-TV_TOYA_Nowe_Logo_od_2014.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_TOYA_Nowe_Logo_od_2014.svg/960px-TV_TOYA_Nowe_Logo_od_2014.svg.png",
         "url": "https://cdn-14-go.toya.net.pl/drm/001_toyahd/manifest.mpd",
         "categories": [
             "general"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "Puls 2",
+        "id": "Puls2.pl",
+        "logo": "https://i.imgur.com/EOnzPiZ.png",
+        "url": "https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8",
+        "categories": [],
+        "country": "PL"
+    },
+    {
+        "name": "Remonty TV",
+        "id": "RemontyTV.pl",
+        "logo": "https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png",
+        "url": "https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "PL"
     }

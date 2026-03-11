@@ -193,5 +193,27 @@
         "url": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
         "categories": [],
         "country": "BO"
+    },
+    {
+        "name": "Unifranz",
+        "id": "Unifranz.bo",
+        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
+        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
+        "categories": [
+            "education",
+            "entertainment",
+            "news"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Unitel Santa Cruz",
+        "id": "UnitelSantaCruz.bo",
+        "logo": "https://i.imgur.com/B9wg1zj.png",
+        "url": "https://xtream.videx.lol/Yoshiro/admin/338.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
     }
 ]

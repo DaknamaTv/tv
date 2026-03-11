@@ -340,16 +340,6 @@
         "country": ""
     },
     {
-        "name": "FR: Catfish",
-        "id": "frcatfish",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-08/c3291b53bc7cbe650e170ff42cc9424d.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/286453",
-        "categories": [
-            "france"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: Cherie 25",
         "id": "frcherie25",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/5cdb9a09ff0f79a0c163b93267cc6633.png",
@@ -474,16 +464,6 @@
         "id": "frimearth",
         "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/298756",
-        "categories": [
-            "france"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FR: Instant Saga",
-        "id": "frinstantsaga",
-        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/286445",
         "categories": [
             "france"
         ],
@@ -754,6 +734,46 @@
         "id": "frtvpitchoun",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-12/14b28660a273142c7e67346c283aa251.jpg",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/300844",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: BEIN SPORTS 1 HD [Live During Events Only]",
+        "id": "frbeinsports1hdliveduringeventsonly",
+        "logo": "http://fanc.tmsimg.com/assets/s89738_ll_h3_aa.png",
+        "url": "http://172.110.221.91:8080/bjDpJC6EpNaB/GWp69QUkgyLc/121465",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: NRJ 12 HD",
+        "id": "frnrj12hd",
+        "logo": "http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJohKgqKCCmBRRmUTSItoZxHyeQvVkRaVwCzHiyeUXJ1w.png",
+        "url": "http://172.110.221.91:8080/bjDpJC6EpNaB/GWp69QUkgyLc/121653",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: OCS CHOC",
+        "id": "frocschoc",
+        "logo": "http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumuxAdob8LF4WrGq5eQ9DR2vM5wIPhdjd885hpy4e3cviw.png",
+        "url": "http://172.110.221.91:8080/bjDpJC6EpNaB/GWp69QUkgyLc/121655",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: TVM 3 FHD",
+        "id": "frtvm3fhd",
+        "logo": "http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBaP-GUa7pZSgoKB0TQF0AYtykyK7I2g_7PEcwIy90faj.png",
+        "url": "http://172.110.221.91:8080/bjDpJC6EpNaB/GWp69QUkgyLc/121731",
         "categories": [
             "france"
         ],

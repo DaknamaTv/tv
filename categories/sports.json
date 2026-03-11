@@ -62,12 +62,23 @@
     {
         "name": "Red Bull TV",
         "id": "RedBullTV.at",
-        "logo": "https://i.postimg.cc/8c78JM28/image.png",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e7cb84a172a0f0007da69e4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=edf28b05-3832-482c-9599-bb50005eee85&serverSideAds=false",
         "categories": [
             "sports"
         ],
         "country": "AT"
+    },
+    {
+        "name": "Sin Po TV",
+        "id": "SinPoTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd",
+        "categories": [
+            "news",
+            "sports"
+        ],
+        "country": "ID"
     },
     {
         "name": "Suspilne. Sport",
@@ -242,7 +253,7 @@
     {
         "name": "Star Sports 2 Tamil",
         "id": "StarSports2Tamil.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158352_ld_h15_ab.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/StarSports2Tamil.png",
         "url": "http://103.229.254.25:7001/play/a0dc/index.m3u8",
         "categories": [
             "sports"
@@ -252,7 +263,7 @@
     {
         "name": "Star Sports 2 Hindi",
         "id": "StarSports2Hindi.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png",
         "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
         "categories": [
             "sports"
@@ -272,7 +283,7 @@
     {
         "name": "Sony Sports Ten 5",
         "id": "SonySportsTen5.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",
         "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
         "categories": [
             "sports"
@@ -342,7 +353,7 @@
     {
         "name": "Star Sports Khel",
         "id": "StarSportsKhel.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143809_ld_h15_ab.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0423/master.m3u8",
         "categories": [
             "sports"
@@ -352,7 +363,7 @@
     {
         "name": "Sony Sports Ten 2",
         "id": "SonySportsTen2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0365/master.m3u8",
         "categories": [
             "sports"
@@ -362,7 +373,7 @@
     {
         "name": "Sony Sports Ten 1",
         "id": "SonySportsTen1.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0369/master.m3u8",
         "categories": [
             "sports"
@@ -520,16 +531,6 @@
         "country": "DO"
     },
     {
-        "name": "Tour Spot TV",
-        "id": "TourSpotTV.do",
-        "logo": "https://imgur.com/khj869k.png",
-        "url": "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Dong Nai TV 2",
         "id": "DongNaiTV2.vn",
         "logo": "https://i.imgur.com/tNKPSkO.png",
@@ -541,14 +542,14 @@
         "country": "VN"
     },
     {
-        "name": "HTV Sports",
-        "id": "HTVSports.vn",
-        "logo": "",
-        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
+        "name": "PTV Sports",
+        "id": "PTVSports.pk",
+        "logo": "https://i.imgur.com/CPm6GHA.png",
+        "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
         "categories": [
             "sports"
         ],
-        "country": "VN"
+        "country": "PK"
     },
     {
         "name": "Equidia",
@@ -590,16 +591,6 @@
             "sports"
         ],
         "country": "BH"
-    },
-    {
-        "name": "Futbol",
-        "id": "Futbol.tj",
-        "logo": "https://i.imgur.com/RngmCDn.png",
-        "url": "https://live.teleradiocom.tj/8/3m.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "TJ"
     },
     {
         "name": "RTI La 3",
@@ -833,6 +824,16 @@
         "country": "MN"
     },
     {
+        "name": "Belarus-5",
+        "id": "Belarus5.by",
+        "logo": "https://i.imgur.com/NJsRFud.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BY"
+    },
+    {
         "name": "Alkass Five",
         "id": "AlkassFive.qa",
         "logo": "https://i.imgur.com/6RGNGsM.png",
@@ -1016,7 +1017,7 @@
     {
         "name": "Stadium",
         "id": "Stadium.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png",
         "url": "https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8",
         "categories": [
             "sports"
@@ -1306,7 +1307,7 @@
     {
         "name": "NBA TV",
         "id": "NBATV.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
         "url": "http://212.102.60.231/NBA_TV/index.m3u8",
         "categories": [
             "sports"
@@ -1376,7 +1377,7 @@
     {
         "name": "Golf Channel Latin America",
         "id": "GolfChannelLatinAmerica.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/512px-Golf_Channel_Logo_2018.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
         "url": "http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8",
         "categories": [
             "sports"
@@ -1549,7 +1550,7 @@
     {
         "name": "TVR Sport",
         "id": "TVRSport.ro",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/320px-TVR_Sport_Logo_2023.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png",
         "url": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8",
         "categories": [
             "general",
