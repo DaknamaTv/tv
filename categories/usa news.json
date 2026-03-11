@@ -19,5 +19,25 @@
             "usa news"
         ],
         "country": ""
+    },
+    {
+        "name": "CBSN",
+        "id": "cbsn",
+        "logo": "http://163.172.89.228/~msepg/logos/united-states/cbsn-us.png",
+        "url": "http://172.110.221.91:8080/Jamesbrooks/Ship2day/8846",
+        "categories": [
+            "usa news"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX BUSINESS",
+        "id": "foxbusiness",
+        "logo": "http://163.172.89.228/~msepg/logos/united-states/fox-business-us.png",
+        "url": "http://172.110.221.91:8080/Jamesbrooks/Ship2day/9328",
+        "categories": [
+            "usa news"
+        ],
+        "country": ""
     }
 ]

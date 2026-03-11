@@ -243,7 +243,7 @@
     {
         "name": "InWild",
         "id": "InWild.it",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Inwild.png",
+        "logo": "https://i.imgur.com/48atMgj.png",
         "url": "https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8",
         "categories": [
             "shop",
@@ -726,16 +726,6 @@
         "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8",
         "categories": [
             "sports"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "GRP VERATV",
-        "id": "GRPVERATV.it",
-        "logo": "https://i.imgur.com/jasSHXJ.png",
-        "url": "https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "IT"
     },
@@ -1487,48 +1477,6 @@
         "country": "IT"
     },
     {
-        "name": "Rai 2",
-        "id": "Rai2.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718",
-        "categories": [],
-        "country": "IT"
-    },
-    {
-        "name": "Rai 4",
-        "id": "Rai4.it",
-        "logo": "https://i.imgur.com/sEY21rg.png",
-        "url": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966",
-        "categories": [],
-        "country": "IT"
-    },
-    {
-        "name": "Rai Movie",
-        "id": "RaiMovie.it",
-        "logo": "https://i.imgur.com/0FjxXU9.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
-        "categories": [
-            "movies"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Rai Premium",
-        "id": "RaiPremium.it",
-        "logo": "https://i.imgur.com/40g5Urz.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992",
-        "categories": [],
-        "country": "IT"
-    },
-    {
-        "name": "Rai Storia",
-        "id": "RaiStoria.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990",
-        "categories": [],
-        "country": "IT"
-    },
-    {
         "name": "Prima Free",
         "id": "PrimaFree.it",
         "logo": "https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg",
@@ -1549,10 +1497,28 @@
         "country": "IT"
     },
     {
-        "name": "TV Yes Italia",
-        "id": "TVYesItalia.it",
-        "logo": "https://i.imgur.com/3CDxatu.png",
-        "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8",
+        "name": "CafeTV24",
+        "id": "CafeTV24.it",
+        "logo": "https://i.imgur.com/SRFzjja.png",
+        "url": "https://srvx1.selftv.video/cafe/live/playlist.m3u8",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Promovideo TV",
+        "id": "PromovideoTV.it",
+        "logo": "https://i.imgur.com/eKpS5Ck.png",
+        "url": "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Telefriuli",
+        "id": "Telefriuli.it",
+        "logo": "https://i.imgur.com/He3uCs6.png",
+        "url": "https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8",
         "categories": [],
         "country": "IT"
     }

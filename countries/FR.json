@@ -170,7 +170,7 @@
     {
         "name": "Euronews English",
         "id": "EuronewsEnglish.fr",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png",
+        "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
         "url": "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8",
         "categories": [
             "news"
@@ -618,6 +618,24 @@
         "categories": [
             "general"
         ],
+        "country": "FR"
+    },
+    {
+        "name": "Canal 32",
+        "id": "Canal32.fr",
+        "logo": "https://i.imgur.com/lAsE6kN.png",
+        "url": "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Generations TV",
+        "id": "GenerationsTV.fr",
+        "logo": "https://i.imgur.com/NgBrDMe.png",
+        "url": "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8",
+        "categories": [],
         "country": "FR"
     }
 ]

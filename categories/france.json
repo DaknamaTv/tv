@@ -320,16 +320,6 @@
         "country": ""
     },
     {
-        "name": "FR: CANALPLAY 14",
-        "id": "frcanalplay14",
-        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/146592",
-        "categories": [
-            "france"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: CANALPLAY 16",
         "id": "frcanalplay16",
         "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
@@ -610,16 +600,6 @@
         "country": ""
     },
     {
-        "name": "FR: RTL Plug",
-        "id": "frrtlplug",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2025-10/8d95d938fe68b3b86565b21e6378c7f0.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/82962",
-        "categories": [
-            "france"
-        ],
-        "country": ""
-    },
-    {
         "name": "FR: TeleGrenoble Isere",
         "id": "frtelegrenobleisere",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/499d2783000de2ece972ea0eab22cadc.jpg",
@@ -774,6 +754,66 @@
         "id": "frtvm3fhd",
         "logo": "http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBaP-GUa7pZSgoKB0TQF0AYtykyK7I2g_7PEcwIy90faj.png",
         "url": "http://172.110.221.91:8080/bjDpJC6EpNaB/GWp69QUkgyLc/121731",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: ARTE FHD",
+        "id": "frartefhd",
+        "logo": "http://fanc.tmsimg.com/assets/s79103_ll_h3_aa.png",
+        "url": "http://172.110.221.91:8080/Jamesbrooks/Ship2day/121460",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: BFM HD",
+        "id": "frbfmhd",
+        "logo": "http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumvhDEYepJQYspDj0e858mY0bvXS3bWL11yRnP1UCC_MZg.png",
+        "url": "http://172.110.221.91:8080/Jamesbrooks/Ship2day/121488",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE+ CLASSIC HD",
+        "id": "frcineclassichd",
+        "logo": "http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumu_Fm1U_x4SyjffxR-4pTH0dHvGsHVJCOSu1aWBszfCig.png",
+        "url": "http://172.110.221.91:8080/Jamesbrooks/Ship2day/121549",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: DISNEY JUNIOR FHD",
+        "id": "frdisneyjuniorfhd",
+        "logo": "http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QeaplU3gmQEE8UyhftFnUIjsiOjDKejCTy5Dal8YVaWw.png",
+        "url": "http://172.110.221.91:8080/Jamesbrooks/Ship2day/121579",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: M6 HD",
+        "id": "frm6hd",
+        "logo": "http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78TKUQamkb_ZpWHGAwb97hfbVSsZbe5gV6ORa2yFMVT9Yg.png",
+        "url": "http://172.110.221.91:8080/Jamesbrooks/Ship2day/121626",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: OCS MAX",
+        "id": "frocsmax",
+        "logo": "http://fanc.tmsimg.com/assets/s87471_ll_h3_aa.png",
+        "url": "http://172.110.221.91:8080/Jamesbrooks/Ship2day/121663",
         "categories": [
             "france"
         ],

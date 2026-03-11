@@ -473,14 +473,6 @@
         "country": "ID"
     },
     {
-        "name": "PJTV",
-        "id": "PJTV.id",
-        "logo": "https://i.imgur.com/jxdLWpC.png",
-        "url": "https://pjtv28uhf.siar.us/live/pjtv28uhf.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Jogja Istimewa TV",
         "id": "JogjaIstimewaTV.id",
         "logo": "https://i.imgur.com/VEqQfTu.png",
@@ -757,14 +749,6 @@
         "country": "ID"
     },
     {
-        "name": "Astha TV",
-        "id": "AsthaTV.id",
-        "logo": "https://astha.garuda.tv/assets/logo-DLGyXEGO.png",
-        "url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Banten TV",
         "id": "BantenTV.id",
         "logo": "https://i.imgur.com/tbtF40p.png",
@@ -851,16 +835,6 @@
         "country": "ID"
     },
     {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Semarang TV",
         "id": "SemarangTV.id",
         "logo": "https://i.imgur.com/KFC2WSB.png",
@@ -874,16 +848,6 @@
         "logo": "https://i.imgur.com/Uv8RWks.png",
         "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
         "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "Fajar TV",
-        "id": "FajarTV.id",
-        "logo": "https://i.imgur.com/mkuXxRK.png",
-        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
         "country": "ID"
     },
     {
@@ -918,14 +882,6 @@
         "country": "ID"
     },
     {
-        "name": "Sultra TV",
-        "id": "SultraTV.id",
-        "logo": "https://i.imgur.com/cmpbNJz.png",
-        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "TV MUI",
         "id": "TVMUI.id",
         "logo": "https://i.imgur.com/vWtViyC.png",
@@ -940,6 +896,36 @@
         "url": "http://103.66.62.83:8000/play/a00c/index.m3u8",
         "categories": [
             "kids"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "DM TV Malang",
+        "id": "DMTVMalang.id",
+        "logo": "https://i.imgur.com/3iC41QX.png",
+        "url": "https://e.siar.us/live/dmtv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Jogja TV",
+        "id": "JogjaTV.id",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
+        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Music Information Channel",
+        "id": "MusicInformationChannel.id",
+        "logo": "https://i.imgur.com/OUPGCWG.png",
+        "url": "https://mic.siar.us/mic/live/mic.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "ID"
     }

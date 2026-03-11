@@ -20,16 +20,6 @@
         "country": ""
     },
     {
-        "name": "AU: 7 mate",
-        "id": "au7mate",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/03823a774132df4ec9dbb4890b56f654.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/144774",
-        "categories": [
-            "australia"
-        ],
-        "country": ""
-    },
-    {
         "name": "AU: 7 Two",
         "id": "au7two",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/5409b12884b9c0f0cfac52ba87ccbc36.png",
@@ -210,16 +200,6 @@
         "country": ""
     },
     {
-        "name": "AU: Channel 9 Sydney",
-        "id": "auchannel9sydney",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/57460d67be4046982518f5cb781a002c.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/144805",
-        "categories": [
-            "australia"
-        ],
-        "country": ""
-    },
-    {
         "name": "AU: ESPN",
         "id": "auespn",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/dd9092b9b5cd89506da4d6ba6ab8939d.svg",
@@ -320,16 +300,6 @@
         "country": ""
     },
     {
-        "name": "AU: Outdoor Channel",
-        "id": "auoutdoorchannel",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2024-05/0bc18a32ddd6c8a9f82f6f0d4fd30771.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/304036",
-        "categories": [
-            "australia"
-        ],
-        "country": ""
-    },
-    {
         "name": "AU: Real Crime",
         "id": "aurealcrime",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2025-08/9854dca0878fc85b2b6a2faa584c566f.svg",
@@ -384,16 +354,6 @@
         "id": "auskysport1",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2025-08/dae380f0d060df927365c85b20f3b2f0.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307979",
-        "categories": [
-            "australia"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AU: Sky Sport 3",
-        "id": "auskysport3",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2025-08/e0a22f15f02f61ad3addb8a6553b5dc1.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307981",
         "categories": [
             "australia"
         ],
@@ -494,6 +454,26 @@
         "id": "auwonder",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2022-05/7f0d9f00d2d5be5fb14c755ae92d0d4d.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/285944",
+        "categories": [
+            "australia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC TV Brisbane (720p)",
+        "id": "abctvbrisbane720p",
+        "logo": "https://i.imgur.com/Ekjb7w8.png",
+        "url": "http://canal-pro.xyz:8080/juanlopez/pwKk3npSbRq5/265526",
+        "categories": [
+            "australia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC TV Sydney (720p)",
+        "id": "abctvsydney720p",
+        "logo": "https://i.imgur.com/Ekjb7w8.png",
+        "url": "http://canal-pro.xyz:8080/juanlopez/pwKk3npSbRq5/265533",
         "categories": [
             "australia"
         ],

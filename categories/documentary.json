@@ -1,5 +1,16 @@
 [
     {
+        "name": "GZT",
+        "id": "GZT.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png",
+        "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
+        "categories": [
+            "documentary",
+            "series"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "CGTN Documentary",
         "id": "CGTNDocumentary.cn",
         "logo": "https://i.imgur.com/JHv0WxM.png",
@@ -103,7 +114,7 @@
     {
         "name": "History TV18",
         "id": "HistoryTV18.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
         "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8",
         "categories": [
             "documentary"
@@ -113,7 +124,7 @@
     {
         "name": "Safari TV",
         "id": "SafariTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Safari_TV.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143739_ld_h15_aa.png?lock=720x540",
         "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
         "categories": [
             "documentary"
@@ -132,16 +143,6 @@
         "country": "IN"
     },
     {
-        "name": "National Geographic Wild",
-        "id": "NationalGeographicWild.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143572_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.229.254.25:7001/play/a06r/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "National Geographic",
         "id": "NationalGeographic.in",
         "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
@@ -156,6 +157,16 @@
         "id": "SonyBBCEarth.in",
         "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0384/master.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "National Geographic Wild",
+        "id": "NationalGeographicWild.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143572_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8",
         "categories": [
             "documentary"
         ],
@@ -181,6 +192,16 @@
             "culture"
         ],
         "country": "UK"
+    },
+    {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CL"
     },
     {
         "name": "TV8",

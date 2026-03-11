@@ -1,15 +1,5 @@
 [
     {
-        "name": "Nature Moments",
-        "id": "naturemoments",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/b182852fa5860ed0017de42c7b9ce05a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1735672320363_NatureMoments_Roku_HUD_260x147_centeraligned.png",
-        "url": "https://jmp2.uk/rok-b182852fa5860ed0017de42c7b9ce05a.m3u8",
-        "categories": [
-            "roku-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "MGM Presents",
         "id": "mgmpresents",
         "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5263332f746c6b1bed25aa6c105a79d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061592882_MGMPresents_HUDLogo_Centered_260x147.png",
@@ -20,10 +10,20 @@
         "country": ""
     },
     {
-        "name": "Braxton Family Values",
-        "id": "braxtonfamilyvalues",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/83d43dc731781826c0e004c1fa879a5f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763398151629_WEtv_BFV_ChannelLogo_EPG_260x147_InfoHUD2_Horiz_efefef_Bill_Watts.png",
-        "url": "https://jmp2.uk/rok-83d43dc731781826c0e004c1fa879a5f.m3u8",
+        "name": "Esports Edge",
+        "id": "esportsedge",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8f7350535325c7fad29cb140ef240ed7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748009508329_HUD-Logo-Centered.png",
+        "url": "https://jmp2.uk/rok-8f7350535325c7fad29cb140ef240ed7.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "This Old House Shorts",
+        "id": "thisoldhouseshorts",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ccfcc3307fa908684a95bf9643b1b935/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1754514295581_TOHShorts_InfoHUD_Mono.png",
+        "url": "https://jmp2.uk/rok-ccfcc3307fa908684a95bf9643b1b935.m3u8",
         "categories": [
             "roku-all"
         ],

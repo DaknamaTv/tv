@@ -38,5 +38,45 @@
             "usa movies"
         ],
         "country": ""
+    },
+    {
+        "name": "Cinemax ActionMax (West)",
+        "id": "cinemaxactionmaxwest",
+        "logo": "https://cdn.tvpassport.com/image/station/240x135/actionmax.png",
+        "url": "http://172.110.221.91:8080/Jamesbrooks/Ship2day/98688",
+        "categories": [
+            "usa movies"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MGM+",
+        "id": "mgm",
+        "logo": "http://163.172.89.228/~msepg/logos/united-states/mgm-plus-us.png",
+        "url": "http://172.110.221.91:8080/Jamesbrooks/Ship2day/18206",
+        "categories": [
+            "usa movies"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HBO COMEDY (East)",
+        "id": "hbocomedyeast",
+        "logo": "https://static.epg.best/us/HBOComedy.us.png",
+        "url": "http://172.110.221.91:8080/Jamesbrooks/Ship2day/18200",
+        "categories": [
+            "usa movies"
+        ],
+        "country": ""
+    },
+    {
+        "name": "STARZ ENCORE FAMILY (East)",
+        "id": "starzencorefamilyeast",
+        "logo": "https://static.epg.best/us/StarzEncoreFamily.us.png",
+        "url": "http://172.110.221.91:8080/Jamesbrooks/Ship2day/98708",
+        "categories": [
+            "usa movies"
+        ],
+        "country": ""
     }
 ]

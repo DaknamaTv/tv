@@ -1,5 +1,16 @@
 [
     {
+        "name": "Costa Rica Channel",
+        "id": "CostaRicaChannel.cr",
+        "logo": "https://i.imgur.com/N4pFVVF.png",
+        "url": "https://video0.rogohosting.com:19360/8006/8006.m3u8",
+        "categories": [
+            "culture",
+            "travel"
+        ],
+        "country": "CR"
+    },
+    {
         "name": "Schladming-Dachstein TV",
         "id": "SchladmingDachsteinTV.at",
         "logo": "https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg",
@@ -42,7 +53,7 @@
     {
         "name": "Travelxp Tamil",
         "id": "TravelxpTamil.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png",
+        "logo": "https://i.imgur.com/vAYMHAp.png",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0202/master.m3u8",
         "categories": [
             "travel"
@@ -307,12 +318,22 @@
     {
         "name": "INTRAVEL",
         "id": "INTRAVEL.nl",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png",
+        "logo": "https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png",
         "url": "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8",
         "categories": [
             "travel"
         ],
         "country": "NL"
+    },
+    {
+        "name": "Turistik TV",
+        "id": "TuristikTV.mx",
+        "logo": "https://i.imgur.com/g9j0ze8.png",
+        "url": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8",
+        "categories": [
+            "travel"
+        ],
+        "country": "MX"
     },
     {
         "name": "Beach TV Florida & Alabama (720p)",

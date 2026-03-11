@@ -449,16 +449,6 @@
         "country": "BR"
     },
     {
-        "name": "Fonte TV",
-        "id": "FonteTV.br",
-        "logo": "https://i.imgur.com/7q2BmNc.png",
-        "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "IMPD TV Worldwide",
         "id": "IMPDTVWorldwide.br",
         "logo": "https://i.imgur.com/9dW3AUQ.png",
@@ -866,16 +856,6 @@
         "country": "BR"
     },
     {
-        "name": "ISTV",
-        "id": "ISTV.br",
-        "logo": "https://i.imgur.com/RUKVrOH.png",
-        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Loading",
         "id": "Loading.br",
         "logo": "https://i.imgur.com/R0aflu1.png",
@@ -1005,6 +985,34 @@
         "logo": "https://i.imgur.com/Z1uWe7g.png",
         "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
         "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "Amazon Sat",
+        "id": "AmazonSat.br",
+        "logo": "https://i.imgur.com/7rjCS5i.png",
+        "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+        "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "BDC TV",
+        "id": "BDCTV.br",
+        "logo": "https://i.imgur.com/6ckHV6k.jpeg",
+        "url": "https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Cultura Para",
+        "id": "CulturaPara.br",
+        "logo": "https://i.imgur.com/5jPEI5c.png",
+        "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "BR"
     }
 ]

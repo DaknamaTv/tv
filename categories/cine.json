@@ -10,16 +10,6 @@
         "country": ""
     },
     {
-        "name": "Golden Premier 2 HD",
-        "id": "goldenpremier2hd",
-        "logo": "https://epg.tcc.com.uy/recursos/senales/COLOR/362-color.png",
-        "url": "http://planettvweb.com:8091/PtaPta567/user8790/11676",
-        "categories": [
-            "cine"
-        ],
-        "country": ""
-    },
-    {
         "name": "Golden Premiere 2",
         "id": "goldenpremiere2",
         "logo": "https://archive.org/download/ActionMax/action%20max.png",
@@ -30,30 +20,10 @@
         "country": ""
     },
     {
-        "name": "Ultra Macho",
-        "id": "ultramacho",
-        "logo": "https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Logo-Ultra-Macho.jpg",
-        "url": "http://planettvweb.com:8091/silviah/silvia24/88441",
-        "categories": [
-            "cine"
-        ],
-        "country": ""
-    },
-    {
         "name": "EUROPA EUROPA",
         "id": "europaeuropa",
         "logo": "https://cdn.mitvstatic.com/channels/ar_europa-europa_m.png",
         "url": "http://planettvweb.com:8091/silviah/silvia24/11848",
-        "categories": [
-            "cine"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CINECANAL HD",
-        "id": "cinecanalhd",
-        "logo": "http://media.biobiochile.cl/wp-content/uploads/2016/01/cinecanal_titulo.jpg",
-        "url": "http://planettvweb.com:8091/silviah/silvia24/11662",
         "categories": [
             "cine"
         ],
@@ -80,46 +50,6 @@
         "country": ""
     },
     {
-        "name": "Showtime East FHD",
-        "id": "showtimeeastfhd",
-        "logo": "https://www.directhd.tv/wp-content/uploads/2018/09/showtime-east.jpg",
-        "url": "http://planettvweb.com:8091/silviah/silvia24/11942",
-        "categories": [
-            "cine"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FX FHD",
-        "id": "fxfhd",
-        "logo": "https://cdn.mitvstatic.com/channels/cl_fx_m.png",
-        "url": "http://planettvweb.com:8091/silviah/silvia24/11958",
-        "categories": [
-            "cine"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MGM+ Drive-In HD",
-        "id": "mgmdriveinhd",
-        "logo": "https://seeklogo.com/images/M/mgm-drive-in-logo-087B35A5FC-seeklogo.com.png",
-        "url": "http://planettvweb.com:8091/Hugo759/BPad5967/88275",
-        "categories": [
-            "cine"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Golden Edge HD",
-        "id": "goldenedgehd",
-        "logo": "https://archive.org/download/thrillermax/thrillermax.png",
-        "url": "http://planettvweb.com:8091/Hugo759/BPad5967/88282",
-        "categories": [
-            "cine"
-        ],
-        "country": ""
-    },
-    {
         "name": "Europa Europa SD",
         "id": "europaeuropasd",
         "logo": "https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png",
@@ -130,20 +60,70 @@
         "country": ""
     },
     {
-        "name": "MAX PRIME",
-        "id": "maxprime",
-        "logo": "https://cdn.mitvstatic.com/channels/ar_max-prime_m.png",
-        "url": "http://planettvweb.com:8091/Hugo759/BPad5967/16285",
+        "name": "HBO SD",
+        "id": "hbosd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",
+        "url": "http://planettvweb.com:8091/amidens77445a/77445a/11650",
         "categories": [
             "cine"
         ],
         "country": ""
     },
     {
-        "name": "STARZ WESTERN",
-        "id": "starzwestern",
+        "name": "Starz Encore Suspense",
+        "id": "starzencoresuspense",
         "logo": "http://www.eltecsa.com/logos/Starz-Logo.jpg",
-        "url": "http://planettvweb.com:8091/Hugo759/BPad5967/11927",
+        "url": "http://planettvweb.com:8091/amidens77445a/77445a/11928",
+        "categories": [
+            "cine"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AMC SD",
+        "id": "amcsd",
+        "logo": "https://1000logos.net/wp-content/uploads/2020/10/AMC-Theatres-Logo-1980.jpg",
+        "url": "http://planettvweb.com:8091/GiovaniT/ABet7904d/11642",
+        "categories": [
+            "cine"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sony Movies",
+        "id": "sonymovies",
+        "logo": "https://vignette.wikia.nocookie.net/logopedia/images/9/98/ISAT99.png/revision/latest/scale-to-width-down/397?cb=20190504184843",
+        "url": "http://planettvweb.com:8091/GiovaniT/ABet7904d/11829",
+        "categories": [
+            "cine"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WARNER CH  HD",
+        "id": "warnerchhd",
+        "logo": "https://cine3-media.s3-accelerate.amazonaws.com/2013/03/warner.jpg",
+        "url": "http://planettvweb.com:8091/GiovaniT/ABet7904d/11622",
+        "categories": [
+            "cine"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CINEMAX HD",
+        "id": "cinemaxhd",
+        "logo": "https://cdn.mitvstatic.com/channels/b8429039-13c7-42e5-856d-200ca8a6af37_m.jpg",
+        "url": "http://planettvweb.com:8091/GiovaniT/ABet7904d/11673",
+        "categories": [
+            "cine"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HBO2 FHD",
+        "id": "hbo2fhd",
+        "logo": "https://i.pinimg.com/originals/ff/e8/e0/ffe8e06088efbad75512bea09b3f4e77.png",
+        "url": "http://planettvweb.com:8091/GiovaniT/ABet7904d/11645",
         "categories": [
             "cine"
         ],

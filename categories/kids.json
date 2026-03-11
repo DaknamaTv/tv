@@ -310,7 +310,7 @@
     {
         "name": "ZB Cartoon",
         "id": "ZBCartoon.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png",
+        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
         "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
         "categories": [
             "kids"
@@ -341,7 +341,7 @@
     {
         "name": "Chintu TV",
         "id": "ChintuTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Chintu_TV.png",
+        "logo": "https://dtil.tmsimg.com/assets/s142737_ld_h15_aa.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0587/master.m3u8",
         "categories": [
             "animation",
@@ -362,7 +362,7 @@
     {
         "name": "Nick Jr.",
         "id": "NickJr.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0409/master.m3u8",
         "categories": [
             "kids"
@@ -402,7 +402,7 @@
     {
         "name": "Kochu TV",
         "id": "KochuTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kochu_TV.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143269_ld_h15_aa.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0564/master.m3u8",
         "categories": [
             "kids"
@@ -412,7 +412,7 @@
     {
         "name": "Kushi TV",
         "id": "KushiTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kushi_TV.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143275_ld_h15_aa.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0583/master.m3u8",
         "categories": [
             "kids"
@@ -433,7 +433,7 @@
     {
         "name": "Nick HD+",
         "id": "NickHDPlus.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",
+        "logo": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0450/master.m3u8",
         "categories": [
             "kids"
@@ -797,6 +797,17 @@
         "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd",
         "categories": [
             "kids"
+        ],
+        "country": "EE"
+    },
+    {
+        "name": "ETV 2",
+        "id": "ETV2.ee",
+        "logo": "https://i.imgur.com/fUjGHDa.png",
+        "url": "https://sb.err.ee/live/etv2.m3u8",
+        "categories": [
+            "kids",
+            "culture"
         ],
         "country": "EE"
     },

@@ -622,5 +622,15 @@
         "url": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
         "categories": [],
         "country": "CL"
+    },
+    {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CL"
     }
 ]

@@ -260,16 +260,6 @@
         "country": ""
     },
     {
-        "name": "Neo TV | AR",
-        "id": "neotvar",
-        "logo": "https://cdn.m3u.cl/logo/1006_Neo_TV.png",
-        "url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Net TV | AR",
         "id": "nettvar",
         "logo": "https://cdn.m3u.cl/logo/285_Net_TV.png",
@@ -2840,16 +2830,6 @@
         "country": ""
     },
     {
-        "name": "TV Sim Sao Mateus | BR",
-        "id": "tvsimsaomateusbr",
-        "logo": "https://cdn.m3u.cl/logo/564_TV_Sim_Sao_Mateus.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Mi TV | PY",
         "id": "mitvpy",
         "logo": "https://cdn.m3u.cl/logo/819_Mi_TV.png",
@@ -3060,16 +3040,6 @@
         "country": ""
     },
     {
-        "name": "Tribu TV | AR",
-        "id": "tributvar",
-        "logo": "https://cdn.m3u.cl/logo/777_Tribu_TV.png",
-        "url": "https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Ver TV | AR",
         "id": "vertvar",
         "logo": "https://cdn.m3u.cl/logo/1374_Ver_TV.png",
@@ -3200,16 +3170,6 @@
         "country": ""
     },
     {
-        "name": "Telepacífico | CO",
-        "id": "telepacficoco",
-        "logo": "https://cdn.m3u.cl/logo/135_Telepacifico.png",
-        "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Veo TV | CO",
         "id": "veotvco",
         "logo": "https://cdn.m3u.cl/logo/1157_Veo_TV.png",
@@ -3264,16 +3224,6 @@
         "id": "gospelcartoonbr",
         "logo": "https://cdn.m3u.cl/logo/528_Gospel_Cartoon.png",
         "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ISTV | BR",
-        "id": "istvbr",
-        "logo": "https://cdn.m3u.cl/logo/554_ISTV.jpg",
-        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],
@@ -3350,16 +3300,6 @@
         "country": ""
     },
     {
-        "name": "Soy Plancha TV | CR",
-        "id": "soyplanchatvcr",
-        "logo": "https://cdn.m3u.cl/logo/1064_Soy_Plancha_TV.png",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Top TV | BR",
         "id": "toptvbr",
         "logo": "https://cdn.m3u.cl/logo/546_Top_TV.png",
@@ -3374,16 +3314,6 @@
         "id": "urbanotvcr",
         "logo": "https://cdn.m3u.cl/logo/1234_Urbano_TV.png",
         "url": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Vintage Music | CR",
-        "id": "vintagemusiccr",
-        "logo": "https://cdn.m3u.cl/logo/1063_Vintage_Music.png",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],
@@ -3744,6 +3674,106 @@
         "id": "torococotvve",
         "logo": "https://cdn.m3u.cl/logo/1400_Torococo_TV.png",
         "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pequeradio TV | ES",
+        "id": "pequeradiotves",
+        "logo": "https://cdn.m3u.cl/logo/200_Pequeradio_TV.jpg",
+        "url": "http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "San Luis Mas | AR",
+        "id": "sanluismasar",
+        "logo": "https://cdn.m3u.cl/logo/269_San_Luis_Mas.png",
+        "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TeleNord | AR",
+        "id": "telenordar",
+        "logo": "https://cdn.m3u.cl/logo/814_TeleNord.jpg",
+        "url": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio Chiloe | CL",
+        "id": "radiochiloecl",
+        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio Favorita | CL",
+        "id": "radiofavoritacl",
+        "logo": "https://cdn.m3u.cl/logo/417_Radio_Favorita.png",
+        "url": "https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio Fiessta | CL",
+        "id": "radiofiesstacl",
+        "logo": "https://cdn.m3u.cl/logo/401_Radio_Fiessta.png",
+        "url": "https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Acento TV | DO",
+        "id": "acentotvdo",
+        "logo": "https://cdn.m3u.cl/logo/709_Acento_TV.png",
+        "url": "http://acentotv01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Aguacate TV | VE",
+        "id": "aguacatetvve",
+        "logo": "https://cdn.m3u.cl/logo/1593_Aguacate_TV.png",
+        "url": "https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Somos TV | VE",
+        "id": "somostvve",
+        "logo": "https://cdn.m3u.cl/logo/1438_Somos_TV.png",
+        "url": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVS Maracay | VE",
+        "id": "tvsmaracayve",
+        "logo": "https://cdn.m3u.cl/logo/518_TVS_Maracay.png",
+        "url": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],
