@@ -520,16 +520,6 @@
         "country": ""
     },
     {
-        "name": "ARG: Canal 9 Televida",
-        "id": "argcanal9televida",
-        "logo": "http://s3.i3ns.net/portal/picon/2022-05/05c4525ccd8aa0c3902569f32193fe15.png",
-        "url": "http://013tv.com:8080/umer.zia660/e7388412/285886",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
         "name": "ARG: Canal de la Ciudad",
         "id": "argcanaldelaciudad",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/bbf93646059c526e6d643ca7c9109845.png",
@@ -724,16 +714,6 @@
         "id": "argdisneyjunior",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2020-07/d8ed293e6e5c3e34b781e0c94719a39f.png",
         "url": "http://013tv.com:8080/umer.zia660/e7388412/38665",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG: Disney XD",
-        "id": "argdisneyxd",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2020-07/7754c8086fc28e5281feaa1ad81c70ae.png",
-        "url": "http://013tv.com:8080/umer.zia660/e7388412/38667",
         "categories": [
             "argentina"
         ],
@@ -1030,16 +1010,6 @@
         "country": ""
     },
     {
-        "name": "ARG: MusicTop",
-        "id": "argmusictop",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-12/5e273bd7e0d09be4a8b3150ac6667722.png",
-        "url": "http://013tv.com:8080/umer.zia660/e7388412/199644",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
         "name": "ARG: NAT GEO Wild",
         "id": "argnatgeowild",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2020-07/75e48322567d65f1f20b24133b57315b.png",
@@ -1160,16 +1130,6 @@
         "country": ""
     },
     {
-        "name": "ARG: Somos La Pampa",
-        "id": "argsomoslapampa",
-        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/umer.zia660/e7388412/301359",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
         "name": "ARG: Star TVE",
         "id": "argstartve",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2025-03/2fe306e9ffbbb3fd216437df12a00585.png",
@@ -1270,16 +1230,6 @@
         "country": ""
     },
     {
-        "name": "ARG: Tooncast",
-        "id": "argtooncast",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2025-03/d7ed4e8ec4f8c00e87ef69fe4e4ad363.png",
-        "url": "http://013tv.com:8080/umer.zia660/e7388412/38716",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
         "name": "ARG: Tru TV",
         "id": "argtrutv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2025-12/ddcbd7e756f67e9bc154934730406237.png",
@@ -1364,16 +1314,6 @@
         "id": "arguniversaltv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2020-07/84759c64da660ef9ac51ec981b19c1b9.png",
         "url": "http://013tv.com:8080/umer.zia660/e7388412/38719",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARG: universo tv radio",
-        "id": "arguniversotvradio",
-        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/umer.zia660/e7388412/303685",
         "categories": [
             "argentina"
         ],
@@ -1470,16 +1410,6 @@
         "country": ""
     },
     {
-        "name": "CINEAR HD",
-        "id": "cinearhd",
-        "logo": "http://pensilvaniafilms.com/wp-content/uploads/2017/10/CINEAR.png",
-        "url": "http://planettvweb.com:8091/Hugo759/BPad5967/11897",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
         "name": "AMERICA HD",
         "id": "americahd",
         "logo": "https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png",
@@ -1524,6 +1454,26 @@
         "id": "ln",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",
         "url": "http://planettvweb.com:8091/GiovaniT/ABet7904d/14186",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG: CINE ARGENTINO",
+        "id": "argcineargentino",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/213321/323315/164871",
+        "categories": [
+            "argentina"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARG: TN NOTICIAS",
+        "id": "argtnnoticias",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/30550113/30550113/164873",
         "categories": [
             "argentina"
         ],

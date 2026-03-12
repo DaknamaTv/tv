@@ -389,14 +389,6 @@
         "country": "ID"
     },
     {
-        "name": "BRTV",
-        "id": "BRTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",
-        "url": "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "ANTV",
         "id": "ANTV.id",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png",
@@ -649,16 +641,6 @@
         "country": "ID"
     },
     {
-        "name": "Inspira TV",
-        "id": "InspiraTV.id",
-        "logo": "https://i.imgur.com/BF5orkg.png",
-        "url": "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "PKTV",
         "id": "PKTV.id",
         "logo": "https://i.imgur.com/mldv8Sf.png",
@@ -717,16 +699,6 @@
         "id": "DutaTV.id",
         "logo": "https://i.imgur.com/B4JW54M.png",
         "url": "https://dutatv.siar.us/dutatv/live/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Jek TV",
-        "id": "JekTV.id",
-        "logo": "https://i.imgur.com/wh75d1f.png",
-        "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -927,6 +899,54 @@
         "categories": [
             "music"
         ],
+        "country": "ID"
+    },
+    {
+        "name": "Astha TV",
+        "id": "AsthaTV.id",
+        "logo": "https://astha.garuda.tv/assets/logo-DLGyXEGO.png",
+        "url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "PONTV",
+        "id": "PONTV.id",
+        "logo": "https://i.imgur.com/P5erWzm.png",
+        "url": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Sangaji TV",
+        "id": "SangajiTV.id",
+        "logo": "https://i.imgur.com/4rTNT8F.png",
+        "url": "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Sultra TV",
+        "id": "SultraTV.id",
+        "logo": "https://i.imgur.com/cmpbNJz.png",
+        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Timor TV",
+        "id": "TimorTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png",
+        "url": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "UGTV",
+        "id": "UGTV.id",
+        "logo": "https://i.imgur.com/iEKDH26.png",
+        "url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
+        "categories": [],
         "country": "ID"
     }
 ]

@@ -220,16 +220,6 @@
         "country": ""
     },
     {
-        "name": "ATV HD",
-        "id": "atvhd",
-        "logo": "",
-        "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Bollywood Movies",
         "id": "bollywoodmovies",
         "logo": "",
@@ -2394,6 +2384,56 @@
         "id": "discoveryhd",
         "logo": "https://tvassets.roarzone.info/images/43.png",
         "url": "https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=1a45d2e15f67a797ee688c668d1d700b26cf170a-95740fc4df4e81575a830675d9625777-1773188216-1773184616",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sony-Ten-Cricket HD",
+        "id": "sonytencrickethd",
+        "logo": "",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/sony-ten-cricket/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Madani Tv",
+        "id": "madanitv",
+        "logo": "",
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Dhoom Music",
+        "id": "dhoommusic",
+        "logo": "",
+        "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Zee Anmol TV",
+        "id": "zeeanmoltv",
+        "logo": "",
+        "url": "http://103.175.73.12:8080/live/256/256_0.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Ustsav Plus HD",
+        "id": "ustsavplushd",
+        "logo": "",
+        "url": "http://103.175.73.12:8080/live/9/9_0.m3u8",
         "categories": [
             "bd"
         ],

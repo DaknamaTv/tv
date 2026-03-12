@@ -73,16 +73,6 @@
         "country": "PY"
     },
     {
-        "name": "Cosmos TV",
-        "id": "CosmosTV.py",
-        "logo": "https://i.imgur.com/dAMyExY.jpg",
-        "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
-        "categories": [
-            "science"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "MiTV",
         "id": "MiTV.py",
         "logo": "https://i.imgur.com/sgrEt9z.png",
@@ -115,16 +105,6 @@
         "id": "MegaTV.py",
         "logo": "https://i.imgur.com/CaA7l86.png",
         "url": "https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Suceso TV",
-        "id": "SucesoTV.py",
-        "logo": "https://i.imgur.com/BwRNes1.png",
-        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
         "categories": [
             "news"
         ],

@@ -146,14 +146,6 @@
         "country": "BR"
     },
     {
-        "name": "TV MAX",
-        "id": "TVMAX.br",
-        "logo": "https://i.imgur.com/2Pg0baJ.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "TV Sul de Minas",
         "id": "TVSuldeMinas.br",
         "logo": "https://i.imgur.com/hPh8cxK.png",
@@ -896,14 +888,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Guara",
-        "id": "TVGuara.br",
-        "logo": "https://i.imgur.com/8PErNBT.png",
-        "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "TVNBN",
         "id": "TVNBN.br",
         "logo": "https://i.imgur.com/zoHBxn1.png",
@@ -920,16 +904,6 @@
         "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Sim Sao Mateus",
-        "id": "TVSimSaoMateus.br",
-        "logo": "https://i.imgur.com/t5oUK3C.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "BR"
     },
@@ -1012,6 +986,45 @@
         "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Fonte TV",
+        "id": "FonteTV.br",
+        "logo": "https://i.imgur.com/7q2BmNc.png",
+        "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "SBT Interior",
+        "id": "SBTInterior.br",
+        "logo": "https://i.imgur.com/IkZfa4j.png",
+        "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TVE Bahia",
+        "id": "TVEBahia.br",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png",
+        "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
+        "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "categories": [
+            "culture",
+            "education"
         ],
         "country": "BR"
     }

@@ -171,16 +171,6 @@
         "country": "CR"
     },
     {
-        "name": "SolTV",
-        "id": "SolTV.gq",
-        "logo": "https://i.imgur.com/TJHk6Va.png",
-        "url": "https://stream.solmediaeg.com/soltv/soltv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "GQ"
-    },
-    {
         "name": "WTV Canal 20",
         "id": "WTVCanal20.ni",
         "logo": "https://i.imgur.com/nb81xeU.png",
@@ -337,26 +327,6 @@
         "id": "GuaroTV.ve",
         "logo": "https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg",
         "url": "https://streamtv.intervenhosting.net:3592/stream/play.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Nortena Tv",
-        "id": "NortenaTv.ve",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
-        "url": "https://live20.bozztv.com/giatv/giatv-2525Jmv/2525Jmv/chunks.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Aguacate TV",
-        "id": "AguacateTV.ve",
-        "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
-        "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1109,16 +1079,6 @@
         "country": "IN"
     },
     {
-        "name": "Colors Infinity",
-        "id": "ColorsInfinity.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Jaya Plus",
         "id": "JayaPlus.in",
         "logo": "https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png?lock=720x540",
@@ -1144,16 +1104,6 @@
         "id": "Dabangg.in",
         "logo": "https://i.imgur.com/6ChpxLy.png",
         "url": "https://mumt01.tangotv.in/DABANGG/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Colors Bangla",
-        "id": "ColorsBangla.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158145_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.229.254.25:7001/play/a0ds/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1220,17 +1170,6 @@
         "country": "IN"
     },
     {
-        "name": "Jaya TV",
-        "id": "JayaTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143228_ld_h15_aa.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8",
-        "categories": [
-            "culture",
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony Entertainment Television",
         "id": "SonyEntertainmentTelevision.in",
         "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
@@ -1276,17 +1215,6 @@
         "logo": "https://i.imgur.com/BEr1r7L.png",
         "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
         "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Jaya Max",
-        "id": "JayaMax.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0313/master.m3u8",
-        "categories": [
-            "culture",
             "entertainment"
         ],
         "country": "IN"
@@ -1597,6 +1525,26 @@
         "id": "ColorsSuper.in",
         "logo": "https://dtil.tmsimg.com/assets/s158240_ld_h15_aa.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0484/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Colors Bangla",
+        "id": "ColorsBangla.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158145_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0464/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Colors Infinity",
+        "id": "ColorsInfinity.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0402/master.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2072,16 +2020,6 @@
         "id": "Telemax.do",
         "logo": "https://i.imgur.com/QvKmjvV.png",
         "url": "https://mlb.essastream.com:8081/telemax/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Claro Vision TV",
-        "id": "ClaroVisionTV.do",
-        "logo": "https://i.imgur.com/MpTgJMJ.png",
-        "url": "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2751,16 +2689,6 @@
         "country": "IT"
     },
     {
-        "name": "Chandel TV",
-        "id": "ChandelTV.tg",
-        "logo": "https://i.imgur.com/jQO7dVE.png",
-        "url": "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "TG"
-    },
-    {
         "name": "kabel eins",
         "id": "kabeleins.de",
         "logo": "https://i.imgur.com/6pulSHZ.png",
@@ -3152,16 +3080,6 @@
             "entertainment"
         ],
         "country": "MN"
-    },
-    {
-        "name": "Impact Network",
-        "id": "ImpactNetwork.us",
-        "logo": "https://i.imgur.com/57NH9sS.png",
-        "url": "http://51.75.94.167/impact/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
     },
     {
         "name": "Telemundo Corpus Christi",
@@ -4052,6 +3970,16 @@
         "country": "UG"
     },
     {
+        "name": "FORT TV",
+        "id": "FORTTV.ug",
+        "logo": "https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png",
+        "url": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "UG"
+    },
+    {
         "name": "Power Max Radio TV",
         "id": "PowerMaxRadioTV.ar",
         "logo": "https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg",
@@ -4078,21 +4006,6 @@
         "url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "AlternaTV",
-        "id": "AlternaTV.ar",
-        "logo": "https://tv.alterna.ar/alternatv.png",
-        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
-        "categories": [
-            "music",
-            "culture",
-            "entertainment",
-            "documentary",
-            "movies",
-            "general"
         ],
         "country": "AR"
     },
@@ -4273,16 +4186,6 @@
         "id": "ZAZ.mx",
         "logo": "",
         "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "Teleplay Sureste",
-        "id": "TeleplaySureste.mx",
-        "logo": "https://i.imgur.com/MeV5N08.png",
-        "url": "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8",
         "categories": [
             "entertainment"
         ],

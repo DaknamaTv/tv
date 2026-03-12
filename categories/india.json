@@ -420,30 +420,10 @@
         "country": ""
     },
     {
-        "name": "IN: NTV",
-        "id": "inntv",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/c6753603619595c3825e19ef5ff919c8.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/165796",
-        "categories": [
-            "india"
-        ],
-        "country": ""
-    },
-    {
         "name": "IN: Only Music",
         "id": "inonlymusic",
         "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/82522",
-        "categories": [
-            "india"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IN: Pravasi",
-        "id": "inpravasi",
-        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/287012",
         "categories": [
             "india"
         ],
@@ -520,16 +500,6 @@
         "country": ""
     },
     {
-        "name": "IN: Shanti TV",
-        "id": "inshantitv",
-        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/307609",
-        "categories": [
-            "india"
-        ],
-        "country": ""
-    },
-    {
         "name": "IN: Shemaroo TV",
         "id": "inshemarootv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-11/6521912db5e2e6a493c23bd92aff81c0.png",
@@ -544,16 +514,6 @@
         "id": "inshraddhamhone",
         "logo": "http://s3.i3ns.net/cs/etc/blank-icon.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/193064",
-        "categories": [
-            "india"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IN: Sikh Channel",
-        "id": "insikhchannel",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-06/c99283a2532f7a866786bce37d30a791.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/82556",
         "categories": [
             "india"
         ],
@@ -674,6 +634,16 @@
         "id": "7startv",
         "logo": "https://cutt.ly/ZuLLW",
         "url": "http://media.7starcloud.com:1935/live/7star/playlist.m3u8",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Asian Kairali TV (Malayalam) (S)",
+        "id": "usasiankairalitvmalayalams",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/213321/323315/125829",
         "categories": [
             "india"
         ],

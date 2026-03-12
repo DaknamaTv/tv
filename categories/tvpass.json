@@ -90,30 +90,10 @@
         "country": ""
     },
     {
-        "name": "ABC (KABC) Los Angeles HD",
-        "id": "abckabclosangeleshd",
-        "logo": "",
-        "url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "TSN5 HD",
         "id": "tsn5hd",
         "logo": "",
         "url": "https://tvpass.org/live/tsn5/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HBO 2 Eastern Feed HD",
-        "id": "hbo2easternfeedhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/HBO2East/hd",
         "categories": [
             "tvpass"
         ],
@@ -150,16 +130,6 @@
         "country": ""
     },
     {
-        "name": "Sportsnet 360 HD",
-        "id": "sportsnet360hd",
-        "logo": "",
-        "url": "https://tvpass.org/live/sportsnet-360/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sportsnet Pacific SD",
         "id": "sportsnetpacificsd",
         "logo": "",
@@ -180,50 +150,10 @@
         "country": ""
     },
     {
-        "name": "Sportsnet West HD",
-        "id": "sportsnetwesthd",
-        "logo": "",
-        "url": "https://tvpass.org/live/sportsnet-west/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "A&E US Eastern Feed SD",
         "id": "aeuseasternfeedsd",
         "logo": "",
         "url": "https://tvpass.org/live/AEEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ABC (KABC) Los Angeles SD",
-        "id": "abckabclosangelessd",
-        "logo": "",
-        "url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NY HD",
-        "id": "nyhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/WNET/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CW (KFMB-TV2) San Diego HD",
-        "id": "cwkfmbtv2sandiegohd",
-        "logo": "",
-        "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd",
         "categories": [
             "tvpass"
         ],
@@ -240,50 +170,10 @@
         "country": ""
     },
     {
-        "name": "Fanduel Sports Network West SD",
-        "id": "fanduelsportsnetworkwestsd",
-        "logo": "",
-        "url": "https://tvpass.org/live/fanduel-sports-network-west/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fanduel Sports Southeast South Carolina SD",
-        "id": "fanduelsportssoutheastsouthcarolinasd",
-        "logo": "",
-        "url": "https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "LOGO East HD",
-        "id": "logoeasthd",
-        "logo": "",
-        "url": "https://tvpass.org/live/LogoEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sportsnet Ontario HD",
         "id": "sportsnetontariohd",
         "logo": "",
         "url": "https://tvpass.org/live/sportsnet-ontario/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Starz Eastern HD",
-        "id": "starzeasternhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/StarzEast/hd",
         "categories": [
             "tvpass"
         ],
@@ -304,16 +194,6 @@
         "id": "tsn2hd",
         "logo": "",
         "url": "https://tvpass.org/live/tsn2/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fanduel Sports Tennessee East",
-        "id": "fanduelsportstennesseeeast",
-        "logo": "",
-        "url": "https://tvpass.org/live/fanduel-sports-tennessee-east/sd",
         "categories": [
             "tvpass"
         ],
@@ -350,266 +230,6 @@
         "country": ""
     },
     {
-        "name": "BET Eastern Feed SD",
-        "id": "beteasternfeedsd",
-        "logo": "",
-        "url": "https://tvpass.org/live/BETEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BET Her SD",
-        "id": "bethersd",
-        "logo": "",
-        "url": "https://tvpass.org/live/BETHerEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bloomberg TV USA SD",
-        "id": "bloombergtvusasd",
-        "logo": "",
-        "url": "https://tvpass.org/live/BloombergTV/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bravo USA Eastern Feed HD",
-        "id": "bravousaeasternfeedhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/BravoEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Chicago Sports Network SD",
-        "id": "chicagosportsnetworksd",
-        "logo": "",
-        "url": "https://tvpass.org/live/chicago-sports-network/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CW (KFMB-TV2) San Diego SD",
-        "id": "cwkfmbtv2sandiegosd",
-        "logo": "",
-        "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CW (WDCW) District of Columbia HD",
-        "id": "cwwdcwdistrictofcolumbiahd",
-        "logo": "",
-        "url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Disney XD USA Eastern Feed SD",
-        "id": "disneyxdusaeasternfeedsd",
-        "logo": "",
-        "url": "https://tvpass.org/live/DisneyXDEast/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fanduel Sports Network Great Lakes HD",
-        "id": "fanduelsportsnetworkgreatlakeshd",
-        "logo": "",
-        "url": "https://tvpass.org/live/fanduel-sports-network-great-lakes/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fanduel Sports Network Ohio Cleveland HD",
-        "id": "fanduelsportsnetworkohioclevelandhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fanduel Sports Network West HD",
-        "id": "fanduelsportsnetworkwesthd",
-        "logo": "",
-        "url": "https://tvpass.org/live/fanduel-sports-network-west/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fanduel Sports Network Wisconsin SD",
-        "id": "fanduelsportsnetworkwisconsinsd",
-        "logo": "",
-        "url": "https://tvpass.org/live/fanduel-sports-network-wisconsin/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fox Sports 2 HD",
-        "id": "foxsports2hd",
-        "logo": "",
-        "url": "https://tvpass.org/live/FoxSports2/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FYI USA Eastern HD",
-        "id": "fyiusaeasternhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/FYIEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Hallmark Family HD SD",
-        "id": "hallmarkfamilyhdsd",
-        "logo": "",
-        "url": "https://tvpass.org/live/HallmarkDrama/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "History Channel US Eastern Feed HD",
-        "id": "historychanneluseasternfeedhd",
-        "logo": "",
-        "url": "https://tvpass.org/live/HistoryEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MSNBC USA HD",
-        "id": "msnbcusahd",
-        "logo": "",
-        "url": "https://tvpass.org/live/MSNBC/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NBC Sports Boston SD",
-        "id": "nbcsportsbostonsd",
-        "logo": "",
-        "url": "https://tvpass.org/live/nbc-sports-boston/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NHL Network USA HD",
-        "id": "nhlnetworkusahd",
-        "logo": "",
-        "url": "https://tvpass.org/live/NHLNetwork/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Science SD",
-        "id": "sciencesd",
-        "logo": "",
-        "url": "https://tvpass.org/live/Science/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sportsnet One HD",
-        "id": "sportsnetonehd",
-        "logo": "",
-        "url": "https://tvpass.org/live/sportsnet-one/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TSN3 HD",
-        "id": "tsn3hd",
-        "logo": "",
-        "url": "https://tvpass.org/live/tsn3/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Turner Classic Movies USA HD",
-        "id": "turnerclassicmoviesusahd",
-        "logo": "",
-        "url": "https://tvpass.org/live/TCMEast/hd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WPIX New York (SUPERSTATION) SD",
-        "id": "wpixnewyorksuperstationsd",
-        "logo": "",
-        "url": "https://tvpass.org/live/WPIX/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "C-SPAN 2",
-        "id": "cspan2",
-        "logo": "",
-        "url": "https://tvpass.org/live/CSPAN2/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fanduel Sports Network Oklahoma",
-        "id": "fanduelsportsnetworkoklahoma",
-        "logo": "",
-        "url": "https://tvpass.org/live/fanduel-sports-network-oklahoma/sd",
-        "categories": [
-            "tvpass"
-        ],
-        "country": ""
-    },
-    {
         "name": "Fanduel Sports Southeast Tennessee Nashville",
         "id": "fanduelsportssoutheasttennesseenashville",
         "logo": "",
@@ -620,70 +240,320 @@
         "country": ""
     },
     {
-        "name": "National Geographic Wild",
-        "id": "nationalgeographicwild",
+        "name": "A&E US Eastern Feed HD",
+        "id": "aeuseasternfeedhd",
         "logo": "",
-        "url": "https://tvpass.org/live/NationalGeographicWildEast/sd",
+        "url": "https://tvpass.org/live/AEEast/hd",
         "categories": [
             "tvpass"
         ],
         "country": ""
     },
     {
-        "name": "NewsMax TV",
-        "id": "newsmaxtv",
+        "name": "Altitude Sports Denver HD",
+        "id": "altitudesportsdenverhd",
         "logo": "",
-        "url": "https://tvpass.org/live/NewsmaxTV/sd",
+        "url": "https://tvpass.org/live/altitude-sports-denver/hd",
         "categories": [
             "tvpass"
         ],
         "country": ""
     },
     {
-        "name": "Spectrum SportsNet LA",
-        "id": "spectrumsportsnetla",
+        "name": "C-SPAN SD",
+        "id": "cspansd",
         "logo": "",
-        "url": "https://tvpass.org/live/spectrum-sportsnet-la/sd",
+        "url": "https://tvpass.org/live/CSPAN/sd",
         "categories": [
             "tvpass"
         ],
         "country": ""
     },
     {
-        "name": "The Cooking Channel",
-        "id": "thecookingchannel",
+        "name": "CNBC USA SD",
+        "id": "cnbcusasd",
         "logo": "",
-        "url": "https://tvpass.org/live/CookingChannel/sd",
+        "url": "https://tvpass.org/live/CNBC/sd",
         "categories": [
             "tvpass"
         ],
         "country": ""
     },
     {
-        "name": "Travel US East",
-        "id": "traveluseast",
+        "name": "Fanduel Sports Network North HD",
+        "id": "fanduelsportsnetworknorthhd",
         "logo": "",
-        "url": "https://tvpass.org/live/TravelChannelEast/sd",
+        "url": "https://tvpass.org/live/fanduel-sports-network-north/hd",
         "categories": [
             "tvpass"
         ],
         "country": ""
     },
     {
-        "name": "Buffalo Sabres @ Dallas Stars (12/31 8:00 PM ET)",
-        "id": "buffalosabresdallasstars1231800pmet",
+        "name": "Fanduel Sports Network South Tennessee SD",
+        "id": "fanduelsportsnetworksouthtennesseesd",
         "logo": "",
-        "url": "https://tvpass.org/live/NHL17/sd",
+        "url": "https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd",
         "categories": [
             "tvpass"
         ],
         "country": ""
     },
     {
-        "name": "Nicktoons East",
-        "id": "nicktoonseast",
+        "name": "Fox Sports 2 SD",
+        "id": "foxsports2sd",
         "logo": "",
-        "url": "https://tvpass.org/live/NicktoonsEast/sd",
+        "url": "https://tvpass.org/live/FoxSports2/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HBO Signature (HBO 3) Eastern SD",
+        "id": "hbosignaturehbo3easternsd",
+        "logo": "",
+        "url": "https://tvpass.org/live/HBOSignatureEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HBO Signature (HBO 3) Eastern HD",
+        "id": "hbosignaturehbo3easternhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/HBOSignatureEast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HBO Zone HD East HD",
+        "id": "hbozonehdeasthd",
+        "logo": "",
+        "url": "https://tvpass.org/live/HBOZoneEast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HGTV USA Eastern Feed SD",
+        "id": "hgtvusaeasternfeedsd",
+        "logo": "",
+        "url": "https://tvpass.org/live/HGTVEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MovieMax (Max 6) East SD",
+        "id": "moviemaxmax6eastsd",
+        "logo": "",
+        "url": "https://tvpass.org/live/MovieMaxEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MSG Madison Square Gardens HD",
+        "id": "msgmadisonsquaregardenshd",
+        "logo": "",
+        "url": "https://tvpass.org/live/msg-madison-square-gardens/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NY SD",
+        "id": "nysd",
+        "logo": "",
+        "url": "https://tvpass.org/live/WNET/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nickelodeon USA East Feed HD",
+        "id": "nickelodeonusaeastfeedhd",
+        "logo": "",
+        "url": "https://tvpass.org/live/NickelodeonEast/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Science HD",
+        "id": "sciencehd",
+        "logo": "",
+        "url": "https://tvpass.org/live/Science/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Spectrum Sportsnet Lakers SD",
+        "id": "spectrumsportsnetlakerssd",
+        "logo": "",
+        "url": "https://tvpass.org/live/spectrum-sportsnet/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SundanceTV USA East SD",
+        "id": "sundancetvusaeastsd",
+        "logo": "",
+        "url": "https://tvpass.org/live/SundanceTVEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TLC USA Eastern SD",
+        "id": "tlcusaeasternsd",
+        "logo": "",
+        "url": "https://tvpass.org/live/TLCEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TSN1 HD",
+        "id": "tsn1hd",
+        "logo": "",
+        "url": "https://tvpass.org/live/tsn1/hd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV One SD",
+        "id": "tvonesd",
+        "logo": "",
+        "url": "https://tvpass.org/live/TVOne/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Cinemax Eastern Feed",
+        "id": "cinemaxeasternfeed",
+        "logo": "",
+        "url": "https://tvpass.org/live/CinemaxEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fanduel Sports Network Florida",
+        "id": "fanduelsportsnetworkflorida",
+        "logo": "",
+        "url": "https://tvpass.org/live/fanduel-sports-network-florida/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FX Movie Channel",
+        "id": "fxmoviechannel",
+        "logo": "",
+        "url": "https://tvpass.org/live/FXMovieChannel/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Game Show Network East",
+        "id": "gameshownetworkeast",
+        "logo": "",
+        "url": "https://tvpass.org/live/game-show-network-east/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "History Channel US Eastern Feed",
+        "id": "historychanneluseasternfeed",
+        "logo": "",
+        "url": "https://tvpass.org/live/HistoryEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "LOGO East",
+        "id": "logoeast",
+        "logo": "",
+        "url": "https://tvpass.org/live/LogoEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MoreMax Eastern",
+        "id": "moremaxeastern",
+        "logo": "",
+        "url": "https://tvpass.org/live/MoreMaxEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "New England Sports Network",
+        "id": "newenglandsportsnetwork",
+        "logo": "",
+        "url": "https://tvpass.org/live/new-england-sports-network/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Oprah Winfrey Network USA Eastern",
+        "id": "oprahwinfreynetworkusaeastern",
+        "logo": "",
+        "url": "https://tvpass.org/live/OWNEast/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "The Tennis Channel",
+        "id": "thetennischannel",
+        "logo": "",
+        "url": "https://tvpass.org/live/TennisChannel/sd",
+        "categories": [
+            "tvpass"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Golden State Warriors @ Charlotte Hornets (12/31 1:10 PM ET)",
+        "id": "goldenstatewarriorscharlottehornets1231110pmet",
+        "logo": "",
+        "url": "https://tvpass.org/live/NBATV/sd",
         "categories": [
             "tvpass"
         ],

@@ -89,26 +89,6 @@
         "country": "PR"
     },
     {
-        "name": "WDWL-DT1",
-        "id": "WDWLDT1.pr",
-        "logo": "https://i.imgur.com/B7lqYZe.png",
-        "url": "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PR"
-    },
-    {
-        "name": "NG Radio TV",
-        "id": "NGRadioTV.pr",
-        "logo": "https://i.imgur.com/KsNI3vQ.jpg",
-        "url": "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PR"
-    },
-    {
         "name": "La-X",
         "id": "LaX.pr",
         "logo": "https://i.imgur.com/i2GnQTq.png",
@@ -266,6 +246,16 @@
         "id": "WELUDT1.pr",
         "logo": "https://i.imgur.com/42UdwD0.png",
         "url": "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PR"
+    },
+    {
+        "name": "Triunfo 96.9 FM",
+        "id": "Triunfo969FM.pr",
+        "logo": "https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png",
+        "url": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8",
         "categories": [
             "religious"
         ],
