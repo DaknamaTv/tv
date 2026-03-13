@@ -1950,16 +1950,6 @@
         "country": ""
     },
     {
-        "name": "ZB Kartun",
-        "id": "zbkartun",
-        "logo": "",
-        "url": "https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "BAHRAIN QURAN",
         "id": "bahrainquran",
         "logo": "",
@@ -2310,26 +2300,6 @@
         "country": ""
     },
     {
-        "name": "ASTRO SPORTS PLUS",
-        "id": "astrosportsplus",
-        "logo": "",
-        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Astro SPORTS Primier",
-        "id": "astrosportsprimier",
-        "logo": "",
-        "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "discovery hd",
         "id": "discoveryhd",
         "logo": "https://tvassets.roarzone.info/images/43.png",
@@ -2374,6 +2344,56 @@
         "id": "ustsavplushd",
         "logo": "",
         "url": "http://103.175.73.12:8080/live/9/9_0.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Dhoom Music",
+        "id": "dhoommusic",
+        "logo": "",
+        "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Star Sports 1 HD",
+        "id": "starsports1hd",
+        "logo": "",
+        "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Star Gold HD",
+        "id": "stargoldhd",
+        "logo": "",
+        "url": "http://103.99.249.139/stargold/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SONY MAX SD",
+        "id": "sonymaxsd",
+        "logo": "",
+        "url": "http://103.99.249.139/sonymax/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Star Sport 2",
+        "id": "starsport2",
+        "logo": "",
+        "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
         "categories": [
             "bd"
         ],

@@ -805,14 +805,6 @@
         "country": "ID"
     },
     {
-        "name": "Wesal TV",
-        "id": "WesalTV.id",
-        "logo": "https://i.imgur.com/Uv8RWks.png",
-        "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Nabawi TV",
         "id": "NabawiTV.id",
         "logo": "https://i.imgur.com/O8WONFB.png",
@@ -906,14 +898,6 @@
         "country": "ID"
     },
     {
-        "name": "Sultra TV",
-        "id": "SultraTV.id",
-        "logo": "https://i.imgur.com/cmpbNJz.png",
-        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Timor TV",
         "id": "TimorTV.id",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png",
@@ -927,16 +911,6 @@
         "logo": "https://i.imgur.com/iEKDH26.png",
         "url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
         "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "Fajar TV",
-        "id": "FajarTV.id",
-        "logo": "https://i.imgur.com/mkuXxRK.png",
-        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
         "country": "ID"
     },
     {
@@ -965,6 +939,42 @@
         "categories": [
             "education"
         ],
+        "country": "ID"
+    },
+    {
+        "name": "Batam TV",
+        "id": "BatamTV.id",
+        "logo": "https://i.imgur.com/lo7YXnW.png",
+        "url": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "BRTV",
+        "id": "BRTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",
+        "url": "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Jogja TV",
+        "id": "JogjaTV.id",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
+        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "PJTV",
+        "id": "PJTV.id",
+        "logo": "https://i.imgur.com/jxdLWpC.png",
+        "url": "https://pjtv28uhf.siar.us/live/pjtv28uhf.m3u8",
+        "categories": [],
         "country": "ID"
     }
 ]

@@ -438,6 +438,48 @@
         "country": "RU"
     },
     {
+        "name": "Amedia Hit",
+        "id": "AmediaHit.ru",
+        "logo": "https://i.imgur.com/a8ZBGBw.png",
+        "url": "http://31.148.48.15/Amedia_HIT_HD/index.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Amedia Premium",
+        "id": "AmediaPremium.ru",
+        "logo": "https://i.imgur.com/UUjehw9.png",
+        "url": "http://31.148.48.15/Amedia_Premium_HD/index.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Hollywood",
+        "id": "Hollywood.ru",
+        "logo": "https://i.imgur.com/1j7cT2I.png",
+        "url": "http://31.148.48.15/MGM_HD/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Novyi Russkii",
+        "id": "NovyiRusskii.ru",
+        "logo": "https://i.imgur.com/iuRSScH.png",
+        "url": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "Abzy Movies",
         "id": "AbzyMovies.in",
         "logo": "https://i.imgur.com/LnVgKVF.png",
@@ -1220,6 +1262,16 @@
         "country": "IN"
     },
     {
+        "name": "&prive HD",
+        "id": "AndpriveHD.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540",
+        "url": "http://103.229.254.25:7001/play/a03f/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Discover Film",
         "id": "DiscoverFilm.uk",
         "logo": "https://i.imgur.com/oMnpsQ5.png",
@@ -1442,16 +1494,6 @@
             "music"
         ],
         "country": "PY"
-    },
-    {
-        "name": "Rai Movie",
-        "id": "RaiMovie.it",
-        "logo": "https://i.imgur.com/0FjxXU9.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
-        "categories": [
-            "movies"
-        ],
-        "country": "IT"
     },
     {
         "name": "Grjngo Western Movies",

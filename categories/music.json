@@ -40,16 +40,6 @@
         "country": "AU"
     },
     {
-        "name": "INTV Australia",
-        "id": "INTVAustralia.au",
-        "logo": "https://i.imgur.com/1nJl0Pv.png",
-        "url": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "AU"
-    },
-    {
         "name": "A2i Music",
         "id": "A2iMusic.sn",
         "logo": "https://i.imgur.com/Fykhzxh.jpg",
@@ -140,16 +130,6 @@
         "country": "TR"
     },
     {
-        "name": "AFN TV",
-        "id": "AFNTV.ir",
-        "logo": "https://i.imgur.com/LctanF8.png",
-        "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IR"
-    },
-    {
         "name": "Gugak TV",
         "id": "GugakTV.kr",
         "logo": "https://i.imgur.com/Ey7Htm8.png",
@@ -225,6 +205,26 @@
         "id": "VMLatino.cr",
         "logo": "https://i.imgur.com/Dvo1b82.png",
         "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "SOY Plancha TV",
+        "id": "SOYPlanchaTV.cr",
+        "logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "Vintage Music",
+        "id": "VintageMusic.cr",
+        "logo": "https://i.imgur.com/KImqYnN.jpeg",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -337,6 +337,16 @@
         "id": "ElRadio9090FM.eg",
         "logo": "https://www.9090.fm/images/logo.png",
         "url": "https://9090video.mobtada.com/hls/stream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "NogoumFMTV",
+        "id": "NogoumFMTV.eg",
+        "logo": "https://i.imgur.com/krp3kgv.png",
+        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
         "categories": [
             "music"
         ],
@@ -545,16 +555,6 @@
         "country": "RU"
     },
     {
-        "name": "15+ Music",
-        "id": "15PlusMusic.ru",
-        "logo": "https://i.imgur.com/kj21hwd.png",
-        "url": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "City Eden Birma Play",
         "id": "CityEdenBirmaPlay.ru",
         "logo": "https://i.imgur.com/38Q5L5W.png",
@@ -679,6 +679,26 @@
         "id": "CityEdenPlay.ru",
         "logo": "https://i.imgur.com/ozEqob9.png",
         "url": "https://cityeden.catcast.tv/content/34100/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Shanson TV",
+        "id": "ShansonTV.ru",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Zhara",
+        "id": "Zhara.ru",
+        "logo": "https://i.imgur.com/41K9Y2s.png",
+        "url": "http://31.148.48.15/Zhara/index.m3u8",
         "categories": [
             "music"
         ],
@@ -1710,6 +1730,16 @@
         "country": "DO"
     },
     {
+        "name": "Tele Dominicana TV",
+        "id": "TeleDominicanaTV.do",
+        "logo": "https://dominicanchannels.com/wp-content/uploads/teledominicana.png",
+        "url": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "FUSION TV",
         "id": "FUSIONTV.mq",
         "logo": "https://i.imgur.com/WMrYEgH.png",
@@ -1760,16 +1790,6 @@
         "country": "PA"
     },
     {
-        "name": "Fabulosa Estereo 100.5 FM",
-        "id": "FabulosaEstereo1005FM.pa",
-        "logo": "https://i.imgur.com/YFmzkOp.png",
-        "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PA"
-    },
-    {
         "name": "Super Q Panama",
         "id": "SuperQPanama.pa",
         "logo": "https://i.imgur.com/ocTnqi7.png",
@@ -1778,6 +1798,19 @@
             "music"
         ],
         "country": "PA"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
     },
     {
         "name": "8XM",
@@ -3666,16 +3699,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV MTV Classic",
-        "id": "PlutoTVMTVClassic.us",
-        "logo": "https://i.imgur.com/NPavpts.png",
-        "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Cumbia Mix",
         "id": "CumbiaMix.ar",
         "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png",
@@ -3716,16 +3739,6 @@
         "country": "AR"
     },
     {
-        "name": "Azahares Radiovisual Multimedia",
-        "id": "AzaharesRadiovisualMultimedia.ar",
-        "logo": "https://i.imgur.com/g1BFoSs.png",
-        "url": "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "AlternaTV",
         "id": "AlternaTV.ar",
         "logo": "https://tv.alterna.ar/alternatv.png",
@@ -3737,6 +3750,26 @@
             "documentary",
             "movies",
             "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Beats Radio",
+        "id": "BeatsRadio.ar",
+        "logo": "https://i.imgur.com/zkNUO5p.png",
+        "url": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Radio Realpolitik",
+        "id": "RadioRealpolitik.ar",
+        "logo": "https://i.imgur.com/L9KCdTX.png",
+        "url": "https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "AR"
     },

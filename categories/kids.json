@@ -247,22 +247,52 @@
         "country": "RU"
     },
     {
+        "name": "Ani",
+        "id": "Ani.ru",
+        "logo": "https://i.imgur.com/i2AP0hp.png",
+        "url": "http://31.148.48.15/Ani/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Multilandia",
+        "id": "Multilandia.ru",
+        "logo": "https://i.imgur.com/ccwijY0.png",
+        "url": "http://31.148.48.15/Multilandiya/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Mult i muzyka",
+        "id": "Multimuzyka.ru",
+        "logo": "https://i.imgur.com/SYt6BZP.png",
+        "url": "http://31.148.48.15/Multimuzika/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Ryzhiy",
+        "id": "Ryzhiy.ru",
+        "logo": "https://i.imgur.com/acrU2IE.png",
+        "url": "http://31.148.48.15/Rizhiy/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "Unique TV",
         "id": "UniqueTV.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
         "url": "https://mumt05.tangotv.in/UNIQUETV/index.m3u8",
         "categories": [
             "entertainment",
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "ZB Cartoon",
-        "id": "ZBCartoon.in",
-        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
-        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-        "categories": [
             "kids"
         ],
         "country": "IN"
@@ -370,22 +400,22 @@
         "country": "IN"
     },
     {
-        "name": "Sonic",
-        "id": "Sonic.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJB2K.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0407/master.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony Yay!",
         "id": "SonyYay.in",
         "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0367/master.m3u8",
         "categories": [
             "animation",
+            "kids"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Disney Junior",
+        "id": "DisneyJunior.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002EDBYY.png?lock=720x540",
+        "url": "http://103.229.254.25:7001/play/a09r/index.m3u8",
+        "categories": [
             "kids"
         ],
         "country": "IN"

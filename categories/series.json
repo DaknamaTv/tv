@@ -1,16 +1,5 @@
 [
     {
-        "name": "GZT",
-        "id": "GZT.tr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png",
-        "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
-        "categories": [
-            "documentary",
-            "series"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "CBC Drama",
         "id": "CBCDrama.eg",
         "logo": "https://i.imgur.com/I8YdakH.png",
@@ -72,6 +61,38 @@
         "country": "RU"
     },
     {
+        "name": "Amedia Hit",
+        "id": "AmediaHit.ru",
+        "logo": "https://i.imgur.com/a8ZBGBw.png",
+        "url": "http://31.148.48.15/Amedia_HIT_HD/index.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Amedia Premium",
+        "id": "AmediaPremium.ru",
+        "logo": "https://i.imgur.com/UUjehw9.png",
+        "url": "http://31.148.48.15/Amedia_Premium_HD/index.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Saphire",
+        "id": "Saphire.ru",
+        "logo": "https://i.imgur.com/NMOBvle.png",
+        "url": "http://31.148.48.15/Sapfir_HD/index.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "Zee Cafe",
         "id": "ZeeCafe.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZMMH.png?lock=720x540",
@@ -110,6 +131,16 @@
             "series"
         ],
         "country": "CL"
+    },
+    {
+        "name": "Serie Max",
+        "id": "SerieMax.ci",
+        "logo": "https://i.imgur.com/GaRQXHT.png",
+        "url": "https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "CI"
     },
     {
         "name": "Memorias TV Series",

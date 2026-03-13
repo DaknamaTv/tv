@@ -10,16 +10,6 @@
         "country": ""
     },
     {
-        "name": "Esports Edge",
-        "id": "esportsedge",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8f7350535325c7fad29cb140ef240ed7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748009508329_HUD-Logo-Centered.png",
-        "url": "https://jmp2.uk/rok-8f7350535325c7fad29cb140ef240ed7.m3u8",
-        "categories": [
-            "roku-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "This Old House Shorts",
         "id": "thisoldhouseshorts",
         "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ccfcc3307fa908684a95bf9643b1b935/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1754514295581_TOHShorts_InfoHUD_Mono.png",
@@ -30,10 +20,100 @@
         "country": ""
     },
     {
-        "name": "GrowthDay Network",
-        "id": "growthdaynetwork",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/182b6ef4e015e33d0f34d53fbc4524cc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761657522100_GDN_260x147_HUD.png",
-        "url": "https://jmp2.uk/rok-182b6ef4e015e33d0f34d53fbc4524cc.m3u8",
+        "name": "Swerve Women’s Sports",
+        "id": "swervewomenssports",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/51dea927355343df5a6f26545d07adc8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1764599519489_Swerve_Womens_Sports_260x147_Info_HUD_Channel_Identifier.png",
+        "url": "https://jmp2.uk/rok-51dea927355343df5a6f26545d07adc8.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hong Kong Fight Club",
+        "id": "hongkongfightclub",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5e73572a69bcac238ce1a9a705050a30/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1754586305562_Roku_HUD_260x147_HKFC.png",
+        "url": "https://jmp2.uk/rok-5e73572a69bcac238ce1a9a705050a30.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Toony Planet",
+        "id": "toonyplanet",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e0ba996e9985beb9c5e7f7f994ddc2e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1680614970035_Toony_Planet_HUD_logo_260x147.png",
+        "url": "https://jmp2.uk/rok-8e0ba996e9985beb9c5e7f7f994ddc2e.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sobreviví",
+        "id": "sobreviv",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/e4a278e5f27cc0c97aae4ddbefdbc5e6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765924286648_ISBA-LATAM_HUD_logo_260x147.png",
+        "url": "https://jmp2.uk/rok-e4a278e5f27cc0c97aae4ddbefdbc5e6.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILMEX Comedia",
+        "id": "filmexcomedia",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8b2c97d22c7fed4d9d302a1796d5e009/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766446177723_FMXcom_HUD_WHITE.png",
+        "url": "https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILMEX Acción",
+        "id": "filmexaccin",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/f53e794f65b781ff1a0d37843c704827/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766446354112_FMXac_HUD_WHITE.png",
+        "url": "https://jmp2.uk/rok-f53e794f65b781ff1a0d37843c704827.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Cine de Horror",
+        "id": "cinedehorror",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/308d792301e9897cbd41d0390abef68f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758347646934_Logo_Cine_de_horror_260-x-147px_color_efefef_alineado_al_borde_superior.png",
+        "url": "https://jmp2.uk/rok-308d792301e9897cbd41d0390abef68f.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Mi Raza",
+        "id": "miraza",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/1cec89adc1796217721b1ee2cb21255c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1764878529442_UHD_Logo_Mi_Raza_260x147.png",
+        "url": "https://jmp2.uk/rok-1cec89adc1796217721b1ee2cb21255c.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "N+ Univision 24/7",
+        "id": "nunivision247",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5a28fbf15c135b51b3638e8bd02d6577/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1772737218229_NMasUnivision247_RokuHUD_260x147_White.png",
+        "url": "https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ÚNICA TV",
+        "id": "nicatv",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/427be38e736e5c6e92bd1cec086e941a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763491674042_LOGO_uNICATV-HUD-HORIZONTALefefef.png",
+        "url": "https://jmp2.uk/rok-427be38e736e5c6e92bd1cec086e941a.m3u8",
         "categories": [
             "roku-all"
         ],

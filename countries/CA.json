@@ -498,16 +498,6 @@
         "country": "CA"
     },
     {
-        "name": "Channel Y",
-        "id": "ChannelY.ca",
-        "logo": "https://i.imgur.com/OqSl2Qf.png",
-        "url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Stingray Naturescape",
         "id": "StingrayNaturescape.ca",
         "logo": "https://i.imgur.com/882kd90.png",
@@ -534,26 +524,6 @@
         "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "Dukh Nivaran",
-        "id": "DukhNivaran.ca",
-        "logo": "https://i.imgur.com/Zh60l1x.png",
-        "url": "http://cdn12.henico.net:8080/live/dncal/index.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "Apna Punjab TV",
-        "id": "ApnaPunjabTV.ca",
-        "logo": "https://i.imgur.com/IM4D8Wz.png",
-        "url": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "CA"
     },
@@ -592,16 +562,6 @@
         "url": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8",
         "categories": [
             "culture"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "Probashi TV News",
-        "id": "ProbashiTVNews.ca",
-        "logo": "https://i.imgur.com/7oTsfQ4.png",
-        "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "CA"
     },
@@ -769,6 +729,16 @@
         "logo": "https://i.imgur.com/DodsLuW.png",
         "url": "https://live.cmr24.fm/TVI/HD/chunks.m3u8",
         "categories": [],
+        "country": "CA"
+    },
+    {
+        "name": "Apna Punjab TV",
+        "id": "ApnaPunjabTV.ca",
+        "logo": "https://i.imgur.com/IM4D8Wz.png",
+        "url": "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
         "country": "CA"
     }
 ]

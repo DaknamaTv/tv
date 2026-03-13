@@ -150,26 +150,6 @@
         "country": ""
     },
     {
-        "name": "CA: CityNews Toronto",
-        "id": "cacitynewstoronto",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-08/2bc7a5ae342739230d452248505d37e2.svg",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/296809",
-        "categories": [
-            "canada ➾ news"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: CNN",
-        "id": "cacnn",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/eeb470948d2348b6f6fddf49375b86ab.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/298594",
-        "categories": [
-            "canada ➾ news"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA: CP 24",
         "id": "cacp24",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/1fca600f2e44ea27e7bf259c55fc81ba.png",
@@ -190,36 +170,6 @@
         "country": ""
     },
     {
-        "name": "CA: CTV 2 Atlantic",
-        "id": "cactv2atlantic",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-08/f73abd6c1c908aa48229ef1e81d80097.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/13228",
-        "categories": [
-            "canada ➾ news"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: CTV 2 Barrie",
-        "id": "cactv2barrie",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-08/92ba2cad2219cb24d623da9841753dd1.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/296813",
-        "categories": [
-            "canada ➾ news"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: CTV 2 London",
-        "id": "cactv2london",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2022-08/514e7eb73d98fe8cde00505defe96972.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/296810",
-        "categories": [
-            "canada ➾ news"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA: CTV News Atlantic",
         "id": "cactvnewsatlantic",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-04/853d623423e380ef65f8b3cc0f1538f0.png",
@@ -234,26 +184,6 @@
         "id": "cactvnewschannel",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/d8b981e43a3201ced02c6986fd1baea0.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/474",
-        "categories": [
-            "canada ➾ news"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: CTV Toronto",
-        "id": "cactvtoronto",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-04/4473c97c2f845834909b6dfbdae68958.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/298187",
-        "categories": [
-            "canada ➾ news"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: Fox News Channel",
-        "id": "cafoxnewschannel",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2025-01/36f6d165abaa55129f68334fe3fc14a9.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/467",
         "categories": [
             "canada ➾ news"
         ],
@@ -410,40 +340,10 @@
         "country": ""
     },
     {
-        "name": "CA: Ici RDI (FR)",
-        "id": "caicirdifr",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/7087fd62e7178e4ea76b368412ef3842.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/9257",
-        "categories": [
-            "canada ➾ news"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA: ICi Vancouver (FR)",
         "id": "caicivancouverfr",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2022-02/f92cbb1f709ad087e502159b2e6d65a6.png",
         "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/281013",
-        "categories": [
-            "canada ➾ news"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: LCN (FR)",
-        "id": "calcnfr",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/5b898be60d107905eb95ec871659c922.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/9300",
-        "categories": [
-            "canada ➾ news"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: The Weather Network",
-        "id": "catheweathernetwork",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2021-05/d6000b1dd6b75985fb2e62b502fa1c82.png",
-        "url": "http://013tv.com:8080/silversatcom/uSKcm5tNBsrJ2HZE/447",
         "categories": [
             "canada ➾ news"
         ],
