@@ -766,16 +766,6 @@
         "country": "IT"
     },
     {
-        "name": "La C TV",
-        "id": "LaCTV.it",
-        "logo": "https://i.imgur.com/TF4LKp0.png",
-        "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "m2o TV",
         "id": "m2oTV.it",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png",
@@ -1413,16 +1403,6 @@
         "country": "IT"
     },
     {
-        "name": "Onda TV",
-        "id": "OndaTV.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg",
-        "url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Canale 8",
         "id": "Canale8.it",
         "logo": "https://i.imgur.com/xwYmFgj.png",
@@ -1575,11 +1555,13 @@
         "country": "IT"
     },
     {
-        "name": "TV Yes Italia",
-        "id": "TVYesItalia.it",
-        "logo": "https://i.imgur.com/3CDxatu.png",
-        "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8",
-        "categories": [],
+        "name": "GO-TV Canale 163",
+        "id": "GOTVCanale163.it",
+        "logo": "https://i.imgur.com/11V0QSp.png",
+        "url": "https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "IT"
     }
 ]

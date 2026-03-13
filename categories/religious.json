@@ -20,16 +20,6 @@
         "country": "AU"
     },
     {
-        "name": "YOUNIB Media TV",
-        "id": "YOUNIBMediaTV.ke",
-        "logo": "https://i.imgur.com/LtiPOYG.jpg",
-        "url": "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "KE"
-    },
-    {
         "name": "Morning Cloud TV",
         "id": "MorningCloudTV.ke",
         "logo": "https://i.imgur.com/Lxfd2ip.png",
@@ -396,6 +386,16 @@
         "id": "NabawiTV.id",
         "logo": "https://i.imgur.com/O8WONFB.png",
         "url": "http://202.150.161.117:8000/play/NabawiTV",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Fajar TV",
+        "id": "FajarTV.id",
+        "logo": "https://i.imgur.com/mkuXxRK.png",
+        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -1698,6 +1698,16 @@
         "country": "CL"
     },
     {
+        "name": "Televida",
+        "id": "Televida.cl",
+        "logo": "https://i.imgur.com/bmNA8hq.png",
+        "url": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "Exodus TV",
         "id": "ExodusTV.si",
         "logo": "https://i.imgur.com/WKr5ncQ.png",
@@ -1706,16 +1716,6 @@
             "religious"
         ],
         "country": "SI"
-    },
-    {
-        "name": "CNA",
-        "id": "CNA.dz",
-        "logo": "https://i.imgur.com/Ki3ySUE.png",
-        "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "DZ"
     },
     {
         "name": "Light Channel",
@@ -1918,6 +1918,16 @@
         "country": "DO"
     },
     {
+        "name": "Televida",
+        "id": "Televida.do",
+        "logo": "https://i.imgur.com/S8Zdn41.png",
+        "url": "https://cnn.hostlagarto.com/televida/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "TV Famille",
         "id": "TVFamille.mq",
         "logo": "https://i.imgur.com/Kbfihk5.png",
@@ -2053,6 +2063,16 @@
         "id": "QuranTV.pk",
         "logo": "https://i.imgur.com/nc7X3Ux.png",
         "url": "http://103.250.28.74:8000/play/a03e/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "God Stands TV",
+        "id": "GodStandsTV.pk",
+        "logo": "https://i.imgur.com/EO6cYUI.png",
+        "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
         "categories": [
             "religious"
         ],
@@ -3138,6 +3158,26 @@
         "id": "JosueTV.sv",
         "logo": "https://i.imgur.com/LNWGe1D.jpg",
         "url": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
+        "name": "Arbol de Vida TV",
+        "id": "ArboldeVidaTV.sv",
+        "logo": "https://i.imgur.com/4sGDc4X.jpg",
+        "url": "https://yupistream.top:19360/livearbol/livearbol.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
+        "name": "Elim TV",
+        "id": "ElimTV.sv",
+        "logo": "https://i.imgur.com/payIg0N.png",
+        "url": "https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8",
         "categories": [
             "religious"
         ],
@@ -4517,6 +4557,16 @@
         "id": "3ABNTVUganda.ug",
         "logo": "https://i.imgur.com/mml9lI2.png",
         "url": "https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "UG"
+    },
+    {
+        "name": "Praise Jesus Tower TV",
+        "id": "PraiseJesusTowerTV.ug",
+        "logo": "https://i.imgur.com/KT4qIve.png",
+        "url": "https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8",
         "categories": [
             "religious"
         ],

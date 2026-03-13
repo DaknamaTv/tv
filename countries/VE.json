@@ -300,16 +300,6 @@
         "country": "VE"
     },
     {
-        "name": "Canal Once",
-        "id": "CanalOnce.ve",
-        "logo": "https://i.imgur.com/puM9ASa.png",
-        "url": "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Portuguesa Television",
         "id": "PortuguesaTelevision.ve",
         "logo": "https://i.imgur.com/jHUSfGz.png",
@@ -344,16 +334,6 @@
         "id": "CatatumboTV.ve",
         "logo": "https://i.imgur.com/LBI2la0.png",
         "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Torococo TV",
-        "id": "TorococoTV.ve",
-        "logo": "https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png",
-        "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8",
         "categories": [
             "general"
         ],
@@ -416,6 +396,16 @@
         "url": "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Aguacate TV",
+        "id": "AguacateTV.ve",
+        "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+        "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "VE"
     }

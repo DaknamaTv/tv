@@ -212,6 +212,17 @@
         "country": "IN"
     },
     {
+        "name": "Jaya Max",
+        "id": "JayaMax.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0313/master.m3u8",
+        "categories": [
+            "culture",
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "EET TV",
         "id": "EETTV.ca",
         "logo": "https://i.imgur.com/rntSEDZ.png",
@@ -374,17 +385,14 @@
         "country": "DO"
     },
     {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "name": "Guaymate TV",
+        "id": "GuaymateTV.do",
+        "logo": "https://i.imgur.com/PBgQi9a.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8",
         "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
+            "culture"
         ],
-        "country": "VN"
+        "country": "DO"
     },
     {
         "name": "Mehran TV",
@@ -740,17 +748,6 @@
         "country": "BR"
     },
     {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Malchin TV",
         "id": "MalchinTV.mn",
         "logo": "https://i.imgur.com/vCdEBZo.png",
@@ -759,6 +756,16 @@
             "culture"
         ],
         "country": "MN"
+    },
+    {
+        "name": "Belarus-3",
+        "id": "Belarus3.by",
+        "logo": "https://i.imgur.com/JkcDycn.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "BY"
     },
     {
         "name": "EBS",
@@ -905,6 +912,21 @@
         "country": "CG"
     },
     {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "Salto 2",
         "id": "Salto2.nl",
         "logo": "https://i.imgur.com/6H3ycdL.png",
@@ -963,6 +985,17 @@
         "categories": [
             "culture",
             "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Capital 21",
+        "id": "Capital21.mx",
+        "logo": "https://i.imgur.com/8ign49i.png",
+        "url": "https://video.cdmx.gob.mx/redes/stream.m3u8",
+        "categories": [
+            "culture",
+            "entertainment"
         ],
         "country": "MX"
     },

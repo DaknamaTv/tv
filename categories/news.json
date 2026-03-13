@@ -615,6 +615,16 @@
         "country": "UA"
     },
     {
+        "name": "Reporter",
+        "id": "Reporter.ua",
+        "logo": "https://i.imgur.com/LyA3kBR.png",
+        "url": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "UA"
+    },
+    {
         "name": "Bijoy TV",
         "id": "BijoyTV.bd",
         "logo": "https://i.imgur.com/Faetm0C.png",
@@ -2569,16 +2579,6 @@
         "country": "IN"
     },
     {
-        "name": "VBC News",
-        "id": "VBCNews.in",
-        "logo": "https://i.imgur.com/SvXCjha.png",
-        "url": "https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "CityNews Toronto",
         "id": "CityNewsToronto.ca",
         "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
@@ -2643,6 +2643,16 @@
         "id": "CityNewsEdmonton.ca",
         "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
         "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "Hamdard TV",
+        "id": "HamdardTV.ca",
+        "logo": "https://i.ibb.co/JcD2xck/logo-hamda.png",
+        "url": "https://tv.hamdardtv.com/hamdard/index.m3u8",
         "categories": [
             "news"
         ],
@@ -2954,41 +2964,6 @@
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "HTV9",
-        "id": "HTV9.vn",
-        "logo": "",
-        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Vinh Long TV 1",
-        "id": "VinhLongTV1.vn",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -3367,6 +3342,16 @@
         "country": "FR"
     },
     {
+        "name": "Hir TV",
+        "id": "HirTV.hu",
+        "logo": "https://i.imgur.com/xmIUDRN.png",
+        "url": "https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "HU"
+    },
+    {
         "name": "Haiti News Channel",
         "id": "HaitiNewsChannel.ht",
         "logo": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
@@ -3686,16 +3671,6 @@
         "country": "AF"
     },
     {
-        "name": "Chekad TV",
-        "id": "ChekadTV.af",
-        "logo": "https://i.imgur.com/dPTJY5M.png",
-        "url": "https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "AF"
-    },
-    {
         "name": "MTV Uutiset",
         "id": "MTVUutiset.fi",
         "logo": "https://i.imgur.com/ZO8ShOK.png",
@@ -3836,10 +3811,10 @@
         "country": "PY"
     },
     {
-        "name": "4Dmas Noticias TV",
-        "id": "4DmasNoticiasTV.py",
-        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "name": "Suceso TV",
+        "id": "SucesoTV.py",
+        "logo": "https://i.imgur.com/BwRNes1.png",
+        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
         "categories": [
             "news"
         ],
@@ -4591,6 +4566,16 @@
         "country": "BR"
     },
     {
+        "name": "TV Sim Sao Mateus",
+        "id": "TVSimSaoMateus.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "ETV",
         "id": "ETV.mn",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png",
@@ -4619,6 +4604,16 @@
             "news"
         ],
         "country": "MN"
+    },
+    {
+        "name": "NBC 2",
+        "id": "NBC2.na",
+        "logo": "https://i.imgur.com/A6jxUvU.png",
+        "url": "https://hls2.nbcplus.na/hls/high_nbc2.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "NA"
     },
     {
         "name": "News 24",
@@ -5787,16 +5782,6 @@
         "id": "TeleMoldovaPlus.ro",
         "logo": "https://i.imgur.com/8z0zLjw.jpeg",
         "url": "https://vdo.ssl-stream.com:3247/stream/play.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "RO"
-    },
-    {
-        "name": "Euronews Romania",
-        "id": "EuronewsRomania.ro",
-        "logo": "https://i.imgur.com/jUOVUXt.png",
-        "url": "https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8",
         "categories": [
             "news"
         ],

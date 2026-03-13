@@ -1480,50 +1480,10 @@
         "country": ""
     },
     {
-        "name": "Star Gold HD",
-        "id": "stargoldhd",
-        "logo": "",
-        "url": "http://103.229.254.25:7001/play/a0dd/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Star Plus HD",
-        "id": "starplushd",
-        "logo": "",
-        "url": "http://103.229.254.25:7001/play/a09z/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "StarSports 1 HD",
-        "id": "starsports1hd",
-        "logo": "",
-        "url": "http://103.229.254.25:7001/play/a0a0/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "PTC Music",
         "id": "ptcmusic",
         "logo": "",
         "url": "https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Star Sports 1 Hindi HD",
-        "id": "starsports1hindihd",
-        "logo": "",
-        "url": "http://103.229.254.25:7001/play/a0dn/index.m3u8",
         "categories": [
             "bd"
         ],
@@ -1684,16 +1644,6 @@
         "id": "colorscineplexsuperhit",
         "logo": "",
         "url": "http://103.175.73.12:8080/live/14/14_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SONY MAX SD",
-        "id": "sonymaxsd",
-        "logo": "",
-        "url": "http://103.99.249.139/sonymax/index.m3u8",
         "categories": [
             "bd"
         ],
@@ -2404,16 +2354,6 @@
         "id": "madanitv",
         "logo": "",
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Dhoom Music",
-        "id": "dhoommusic",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
         "categories": [
             "bd"
         ],

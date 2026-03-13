@@ -7782,16 +7782,6 @@
         "country": "US"
     },
     {
-        "name": "Fidele TV",
-        "id": "FideleTV.us",
-        "logo": "https://i.ibb.co/YtBZ0Lc/FIDELE-TV.png",
-        "url": "https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Payame Aramesh TV",
         "id": "PayameArameshTV.us",
         "logo": "https://i.imgur.com/WaPr0t0.png",
@@ -9925,30 +9915,6 @@
         "country": "US"
     },
     {
-        "name": "WTTW-DT1",
-        "id": "WTTWDT1.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
-        "url": "http://68.251.105.81:5004/auto/v11.1",
-        "categories": [],
-        "country": "US"
-    },
-    {
-        "name": "WTTW-DT2",
-        "id": "WTTWDT2.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
-        "url": "http://68.251.105.81:5004/auto/v11.2",
-        "categories": [],
-        "country": "US"
-    },
-    {
-        "name": "WTTW-DT3",
-        "id": "WTTWDT3.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/960px-Create_TV_network_logo.svg.png",
-        "url": "http://68.251.105.81:5004/auto/v11.3",
-        "categories": [],
-        "country": "US"
-    },
-    {
         "name": "PBC Tapesh TV",
         "id": "PBCTapeshTV.us",
         "logo": "https://i.imgur.com/50JzsmH.png",
@@ -10039,12 +10005,22 @@
         "country": "US"
     },
     {
-        "name": "TVS Television Network",
-        "id": "TVSTelevisionNetwork.us",
-        "logo": "",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8",
+        "name": "NFL RedZone",
+        "id": "NFLRedZone.us",
+        "logo": "https://i.imgur.com/5lPqQj5.png",
+        "url": "https://tvpass.org/live/NFLRedZone/sd",
         "categories": [
-            "general"
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV MTV Classic",
+        "id": "PlutoTVMTVClassic.us",
+        "logo": "https://i.imgur.com/NPavpts.png",
+        "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "US"
     }
