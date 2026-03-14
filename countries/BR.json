@@ -395,14 +395,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Cultura",
-        "id": "TVCultura.br",
-        "logo": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
-        "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "MTV",
         "id": "MTV.br",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
@@ -719,30 +711,10 @@
         "country": "BR"
     },
     {
-        "name": "TV Vicosa",
-        "id": "TVVicosa.br",
-        "logo": "https://i.imgur.com/TZF55f9.png",
-        "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Sim Cachoeiro",
         "id": "TVSimCachoeiro.br",
         "logo": "https://i.imgur.com/t5oUK3C.png",
         "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Sim Colatina",
-        "id": "TVSimColatina.br",
-        "logo": "https://i.imgur.com/t5oUK3C.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -776,14 +748,6 @@
         "categories": [
             "general"
         ],
-        "country": "BR"
-    },
-    {
-        "name": "Canal 25 Jundiai",
-        "id": "Canal25Jundiai.br",
-        "logo": "https://i.imgur.com/7igGMwH.png",
-        "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-        "categories": [],
         "country": "BR"
     },
     {
@@ -982,16 +946,6 @@
         "country": "BR"
     },
     {
-        "name": "SBT Interior",
-        "id": "SBTInterior.br",
-        "logo": "https://i.imgur.com/IkZfa4j.png",
-        "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "ISTV",
         "id": "ISTV.br",
         "logo": "https://i.imgur.com/RUKVrOH.png",
@@ -1028,21 +982,12 @@
         "country": "BR"
     },
     {
-        "name": "TVE Bahia",
-        "id": "TVEBahia.br",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png",
-        "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "name": "Cultura Para",
+        "id": "CulturaPara.br",
+        "logo": "https://i.imgur.com/5jPEI5c.png",
+        "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
         "categories": [
-            "culture",
-            "education"
+            "general"
         ],
         "country": "BR"
     }

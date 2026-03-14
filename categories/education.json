@@ -124,16 +124,6 @@
         "country": "KR"
     },
     {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Manas TV",
         "id": "ManasTV.kg",
         "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
@@ -345,6 +335,16 @@
         "id": "EducaTV.ec",
         "logo": "https://i.imgur.com/lY9Bx2u.png",
         "url": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "UNIANDES TV",
+        "id": "UNIANDESTV.ec",
+        "logo": "https://i.imgur.com/1rluyB7.png",
+        "url": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8",
         "categories": [
             "education"
         ],
@@ -749,17 +749,6 @@
         "country": "BR"
     },
     {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Edutainment TV",
         "id": "EdutainmentTV.mn",
         "logo": "https://i.imgur.com/0m8t3vh.png",
@@ -1123,6 +1112,26 @@
         "id": "XHMNLTDT.mx",
         "logo": "https://i.imgur.com/9qL4LJF.png",
         "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "ILCE Canal 15 Summa Saberes",
+        "id": "ILCECanal15SummaSaberes.mx",
+        "logo": "https://i.imgur.com/r7czgOc.png",
+        "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Tele UV",
+        "id": "TeleUV.mx",
+        "logo": "https://i.imgur.com/8MdUH69.jpeg",
+        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
         "categories": [
             "education"
         ],

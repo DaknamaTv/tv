@@ -351,16 +351,6 @@
         "country": "IN"
     },
     {
-        "name": "Star Sports 2 Telugu",
-        "id": "StarSports2Telugu.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158351_ld_h15_ab.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony Sports Ten 3 Hindi",
         "id": "SonySportsTen3Hindi.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
@@ -385,16 +375,6 @@
         "id": "StarSports2Hindi.in",
         "logo": "https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540",
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0416/master.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports 2 Tamil",
-        "id": "StarSports2Tamil.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158352_ld_h15_ab.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0425/master.m3u8",
         "categories": [
             "sports"
         ],
@@ -491,6 +471,16 @@
         "country": "CL"
     },
     {
+        "name": "Multivision Sports",
+        "id": "MultivisionSports.gt",
+        "logo": "https://i.imgur.com/wLjSSo2.jpg",
+        "url": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "GT"
+    },
+    {
         "name": "SOS Kanal Plus",
         "id": "SOSKanalPlus.rs",
         "logo": "https://i.imgur.com/9SD40uH.png",
@@ -521,6 +511,16 @@
         "country": "DO"
     },
     {
+        "name": "Colimdo TV",
+        "id": "ColimdoTV.do",
+        "logo": "https://i.imgur.com/ZeUgLCa.png",
+        "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Dong Nai TV 2",
         "id": "DongNaiTV2.vn",
         "logo": "https://i.imgur.com/tNKPSkO.png",
@@ -528,16 +528,6 @@
         "categories": [
             "sports",
             "entertainment"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "HTV Sports",
-        "id": "HTVSports.vn",
-        "logo": "",
-        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "sports"
         ],
         "country": "VN"
     },

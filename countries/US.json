@@ -8486,7 +8486,7 @@
     {
         "name": "KGUN-DT6",
         "id": "KGUNDT6.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/330px-Scripps_News_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/960px-Scripps_News_logo.svg.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4e7352ea-6a5e-4d88-b6f4-9949b67a38fa",
         "categories": [
             "news"
@@ -9059,16 +9059,6 @@
         "categories": [
             "classic",
             "animation"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "WHPS-CD2",
-        "id": "WHPSCD2.us",
-        "logo": "https://i.imgur.com/KW1iQ5W.png",
-        "url": "https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "US"
     },
@@ -9675,16 +9665,6 @@
         "country": "US"
     },
     {
-        "name": "TeleMIX",
-        "id": "TeleMIX.us",
-        "logo": "https://i.ibb.co/HpX99Ks/unnamed.jpg",
-        "url": "https://haititivi.com/haiti/telemix1/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Lego Channel",
         "id": "LegoChannel.us",
         "logo": "https://i.imgur.com/xePwW13.png",
@@ -9743,16 +9723,6 @@
         "url": "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8",
         "categories": [
             "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "WWON-TV Channel 48",
-        "id": "WWONTVChannel48.us",
-        "logo": "https://i.imgur.com/l4qHAq6.png",
-        "url": "https://tv2.fastcast4u.com:3943/stream/play.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "US"
     },
@@ -9955,16 +9925,6 @@
         "country": "US"
     },
     {
-        "name": "Latin Zone",
-        "id": "LatinZone.us",
-        "logo": "https://i.imgur.com/duEDsne.png",
-        "url": "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Golf Channel Latin America",
         "id": "GolfChannelLatinAmerica.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
@@ -10002,6 +9962,80 @@
         "categories": [
             "general"
         ],
+        "country": "US"
+    },
+    {
+        "name": "America's Voice News",
+        "id": "AmericasVoiceNews.us",
+        "logo": "https://i.imgur.com/C4w0eYC.png",
+        "url": "https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Fidele TV",
+        "id": "FideleTV.us",
+        "logo": "https://i.ibb.co/YtBZ0Lc/FIDELE-TV.png",
+        "url": "https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "JBS",
+        "id": "JBS.us",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
+        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PBC Tapesh TV",
+        "id": "PBCTapeshTV.us",
+        "logo": "https://i.imgur.com/50JzsmH.png",
+        "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV MTV Classic",
+        "id": "PlutoTVMTVClassic.us",
+        "logo": "https://i.imgur.com/NPavpts.png",
+        "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "WTTW-DT1",
+        "id": "WTTWDT1.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
+        "url": "http://68.251.105.81:5004/auto/v11.1",
+        "categories": [],
+        "country": "US"
+    },
+    {
+        "name": "WTTW-DT2",
+        "id": "WTTWDT2.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
+        "url": "http://68.251.105.81:5004/auto/v11.2",
+        "categories": [],
+        "country": "US"
+    },
+    {
+        "name": "WTTW-DT3",
+        "id": "WTTWDT3.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/960px-Create_TV_network_logo.svg.png",
+        "url": "http://68.251.105.81:5004/auto/v11.3",
+        "categories": [],
         "country": "US"
     }
 ]

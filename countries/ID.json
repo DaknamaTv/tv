@@ -20,7 +20,7 @@
     {
         "name": "MDTV",
         "id": "MDTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png",
         "url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8",
         "categories": [],
         "country": "ID"
@@ -223,16 +223,6 @@
         "url": "https://flv.intechmedia.net/live/ch18.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "MQTV",
-        "id": "MQTV.id",
-        "logo": "https://i.imgur.com/d8dQo6E.png",
-        "url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
-        "categories": [
-            "religious"
         ],
         "country": "ID"
     },
@@ -444,14 +434,6 @@
         "categories": [
             "general"
         ],
-        "country": "ID"
-    },
-    {
-        "name": "TV Tabalong",
-        "id": "TVTabalong.id",
-        "logo": "https://i.imgur.com/2YhDH98.png",
-        "url": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8",
-        "categories": [],
         "country": "ID"
     },
     {
@@ -924,24 +906,6 @@
         "country": "ID"
     },
     {
-        "name": "Radar Lampung TV",
-        "id": "RadarLampungTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png",
-        "url": "https://www.streaming.radartv.co.id/hls/test.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Batam TV",
         "id": "BatamTV.id",
         "logo": "https://i.imgur.com/lo7YXnW.png",
@@ -960,20 +924,36 @@
         "country": "ID"
     },
     {
-        "name": "Jogja TV",
-        "id": "JogjaTV.id",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
-        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "PJTV",
         "id": "PJTV.id",
         "logo": "https://i.imgur.com/jxdLWpC.png",
         "url": "https://pjtv28uhf.siar.us/live/pjtv28uhf.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Fajar TV",
+        "id": "FajarTV.id",
+        "logo": "https://i.imgur.com/mkuXxRK.png",
+        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Sultra TV",
+        "id": "SultraTV.id",
+        "logo": "https://i.imgur.com/cmpbNJz.png",
+        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Wesal TV",
+        "id": "WesalTV.id",
+        "logo": "https://i.imgur.com/Uv8RWks.png",
+        "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
         "categories": [],
         "country": "ID"
     }

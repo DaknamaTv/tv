@@ -68,5 +68,25 @@
             "rtve"
         ],
         "country": ""
+    },
+    {
+        "name": "24H DASH",
+        "id": "24hdash",
+        "logo": "https://okdiario.com/img/2023/11/11/rtve-play-635x358.jpg",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/264205",
+        "categories": [
+            "rtve"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTVE CONCIERTOS RADIO 3",
+        "id": "rtveconciertosradio3",
+        "logo": "https://okdiario.com/img/2023/11/11/rtve-play-635x358.jpg",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/265204",
+        "categories": [
+            "rtve"
+        ],
+        "country": ""
     }
 ]

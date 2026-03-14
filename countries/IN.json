@@ -3635,17 +3635,6 @@
         "country": "IN"
     },
     {
-        "name": "ZillarBarta News",
-        "id": "ZillarBartaNews.in",
-        "logo": "https://i.imgur.com/6uestzY.jpeg",
-        "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
-        "categories": [
-            "news",
-            "classic"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "9X Tashan",
         "id": "9XTashan.in",
         "logo": "https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540",
@@ -3682,16 +3671,6 @@
         "url": "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8",
         "categories": [
             "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "B4U Hitz",
-        "id": "B4UHitz.in",
-        "logo": "",
-        "url": "http://115.42.65.142:9981/stream/channelid/1099703605",
-        "categories": [
-            "music"
         ],
         "country": "IN"
     },
@@ -4050,17 +4029,6 @@
         "url": "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8",
         "categories": [
             "religious"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "ZB Cinema",
-        "id": "ZBCinema.in",
-        "logo": "https://i.imgur.com/kUg6WSk.jpeg",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-        "categories": [
-            "classic",
-            "movies"
         ],
         "country": "IN"
     },
@@ -4570,16 +4538,6 @@
         "url": "https://guaranteenews.in:8443/live/gnews/index.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Harvest USA",
-        "id": "HarvestUSA.in",
-        "logo": "https://www.lyngsat.com/logo/tv/hh/harvest_tv_in_usa.png",
-        "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-        "categories": [
-            "religious"
         ],
         "country": "IN"
     },
@@ -5336,16 +5294,6 @@
         "country": "IN"
     },
     {
-        "name": "Nick HD+",
-        "id": "NickHDPlus.in",
-        "logo": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0450/master.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony Pix",
         "id": "SonyPix.in",
         "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540",
@@ -5516,16 +5464,6 @@
         "country": "IN"
     },
     {
-        "name": "Steelbird Music",
-        "id": "SteelbirdMusic.in",
-        "logo": "https://i.imgur.com/Egijzx3.png",
-        "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Swantham",
         "id": "Swantham.in",
         "logo": "https://i.imgur.com/ye6v4GP.png",
@@ -5606,16 +5544,6 @@
         "country": "IN"
     },
     {
-        "name": "Colors Super",
-        "id": "ColorsSuper.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158240_ld_h15_aa.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0484/master.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Dharsan TV",
         "id": "DharsanTV.in",
         "logo": "https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ",
@@ -5632,16 +5560,6 @@
         "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8",
         "categories": [
             "documentary"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Sports 2 Telugu",
-        "id": "StarSports2Telugu.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158351_ld_h15_ab.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8",
-        "categories": [
-            "sports"
         ],
         "country": "IN"
     },
@@ -5702,16 +5620,6 @@
         "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
         "categories": [
             "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Aamar Bangla",
-        "id": "AamarBangla.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "IN"
     },
@@ -5828,16 +5736,6 @@
         "country": "IN"
     },
     {
-        "name": "Star Sports 2 Tamil",
-        "id": "StarSports2Tamil.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158352_ld_h15_ab.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0425/master.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Zee Cinema",
         "id": "ZeeCinema.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540",
@@ -5868,36 +5766,6 @@
         "country": "IN"
     },
     {
-        "name": "Gulistan News",
-        "id": "GulistanNews.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540",
-        "url": "https://live.gulistannews.in/hls/gul.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "JK 24x7 News",
-        "id": "JK24x7News.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540",
-        "url": "https://live.gulistannews.in/hls/jk.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "RDX Goa",
-        "id": "RDXGoa.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
-        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Subin TV",
         "id": "SubinTV.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png",
@@ -5908,22 +5776,22 @@
         "country": "IN"
     },
     {
-        "name": "Travelxp",
-        "id": "Travelxp.in",
-        "logo": "https://i.imgur.com/HUWEnc5.png",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0118/master.m3u8",
+        "name": "Sonic",
+        "id": "Sonic.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJB2K.png?lock=720x540",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0407/master.m3u8",
         "categories": [
-            "travel"
+            "kids"
         ],
         "country": "IN"
     },
     {
-        "name": "VBC News",
-        "id": "VBCNews.in",
-        "logo": "https://i.imgur.com/SvXCjha.png",
-        "url": "https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8",
+        "name": "ZB Cartoon",
+        "id": "ZBCartoon.in",
+        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
+        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
         "categories": [
-            "news"
+            "kids"
         ],
         "country": "IN"
     }

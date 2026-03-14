@@ -40,10 +40,160 @@
         "country": ""
     },
     {
-        "name": "Telemundo Las Vegas (KBLR) (us_lat)",
-        "id": "telemundolasvegaskblruslat",
+        "name": "LA: Telemundo HD",
+        "id": "latelemundohd",
+        "logo": "https://imgx.fubo.tv/station_logos/telemundo_c.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68046",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA | USA Telemundo New York #2",
+        "id": "usausatelemundonewyork2",
+        "logo": "https://imgx.fubo.tv/station_logos/telemundo_c.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68049",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo San Francisco (KSTS) (us_lat)",
+        "id": "telemundosanfranciscokstsuslat",
         "logo": "http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png",
-        "url": "http://canal-pro.xyz:8080/juanlopez/pwKk3npSbRq5/68062",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68052",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo Houston (KTMD) (us_lat)",
+        "id": "telemundohoustonktmduslat",
+        "logo": "http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68055",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo San Antonio (KVDA) (us_lat)",
+        "id": "telemundosanantoniokvdauslat",
+        "logo": "http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68057",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo Chicago (WSNS) (us_lat)",
+        "id": "telemundochicagowsnsuslat",
+        "logo": "http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68061",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo Dallas (KXTX) (us_lat)",
+        "id": "telemundodallaskxtxuslat",
+        "logo": "http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68064",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo Denver (KDEN)",
+        "id": "telemundodenverkden",
+        "logo": "http://209.126.82.213/LogosP/USA_lat/usalat_telemundo.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68065",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo 17 WRIW Providence",
+        "id": "telemundo17wriwprovidence",
+        "logo": "https://i.ibb.co/YtHy9F6/TELEUINDF.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68071",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo 26 KFDY Lincoln",
+        "id": "telemundo26kfdylincoln",
+        "logo": "https://i.ibb.co/YtHy9F6/TELEUINDF.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68073",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo 14 KTLM Rio Grande City",
+        "id": "telemundo14ktlmriograndecity",
+        "logo": "https://i.ibb.co/YtHy9F6/TELEUINDF.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68086",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo Philadelphia",
+        "id": "telemundophiladelphia",
+        "logo": "https://i.ibb.co/YtHy9F6/TELEUINDF.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68090",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo New Orleans HD",
+        "id": "telemundoneworleanshd",
+        "logo": "https://i.ibb.co/nL9v1rr/TELEUIMDSD.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68094",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo 31 WTMO Orlando",
+        "id": "telemundo31wtmoorlando",
+        "logo": "https://i.ibb.co/FK5nMz0/TELEW12.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68100",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Telemundo Internacional HD",
+        "id": "telemundointernacionalhd",
+        "logo": "https://i.ibb.co/61R3pNw/TEVDVFDV.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68106",
+        "categories": [
+            "→ telemundos ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TELEMUNDO New York",
+        "id": "telemundonewyork",
+        "logo": "https://i.ibb.co/dpMcBXs/e343243212.png",
+        "url": "http://canal-pro.xyz:8080/950450601tv/y7p54u/68107",
         "categories": [
             "→ telemundos ←"
         ],

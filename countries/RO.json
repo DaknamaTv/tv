@@ -513,16 +513,6 @@
         "country": "RO"
     },
     {
-        "name": "Antena Stars",
-        "id": "AntenaStars.ro",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
-        "url": "https://hls.rundletv.eu.org/LIVE$AntenaStars/6.m3u8/Level/300720051?end=END&start=LIVE",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Happy Channel",
         "id": "HappyChannel.ro",
         "logo": "https://i.imgur.com/kpFaiku.png",
@@ -682,6 +672,16 @@
         "logo": "https://i.imgur.com/f4fzoLe.png",
         "url": "http://85.186.146.34:8080",
         "categories": [],
+        "country": "RO"
+    },
+    {
+        "name": "Euronews Romania",
+        "id": "EuronewsRomania.ro",
+        "logo": "https://i.imgur.com/jUOVUXt.png",
+        "url": "https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8",
+        "categories": [
+            "news"
+        ],
         "country": "RO"
     }
 ]

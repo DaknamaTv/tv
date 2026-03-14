@@ -146,5 +146,23 @@
             "religious"
         ],
         "country": "PH"
+    },
+    {
+        "name": "IBC 13",
+        "id": "IBC13.ph",
+        "logo": "https://i.imgur.com/1KaTUOo.png",
+        "url": "https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PH"
+    },
+    {
+        "name": "PTV",
+        "id": "PTV.ph",
+        "logo": "https://i.imgur.com/MMccHNd.png",
+        "url": "https://streams.comclark.com/pknsd/ptv/playlist.m3u8",
+        "categories": [],
+        "country": "PH"
     }
 ]
