@@ -1,15 +1,5 @@
 [
     {
-        "name": "TF1 HD",
-        "id": "tf1.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/TF1.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/T4fEqYcsUR/pIjL5lYu87/18238.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
         "name": "FRANCE 2",
         "id": "france2.fr",
         "logo": "https://logos-marques.com/wp-content/uploads/2022/03/France-2-Logo-tumb.png",
@@ -24,36 +14,6 @@
         "id": "tv5monde.fr",
         "logo": "http://iptv1.kavkom.tv:8000/logo/tv5.png",
         "url": "http://iptv1.kavkom.tv:8000/live/T4fEqYcsUR/pIjL5lYu87/2159.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "W9",
-        "id": "w9.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/W9.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/T4fEqYcsUR/pIjL5lYu87/1719.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TMC",
-        "id": "tmc.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/tmc.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/T4fEqYcsUR/pIjL5lYu87/1724.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TEVA",
-        "id": "teva.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/teva2.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/T4fEqYcsUR/pIjL5lYu87/1727.m3u8",
         "categories": [
             "live"
         ],
@@ -80,16 +40,6 @@
         "country": ""
     },
     {
-        "name": "RMC",
-        "id": "rmcdecouverte.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/RMC2.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/T4fEqYcsUR/pIjL5lYu87/1739.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
         "name": "story",
         "id": "rmcstory.fr",
         "logo": "http://www.vodkom.com:25461/images/Astra19/1_0_19_200F_430_1_C00000_0_0_0.png",
@@ -110,26 +60,6 @@
         "country": ""
     },
     {
-        "name": "LCP",
-        "id": "lachaineparlementaire.fr",
-        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/france/lcp-fr.png?raw=true",
-        "url": "http://iptv1.kavkom.tv:8000/live/T4fEqYcsUR/pIjL5lYu87/8617.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CANAL+ FAMILY",
-        "id": "canalpluskids.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/CANAL+FAMILY.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/T4fEqYcsUR/pIjL5lYu87/1746.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
         "name": "CINE FAMIZ",
         "id": "cineplusamiz.fr",
         "logo": "http://iptv1.kavkom.tv:8000/logo/famiz.png",
@@ -144,16 +74,6 @@
         "id": "cineplusclassic.fr",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_Cin%C3%A9%2B_Classic_2011.svg/1280px-Logo_Cin%C3%A9%2B_Classic_2011.svg.png",
         "url": "http://iptv1.kavkom.tv:8000/live/T4fEqYcsUR/pIjL5lYu87/1749.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TCM",
-        "id": "tcm.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/tcm.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/T4fEqYcsUR/pIjL5lYu87/2682.m3u8",
         "categories": [
             "live"
         ],
@@ -200,16 +120,6 @@
         "country": ""
     },
     {
-        "name": "INFOSPORT",
-        "id": "infosportplus.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/infosport2.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/T4fEqYcsUR/pIjL5lYu87/5699.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
         "name": "PLANETE+",
         "id": "planeteplus.fr",
         "logo": "http://iptv1.kavkom.tv:8000/logo/planetplus2.png",
@@ -240,16 +150,6 @@
         "country": ""
     },
     {
-        "name": "DISCOVERY SC HD",
-        "id": "discoverychannel.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/discovery2.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/T4fEqYcsUR/pIjL5lYu87/1780.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
         "name": "ISRAEL 14",
         "id": "arutz20.il",
         "logo": "https://www.hot.net.il/UploadedImages/06_2014/45657_hot_logo_moreshet_59x49.jpg",
@@ -270,40 +170,10 @@
         "country": ""
     },
     {
-        "name": "FRANCE 5",
-        "id": "france5.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/france5.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/DGEse4TguP/4MblIarPeq/1722.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TFX",
-        "id": "nt1.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/TFX.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/DGEse4TguP/4MblIarPeq/1725.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
         "name": "C STAR",
         "id": "cstar.fr",
         "logo": "http://www.vodkom.com:25461/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png",
         "url": "http://iptv1.kavkom.tv:8000/live/DGEse4TguP/4MblIarPeq/1731.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ISRAEL",
-        "id": "i24news.fr",
-        "logo": "http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.pn",
-        "url": "http://iptv1.kavkom.tv:8000/live/DGEse4TguP/4MblIarPeq/22146.m3u8",
         "categories": [
             "live"
         ],
@@ -380,16 +250,6 @@
         "country": ""
     },
     {
-        "name": "EQUIDIA",
-        "id": "equidia.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/equidia.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/DGEse4TguP/4MblIarPeq/2552.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
         "name": "DISNEY JUNIOR HD",
         "id": "disneyjunior.fr",
         "logo": "http://iptv1.kavkom.tv:8000/logo/DisneyJunior.png",
@@ -414,26 +274,6 @@
         "id": "planetecrimeinvestigation.fr",
         "logo": "http://iptv1.kavkom.tv:8000/logo/planeteci2.png",
         "url": "http://iptv1.kavkom.tv:8000/live/DGEse4TguP/4MblIarPeq/2625.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ISRAEL 13",
-        "id": "13reshet.il",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/13.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/DGEse4TguP/4MblIarPeq/7802.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TUNIS TV",
-        "id": "01tv.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/tunis-tv.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/DGEse4TguP/4MblIarPeq/5866.m3u8",
         "categories": [
             "live"
         ],
@@ -500,36 +340,6 @@
         "country": ""
     },
     {
-        "name": "EUROSPORT",
-        "id": "eurosport1.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/EUROSPORT.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/YndCWsdpzx/ycgpdIf0nR/4599.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "EUROSPORT 2",
-        "id": "eurosport2.fr",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/EUROSPORT.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/YndCWsdpzx/ycgpdIf0nR/4304.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ISRAEL 12",
-        "id": "12keshet.il",
-        "logo": "http://iptv1.kavkom.tv:8000/logo/israel2.png",
-        "url": "http://iptv1.kavkom.tv:8000/live/YndCWsdpzx/ycgpdIf0nR/5558.m3u8",
-        "categories": [
-            "live"
-        ],
-        "country": ""
-    },
-    {
         "name": "L'ÉQUIPE 21",
         "id": "lequipe21.fr",
         "logo": "http://iptv1.kavkom.tv:8000/logo/equipe21.png",
@@ -544,6 +354,116 @@
         "id": "mtv.fr",
         "logo": "http://iptv1.kavkom.tv:8000/logo/mtv.png",
         "url": "http://iptv1.kavkom.tv:8000/live/vev6svru/y4reyfwja6/8707.m3u8",
+        "categories": [
+            "live"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NICKELODEON JUNIOR",
+        "id": "nickjr.fr",
+        "logo": "http://iptv1.kavkom.tv:8000/logo/nick2.png",
+        "url": "http://iptv1.kavkom.tv:8000/live/3UsA9gZ93f/gNrDIbUWho/2530.m3u8",
+        "categories": [
+            "live"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BOOMERANG",
+        "id": "boomerang.fr",
+        "logo": "https://vignette.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/200?cb=20171112110326",
+        "url": "http://iptv1.kavkom.tv:8000/live/3UsA9gZ93f/gNrDIbUWho/17625.m3u8",
+        "categories": [
+            "live"
+        ],
+        "country": ""
+    },
+    {
+        "name": "2M MAROC",
+        "id": "2mmaroc",
+        "logo": "",
+        "url": "http://iptv1.kavkom.tv:8000/live/3UsA9gZ93f/gNrDIbUWho/23601.m3u8",
+        "categories": [
+            "live"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOOT 7",
+        "id": "foot7",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROu373H7Digs5EhybmQtOccLAJLlXwF-Nxtw&s",
+        "url": "http://iptv1.kavkom.tv:8000/live/3UsA9gZ93f/gNrDIbUWho/23616.m3u8",
+        "categories": [
+            "live"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HISTORY",
+        "id": "toutehistoire.fr",
+        "logo": "",
+        "url": "http://iptv1.kavkom.tv:8000/live/3UsA9gZ93f/gNrDIbUWho/23131.m3u8",
+        "categories": [
+            "live"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NAT GEO WILD HD",
+        "id": "natgeowild.fr",
+        "logo": "http://iptv1.kavkom.tv:8000/logo/natgeowild.png",
+        "url": "http://iptv1.kavkom.tv:8000/live/q3k4t6tXip/TqrylXlkYW/1778.m3u8",
+        "categories": [
+            "live"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DISNEY CHANNEL HD",
+        "id": "disneychannel.fr",
+        "logo": "http://iptv1.kavkom.tv:8000/logo/DISNEY2.png",
+        "url": "http://iptv1.kavkom.tv:8000/live/m4sk1kbr/o58yxc2khl/1771.m3u8",
+        "categories": [
+            "live"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NATIONAL GEO",
+        "id": "natgeo.fr",
+        "logo": "http://iptv1.kavkom.tv:8000/logo/NETGEO.png",
+        "url": "http://iptv1.kavkom.tv:8000/live/m4sk1kbr/o58yxc2khl/2556.m3u8",
+        "categories": [
+            "live"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M6 MUSIC HD",
+        "id": "m6music.fr",
+        "logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW1pzE1mH1L3BhP6QudyReLO__cKYbH7PEbSI7Uyx9qeuZHKQS",
+        "url": "http://iptv1.kavkom.tv:8000/live/m4sk1kbr/o58yxc2khl/23607.m3u8",
+        "categories": [
+            "live"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MEZZO",
+        "id": "mezzo.fr",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/france/mezzo-live-fr.png?raw=true",
+        "url": "http://iptv1.kavkom.tv:8000/live/erwesther@gmail.com/0524848396/22471.m3u8",
+        "categories": [
+            "live"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TUNIS 9",
+        "id": "tunis9",
+        "logo": "",
+        "url": "http://iptv1.kavkom.tv:8000/live/erwesther@gmail.com/0524848396/12420.m3u8",
         "categories": [
             "live"
         ],

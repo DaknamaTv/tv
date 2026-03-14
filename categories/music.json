@@ -231,16 +231,6 @@
         "country": "CR"
     },
     {
-        "name": "Vintage Music",
-        "id": "VintageMusic.cr",
-        "logo": "https://i.imgur.com/KImqYnN.jpeg",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "88 Stereo",
         "id": "88Stereo.cr",
         "logo": "https://i.imgur.com/i3YwORV.png",
@@ -363,14 +353,14 @@
         "country": "EG"
     },
     {
-        "name": "NogoumFMTV",
-        "id": "NogoumFMTV.eg",
-        "logo": "https://i.imgur.com/krp3kgv.png",
-        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
+        "name": "Gaan Bangla",
+        "id": "GaanBangla.bd",
+        "logo": "https://i.imgur.com/XS9mq4n.png",
+        "url": "http://vmi3039524.contaboserver.net:5050/music/index.m3u8",
         "categories": [
             "music"
         ],
-        "country": "EG"
+        "country": "BD"
     },
     {
         "name": "BTA TV",
@@ -990,77 +980,6 @@
         "id": "Mastiii.in",
         "logo": "https://i.imgur.com/lxgXHx4.png",
         "url": "https://mumt02.tangotv.in/MASTIII/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Gemini Music",
-        "id": "GeminiMusic.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0589/master.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Maa Music",
-        "id": "StarMaaMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143828_ld_h15_aa.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0481/master.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sun Life",
-        "id": "SunLife.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z1JE4.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0585/master.m3u8",
-        "categories": [
-            "entertainment",
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Surya Music",
-        "id": "SuryaMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143886_ld_h15_aa.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0579/master.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Udaya Music",
-        "id": "UdayaMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s144041_ld_h9_ab.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0588/master.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Vijay Takkar",
-        "id": "VijayTakkar.in",
-        "logo": "https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0473/master.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Zing!",
-        "id": "Zing.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540",
-        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0307/master.m3u8",
         "categories": [
             "music"
         ],
@@ -1788,6 +1707,19 @@
             "music"
         ],
         "country": "PA"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
     },
     {
         "name": "Melody",
@@ -2809,6 +2741,16 @@
         "country": "DE"
     },
     {
+        "name": "Deluxe Dance",
+        "id": "DeluxeDance.de",
+        "logo": "https://i.imgur.com/Qu7t15Y.png",
+        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "DE"
+    },
+    {
         "name": "Play TV",
         "id": "PlayTV.gr",
         "logo": "https://i.imgur.com/JWFOYuD.png",
@@ -3676,10 +3618,10 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV MTV Classic",
-        "id": "PlutoTVMTVClassic.us",
-        "logo": "https://i.imgur.com/NPavpts.png",
-        "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+        "name": "Latin Zone",
+        "id": "LatinZone.us",
+        "logo": "https://i.imgur.com/duEDsne.png",
+        "url": "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8",
         "categories": [
             "music"
         ],

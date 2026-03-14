@@ -270,16 +270,6 @@
         "country": ""
     },
     {
-        "name": "ID: BBC Lifestyle",
-        "id": "idbbclifestyle",
-        "logo": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/umer.zia660/e7388412/264747",
-        "categories": [
-            "indonesia"
-        ],
-        "country": ""
-    },
-    {
         "name": "ID: Bioskop Indonesia",
         "id": "idbioskopindonesia",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png",
@@ -584,16 +574,6 @@
         "id": "idhbofamily1080",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png",
         "url": "http://013tv.com:8080/umer.zia660/e7388412/197055",
-        "categories": [
-            "indonesia"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ID: HBO Hits",
-        "id": "idhbohits",
-        "logo": "https://s3.i3ns.net:2053/cs/etc/blank-icon.png",
-        "url": "http://013tv.com:8080/umer.zia660/e7388412/306486",
         "categories": [
             "indonesia"
         ],
@@ -990,16 +970,6 @@
         "country": ""
     },
     {
-        "name": "ID: Rodja TV",
-        "id": "idrodjatv",
-        "logo": "http://s3.i3ns.net:2052/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png",
-        "url": "http://013tv.com:8080/umer.zia660/e7388412/264758",
-        "categories": [
-            "indonesia"
-        ],
-        "country": ""
-    },
-    {
         "name": "ID: Sakti TV",
         "id": "idsaktitv",
         "logo": "http://s3.i3ns.net:2052/portal/picon/2025-05/d1d31ef77c60f810da63fe78cc41c0df.png",
@@ -1284,6 +1254,16 @@
         "id": "musicastudiosfhd",
         "logo": "https://pakar.co.id/storage/2019/08/Musica-Studio.png",
         "url": "https://kister.net/mpl/yt2m3u8?w=@MusicaStudios",
+        "categories": [
+            "indonesia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MQTV HD",
+        "id": "mqtvhd",
+        "logo": "https://iptv.urfan.web.id/logo/mqtv.png",
+        "url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w974564039.m3u8",
         "categories": [
             "indonesia"
         ],

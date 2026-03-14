@@ -2520,16 +2520,6 @@
         "country": ""
     },
     {
-        "name": "TV A Plateia | BR",
-        "id": "tvaplateiabr",
-        "logo": "https://cdn.m3u.cl/logo/576_TV_A_Plateia.png",
-        "url": "https://video01.kshost.com.br/kamal3366/kamal3366/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Red TVE Ventanas | EC",
         "id": "redtveventanasec",
         "logo": "https://cdn.m3u.cl/logo/1286_Red_TVE_Ventanas.png",
@@ -2814,16 +2804,6 @@
         "id": "canal22buenosairesar",
         "logo": "https://cdn.m3u.cl/logo/230_Canal_22_Buenos_Aires.png",
         "url": "https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Canal 3 Las Heras | AR",
-        "id": "canal3lasherasar",
-        "logo": "https://cdn.m3u.cl/logo/231_Canal_3_Las_Heras.png",
-        "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],
@@ -3560,16 +3540,6 @@
         "country": ""
     },
     {
-        "name": "Canal 40 Caucete | AR",
-        "id": "canal40caucetear",
-        "logo": "https://cdn.m3u.cl/logo/1348_Canal_40_Caucete.png",
-        "url": "https://canalsj.kozow.com/canal40/index.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Canal 5 Tucuman | AR",
         "id": "canal5tucumanar",
         "logo": "https://cdn.m3u.cl/logo/1138_Canal_5_Tucuman.png",
@@ -3604,26 +3574,6 @@
         "id": "neotvar",
         "logo": "https://cdn.m3u.cl/logo/1006_Neo_TV.png",
         "url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RBD Radio Multimedia | AR",
-        "id": "rbdradiomultimediaar",
-        "logo": "https://cdn.m3u.cl/logo/797_RBD_Radio_Multimedia.png",
-        "url": "https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Tribu TV | AR",
-        "id": "tributvar",
-        "logo": "https://cdn.m3u.cl/logo/777_Tribu_TV.png",
-        "url": "https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],
@@ -3694,16 +3644,6 @@
         "id": "canalvmlatinocr",
         "logo": "https://cdn.m3u.cl/logo/1062_Canal_VM_Latino.png",
         "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Soy Plancha TV | CR",
-        "id": "soyplanchatvcr",
-        "logo": "https://cdn.m3u.cl/logo/1064_Soy_Plancha_TV.png",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],
@@ -3784,6 +3724,56 @@
         "id": "torococotvve",
         "logo": "https://cdn.m3u.cl/logo/1400_Torococo_TV.png",
         "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Caras TV | AR",
+        "id": "carastvar",
+        "logo": "https://cdn.m3u.cl/logo/1603_Caras_TV.png",
+        "url": "https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVE | BR",
+        "id": "tvebr",
+        "logo": "https://cdn.m3u.cl/logo/591_TVE.jpg",
+        "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Latin Zone TV | US",
+        "id": "latinzonetvus",
+        "logo": "https://cdn.m3u.cl/logo/904_Latin_Zone_TV.png",
+        "url": "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio Chiloe | CL",
+        "id": "radiochiloecl",
+        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8?PlaylistM3UCL",
+        "categories": [
+            "→ geo chile (regional) ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Aguacate TV | VE",
+        "id": "aguacatetvve",
+        "logo": "https://cdn.m3u.cl/logo/1593_Aguacate_TV.png",
+        "url": "https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],
